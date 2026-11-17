@@ -459,8 +459,8 @@ export default function Studio({ catalog, bankVersion }: { catalog: TestSummary[
 
   return <div dir={hebrew ? "rtl" : "ltr"} lang={hebrew ? "he" : "en"}>
     <header className="site-bar"><div className="site-inner">
-      <button className="brand" onClick={returnToHub} aria-label={t("Amirnet Studio, test library", "אמירנט סטודיו, ספריית המבחנים")}>
-        <span className="brand-icon" aria-hidden="true">A</span><span dir="ltr">Amirnet <b>Studio</b></span>
+      <button className="brand" onClick={returnToHub} aria-label={t("EliNitz, test library", "EliNitz, ספריית המבחנים")}>
+        <span className="brand-icon" aria-hidden="true">E</span><span dir="ltr">Eli<b>Nitz</b></span>
       </button>
       <div className="site-actions">
         {test && <button className="text-button" onClick={returnToHub}>{t("Back to tests", "חזרה למבחנים")}</button>}
@@ -472,7 +472,7 @@ export default function Studio({ catalog, bankVersion }: { catalog: TestSummary[
       {test && attempt ? (attempt.finishedAt !== null ? renderResults(test, attempt) : renderRunner(test, attempt)) : renderHub()}
     </main>
     <footer className="site-footer"><div className="shell footer-inner">
-      <span>{t("Amirnet Studio · Independent practice simulator", "אמירנט סטודיו · סימולטור תרגול עצמאי")}</span>
+      <span>{t("EliNitz · Independent practice simulator", "EliNitz · סימולטור תרגול עצמאי")}</span>
       <a href="https://www.nite.org.il/other-tests/amirnet/faq/?lang=en">{t("Official exam format ↗", "מבנה הבחינה הרשמי ↗")}</a>
     </div></footer>
   </div>;
