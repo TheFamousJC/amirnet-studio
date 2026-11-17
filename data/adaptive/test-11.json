@@ -1,0 +1,476 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "Before sending a technician, the office called the customer to ____ that someone would be home at the scheduled time.",
+      "options": [
+        "announce",
+        "promise",
+        "confirm",
+        "deny"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The office wanted to make sure that someone would be there.",
+        "distractors": {
+          "0": "The call was an inquiry about attendance rather than a public announcement.",
+          "1": "Whether anyone would be at home depended on the customer, not on a promise from the office.",
+          "3": "The office sought confirmation rather than asserting that no one would be home."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "confirm",
+          "hebrew": "לאשר; לאמת"
+        }
+      ],
+      "id": "test-11-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The field station occupied such a ____ location that the nearest village was two days away on foot.",
+      "options": [
+        "rugged",
+        "remote",
+        "exposed",
+        "restricted"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The distance from the nearest settlement shows the station was isolated and far away.",
+        "distractors": {
+          "0": "The travel time establishes remoteness without specifying whether the terrain is rough.",
+          "2": "The passage supplies no evidence about protection from the weather.",
+          "3": "Access may be difficult because of the distance, but no rule limits entry."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "remote",
+          "hebrew": "מרוחק"
+        }
+      ],
+      "id": "test-11-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "A thermostat was added to ____ the temperature, switching the heater off when the room warmed and back on when it cooled.",
+      "options": [
+        "record",
+        "equalize",
+        "raise",
+        "regulate"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The thermostat controls temperature by responding to changes as they occur.",
+        "distractors": {
+          "0": "The instrument changes the operation of the heater instead of just storing measurements.",
+          "1": "Only one room's temperature is mentioned, so several temperatures are not being brought into agreement.",
+          "2": "The thermostat can switch heating off as well as on; its goal is ongoing control."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "regulate",
+          "hebrew": "לווסת"
+        }
+      ],
+      "id": "test-11-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The handbook says that warnings are mandatory but that fines are ____: the inspector may decide whether to impose one.",
+      "options": [
+        "discretionary",
+        "compulsory",
+        "conditional",
+        "prohibitive"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The inspector has the freedom to decide whether a fine is appropriate.",
+        "distractors": {
+          "1": "A compulsory fine would have to be imposed rather than left to the inspector's choice.",
+          "2": "A conditional fine depends on specified requirements; the handbook gives the inspector judgment rather than a fixed trigger.",
+          "3": "A prohibitive fine would be so large as to deter an action. No amount is stated."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "discretionary",
+          "hebrew": "נתון לשיקול דעת"
+        }
+      ],
+      "id": "test-11-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The instructions say to ____ the water until it bubbles strongly before adding the pasta.",
+      "options": [
+        "freeze",
+        "strain",
+        "pour",
+        "boil"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Water bubbling strongly after heating has reached a boil.",
+        "distractors": {
+          "0": "Frozen water would be solid rather than bubbling.",
+          "1": "Separating water from something in a sieve would not make it bubble.",
+          "2": "Moving water between containers does not heat it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "boil",
+          "hebrew": "להרתיח"
+        }
+      ],
+      "id": "test-11-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "To ____ disturbing birds near their nests, the researchers observed them through binoculars from the far side of the field.",
+      "options": [
+        "avoid",
+        "tolerate",
+        "repeat",
+        "notice"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Keeping a distance was meant to prevent the researchers from disturbing the birds.",
+        "distractors": {
+          "1": "Tolerating a disturbance would mean putting up with it rather than preventing it.",
+          "2": "The researchers took steps not to cause disturbance.",
+          "3": "The aim was to leave the birds undisturbed rather than merely detect their reaction."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "avoid",
+          "hebrew": "להימנע מ־"
+        }
+      ],
+      "id": "test-11-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "The team discovered a crack in the valve, ____ had been replaced only the week before.",
+      "options": [
+        "what",
+        "whether",
+        "that it",
+        "which"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Which introduces a supplementary clause and refers back to the valve.",
+        "distractors": {
+          "0": "What does not attach a supplementary clause to an expressed noun here.",
+          "1": "Whether introduces a yes-or-no clause and cannot refer back to the valve.",
+          "2": "That it is not a valid relative connector after this comma."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "valve",
+          "hebrew": "שסתום"
+        }
+      ],
+      "id": "test-11-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Had it not been for the temporary dam, the river ____ the village in last night's storm.",
+      "options": [
+        "would have flooded",
+        "will have flooding",
+        "has been flooded",
+        "would flood now"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Would have flooded expresses the past result of a condition that did not occur.",
+        "distractors": {
+          "1": "Will have flooding does not form the past modal result and leaves the object unattached.",
+          "2": "Has been flooded makes the river receive the action and is not a counterfactual result.",
+          "3": "Would flood now points to a present result, while last night refers to a completed event."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "dam",
+          "hebrew": "סכר"
+        }
+      ],
+      "id": "test-11-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Every building along this part of the canal ____ in the municipal register.",
+      "options": [
+        "being listed",
+        "is listed",
+        "are listing",
+        "have listed"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The singular subject every building receives the action, so is listed fits.",
+        "distractors": {
+          "0": "Being listed needs a finite auxiliary here.",
+          "2": "Are disagrees with building, which is the thing recorded.",
+          "3": "Have does not agree; this active verb also makes the building the agent."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "municipal",
+          "hebrew": "עירוני"
+        }
+      ],
+      "id": "test-11-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Applicants cannot appeal the decision without ____ a copy of their original submission.",
+      "options": [
+        "provide",
+        "to provide",
+        "providing",
+        "have provided"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Without takes the gerund providing.",
+        "distractors": {
+          "0": "The bare verb provide cannot directly follow without.",
+          "1": "Without is a preposition here and takes a gerund rather than a to-infinitive.",
+          "3": "Have provided would require a finite subject or a different infinitive construction."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "appeal",
+          "hebrew": "לערער"
+        }
+      ],
+      "id": "test-11-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "The committee began an ____ into why the equipment had failed during the trial.",
+      "base": "investigate",
+      "answers": [
+        "investigation"
+      ],
+      "explanation": "Investigation is the noun for the formal examination the committee started.",
+      "id": "test-11-word-1"
+    },
+    {
+      "prompt": "The results from the two stations are directly ____ because both instruments were calibrated against the same standard.",
+      "base": "compare",
+      "answers": [
+        "comparable"
+      ],
+      "explanation": "Comparable describes results that can meaningfully be compared.",
+      "id": "test-11-word-2"
+    },
+    {
+      "prompt": "For the exhibition, the loose pages were ____ together to form a single volume.",
+      "base": "bind",
+      "answers": [
+        "bound"
+      ],
+      "explanation": "Bound is the irregular past participle of bind.",
+      "id": "test-11-word-3"
+    },
+    {
+      "prompt": "The estimates were made ____ by two researchers who did not see each other's figures.",
+      "base": "independent",
+      "answers": [
+        "independently"
+      ],
+      "explanation": "The adverb independently modifies were made and indicates that the researchers worked separately.",
+      "id": "test-11-word-4"
+    }
+  ],
+  "writing": "Would you prefer to receive detailed written feedback on a project or discuss your work with a teacher in person? Explain your choice.",
+  "listening": {
+    "type": "lecture",
+    "clips": [
+      {
+        "context": "Listen to part of a lecture on library attendance.",
+        "transcript": "A library once reported that its summer exhibits were growing in popularity because the entrance counter recorded more visits. Then staff discovered that some visitors stepped outside to make phone calls and returned through the same doorway. Each return counted as another visit. The figures were still useful for estimating traffic through the door, but they were a poor measure of the number of individuals who attended.",
+        "audio": "/listening/lecture-5-1.wav",
+        "questions": [
+          {
+            "prompt": "Why did the library reconsider its claim about attendance?",
+            "options": [
+              "People attending exhibitions normally used a different doorway.",
+              "The figures included fewer visits than staff had expected.",
+              "The counter could count the same person several times.",
+              "The number of exhibitions had increased that summer."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "The device counts entries, and some entries were repeated trips by one visitor.",
+              "distractors": {
+                "0": "The returns occurred at the doorway where the device was installed.",
+                "1": "Records showed higher entries, but their interpretation was the problem.",
+                "3": "No change in the number of exhibits is given as the explanation."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "attendance",
+                "hebrew": "נוכחות"
+              }
+            ],
+            "id": "test-11-audio-1-1",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on sound in a renovated hall.",
+        "transcript": "A committee renovating a lecture hall asked an engineer to make speech clearer. The back wall was hard and smooth, and a clap near the stage produced a distinct delayed reflection. The engineer proposed hanging thick fabric over that wall. Before approving it, the committee tried the proposal using temporary curtains. The echo was reduced, but listeners near the rear of the hall said quiet speakers were now harder to hear. The existing sound system could not compensate uniformly because its loudspeakers all faced the front rows. The committee therefore shifted from a one-part solution to a combination: some fabric, plus additional speakers directed toward the rear seats. The trial mattered because fixing a measurable acoustic problem did not by itself guarantee a better listening experience everywhere in the room.",
+        "audio": "/listening/lecture-5-2.wav",
+        "questions": [
+          {
+            "prompt": "What unexpected drawback did the temporary curtains reveal?",
+            "options": [
+              "Quiet voices became harder to hear in some seats.",
+              "The curtains amplified the echo from the back wall.",
+              "Listeners in the front rows heard the speakers too loudly.",
+              "The new loudspeakers were too costly to install."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "People toward the rear heard quieter speech less well even though the echo was reduced.",
+              "distractors": {
+                "1": "The fabric reduced the delayed reflection.",
+                "2": "The complaint came from the rear and concerned insufficient sound.",
+                "3": "Additional speakers were part of the eventual plan, not a drawback of the trial."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "reflection",
+                "hebrew": "החזרה"
+              }
+            ],
+            "id": "test-11-audio-2-1",
+            "type": "lecture",
+            "difficulty": 3
+          },
+          {
+            "prompt": "Why was the old sound system insufficient for the revised design?",
+            "options": [
+              "It had only temporary fabric coverings.",
+              "It produced the distinct reflection studied at the beginning.",
+              "Its amplifiers had been removed before the test.",
+              "Its speakers were aimed at the front of the room."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The placement and direction of its speakers limited how evenly they helped listeners.",
+              "distractors": {
+                "0": "The curtains were placed on the wall, not over equipment.",
+                "1": "The hard wall reflected sound; the loudspeakers did not cause the original reflection.",
+                "2": "The old system's direction is identified, not missing amplifiers."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "compensate",
+                "hebrew": "לפצות"
+              }
+            ],
+            "id": "test-11-audio-2-2",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on collecting oral histories.",
+        "transcript": "A historian interviewing retired railway staff often asked everyone to describe a particular strike. At first, she held the interviews in the former station, a building many participants had known throughout their careers. They told detailed stories about station activity but said little about what happened in their homes. Later interviews took place in participants' kitchens because the station was being renovated. Several people suddenly mentioned arranging childcare, sharing food with neighbors, or discussing whether to join the strike with a family member. The historian could have interpreted the later answers as evidence that those interviewees had experienced the strike differently. However, some of these people had already spoken with her at the station and were simply adding memories. She concluded that the setting may cue different parts of a person's experience. To investigate, she invited others to bring a personal object or a work object to an interview, then compared the kinds of stories associated with each. She stresses that neither setting yields a complete account. Each may make some details salient and leave others easier to overlook.",
+        "audio": "/listening/lecture-5-3.wav",
+        "questions": [
+          {
+            "prompt": "What evidence suggested that the interview location might influence the answers?",
+            "options": [
+              "The later participants had worked at a different station.",
+              "Some of the same people recalled additional domestic details in a new location.",
+              "Participants gave less detailed answers after the station closed.",
+              "Some stories contradicted dates in official strike records."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "Repeat interviews with some individuals reduce the likelihood that a change of participants fully explains the change.",
+              "distractors": {
+                "0": "The passage discusses a shared former station.",
+                "2": "The later interviews added memories rather than generally reducing detail.",
+                "3": "The issue concerns which details are remembered, not errors against written dates."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "recall",
+                "hebrew": "להיזכר"
+              }
+            ],
+            "id": "test-11-audio-3-1",
+            "type": "lecture",
+            "difficulty": 3
+          },
+          {
+            "prompt": "What was the purpose of inviting people to bring an object?",
+            "options": [
+              "To establish which participants had joined the strike.",
+              "To explore whether different cues encouraged different kinds of memories.",
+              "To collect objects for an exhibition about railway work.",
+              "To confirm whether the domestic stories were factually correct."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "The historian compared stories associated with work or personal objects.",
+              "distractors": {
+                "0": "Participation in the strike was not the aim of comparing cues.",
+                "2": "Objects were brought into interviews, with no plan to collect them.",
+                "3": "The comparison tested what prompts memories rather than verifying them independently."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "salient",
+                "hebrew": "בולט"
+              }
+            ],
+            "id": "test-11-audio-3-2",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      }
+    ]
+  }
+}

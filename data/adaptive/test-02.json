@@ -1,0 +1,456 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "A grant paid for installing the playground equipment, but the town still needed a yearly budget to ____ it and replace worn parts.",
+      "options": [
+        "exhibit",
+        "assemble",
+        "maintain",
+        "select"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Routine repairs and replacements keep the equipment in usable condition.",
+        "distractors": {
+          "0": "The yearly costs concern keeping the equipment usable rather than displaying it.",
+          "1": "The equipment had already been installed.",
+          "3": "The identity of the equipment has already been decided."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "maintain",
+          "hebrew": "לתחזק"
+        }
+      ],
+      "id": "test-02-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "With the room needed for another event and two agenda items still unresolved, the board voted to ____ until the following morning.",
+      "options": [
+        "postpone",
+        "deliberate",
+        "ratify",
+        "adjourn"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The board decided to stop the sitting and continue its unfinished business later.",
+        "distractors": {
+          "0": "The meeting is already under way. The vote ends its present sitting rather than delaying its start.",
+          "1": "The room was no longer available for deliberations to continue.",
+          "2": "Ratifying would give formal approval to something; the unresolved items remain open."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "adjourn",
+          "hebrew": "לנעול ישיבה; לדחות את המשכה"
+        }
+      ],
+      "id": "test-02-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The shutters were added to ____ the temperature swings inside the greenhouse, keeping the room cooler at noon and warmer overnight.",
+      "options": [
+        "moderate",
+        "document",
+        "intensify",
+        "reverse"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Both changes reduce the difference between daily highs and lows.",
+        "distractors": {
+          "1": "The shutters affect temperatures themselves rather than simply recording them.",
+          "2": "Cooling the hottest hours and warming the coldest hours makes the swings smaller.",
+          "3": "Bringing highs and lows closer together does not turn day into the cooler period."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "moderate",
+          "hebrew": "למתן"
+        }
+      ],
+      "id": "test-02-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The parallel was long ____: several writers reported the two customs separately, and no one pointed out their similarity until the latest survey.",
+      "options": [
+        "established",
+        "overlooked",
+        "exaggerated",
+        "disputed"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Earlier writers failed to notice or draw attention to the similarity.",
+        "distractors": {
+          "0": "The finding had not been identified, let alone firmly demonstrated.",
+          "2": "The comparison received too little attention; it had not been made to look more striking than it was.",
+          "3": "The similarity was unnoticed rather than the subject of published disagreement."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "overlooked",
+          "hebrew": "שלא הבחינו בו; שהתעלמו ממנו"
+        }
+      ],
+      "id": "test-02-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The caretaker used the new key to ____ the side door so the delivery could come inside.",
+      "options": [
+        "repair",
+        "close",
+        "clean",
+        "unlock"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Turning the key made it possible to open the secured door.",
+        "distractors": {
+          "0": "No fault or damage to the door is described.",
+          "1": "The delivery needed to enter rather than be shut outside.",
+          "2": "Cleaning would not explain the use of a key."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "unlock",
+          "hebrew": "לפתוח מנעול"
+        }
+      ],
+      "id": "test-02-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The crane could not be operated safely in strong winds, so workers had to ____ the lift until conditions improved.",
+      "options": [
+        "postpone",
+        "reverse",
+        "record",
+        "approach"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The lift was moved to a later time because of the wind.",
+        "distractors": {
+          "1": "The sentence does not say a lift had begun and needed undoing.",
+          "2": "A recording would not remove the safety risk.",
+          "3": "Moving nearer to the lift does not explain why the workers had to wait."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "postpone",
+          "hebrew": "לדחות"
+        }
+      ],
+      "id": "test-02-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "The old bridge can still carry pedestrians, but heavy vehicles ____ use it.",
+      "options": [
+        "do not permitting",
+        "are forbidden for",
+        "are not allowed to",
+        "must not to"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Are not allowed to is a passive permission expression followed by an infinitive.",
+        "distractors": {
+          "0": "Do takes the base form permit; permitting fails after do.",
+          "1": "Forbidden for does not take the verb use as its complement.",
+          "3": "A modal such as must takes the bare infinitive."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "pedestrian",
+          "hebrew": "הולך רגל"
+        }
+      ],
+      "id": "test-02-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The samples varied considerably, ____ their average weight changed very little.",
+      "options": [
+        "regardless of",
+        "in spite of",
+        "owing to",
+        "even though"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Even though introduces the contrasting finite clause.",
+        "distractors": {
+          "0": "Regardless of does not directly introduce a finite clause in this construction.",
+          "1": "In spite of needs a noun phrase or gerund.",
+          "2": "Owing to needs a noun phrase and would also give a causal reading."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "considerably",
+          "hebrew": "במידה ניכרת"
+        }
+      ],
+      "id": "test-02-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Not until the roof had been repaired ____ open again to the public.",
+      "options": [
+        "was the gallery to has",
+        "had the gallery to",
+        "the gallery did",
+        "did the gallery"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Fronted Not until triggers inversion, and did takes the base verb open.",
+        "distractors": {
+          "0": "After to, has is not an infinitive and leaves open without a link.",
+          "1": "Had the gallery to open does not express the intended past event in this structure.",
+          "2": "The subject and auxiliary must invert after the fronted negative expression."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "gallery",
+          "hebrew": "גלריה"
+        }
+      ],
+      "id": "test-02-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The new catalogue contains twice ____ the previous one did.",
+      "options": [
+        "as many entries as",
+        "the entries as",
+        "as much entries than",
+        "more entries from"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The comparative frame is twice as many plus a plural count noun and as.",
+        "distractors": {
+          "1": "Twice the entries can work with of, but as does not complete that pattern.",
+          "2": "Entries is countable and uses many, while the comparison requires as.",
+          "3": "Twice more entries from gives the wrong comparative structure."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "entry",
+          "hebrew": "פריט"
+        }
+      ],
+      "id": "test-02-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "The test measured the material's ____ to damage from repeated freezing and thawing.",
+      "base": "resist",
+      "answers": [
+        "resistance"
+      ],
+      "explanation": "The possessive material's needs a noun. Resistance describes how well it withstands damage.",
+      "id": "test-02-word-1"
+    },
+    {
+      "prompt": "The winning melody was ____ in less than a week, although its orchestration took several months.",
+      "base": "compose",
+      "answers": [
+        "composed"
+      ],
+      "explanation": "The passive was composed identifies when the melody was written.",
+      "id": "test-02-word-2"
+    },
+    {
+      "prompt": "The older gauge recorded the river level less ____ than the new gauge, sometimes differing by ten centimeters.",
+      "base": "accurate",
+      "answers": [
+        "accurately"
+      ],
+      "explanation": "Accurately is the adverb that modifies recorded.",
+      "id": "test-02-word-3"
+    },
+    {
+      "prompt": "This balance is so ____ to movement that opening the laboratory door can change the reading.",
+      "base": "sense",
+      "answers": [
+        "sensitive"
+      ],
+      "explanation": "The adjective sensitive describes an instrument that responds to small changes.",
+      "id": "test-02-word-4"
+    }
+  ],
+  "writing": "Describe one type of practical skill that students should learn before leaving school. Explain why that skill would be useful.",
+  "listening": {
+    "type": "continuation",
+    "clips": [
+      {
+        "context": "Listen to part of a lecture on shade trees.",
+        "transcript": "A tree in a narrow street may provide deep shade at noon. In the morning, however, the shadow often falls on the opposite sidewalk. To decide where a new bench will be coolest, planners need to consider",
+        "audio": "/listening/continuation-1-1.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about shade trees.",
+            "options": [
+              "which trees are oldest in the district",
+              "why the paving was recently replaced",
+              "how many benches the district owns",
+              "how the shade moves during the day"
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The contrast between noon and morning makes the position of shade over time decisive.",
+              "distractors": {
+                "0": "Tree age does not directly resolve where shade falls at different hours.",
+                "1": "Paving is unrelated to the shift in the tree's shadow.",
+                "2": "The issue is the location of one bench, not the total stock."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "shade",
+                "hebrew": "צל"
+              }
+            ],
+            "id": "test-02-audio-1-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on preparing historical editions.",
+        "transcript": "An editor found a letter with an illegible name. Two other letters sent the same week named different people in similar circumstances. Since neither identification fitted the unclear passage any better than the other, the editor decided to",
+        "audio": "/listening/continuation-1-2.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the editor.",
+            "options": [
+              "mark the name as uncertain",
+              "select the name that appeared first",
+              "change the date of the letter",
+              "remove the other letters from the collection"
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "The available evidence favors neither name, so acknowledging the uncertainty follows.",
+              "distractors": {
+                "1": "Order of mention does not make one reading better.",
+                "2": "The issue is identification rather than the date.",
+                "3": "Weak identification is no reason to discard the other letters."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "illegible",
+                "hebrew": "בלתי קריא"
+              }
+            ],
+            "id": "test-02-audio-2-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on bird counts.",
+        "transcript": "In some forests, observers count birds by recognizing their calls. A microphone placed near a busy road might record fewer recognizable calls than one deep in the forest, even when the same birds are present. This is because traffic noise can",
+        "audio": "/listening/continuation-1-3.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about microphones.",
+            "options": [
+              "identify species by their songs",
+              "hold the microphone in position",
+              "mask quieter bird calls",
+              "make deep forest recordings louder"
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "Noise can make a call harder to distinguish without changing the number of birds.",
+              "distractors": {
+                "0": "Species recognition is the observer's task, not a function of road noise.",
+                "1": "No physical displacement is described.",
+                "3": "The interference concerns recordings made near the road."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "mask",
+                "hebrew": "להסתיר"
+              }
+            ],
+            "id": "test-02-audio-3-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on book restoration.",
+        "transcript": "When a conservator washes a sheet of old paper, a brown stain may become less visible. If the writing ink also dissolves, however, the sheet will lose important information. Before treating a manuscript, the conservator therefore needs to",
+        "audio": "/listening/continuation-1-4.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about cleaning.",
+            "options": [
+              "remove the writing from a larger area",
+              "test whether its ink is affected by water",
+              "reproduce the stain on another page",
+              "decide how many people wrote the manuscript"
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "A preliminary test can reveal whether washing would risk losing the written content.",
+              "distractors": {
+                "0": "Removing writing is the harm to avoid.",
+                "2": "Reproducing a stain offers no evidence about ink solubility.",
+                "3": "The number of writers does not determine how the ink responds to washing."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "conservator",
+                "hebrew": "משמר"
+              }
+            ],
+            "id": "test-02-audio-4-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      }
+    ]
+  }
+}

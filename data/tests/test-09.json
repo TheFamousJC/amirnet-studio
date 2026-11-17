@@ -1,0 +1,996 @@
+{
+  "id": "test-09",
+  "number": 9,
+  "bankVersion": 2,
+  "title": "The Second Life of a Caption / What a Glacier Leaves Behind",
+  "sections": [
+    {
+      "id": "test-09-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "Written records of the settlement are ____ because most documents were destroyed in a flood.",
+          "options": [
+            "fragile",
+            "hidden",
+            "scarce",
+            "stable"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“scarce” means available only in small quantities. The flood left very few documents available.",
+            "distractors": {
+              "0": "“fragile” means easily broken or damaged. The clue is that the flood left very few documents available.",
+              "1": "“hidden” means kept out of sight. The clue is that the flood left very few documents available.",
+              "3": "“stable” means unlikely to change under existing conditions. The clue is that the flood left very few documents available."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "scarce",
+              "hebrew": "נדיר, במחסור"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-09-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "The lab assistant must ____ each container with its site number so that samples from different wells can be distinguished.",
+          "options": [
+            "collect",
+            "adjust",
+            "inspect",
+            "label"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“label” means attach identifying information to something. A site number is attached to each container for identification.",
+            "distractors": {
+              "0": "“collect” means gather things together. The clue is that a site number is attached to each container for identification.",
+              "1": "“adjust” means alter slightly to suit conditions. The clue is that a site number is attached to each container for identification.",
+              "2": "“inspect” means examine carefully for quality or damage. The clue is that a site number is attached to each container for identification."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "label",
+              "hebrew": "לסמן בתווית"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-09-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "Technicians will ____ pressure every hour during the week-long trial to see whether it varies through the day.",
+          "options": [
+            "prevent",
+            "detect",
+            "monitor",
+            "restore"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“monitor” means observe or measure over a period of time. The technicians track repeated readings over time.",
+            "distractors": {
+              "0": "“prevent” means stop something from happening. The clue is that the technicians track repeated readings over time.",
+              "1": "“detect” means discover the presence of something hard to notice. The clue is that the technicians track repeated readings over time.",
+              "3": "“restore” means bring something back to a former state. The clue is that the technicians track repeated readings over time."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "monitor",
+              "hebrew": "לנטר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-09-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "Both parties requested a genuinely ____ reviewer with no prior connection to either of the two institutions.",
+          "options": [
+            "cautious",
+            "impartial",
+            "flexible",
+            "reluctant"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“impartial” means free from preference for one party or side. The reviewer should not favour either party.",
+            "distractors": {
+              "0": "“cautious” means careful to avoid unwarranted certainty or risk. The clue is that the reviewer should not favour either party.",
+              "2": "“flexible” means able to adapt to changes. The clue is that the reviewer should not favour either party.",
+              "3": "“reluctant” means unwilling or hesitant to do something. The clue is that the reviewer should not favour either party."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "impartial",
+              "hebrew": "חסר פניות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-09-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The geologists ____ the unusual colour to iron-bearing minerals rather than to contamination from the sampling equipment.",
+          "options": [
+            "recover",
+            "quantify",
+            "regulate",
+            "attribute"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“attribute” means identify something as the cause or origin of an outcome. The minerals are identified as the source of the colour.",
+            "distractors": {
+              "0": "“recover” means get back something that was lost or inaccessible. The clue is that the minerals are identified as the source of the colour.",
+              "1": "“quantify” means express the magnitude of something in numbers. The clue is that the minerals are identified as the source of the colour.",
+              "2": "“regulate” means control an activity or process through a system or rules. The clue is that the minerals are identified as the source of the colour."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "attribute",
+              "hebrew": "לייחס"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-09-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "Rather than questioning the date of the murals, the scholar sought to ____ their familiar symbols as references to seasonal labour instead of court ceremony.",
+          "options": [
+            "reconcile",
+            "repudiate",
+            "substantiate",
+            "reinterpret"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“reinterpret” means give a new meaning or explanation to familiar material. Unchanged symbols receive a different interpretation.",
+            "distractors": {
+              "0": "“reconcile” means make apparently conflicting accounts compatible. The clue is that unchanged symbols receive a different interpretation.",
+              "1": "“repudiate” means formally disown or reject something previously associated with oneself. The clue is that unchanged symbols receive a different interpretation.",
+              "2": "“substantiate” means support a statement with evidence. The clue is that unchanged symbols receive a different interpretation."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "reinterpret",
+              "hebrew": "לפרש מחדש"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-09-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-09-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "Once the emergency supplies reached the village, the immediate need for outside assistance ____ considerably.",
+          "options": [
+            "diminished",
+            "shifted",
+            "persisted",
+            "emerged"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The arrival of supplies reduced how much additional help was needed.",
+            "distractors": {
+              "1": "This would suggest that the kind or location of the need changed, but only its degree is mentioned.",
+              "2": "Persistence would emphasize that the level of need continued despite the new supplies.",
+              "3": "The need existed before the supplies arrived."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "diminished",
+              "hebrew": "פחת, נחלש"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-09-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The first design required new mounting brackets. The revised model is ____ with brackets that the laboratory already owns.",
+          "options": [
+            "compatible",
+            "interchangeable",
+            "concurrent",
+            "identical"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The revised model can be used with existing components.",
+            "distractors": {
+              "1": "Brackets and the revised model serve different functions and cannot replace one another.",
+              "2": "This indicates things happening at the same time, not equipment working together.",
+              "3": "The object and its mounting brackets are distinct components, so they cannot be identical."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "compatible",
+              "hebrew": "תואם"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-09-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "When linen became scarce, the workshop used a less expensive cotton cloth as a ____ for it.",
+          "options": [
+            "substitute",
+            "prototype",
+            "supplement",
+            "by-product"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Cotton took the place of linen when the latter was hard to obtain.",
+            "distractors": {
+              "1": "This would be an experimental first version, not an alternative material used in production.",
+              "2": "A supplement would be used alongside the linen, whereas the cotton replaces it.",
+              "3": "Cotton was used instead of linen rather than produced as a secondary result of making it."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "substitute",
+              "hebrew": "תחליף"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-09-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "Although the central office publishes broad recommendations, branch managers have the ____ to depart from them when local conditions warrant.",
+          "options": [
+            "capacity",
+            "precedent",
+            "discretion",
+            "obligation"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The managers have authority to make a decision for their own branch.",
+            "distractors": {
+              "0": "Capacity describes the ability to perform an action; the sentence concerns the flexibility formally granted to managers.",
+              "1": "A precedent would be an earlier example to follow, not the right to decide locally.",
+              "3": "There is a choice to depart when circumstances justify it, rather than a duty to do so."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "discretion",
+              "hebrew": "שיקול דעת"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-09-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "With no minutes to consult, it would be unsafe to ____ unanimity. Nevertheless, later accounts proceeded as if everyone had agreed.",
+          "options": [
+            "document",
+            "establish",
+            "presume",
+            "encourage"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Taking unanimity for granted is exactly the unsupported assumption that later writers made.",
+            "distractors": {
+              "0": "This would involve making or preserving a factual record, whereas the accounts are based on an unsupported assumption.",
+              "1": "The accounts treat agreement as a given; they do not establish it with evidence.",
+              "3": "Encouraging agreement concerns how people may act. The meeting had already taken place."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "presume",
+              "hebrew": "להניח ללא הוכחה מלאה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-09-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The panel had enough votes to reach a verdict but chose to ____ its decision until the last witness's statement had been translated.",
+          "options": [
+            "reverse",
+            "defer",
+            "delegate",
+            "prolong"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The panel delayed a decision it was able to make immediately.",
+            "distractors": {
+              "0": "There was no prior verdict for the panel to overturn.",
+              "2": "The panel retained responsibility for the decision and waited for the translation.",
+              "3": "The panel delayed making a discrete decision rather than lengthening a decision that had already begun."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "defer",
+              "hebrew": "לדחות למועד מאוחר יותר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-09-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-09-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "The Second Life of a Caption",
+        "paragraphs": [
+          "An exhibition photograph may outlast the information originally attached to it. Prints are moved between folders, identification slips become detached, and captions written for one publication are copied into another without their qualifications. The image can appear stable through these transitions although its published significance has changed. A caption that once offered a tentative guess may become a statement of fact simply because a later editor copied the main clause and dropped words such as probably or believed to be. What looks like multiple confirmation may then be one identification repeated through several channels.",
+          "This happened in an imagined collection of photographs of railway workers. A caption in a commemorative booklet identified three people as the night maintenance crew. Later publications used nearly identical wording, making the identification familiar. An archivist then found an earlier print labelled in weak pencil with a question mark after the word maintenance. A register of uniform allowances showed that the jackets in the photograph could have been worn by employees with several duties. It did not establish who the people were, but it removed the apparent certainty of the later wording. The strongest surviving evidence supported describing them as employees whose duties remained unidentified.",
+          "Uncertainty about the workers did not make the picture unusable. Researchers could still inspect the construction of the platform, compare the relation of the roof and stairs to dated plans, or study how the photographer had arranged the people. Some observations may themselves depend on camera angle and cropping. Yet the photograph's capacity to answer questions varies by question, and doubts about one caption need not be transferred wholesale to everything visible in the image.",
+          "An archive can help users by displaying an amended caption alongside an account of where its wording came from. An older assertion might remain searchable, since researchers could otherwise fail to connect familiar references with the corrected record. Marking that assertion as a previous identification also lets a reader see why several reputable publications once appeared to agree. This practice asks for more than substituting a cautious phrase for a confident one. It treats the circulation of an image and its descriptions as additional historical evidence. The recorded journey of a caption can explain not only what became associated with a picture, but also how a small uncertainty was progressively erased without any corresponding discovery about the people depicted."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What does “The Second Life of a Caption” chiefly recommend?",
+          "options": [
+            "Archives should keep once-common identifications out of searches after contrary evidence emerges.",
+            "Documenting how an identification evolved so repeated wording can be assessed with its source.",
+            "An uncertain caption should be corrected by finding the oldest version and reproducing it as written.",
+            "An image's value depends mainly on how accurately museums can identify the people it depicts."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The recommendation is to preserve both a qualified current account and the history of the older one.",
+            "distractors": {
+              "0": "Keeping a marked prior caption searchable can help users trace familiar references.",
+              "2": "The oldest caption is relevant evidence, but the passage advocates a revised description that shows how wording evolved.",
+              "3": "The platform and composition illustrate independent uses of the image even when the identification fails."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "amended",
+              "hebrew": "מתוקן"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-09-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why are the multiple publications insufficient to establish that the workers were a maintenance crew?",
+          "options": [
+            "Their agreement matters only if later research confirms that the photo shows the original railway platform.",
+            "They may rely on a jacket style that workers in several duties were known to avoid.",
+            "They may have copied an independently verified employee register.",
+            "Their wording may trace back to the same qualified identification."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Repetition through several channels can give a false impression of independent confirmation.",
+            "distractors": {
+              "0": "Dating the platform remains possible but cannot independently corroborate the workers' roles.",
+              "1": "The evidence shows the jackets could be worn in several roles, with no stated exclusions.",
+              "2": "The sources appear to repeat an identification, and the register speaks to clothing allowances rather than identifying the workers."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "establish",
+              "hebrew": "לבסס"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-09-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "What is the writer’s attitude toward interpreting the railway photograph after the caption is revised?",
+          "options": [
+            "More interested in the dated plans than in how the caption was revised.",
+            "Equally doubtful about the platform information and the workers’ identification.",
+            "Cautious about individual conclusions and receptive to other uses of the image.",
+            "Reluctant to draw any historical conclusions until the workers can be identified."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The author lists new inquiries while noting dependence on features such as cropping.",
+            "distractors": {
+              "0": "The author values both a transparent caption history and observations about the picture, without giving one blanket priority.",
+              "1": "Those features can influence some observations, but no equivalent doubt is established about every conclusion.",
+              "3": "The reliability of inferences can be assessed separately, and some physical observations are still possible."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "wholesale",
+              "hebrew": "באופן גורף"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-09-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What are the “qualifications” that can be lost as a caption is copied?",
+          "options": [
+            "Changes made to improve the accuracy of the later identification.",
+            "Details that distinguish one type of railway work from another.",
+            "Evidence supplied by several independent sources.",
+            "Words or marks that limit how confidently an identification is asserted."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The introduction gives examples such as probably and a later question mark.",
+            "distractors": {
+              "0": "The qualifications were already present in tentative wording and could vanish in later reproductions.",
+              "1": "The original question mark qualifies the identification without describing distinct duties.",
+              "2": "Such corroboration could increase confidence; the lost wording limits the original claim."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "qualification",
+              "hebrew": "הסתייגות"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-09-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What did the register of allowances contribute to the reassessment?",
+          "options": [
+            "It dated a change in the uniform that narrowed the period in which the scene could have been photographed.",
+            "It showed that several types of workers could wear the same kind of jacket.",
+            "It established that maintenance workers and other employees were issued visibly distinct jackets.",
+            "It showed how many of the railway's maintenance workers had been issued jackets."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The clothing therefore could not isolate the crew’s occupation.",
+            "distractors": {
+              "0": "The register is cited for the range of possible wearers rather than a dating result.",
+              "2": "The allowance evidence undermines the identification because a jacket style could be shared across duties.",
+              "3": "The register establishes that jackets were possible across duties, without giving a count for that particular crew."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "allowance",
+              "hebrew": "הקצבה"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-09-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-09-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "The ferry operator kept fares unchanged, even though fuel prices fell sharply.",
+          "options": [
+            "The ferry operator kept fares unchanged, which prevented anyone from finding out whether fuel prices fell sharply.",
+            "Fuel prices fell sharply; nevertheless, the ferry operator kept fares unchanged.",
+            "The ferry operator kept fares unchanged only before it became clear that fuel prices fell sharply.",
+            "Because fuel prices fell sharply, the ferry operator kept fares unchanged."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “fuel prices fell sharply” and “the ferry operator kept fares unchanged.”",
+            "distractors": {
+              "0": "It introduces an obstacle to discovering the first fact, which the original states directly.",
+              "2": "It limits the second fact to an earlier time and adds a discovery that the original never mentions.",
+              "3": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-09-restatement-1-1"
+        },
+        {
+          "prompt": "The engineers approached the dam by boat because the river flooded the access road.",
+          "options": [
+            "The engineers approached the dam by boat; consequently, the river flooded the access road.",
+            "The river flooded the access road; consequently, the engineers approached the dam by boat.",
+            "The river flooded the access road; nevertheless, the engineers approached the dam by boat.",
+            "The engineers approached the dam by boat, but it is unknown whether the river flooded the access road."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the river flooded the access road, leading to the result that the engineers approached the dam by boat.",
+            "distractors": {
+              "0": "It reverses the direction of cause and result.",
+              "2": "It replaces the causal relationship with a concession.",
+              "3": "It casts doubt on the cause, which the original treats as an established fact."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-09-restatement-1-2"
+        },
+        {
+          "prompt": "Once the temperature has stabilized, the technician will take the first reading.",
+          "options": [
+            "The technician will take the first reading before the temperature has stabilized.",
+            "The technician will take the first reading after the temperature has stabilized.",
+            "The technician will not take the first reading even after the temperature has stabilized.",
+            "The technician will take the first reading, regardless of whether the temperature has stabilized."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled. The first event has to be complete.",
+            "distractors": {
+              "0": "It places the scheduled action before the event that the sentence puts first.",
+              "2": "It denies the stated plan to carry out the second action.",
+              "3": "It makes the first event irrelevant to the timing of the second."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-09-restatement-1-3"
+        },
+        {
+          "prompt": "The institute will purchase it only if the suppliers certify the origin of the timber.",
+          "options": [
+            "The institute will purchase it only on condition that the suppliers certify the origin of the timber.",
+            "The institute will purchase it in every case in which the suppliers certify the origin of the timber.",
+            "The institute will purchase it whether or not the suppliers certify the origin of the timber.",
+            "The institute will purchase it only if it is impossible to establish that the suppliers certify the origin of the timber."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The condition “the suppliers certify the origin of the timber” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "1": "It treats the condition as sufficient and promises the outcome whenever it is met.",
+              "2": "It removes the requirement by making the outcome independent of the condition.",
+              "3": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-09-restatement-1-4"
+        },
+        {
+          "prompt": "The shallow well seemed productive compared with the deeper well.",
+          "options": [
+            "The shallow well appeared to exceed the deeper well in water yield.",
+            "The shallow well appeared to match the deeper well in water yield.",
+            "The difference in water yield was established when the deeper well provided more water than the shallow well in a formal test.",
+            "The deeper well appeared to exceed the shallow well in water yield."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the deeper well, first. The comparison concerns water yield.",
+            "distractors": {
+              "0": "It reverses the relative ranking of the two items.",
+              "1": "It describes the two items as equal on the stated measure.",
+              "2": "It turns an impression into a demonstrated finding and invents a formal test."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-09-restatement-1-5"
+        },
+        {
+          "prompt": "But for a series of late rains, the reservoir would have stayed below its operating level.",
+          "options": [
+            "The reservoir would have stayed below its operating level in the absence of a series of late rains.",
+            "The reservoir would have stayed below its operating level regardless of the effect of a series of late rains.",
+            "Whether a series of late rains made any difference to the outcome is unknown.",
+            "The reservoir would have stayed below its operating level because of a series of late rains."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the reservoir would have stayed below its operating level” belongs to the hypothetical situation in which a series of late rains was absent.",
+            "distractors": {
+              "1": "It predicts the same result without changing whether the factor was present.",
+              "2": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs.",
+              "3": "It attributes the hypothetical result to the presence of the factor rather than its absence."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-09-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-09-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the damage proves largely cosmetic, the insurers will ask for an independent assessment.",
+          "options": [
+            "The insurers may or may not ask for an independent assessment, depending on whether the damage proves largely cosmetic.",
+            "The insurers will ask for an independent assessment, including in the event that the damage proves largely cosmetic.",
+            "The damage proves largely cosmetic; therefore, the insurers will ask for an independent assessment.",
+            "The insurers will ask for an independent assessment only in the event that the damage proves largely cosmetic."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the damage proves largely cosmetic. The original leaves that case hypothetical.",
+            "distractors": {
+              "0": "It makes the outcome depend on the hypothetical condition.",
+              "2": "It turns an open possibility into an established fact and presents it as the cause.",
+              "3": "It turns a condition that would make no difference into a requirement."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-09-restatement-2-1"
+        },
+        {
+          "prompt": "The parent association neither endorsed nor expressly rejected the proposed changes to the school calendar.",
+          "options": [
+            "The parent association rejected the proposed changes to the school calendar without giving a reason.",
+            "The parent association withdrew an earlier endorsement of the proposed changes to the school calendar.",
+            "The parent association accepted the proposed changes to the school calendar in principle while withholding public support.",
+            "The parent association offered no endorsement of the proposed changes to the school calendar and issued no explicit rejection either."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It asserts an explicit rejection, which the original rules out.",
+              "1": "It invents a prior endorsement and a reversal of position.",
+              "2": "It invents an acceptance in principle, which cannot be inferred from the original."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-09-restatement-2-2"
+        },
+        {
+          "prompt": "The success of the exhibit stemmed less from its size than from the opportunities it gave visitors to compare related objects.",
+          "options": [
+            "Its size and the opportunities it gave visitors to compare related objects played equally important roles in the success of the exhibit.",
+            "The opportunities it gave visitors to compare related objects contributed more to the success of the exhibit than its size did.",
+            "Its size was the greater contributor to the success of the exhibit, though the opportunities it gave visitors to compare related objects also mattered.",
+            "The success of the exhibit was the principal reason for both its size and the opportunities it gave visitors to compare related objects."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “the opportunities it gave visitors to compare related objects” greater explanatory weight than “its size.”",
+            "distractors": {
+              "0": "It makes the factors equally important despite the stated inequality.",
+              "2": "It reverses the relative importance of the factors.",
+              "3": "It makes the outcome cause the factors that are supposed to explain it."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-09-restatement-2-3"
+        },
+        {
+          "prompt": "The broadcaster did not play the interview until the participant had signed a release.",
+          "options": [
+            "The broadcaster played the interview only after the participant had signed a release.",
+            "The broadcaster played the interview as evidence that the participant had signed a release.",
+            "The broadcaster played the interview before the participant had signed a release.",
+            "The broadcaster did not play the interview, although the participant had signed a release."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "1": "It turns a timing relationship into an assertion about the actor’s purpose.",
+              "2": "It reverses the sequence by placing the main action first.",
+              "3": "It makes the main action fail to occur, whereas the original reports that it happened later."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-09-restatement-2-4"
+        },
+        {
+          "prompt": "Of the wells dug that summer, none reached the lower water table with the sole exception of the one near the road.",
+          "options": [
+            "It has not been determined whether the one near the road reached the lower water table.",
+            "The one near the road reached the lower water table, and at least one other member of the group shares that distinction.",
+            "The one near the road reached the lower water table; the others in the same group did not.",
+            "All the wells dug that summer reached the lower water table except the one near the road."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the one near the road is the single item that has the stated property.",
+            "distractors": {
+              "0": "It changes an explicit exception into an uncertainty.",
+              "1": "It allows a second exception even though “sole” limits the number to one.",
+              "3": "It gives the property to the entire group except the one item that actually has it."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-09-restatement-2-5"
+        },
+        {
+          "prompt": "The findings would be less tentative had the researchers been able to follow the same households over a longer period.",
+          "options": [
+            "By observing the same households over a long period, the researchers arrived at conclusions that have only recently been questioned.",
+            "The researchers' tentative findings show that examining the same households for longer would have been unproductive.",
+            "Tracking the original households for longer would have allowed the researchers to draw firmer conclusions than they did.",
+            "To draw firmer conclusions, the researchers would have needed to replace the original households with a larger group."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The unrealized prospect of a longer follow-up with the same group explains why the conclusions are described as tentative",
+            "distractors": {
+              "0": "It makes the longer follow-up an actual part of the study and adds a later challenge to the findings",
+              "1": "It says the longer follow-up would have been unproductive when the original identifies it as a way to gain confidence",
+              "3": "It switches from extending observation of the same group to replacing that group"
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "tentative",
+              "hebrew": "ראשוני / לא סופי"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-09-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-09-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "What a Glacier Leaves Behind",
+        "paragraphs": [
+          "A ridge of loose stones at the foot of a mountain can look like the debris from an ordinary rockfall. Its shape and texture may instead point to the former margin of a glacier. As ice advances, it carries material scraped from the valley sides and floor. Some of that material is dumped near a stable margin, where it can accumulate into a ridge called a moraine. The resulting deposit can remain long after the ice retreats. It gives a visitor a way to see where a glacier once reached without seeing the glacier itself.",
+          "Yet a moraine is not a complete chart of a glacier's history. When ice stands near the same position for a long time, more debris can accumulate there than at a position the margin passed quickly. A modest advance can therefore leave a conspicuous deposit if it stabilizes for years, while a greater advance might leave little evidence or have its evidence destroyed by later activity. Several ridges in a single valley can record distinct advances, pauses during retreat, or a combination. Their existence shows that deposits survived in several locations; reconstructing the movement that produced them is a further task.",
+          "To estimate when an exposed boulder was left behind, researchers sometimes examine rare isotopes produced when high-energy particles reach minerals at the surface. In an ideal case, the clock starts when the ice withdraws and the boulder is uncovered. But the boulder might have been exposed on a cliff before the ice picked it up, giving it an apparent head start. It might also have been shielded by snow for part of the period, making it appear younger. Sampling several boulders and comparing their surroundings can reveal disagreement that a single date would conceal.",
+          "These difficulties do not disqualify moraines as evidence of previous climates. They do alter the confidence with which one can link a particular ridge to a particular event. Glaciers respond to more than air temperature: snowfall and the arrangement of the valley affect how much ice accumulates and where it flows. A reconstruction based on one ridge can be compared with independent records from lakes, caves or nearby valleys. The strongest conclusions emerge when the various lines agree within their uncertainties and when researchers can explain where a local glacier would be expected to respond differently."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What is the main point about glacier ridges?",
+          "options": [
+            "Isotope measurements chiefly distinguish glacial debris from ordinary rockfall.",
+            "The most conspicuous ridges by themselves establish the full extent of former glacial advances.",
+            "A series of moraines can reveal the sequence of climate changes more directly than local records from lakes and caves.",
+            "They provide valuable but selective evidence requiring contextual interpretation and checks."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The article describes biased preservation, dating uncertainties and climate cross-checks.",
+            "distractors": {
+              "0": "They are described as tools for dating exposed material, subject to possible biases.",
+              "1": "Long pauses can leave major ridges even after modest advances.",
+              "2": "The sequence of ridges can be ambiguous; independent records help support the interpretation."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "moraine",
+              "hebrew": "מורנה"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-09-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "How might prior exposure on a cliff affect an isotope-based estimate for a boulder moved by ice?",
+          "options": [
+            "It could make the rock appear to have been deposited earlier than it actually was.",
+            "Prior exposure would make the date appear later because part of the sample’s isotope record was recorded outside the valley.",
+            "Prior exposure would have no bearing on an estimate if the boulder was moved by a glacier.",
+            "Prior exposure would cause the minerals to accumulate fewer isotopes once the glacier withdrew."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Isotope production before deposition gives the apparent exposure clock a head start.",
+            "distractors": {
+              "1": "Isotopes produced before final exposure add to the estimate instead of postponing it.",
+              "2": "The boulder can retain evidence of exposure before the ice picked it up.",
+              "3": "A head start means additional apparent exposure, not a reduced rate afterward."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "isotope",
+              "hebrew": "איזוטופ"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-09-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author regard uncertainty in moraine dating?",
+          "options": [
+            "As a temporary obstacle best overcome by taking one sample from the largest ridge.",
+            "As mainly a consequence of brief advances producing too little debris to date.",
+            "As an issue to investigate through comparison rather than grounds to dismiss the deposits.",
+            "As a reason to infer local climate change only from caves and lakes."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The passage recommends several samples and independent evidence.",
+            "distractors": {
+              "0": "The passage recommends taking several samples and comparing independent observations.",
+              "1": "Short advances can leave less evidence, but different boulder exposure histories also create uncertainty.",
+              "3": "Independent records are checks, not grounds for discarding useful moraines."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "reconstruction",
+              "hebrew": "שחזור"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-09-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “shielded” mean in the paragraph on isotope measurements?",
+          "options": [
+            "Insulated against variations in the air’s temperature.",
+            "Covered after it had accumulated all its isotopes.",
+            "Protected from some exposure to incoming particles.",
+            "Removed from the action of the ice when the margin first retreated."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Snow can block particles from the minerals, reducing apparent age.",
+            "distractors": {
+              "0": "The term concerns particle exposure; temperature is discussed elsewhere as a factor in glacier response.",
+              "1": "Shielding prevents some particles from reaching minerals during the exposure period.",
+              "3": "Snow shielding can occur after retreat and does not mean the boulder has been moved out of the glacier."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "shielded",
+              "hebrew": "מוגן מחשיפה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-09-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Why can a stable margin leave an impressive ridge after a modest advance?",
+          "options": [
+            "Debris can build up over a long period at that position.",
+            "The ridge extends across the entire distance the ice advanced.",
+            "The margin reaches a series of new positions, depositing similar amounts at each.",
+            "The ice exposes several boulders at once, giving them similar isotope histories."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The size can reflect duration of deposition instead of distance advanced.",
+            "distractors": {
+              "1": "Its size can reflect one sustained position rather than the length of travel.",
+              "2": "Similar deposits over many positions do not explain why one ridge builds up.",
+              "3": "Exposure patterns help date debris but do not explain the size of its accumulation."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "accumulate",
+              "hebrew": "להצטבר"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-09-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

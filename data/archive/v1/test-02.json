@@ -1,0 +1,995 @@
+{
+  "id": "test-02",
+  "number": 2,
+  "title": "The Difficulty of Counting Silence / When Pavements Remember Heat",
+  "sections": [
+    {
+      "id": "test-02-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "Because the archive's boiler failed overnight, visitors faced a two-hour ____ before the reading room reopened.",
+          "options": [
+            "gap",
+            "rise",
+            "decline",
+            "delay"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“delay” means additional waiting time before an event. The failure made visitors wait for the room to reopen.",
+            "distractors": {
+              "0": "“gap” means difference or separation between two things. The clue is that the failure made visitors wait for the room to reopen.",
+              "1": "“rise” means increase in amount or level. The clue is that the failure made visitors wait for the room to reopen.",
+              "2": "“decline” means decrease in amount or level. The clue is that the failure made visitors wait for the room to reopen."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "delay",
+              "hebrew": "עיכוב"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-02-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "Classes moved to a ____ building while repairs were carried out, with a return date set for September.",
+          "options": [
+            "local",
+            "annual",
+            "temporary",
+            "public"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“temporary” means lasting for a limited time. The building is needed only until repairs are finished.",
+            "distractors": {
+              "0": "“local” means relating to the nearby area. The clue is that the building is needed only until repairs are finished.",
+              "1": "“annual” means occurring once a year. The clue is that the building is needed only until repairs are finished.",
+              "3": "“public” means open or available to anyone. The clue is that the building is needed only until repairs are finished."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "temporary",
+              "hebrew": "זמני"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-02-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The laboratory had to ____ slides that were too badly scratched to reveal any details under the microscope.",
+          "options": [
+            "alter",
+            "discard",
+            "transfer",
+            "preserve"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“discard” means throw something away because it is no longer useful. The damaged slides were unusable and had to be thrown away.",
+            "distractors": {
+              "0": "“alter” means change the form, nature, or appearance of something. The clue is that the damaged slides were unusable and had to be thrown away.",
+              "2": "“transfer” means move something from one place or system to another. The clue is that the damaged slides were unusable and had to be thrown away.",
+              "3": "“preserve” means protect something from loss or damage. The clue is that the damaged slides were unusable and had to be thrown away."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "discard",
+              "hebrew": "להשליך"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-02-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "Although the institutes are funded separately, they agreed to ____ on the survey and jointly train the interviewers.",
+          "options": [
+            "cooperate",
+            "compete",
+            "correspond",
+            "differ"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“cooperate” means work together to reach a shared goal. The institutes undertake shared work on one survey.",
+            "distractors": {
+              "1": "“compete” means seek the same goal or resource as others. The clue is that the institutes undertake shared work on one survey.",
+              "2": "“correspond” means match or be equivalent. The clue is that the institutes undertake shared work on one survey.",
+              "3": "“differ” means be unlike or distinct in some respect. The clue is that the institutes undertake shared work on one survey."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "cooperate",
+              "hebrew": "לשתף פעולה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-02-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "A new ____ on late-night deliveries allows lorries to enter the pedestrian district only before ten in the evening.",
+          "options": [
+            "incentive",
+            "transition",
+            "consensus",
+            "restriction"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“restriction” means rule or condition that limits behaviour. The new rule limits the permitted hours of deliveries.",
+            "distractors": {
+              "0": "“incentive” means anything that encourages someone to take an action. The clue is that the new rule limits the permitted hours of deliveries.",
+              "1": "“transition” means process of changing from one state to another. The clue is that the new rule limits the permitted hours of deliveries.",
+              "2": "“consensus” means general agreement among members of a group. The clue is that the new rule limits the permitted hours of deliveries."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "restriction",
+              "hebrew": "הגבלה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-02-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The most ____ finding was the one the report highlighted in its title: tree cover explained far more of the temperature difference than road width did.",
+          "options": [
+            "salient",
+            "concurrent",
+            "plausible",
+            "inadvertent"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“salient” means particularly noticeable or important. The title singles out the most important result.",
+            "distractors": {
+              "1": "“concurrent” means taking place at the same time. The clue is that the title singles out the most important result.",
+              "2": "“plausible” means reasonable enough to be believed. The clue is that the title singles out the most important result.",
+              "3": "“inadvertent” means unintentional, usually resulting from an oversight. The clue is that the title singles out the most important result."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "salient",
+              "hebrew": "בולט, מהותי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-02-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-02-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "The forecast rests on the ____ that demand will rise at the same rate next year; if that assumption is false, the projection changes.",
+          "options": [
+            "impediment",
+            "repercussion",
+            "premise",
+            "impetus"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“premise” means proposition taken as the basis of an argument. The anticipated rate of demand is the assumption underlying the forecast.",
+            "distractors": {
+              "0": "“impediment” means obstacle that hinders action or progress. The clue is that the anticipated rate of demand is the assumption underlying the forecast.",
+              "1": "“repercussion” means further consequence of an action or event. The clue is that the anticipated rate of demand is the assumption underlying the forecast.",
+              "3": "“impetus” means force or stimulus that sets a process in motion. The clue is that the anticipated rate of demand is the assumption underlying the forecast."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "premise",
+              "hebrew": "הנחת יסוד"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-02-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The sudden cancellation of the safety inspection could ____ a dispute that otherwise might not have erupted until the following season.",
+          "options": [
+            "alleviate",
+            "precipitate",
+            "aggravate",
+            "forestall"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“precipitate” means cause an event to occur abruptly or sooner. Cancellation could cause a future dispute to break out early.",
+            "distractors": {
+              "0": "“alleviate” means make pain or a problem less severe. The clue is that cancellation could cause a future dispute to break out early.",
+              "2": "“aggravate” means make an existing problem more severe. The clue is that cancellation could cause a future dispute to break out early.",
+              "3": "“forestall” means act in advance to prevent a foreseeable event. The clue is that cancellation could cause a future dispute to break out early."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "precipitate",
+              "hebrew": "לזרז, להביא לידי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-02-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The registrar issued a ____ refusal, stating that applications after midnight would be accepted under no circumstances.",
+          "options": [
+            "categorical",
+            "speculative",
+            "equivocal",
+            "substantiated"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“categorical” means expressed without qualification or exception. The refusal permits no exceptions.",
+            "distractors": {
+              "1": "“speculative” means based on conjecture rather than reliable evidence. The clue is that the refusal permits no exceptions.",
+              "2": "“equivocal” means unclear about which position is supported. The clue is that the refusal permits no exceptions.",
+              "3": "“substantiated” means backed by adequate evidence. The clue is that the refusal permits no exceptions."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "categorical",
+              "hebrew": "נחרץ, חד-משמעי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-02-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The online registration system could ____ the need for a second identity check because applicants had already confirmed their identity remotely.",
+          "options": [
+            "supplant",
+            "obviate",
+            "circumvent",
+            "preclude"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“obviate” means remove the need for something. Remote confirmation eliminates a procedural need.",
+            "distractors": {
+              "0": "“supplant” means take the place of something previously established. The clue is that remote confirmation eliminates a procedural need.",
+              "2": "“circumvent” means find a way around an obstacle or rule. The clue is that remote confirmation eliminates a procedural need.",
+              "3": "“preclude” means make something impossible or rule it out beforehand. The clue is that remote confirmation eliminates a procedural need."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "obviate",
+              "hebrew": "לייתר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-02-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The treasurer's reputation for ____ rested partly on her refusal to accept personal gifts from contractors seeking public work.",
+          "options": [
+            "duplicity",
+            "diffidence",
+            "obduracy",
+            "rectitude"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“rectitude” means morally correct and principled conduct. The treasurer acts on a firm ethical principle.",
+            "distractors": {
+              "0": "“duplicity” means deliberate deception, often through contradictory behaviour. The clue is that the treasurer acts on a firm ethical principle.",
+              "1": "“diffidence” means lack of self-confidence in one's abilities or judgments. The clue is that the treasurer acts on a firm ethical principle.",
+              "2": "“obduracy” means unyielding refusal to change one's position. The clue is that the treasurer acts on a firm ethical principle."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "rectitude",
+              "hebrew": "יושרה מוסרית"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-02-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The teacher asked students to ____ the general rule in a particular diagram rather than repeat it in abstract terms.",
+          "options": [
+            "enunciate",
+            "obfuscate",
+            "instantiate",
+            "adumbrate"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“instantiate” means represent an abstract principle through a particular instance. The general rule is expressed through a specific example.",
+            "distractors": {
+              "0": "“enunciate” means formulate or state an idea clearly and explicitly. The clue is that the general rule is expressed through a specific example.",
+              "1": "“obfuscate” means make something harder to understand, often deliberately. The clue is that the general rule is expressed through a specific example.",
+              "3": "“adumbrate” means outline something in a partial or preliminary way. The clue is that the general rule is expressed through a specific example."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "instantiate",
+              "hebrew": "לממש בדוגמה מסוימת"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-02-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-02-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "The Difficulty of Counting Silence",
+        "paragraphs": [
+          "In a classroom discussion, researchers can readily record who speaks, when turns begin, and how long each intervention lasts. Silence seems equally easy to identify. Yet counting seconds without audible speech yields a measure whose meaning is anything but straightforward. A quiet interval may be a sign that an invitation to speak has failed; it may also be the very interval that makes a considered answer possible. The difference is often visible only when the interval is treated as part of a sequence rather than classified in isolation.",
+          "Consider a teacher who asks a question and immediately answers it. The absence of a student reply may reflect the short opportunity available, especially if a second student begins to speak just as the teacher resumes. Now consider a teacher who remains quiet while turning toward a student's open notebook. The wait may put pressure on one person, even when the question was originally addressed to the room. In each example, a transcript divided into words and blank spaces would omit the movements that help show to whom a turn was available. Video permits a more discriminating account, but interpretation still requires caution: a glance can signal encouragement, impatience or simple distraction.",
+          "One small classroom project used a practice with a public explanation. Students were told they could ask for thinking time by setting a pencil across the top of a notebook. The researcher compared silences for which the convention was used with otherwise similar pauses. Students who asked for time sometimes returned with longer answers, although longer responses did not necessarily contain more relevant evidence. More importantly, some students used the convention only after several classmates had done so. This suggests that the announcement of a practice and its social acceptance are separate developments.",
+          "Treating silence as an achievement in its own right would nevertheless be a mistake. Some quiet intervals stem from exclusion, unfamiliar vocabulary or uncertainty about whether disagreement will be welcomed. The analytical gain is more modest. Researchers can look for an observable event immediately before or after the silence and then test their reading against what the participants do next. This procedure cannot guarantee access to what each student intended. It can, however, prevent a measure of time from doing the work of an explanation. A stopwatch can register a pause, but understanding the pause requires evidence about the interaction in which it occurred."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "Which overall claim does “The Difficulty of Counting Silence” advance?",
+          "options": [
+            "Longer periods of silence systematically yield higher-quality answers.",
+            "Video recordings allow researchers to identify every student's intention.",
+            "Understanding a quiet interval requires examining how it functions within the interaction.",
+            "A visible request for time eliminates barriers to participation."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Both the examples and the conclusion argue that duration alone cannot explain silence.",
+            "distractors": {
+              "0": "The reported project distinguishes response length from relevant evidence.",
+              "1": "Video supplies evidence but cannot settle every interpretation.",
+              "3": "The passage identifies other barriers and calls for cautious interpretation."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "interval",
+              "hebrew": "פרק זמן"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-02-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "What might a researcher infer from the delayed adoption of the pencil signal?",
+          "options": [
+            "Some students may have needed to see peers use the convention before regarding it as acceptable.",
+            "Students were required to wait until a fixed number had used the signal.",
+            "Every student who adopted the signal subsequently cited better evidence.",
+            "Those students had not heard the teacher explain the procedure."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The writer distinguishes a public announcement from the emergence of social acceptance.",
+            "distractors": {
+              "1": "No numerical rule was imposed.",
+              "2": "The project does not establish this relation between use and evidence quality.",
+              "3": "Later use does not show they missed the announcement."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "adoption",
+              "hebrew": "אימוץ"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-02-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "Which description fits the writer’s attitude toward interpreting pauses?",
+          "options": [
+            "Indifferent to what students do after a quiet interval.",
+            "Enthusiastic about maximizing quiet in every classroom.",
+            "Hostile to the systematic measurement of time in any research setting.",
+            "Experimentally minded, with explicit limits on what observations can establish."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The writer compares examples, examines participant behavior, and limits inference about intention.",
+            "distractors": {
+              "0": "Subsequent conduct is specifically identified as a check.",
+              "1": "The author recognizes both productive and exclusionary kinds of silence.",
+              "2": "Timing can register pauses and is insufficient only as a standalone explanation."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "modest",
+              "hebrew": "צנוע"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-02-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "In the discussion of video, what does “discriminating” mean?",
+          "options": [
+            "Biased against speakers who have accents.",
+            "Able to distinguish between situations that initially look alike.",
+            "Statistically representative of a larger population.",
+            "Designed to assign numeric grades to the participants."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The additional record helps separate pauses with different interactional functions.",
+            "distractors": {
+              "0": "The passage does not attach social prejudice to the use of video.",
+              "2": "The distinction turns on finer observation, not sampling.",
+              "3": "The account distinguishes circumstances rather than evaluating students with scores."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "discriminating",
+              "hebrew": "בעל יכולת הבחנה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-02-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What act publicly indicated that a student wanted more time to think?",
+          "options": [
+            "Placing a pencil across the top of a notebook.",
+            "Asking another student to read the question aloud.",
+            "Writing a second answer beneath the first.",
+            "Looking directly at the teacher while staying quiet."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "This was the procedure explained to the class.",
+            "distractors": {
+              "1": "The pencil signal did not require recruiting a classmate.",
+              "2": "Written revisions are not part of the signal described.",
+              "3": "Gaze may matter in interpretation but was not the convention."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "convention",
+              "hebrew": "מוסכמה"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-02-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-02-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "It is true that the roads to the station were poorly marked, yet passenger numbers rose during the summer.",
+          "options": [
+            "Passenger numbers rose during the summer, which prevented anyone from finding out whether the roads to the station were poorly marked.",
+            "The roads to the station were poorly marked; nevertheless, passenger numbers rose during the summer.",
+            "Because the roads to the station were poorly marked, passenger numbers rose during the summer.",
+            "Passenger numbers rose during the summer only before it became clear that the roads to the station were poorly marked."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the roads to the station were poorly marked” and “passenger numbers rose during the summer.”",
+            "distractors": {
+              "0": "It introduces an obstacle to discovering the first fact, which the original states directly.",
+              "2": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast.",
+              "3": "It limits the second fact to an earlier time and adds a discovery that the original never mentions."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-02-restatement-1-1"
+        },
+        {
+          "prompt": "Owing to the fact that the museum had no suitable frame, the portrait was shown in its original mount.",
+          "options": [
+            "The museum had no suitable frame; nevertheless, the portrait was shown in its original mount.",
+            "The portrait was shown in its original mount, but it is unknown whether the museum had no suitable frame.",
+            "The museum had no suitable frame; consequently, the portrait was shown in its original mount.",
+            "The portrait was shown in its original mount; consequently, the museum had no suitable frame."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the museum had no suitable frame, leading to the result that the portrait was shown in its original mount.",
+            "distractors": {
+              "0": "It replaces the causal relationship with a concession.",
+              "1": "It casts doubt on the cause, which the original treats as an established fact.",
+              "3": "It reverses the direction of cause and result."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-02-restatement-1-2"
+        },
+        {
+          "prompt": "Once the trail has dried out, the volunteers will repair the steps.",
+          "options": [
+            "The volunteers will repair the steps before the trail has dried out.",
+            "The volunteers will not repair the steps even after the trail has dried out.",
+            "The volunteers will repair the steps, regardless of whether the trail has dried out.",
+            "The volunteers will repair the steps after the trail has dried out."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled.",
+            "distractors": {
+              "0": "It places the scheduled action before the event that the sentence puts first.",
+              "1": "It denies the stated plan to carry out the second action.",
+              "2": "It makes the first event irrelevant to the timing of the second."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-02-restatement-1-3"
+        },
+        {
+          "prompt": "It will accept the letter only if the library can verify the donor's ownership.",
+          "options": [
+            "It will accept the letter only if it is impossible to establish that the library can verify the donor's ownership.",
+            "It will accept the letter only on condition that the library can verify the donor's ownership.",
+            "It will accept the letter whether or not the library can verify the donor's ownership.",
+            "It will accept the letter in every case in which the library can verify the donor's ownership."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The condition “the library can verify the donor's ownership” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "0": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met.",
+              "2": "It removes the requirement by making the outcome independent of the condition.",
+              "3": "It treats the condition as sufficient and promises the outcome whenever it is met."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-02-restatement-1-4"
+        },
+        {
+          "prompt": "The handwritten index seemed brief compared with the published index.",
+          "options": [
+            "The handwritten index appeared to match the published index in length.",
+            "The difference in length was established when the published index was longer than the handwritten index in a formal test.",
+            "The published index appeared to exceed the handwritten index in length.",
+            "The handwritten index appeared to exceed the published index in length."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the published index, first. The comparison concerns length.",
+            "distractors": {
+              "0": "It describes the two items as equal on the stated measure.",
+              "1": "It turns an impression into a demonstrated finding and invents a formal test.",
+              "3": "It reverses the relative ranking of the two items."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-02-restatement-1-5"
+        },
+        {
+          "prompt": "But for a second copy of the inventory, the clerks could not have identified the missing items.",
+          "options": [
+            "The clerks could not have identified the missing items even if a second copy of the inventory had still been a factor.",
+            "Whether a second copy of the inventory made any difference to the outcome is unknown.",
+            "The clerks could not have identified the missing items because of a second copy of the inventory.",
+            "The clerks could not have identified the missing items in the absence of a second copy of the inventory."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the clerks could not have identified the missing items” belongs to the hypothetical situation in which a second copy of the inventory was absent.",
+            "distractors": {
+              "0": "It predicts the same result without changing whether the factor was present.",
+              "1": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs.",
+              "2": "It attributes the hypothetical result to the presence of the factor rather than its absence."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-02-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-02-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the draft is accepted by all three delegates, the final decision will be postponed until June.",
+          "options": [
+            "The final decision will be postponed until June, including in the event that the draft is accepted by all three delegates.",
+            "The final decision may or may not be postponed until June, depending on whether the draft is accepted by all three delegates.",
+            "The final decision will be postponed until June only in the event that the draft is accepted by all three delegates.",
+            "The draft is accepted by all three delegates; therefore, the final decision will be postponed until June."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the draft is accepted by all three delegates. The original leaves that case hypothetical.",
+            "distractors": {
+              "1": "It makes the outcome depend on the hypothetical condition.",
+              "2": "It turns a condition that would make no difference into a requirement.",
+              "3": "It turns an open possibility into an established fact and presents it as the cause."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-02-restatement-2-1"
+        },
+        {
+          "prompt": "The first survey team neither endorsed nor expressly rejected the claim that the northern wall was a later addition.",
+          "options": [
+            "The first survey team accepted the claim that the northern wall was a later addition in principle while withholding public support.",
+            "The first survey team expressly rejected the claim that the northern wall was a later addition, although it stopped short of explaining why.",
+            "The first survey team initially backed the claim that the northern wall was a later addition but later withdrew its endorsement.",
+            "The first survey team offered no endorsement of the claim that the northern wall was a later addition and issued no explicit rejection either."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It invents an acceptance in principle, which cannot be inferred from the original.",
+              "1": "It asserts an explicit rejection, which the original rules out.",
+              "2": "It invents a prior endorsement and a reversal of position."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-02-restatement-2-2"
+        },
+        {
+          "prompt": "The delay in publication stemmed less from the shortage of paper than from disagreement about who could authorize revisions.",
+          "options": [
+            "The shortage of paper was the greater contributor to the delay in publication, though disagreement about who could authorize revisions also mattered.",
+            "Disagreement about who could authorize revisions contributed more to the delay in publication than the shortage of paper did.",
+            "The delay in publication was the principal reason for both the shortage of paper and disagreement about who could authorize revisions.",
+            "The shortage of paper and disagreement about who could authorize revisions played equally important roles in the delay in publication."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “disagreement about who could authorize revisions” greater explanatory weight than “the shortage of paper.”",
+            "distractors": {
+              "0": "It reverses the relative importance of the factors.",
+              "2": "It makes the outcome cause the factors that are supposed to explain it.",
+              "3": "It makes the factors equally important despite the stated inequality."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-02-restatement-2-3"
+        },
+        {
+          "prompt": "The curator did not display the watercolors until the roof had been repaired.",
+          "options": [
+            "The curator displayed the watercolors only after the roof had been repaired.",
+            "The curator displayed the watercolors before the roof had been repaired.",
+            "The curator displayed the watercolors as evidence that the roof had been repaired.",
+            "The curator did not display the watercolors, although the roof had been repaired."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "1": "It reverses the sequence by placing the main action first.",
+              "2": "It turns a timing relationship into an assertion about the actor’s purpose.",
+              "3": "It makes the main action fail to occur, whereas the original reports that it happened later."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-02-restatement-2-4"
+        },
+        {
+          "prompt": "Of the surviving letters, none carry individual dates with the sole exception of the letter from Milan.",
+          "options": [
+            "The letter from Milan carries individual dates, and at least one other member of the group shares that distinction.",
+            "It has not been determined whether the letter from Milan carries individual dates.",
+            "The letter from Milan carries individual dates; the others in the same group do not.",
+            "All the surviving letters carry individual dates except the letter from Milan."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the letter from Milan is the single item that has the stated property.",
+            "distractors": {
+              "0": "It allows a second exception even though “sole” limits the number to one.",
+              "1": "It changes an explicit exception into an uncertainty.",
+              "3": "It gives the property to the entire group except the one item that actually has it."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-02-restatement-2-5"
+        },
+        {
+          "prompt": "Supposing that the observer had checked the reference instrument, the discrepancy might have been detected sooner.",
+          "options": [
+            "The discrepancy might have been detected sooner only if the observer had checked the reference instrument.",
+            "The discrepancy would certainly have been detected sooner if the observer had checked the reference instrument.",
+            "Because the observer had checked the reference instrument, the discrepancy must have been detected sooner.",
+            "The discrepancy might have been detected sooner if the observer had checked the reference instrument."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "This is a past counterfactual. The opening clause introduces an unrealized condition and “might have” presents the result as possible under that condition.",
+            "distractors": {
+              "0": "It adds a requirement that no other scenario could have produced the outcome.",
+              "1": "It turns a possible outcome into a guaranteed one.",
+              "2": "It asserts an actual outcome and treats the unrealized condition as fact."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "might have",
+              "hebrew": "ייתכן שהיה / הייתה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-02-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-02-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "When Pavements Remember Heat",
+        "paragraphs": [
+          "A city can remain uncomfortably warm long after the sky has grown dark. The usual explanation is that streets and buildings have absorbed energy all day and release it at night. This is correct as far as it goes, but two different properties are often confused when people compare possible remedies. One property describes how much sunlight a material reflects. Another describes how readily it transfers stored heat. A pale façade can reflect much of the radiation that strikes it, while a massive wall may still take hours to warm or cool. Neither colour nor size alone specifies the temperature a pedestrian will experience.",
+          "The distinction is important when evaluating reflective paving. Replacing a dark surface with a lighter one may reduce the amount of energy stored in the ground. On an unshaded square at midday, however, some of the sunlight previously absorbed by the pavement is reflected toward people and buildings. A thermometer sheltered from direct radiation might show a modest improvement even while people crossing the square gain more radiant energy. For this reason, researchers studying comfort sometimes track radiant exposure separately from air temperature. The two measures describe different pathways by which the environment transfers heat to the body.",
+          "A canopy of trees changes several of these pathways at once. Leaves intercept sunlight before it strikes the pavement, and water evaporating from foliage consumes energy that might otherwise raise local temperatures. Because evaporation depends on a supply of water, its cooling contribution can decline during a drought. In a street with a dense canopy and little wind, foliage may also slow the exchange of air with cooler surroundings. The net effect is shaped by the hour of the day, the amount of water available and the geometry of the street.",
+          "What matters for planning, then, is the match between a proposed treatment and the problem residents actually face. A residential block where bedrooms remain warm at midnight presents a different design challenge from a route across a plaza that has no refuge from the midday sun. A measure that improves one setting may do comparatively little in the other. Testing a treatment at a single hour, or relying on just one instrument, risks recording a real physical improvement that does not correspond to the outcome the project was intended to deliver."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What claim organizes “When Pavements Remember Heat”?",
+          "options": [
+            "Trees usually make street heat worse.",
+            "Surface colour alone determines pedestrian temperature.",
+            "Cities need to choose and measure cooling interventions around specific human exposures.",
+            "Reflective paving is always best for warm nights."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The final paragraph applies distinct heat mechanisms to two different situations.",
+            "distractors": {
+              "0": "The canopy has several cooling effects along with a possible ventilation drawback.",
+              "1": "Other properties and environmental conditions affect exposure.",
+              "3": "The best remedy depends on the setting and measured outcome."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "remedy",
+              "hebrew": "פתרון"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-02-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "What could explain a lower midday air temperature but increased pedestrian discomfort after repaving?",
+          "options": [
+            "The new pavement redirects more sunlight toward pedestrians.",
+            "An air thermometer measures energy stored in paving materials.",
+            "Increased reflection necessarily warms the ground itself.",
+            "Repaving always increases evaporation from leaves nearby."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "A sheltered air thermometer misses the change in radiation reaching a person.",
+            "distractors": {
+              "1": "The instrument measures air, with radiant exposure tracked separately.",
+              "2": "Reflection can reduce the energy absorbed by the ground.",
+              "3": "The text makes no such connection."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "radiant exposure",
+              "hebrew": "חשיפה לקרינה"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-02-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "Which description best captures the author's approach to urban cooling proposals?",
+          "options": [
+            "Detached from how people experience heat.",
+            "Practical and conditional, weighing benefits against side effects and site conditions.",
+            "Promotional, asserting that redesign guarantees comfortable streets.",
+            "Opposed to innovation in construction and planting."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The article examines mechanisms and matches treatments to goals.",
+            "distractors": {
+              "0": "Residents and pedestrians are central to the argument.",
+              "2": "The text repeatedly identifies trade-offs.",
+              "3": "Several interventions are treated as potentially useful."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "evaluate",
+              "hebrew": "להעריך"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-02-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "In the plaza example, what is a “refuge”?",
+          "options": [
+            "A reflective surface that directs more energy at passersby.",
+            "An alternative material used to construct walls.",
+            "A place offering shelter from sunlight.",
+            "An instrument for measuring wind."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "It allows a pedestrian to escape direct exposure.",
+            "distractors": {
+              "0": "That would increase exposure instead of providing protection.",
+              "1": "No material is specified by the word itself.",
+              "3": "The word refers to a protective location."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "refuge",
+              "hebrew": "מקום מפלט"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-02-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "How can drought reduce cooling under a canopy?",
+          "options": [
+            "Pavement must absorb all sunlight.",
+            "An inadequate water supply can limit evaporation.",
+            "Leaves must stop intercepting sunlight altogether.",
+            "The wind reverses direction around the trees."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Evaporation consumes energy and depends on water.",
+            "distractors": {
+              "0": "Canopy shade still affects what reaches the pavement.",
+              "2": "The water limitation acts on evaporation, separately from shade.",
+              "3": "No such reversal is described."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "foliage",
+              "hebrew": "עלווה"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-02-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

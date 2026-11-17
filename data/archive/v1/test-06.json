@@ -1,0 +1,995 @@
+{
+  "id": "test-06",
+  "number": 6,
+  "title": "The Unfinished Inventory / The Sodium Alternative",
+  "sections": [
+    {
+      "id": "test-06-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "The observatory will ____ the raw images on its public website once the calibration checks are complete.",
+          "options": [
+            "retain",
+            "revise",
+            "release",
+            "replace"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“release” means make something available to others. The images become available to website visitors after checking.",
+            "distractors": {
+              "0": "“retain” means keep something in one's possession. The clue is that the images become available to website visitors after checking.",
+              "1": "“revise” means change something to improve or correct it. The clue is that the images become available to website visitors after checking.",
+              "3": "“replace” means put something new in the place of something old. The clue is that the images become available to website visitors after checking."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "release",
+              "hebrew": "לפרסם"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-06-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "The photographer had to ____ the lens a little to keep the object in focus as the table shifted.",
+          "options": [
+            "label",
+            "adjust",
+            "collect",
+            "inspect"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“adjust” means alter slightly to suit conditions. A small change in the lens setting restores focus.",
+            "distractors": {
+              "0": "“label” means attach identifying information to something. The clue is that a small change in the lens setting restores focus.",
+              "2": "“collect” means gather things together. The clue is that a small change in the lens setting restores focus.",
+              "3": "“inspect” means examine carefully for quality or damage. The clue is that a small change in the lens setting restores focus."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "adjust",
+              "hebrew": "לכוון, להתאים"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-06-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "Students found the new textbook ____ because its paperback edition cost less than a day's meals.",
+          "options": [
+            "affordable",
+            "accessible",
+            "reliable",
+            "visible"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“affordable” means possible to buy without excessive expense. The paperback's low price made it feasible to buy.",
+            "distractors": {
+              "1": "“accessible” means possible to reach or use. The clue is that the paperback's low price made it feasible to buy.",
+              "2": "“reliable” means consistently trustworthy or dependable. The clue is that the paperback's low price made it feasible to buy.",
+              "3": "“visible” means able to be seen. The clue is that the paperback's low price made it feasible to buy."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "affordable",
+              "hebrew": "בר השגה מבחינת מחיר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-06-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "Residents recorded their strongest ____ to the new lighting plan, arguing that bright lamps would disturb people whose bedrooms faced the road.",
+          "options": [
+            "record",
+            "claim",
+            "exception",
+            "objection"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“objection” means expression of opposition to something proposed. The residents expressed opposition to the lighting plan.",
+            "distractors": {
+              "0": "“record” means account or documentation retained as evidence. The clue is that the residents expressed opposition to the lighting plan.",
+              "1": "“claim” means statement presented as true. The clue is that the residents expressed opposition to the lighting plan.",
+              "2": "“exception” means case that does not follow a general rule. The clue is that the residents expressed opposition to the lighting plan."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "objection",
+              "hebrew": "התנגדות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-06-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The instruction became ____ when the editor added a line saying that every figure must include a scale bar.",
+          "options": [
+            "tentative",
+            "explicit",
+            "widespread",
+            "coherent"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“explicit” means stated clearly and directly. The requirement is now stated directly in words.",
+            "distractors": {
+              "0": "“tentative” means provisional and not yet definite. The clue is that the requirement is now stated directly in words.",
+              "2": "“widespread” means extending across many places or among many people. The clue is that the requirement is now stated directly in words.",
+              "3": "“coherent” means forming a logical and unified whole. The clue is that the requirement is now stated directly in words."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "explicit",
+              "hebrew": "מפורש"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-06-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "To ____ her account of the strike, the researcher presented payroll records confirming the dates mentioned by the interviewees.",
+          "options": [
+            "repudiate",
+            "reconcile",
+            "reinterpret",
+            "substantiate"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“substantiate” means support a statement with evidence. The payroll records supply independent evidence for the account.",
+            "distractors": {
+              "0": "“repudiate” means formally disown or reject something previously associated with oneself. The clue is that the payroll records supply independent evidence for the account.",
+              "1": "“reconcile” means make apparently conflicting accounts compatible. The clue is that the payroll records supply independent evidence for the account.",
+              "2": "“reinterpret” means give a new meaning or explanation to familiar material. The clue is that the payroll records supply independent evidence for the account."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "substantiate",
+              "hebrew": "לבסס בראיות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-06-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-06-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "The researcher used tiny variations in glaze composition to ____ imports from locally produced imitations.",
+          "options": [
+            "extrapolate",
+            "ascertain",
+            "differentiate",
+            "delineate"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“differentiate” means identify what distinguishes one thing from another. The variations make it possible to tell the two groups apart.",
+            "distractors": {
+              "0": "“extrapolate” means project beyond the range of available information. The clue is that the variations make it possible to tell the two groups apart.",
+              "1": "“ascertain” means find something out with certainty. The clue is that the variations make it possible to tell the two groups apart.",
+              "3": "“delineate” means draw or describe the boundaries of something precisely. The clue is that the variations make it possible to tell the two groups apart."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "differentiate",
+              "hebrew": "להבחין בין"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-06-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The error of one gram in a sample weighing two tonnes was ____ for the purposes of the transport calculation.",
+          "options": [
+            "negligible",
+            "beneficial",
+            "detrimental",
+            "cumulative"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“negligible” means too small to be worth considering. The error is inconsequential relative to the total weight.",
+            "distractors": {
+              "1": "“beneficial” means producing an advantage or helpful effect. The clue is that the error is inconsequential relative to the total weight.",
+              "2": "“detrimental” means likely to cause harm or damage. The clue is that the error is inconsequential relative to the total weight.",
+              "3": "“cumulative” means increasing by successive additions over time. The clue is that the error is inconsequential relative to the total weight."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "negligible",
+              "hebrew": "זניח"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-06-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The architects chose to ____ decorative stone altogether, allowing the structural joints to provide the building's only ornament.",
+          "options": [
+            "entrench",
+            "eschew",
+            "espouse",
+            "embroil"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“eschew” means deliberately avoid using or doing something. The architects intentionally avoid using decorative stone.",
+            "distractors": {
+              "0": "“entrench” means establish something so firmly that it is hard to change. The clue is that the architects intentionally avoid using decorative stone.",
+              "2": "“espouse” means publicly adopt or support a cause or principle. The clue is that the architects intentionally avoid using decorative stone.",
+              "3": "“embroil” means involve someone in an unpleasant dispute or difficulty. The clue is that the architects intentionally avoid using decorative stone."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "eschew",
+              "hebrew": "להימנע במכוון"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-06-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "Out of ____ to the village elders, the young negotiators asked them to speak first even though the elders held no official office.",
+          "options": [
+            "ambivalence",
+            "indifference",
+            "deference",
+            "reticence"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“deference” means respectful submission to another person's judgment or status. The younger delegates yield precedence to respected people.",
+            "distractors": {
+              "0": "“ambivalence” means coexistence of conflicting attitudes toward one thing. The clue is that the younger delegates yield precedence to respected people.",
+              "1": "“indifference” means lack of interest or concern. The clue is that the younger delegates yield precedence to respected people.",
+              "3": "“reticence” means reluctance to speak freely or disclose information. The clue is that the younger delegates yield precedence to respected people."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "deference",
+              "hebrew": "מתן כבוד לסמכות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-06-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The committee was ____ throughout the afternoon, alternately endorsing and withdrawing support for both proposed venues.",
+          "options": [
+            "irresolute",
+            "recalcitrant",
+            "intransigent",
+            "inscrutable"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“irresolute” means unable to decide on a course of action. The committee repeatedly fails to make a definite choice.",
+            "distractors": {
+              "1": "“recalcitrant” means resistant to authority, instruction, or control. The clue is that the committee repeatedly fails to make a definite choice.",
+              "2": "“intransigent” means unwilling to change an opinion or compromise. The clue is that the committee repeatedly fails to make a definite choice.",
+              "3": "“inscrutable” means impossible or very difficult to understand or interpret. The clue is that the committee repeatedly fails to make a definite choice."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "irresolute",
+              "hebrew": "הססן, חסר החלטיות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-06-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The notes were so ____ that later editors had to supply unstated intermediate conclusions before the argument could be followed.",
+          "options": [
+            "pellucid",
+            "recondite",
+            "tendentious",
+            "elliptical"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“elliptical” means using omissions that leave part of the meaning implicit. Several steps have been left implicit through omission.",
+            "distractors": {
+              "0": "“pellucid” means exceptionally clear and easy to understand. The clue is that several steps have been left implicit through omission.",
+              "1": "“recondite” means unfamiliar to most people because it is highly specialised. The clue is that several steps have been left implicit through omission.",
+              "2": "“tendentious” means written or spoken in a way that promotes a particular point of view. The clue is that several steps have been left implicit through omission."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "elliptical",
+              "hebrew": "אליפטי, משמיט פרטים"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-06-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-06-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "The Unfinished Inventory",
+        "paragraphs": [
+          "A museum's public catalogue often appears to be the polished counterpart of a storeroom. Each object has a name, a number, and a place in an intelligible classification. Yet an inventory is frequently most informative where it deviates from that ideal. An uncertain attribution, an obsolete material label, or a blank line where an object should have been described may bear witness to successive changes in the identity and practices of the institution itself. The challenge is distinguishing meaningful absences from ordinary clerical errors without treating every surviving mark as equally significant.",
+          "One curator confronted this problem while comparing descriptions of painted wooden objects collected at different times. Older cards concentrated on the objects' visual qualities while newer records emphasized how they had been acquired. At first glance the older records seemed merely incomplete. A closer look showed that some acquisition information had in fact been kept in a payment register rather than written on individual cards. The gap mattered nonetheless because objects acquired by exchange or gift were documented less consistently in the payment register. A filing arrangement that seemed technically reasonable had made some sorts of transaction easier to recover than others.",
+          "Replacing every earlier category with a current one would improve many present-day searches. The replacement would also erase evidence of how those categories changed. An object recorded first as a toy and later as a model may prompt questions about the collectors' assumptions rather than about the object's intrinsic properties. One strategy is to retain historical labels in a field explicitly marked as such while supplying separate terms for modern retrieval. The earlier description then remains accessible without having to govern how the object is identified in an exhibition.",
+          "There is a difficulty of proportion. A catalogue built for a general audience cannot turn every entry into a treatise on the history of record keeping. Nor should a conspicuous blank invite speculation where business routines explain it adequately. The point is to retain enough information for a later user to tell whether a label reflects current judgment, a historical convention, or persistent uncertainty. A well-made catalogue can look orderly and still make room for this distinction. Its order is then a means of navigating evidence whose unevenness is itself occasionally worth investigating, rather than merely an appearance of completeness."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What claim about organising museum records runs through the passage?",
+          "options": [
+            "A catalogue can support modern research while preserving relevant traces of its earlier organisation.",
+            "The primary goal of museum inventories is to determine the material of every object.",
+            "Historic labels should always determine public exhibition wording.",
+            "Blank entries can be treated as proof of institutional wrongdoing."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The proposed parallel historical and current fields exemplify this balance.",
+            "distractors": {
+              "1": "The passage is about evolving categories and uneven records, beyond material identification.",
+              "2": "Separate historical and current terms are proposed.",
+              "3": "Such gaps can come from routine processes or clerical errors."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "attribution",
+              "hebrew": "ייחוס"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-06-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "What can be inferred about a wooden piece that entered the museum as a gift?",
+          "options": [
+            "Its painted surface was probably added after collection.",
+            "The payment register alone might supply less evidence about it than about a purchased piece.",
+            "It could not appear in any earlier catalogue card.",
+            "It was necessarily labelled a toy before being classified as a model."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Gift transactions were documented less consistently in that register.",
+            "distractors": {
+              "0": "The recording system supplies no such evidence of alteration.",
+              "2": "The inventory and payment register represent different records.",
+              "3": "Toy and model are examples of changed description, not rules for gifts."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "acquire",
+              "hebrew": "לרכוש"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-06-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author respond to the possibilities opened by incomplete inventories?",
+          "options": [
+            "With confidence that only malfunctioning recording systems cause gaps.",
+            "With insistence that each missing detail deserves a lengthy account.",
+            "With indignation at every undocumented museum acquisition.",
+            "With curiosity tempered by concern about unsupported conclusions."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The author's examples develop reasons to investigate while warning against overinterpreting blanks.",
+            "distractors": {
+              "0": "The text includes gaps arising from technically reasonable procedures.",
+              "1": "The last paragraph expressly rejects that level of documentation for every entry.",
+              "2": "Routine institutional organisation is a possible explanation, and indignation is absent."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "conspicuous",
+              "hebrew": "בולט"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-06-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “intrinsic” mean in relation to the wooden object’s properties?",
+          "options": [
+            "Approved for publication by museum staff.",
+            "Unknown because the object is lost.",
+            "Inherent in the object itself.",
+            "Written at the time of purchase."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The text contrasts the object’s properties with categories supplied by curators.",
+            "distractors": {
+              "0": "Approval concerns records rather than attributes of the object.",
+              "1": "Nothing in that sentence requires the object to be missing.",
+              "3": "A date of recording is different from the nature of a property."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "intrinsic",
+              "hebrew": "טבוע במהות"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-06-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Where was some of the provenance information absent from older cards kept?",
+          "options": [
+            "On the objects’ painted surfaces.",
+            "In the labels for the public exhibition.",
+            "In a field for current searchable terms.",
+            "In a register of payments."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The author explicitly identifies that alternative filing location.",
+            "distractors": {
+              "0": "Their visual qualities were noted, but their surfaces are not the filing system.",
+              "1": "The earlier acquisition information was maintained in internal financial records.",
+              "2": "The separate modern field is proposed later and serves a different purpose."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "provenance",
+              "hebrew": "מקור ותולדות בעלות"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-06-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-06-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Few households in remote areas responded, even though the survey reached every district.",
+          "options": [
+            "The survey reached every district; nevertheless, few households in remote areas responded.",
+            "Few households in remote areas responded only before it became clear that the survey reached every district.",
+            "Because the survey reached every district, few households in remote areas responded.",
+            "Few households in remote areas responded, which prevented anyone from finding out whether the survey reached every district."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the survey reached every district” and “few households in remote areas responded.”",
+            "distractors": {
+              "1": "It limits the second fact to an earlier time and adds a discovery that the original never mentions.",
+              "2": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast.",
+              "3": "It introduces an obstacle to discovering the first fact, which the original states directly."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-06-restatement-1-1"
+        },
+        {
+          "prompt": "The market opened several weeks later than planned because the harvest was unusually late.",
+          "options": [
+            "The market opened several weeks later than planned; consequently, the harvest was unusually late.",
+            "The harvest was unusually late; consequently, the market opened several weeks later than planned.",
+            "The harvest was unusually late; nevertheless, the market opened several weeks later than planned.",
+            "The market opened several weeks later than planned, but it is unknown whether the harvest was unusually late."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the harvest was unusually late, leading to the result that the market opened several weeks later than planned.",
+            "distractors": {
+              "0": "It reverses the direction of cause and result.",
+              "2": "It replaces the causal relationship with a concession.",
+              "3": "It casts doubt on the cause, which the original treats as an established fact."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-06-restatement-1-2"
+        },
+        {
+          "prompt": "Once the registration office has closed, the coordinators will count the applications.",
+          "options": [
+            "The coordinators will not count the applications even after the registration office has closed.",
+            "The coordinators will count the applications before the registration office has closed.",
+            "The coordinators will count the applications after the registration office has closed.",
+            "The coordinators will count the applications, regardless of whether the registration office has closed."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled.",
+            "distractors": {
+              "0": "It denies the stated plan to carry out the second action.",
+              "1": "It places the scheduled action before the event that the sentence puts first.",
+              "3": "It makes the first event irrelevant to the timing of the second."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-06-restatement-1-3"
+        },
+        {
+          "prompt": "The institute will share them with outside researchers only if the recordings can be made anonymous.",
+          "options": [
+            "The institute will share them with outside researchers whether or not the recordings can be made anonymous.",
+            "The institute will share them with outside researchers only if it is impossible to establish that the recordings can be made anonymous.",
+            "The institute will share them with outside researchers only on condition that the recordings can be made anonymous.",
+            "The institute will share them with outside researchers in every case in which the recordings can be made anonymous."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The condition “the recordings can be made anonymous” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "0": "It removes the requirement by making the outcome independent of the condition.",
+              "1": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met.",
+              "3": "It treats the condition as sufficient and promises the outcome whenever it is met."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-06-restatement-1-4"
+        },
+        {
+          "prompt": "The mountain route seemed direct compared with the coastal route.",
+          "options": [
+            "The difference in directness was established when the coastal route was more direct than the mountain route in a formal test.",
+            "The mountain route appeared to match the coastal route in directness.",
+            "The mountain route appeared to exceed the coastal route in directness.",
+            "The coastal route appeared to exceed the mountain route in directness."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the coastal route, first. The comparison concerns directness.",
+            "distractors": {
+              "0": "It turns an impression into a demonstrated finding and invents a formal test.",
+              "1": "It describes the two items as equal on the stated measure.",
+              "2": "It reverses the relative ranking of the two items."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-06-restatement-1-5"
+        },
+        {
+          "prompt": "But for the revised bus timetable, many delegates would have missed the opening lecture.",
+          "options": [
+            "Whether the revised bus timetable made any difference to the outcome is unknown.",
+            "Many delegates would have missed the opening lecture in the absence of the revised bus timetable.",
+            "Many delegates would have missed the opening lecture because of the revised bus timetable.",
+            "Many delegates would have missed the opening lecture even if the revised bus timetable had still been a factor."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “many delegates would have missed the opening lecture” belongs to the hypothetical situation in which the revised bus timetable was absent.",
+            "distractors": {
+              "0": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs.",
+              "2": "It attributes the hypothetical result to the presence of the factor rather than its absence.",
+              "3": "It predicts the same result without changing whether the factor was present."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-06-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-06-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the report appears before the election, its recommendations will be reviewed by the incoming council.",
+          "options": [
+            "Its recommendations will be reviewed by the incoming council, including in the event that the report appears before the election.",
+            "The report appears before the election; therefore, its recommendations will be reviewed by the incoming council.",
+            "Its recommendations may or may not be reviewed by the incoming council, depending on whether the report appears before the election.",
+            "Its recommendations will be reviewed by the incoming council only in the event that the report appears before the election."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the report appears before the election. The original leaves that case hypothetical.",
+            "distractors": {
+              "1": "It turns an open possibility into an established fact and presents it as the cause.",
+              "2": "It makes the outcome depend on the hypothetical condition.",
+              "3": "It turns a condition that would make no difference into a requirement."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-06-restatement-2-1"
+        },
+        {
+          "prompt": "The editors neither endorsed nor expressly rejected the suggestion that the attribution be changed.",
+          "options": [
+            "The editors offered no endorsement of the suggestion that the attribution be changed and issued no explicit rejection either.",
+            "The editors accepted the suggestion that the attribution be changed in principle while withholding public support.",
+            "The editors initially backed the suggestion that the attribution be changed but later withdrew its endorsement.",
+            "The editors expressly rejected the suggestion that the attribution be changed, although it stopped short of explaining why."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "1": "It invents an acceptance in principle, which cannot be inferred from the original.",
+              "2": "It invents a prior endorsement and a reversal of position.",
+              "3": "It asserts an explicit rejection, which the original rules out."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-06-restatement-2-2"
+        },
+        {
+          "prompt": "The decline in attendance stemmed less from the cost of tickets than from an inconvenient change in opening hours.",
+          "options": [
+            "The cost of tickets and an inconvenient change in opening hours played equally important roles in the decline in attendance.",
+            "An inconvenient change in opening hours contributed more to the decline in attendance than the cost of tickets did.",
+            "The decline in attendance was the principal reason for both the cost of tickets and an inconvenient change in opening hours.",
+            "The cost of tickets was the greater contributor to the decline in attendance, though an inconvenient change in opening hours also mattered."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “an inconvenient change in opening hours” greater explanatory weight than “the cost of tickets.”",
+            "distractors": {
+              "0": "It makes the factors equally important despite the stated inequality.",
+              "2": "It makes the outcome cause the factors that are supposed to explain it.",
+              "3": "It reverses the relative importance of the factors."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-06-restatement-2-3"
+        },
+        {
+          "prompt": "The publishers did not credit the illustrator until an annotated copy of the contract had surfaced.",
+          "options": [
+            "The publishers credited the illustrator before an annotated copy of the contract had surfaced.",
+            "The publishers did not credit the illustrator, although an annotated copy of the contract had surfaced.",
+            "The publishers credited the illustrator only after an annotated copy of the contract had surfaced.",
+            "The publishers credited the illustrator as evidence that an annotated copy of the contract had surfaced."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "0": "It reverses the sequence by placing the main action first.",
+              "1": "It makes the main action fail to occur, whereas the original reports that it happened later.",
+              "3": "It turns a timing relationship into an assertion about the actor’s purpose."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-06-restatement-2-4"
+        },
+        {
+          "prompt": "Of the interview transcripts, none name the translators with the sole exception of the transcript of the first interview.",
+          "options": [
+            "The transcript of the first interview names the translators, and at least one other member of the group shares that distinction.",
+            "All the interview transcripts name the translators except the transcript of the first interview.",
+            "It has not been determined whether the transcript of the first interview names the translators.",
+            "The transcript of the first interview names the translators; the others in the same group do not."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the transcript of the first interview is the single item that has the stated property.",
+            "distractors": {
+              "0": "It allows a second exception even though “sole” limits the number to one.",
+              "1": "It gives the property to the entire group except the one item that actually has it.",
+              "2": "It changes an explicit exception into an uncertainty."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-06-restatement-2-5"
+        },
+        {
+          "prompt": "Had the editor consulted the paper's earlier version, she might have noticed the alteration.",
+          "options": [
+            "She might have noticed the alteration if the editor had consulted the paper's earlier version.",
+            "Because the editor had consulted the paper's earlier version, she must have noticed the alteration.",
+            "She would certainly have noticed the alteration if the editor had consulted the paper's earlier version.",
+            "She might have noticed the alteration only if the editor had consulted the paper's earlier version."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "This is a past counterfactual. The opening clause introduces an unrealized condition and “might have” presents the result as possible under that condition.",
+            "distractors": {
+              "1": "It asserts an actual outcome and treats the unrealized condition as fact.",
+              "2": "It turns a possible outcome into a guaranteed one.",
+              "3": "It adds a requirement that no other scenario could have produced the outcome."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "might have",
+              "hebrew": "ייתכן שהיה / הייתה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-06-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-06-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "The Sodium Alternative",
+        "paragraphs": [
+          "A battery design is often introduced to the public with a photograph of a small cell and a large figure printed underneath. The figure usually expresses stored energy per unit of mass. This is a valuable way to compare competing technologies, particularly for an aircraft, which must lift its energy supply. Yet the same measurement may be less important for a battery installed beside a power station. Engineers choosing between lithium-based and sodium-based batteries are interested in the size and mass of the installation, but also in the elements used, the temperature range of operation and the cost of keeping the cells available over many years.",
+          "Lithium and sodium have related chemical properties, which makes some ideas transferable between the two systems. They are different enough, however, that switching from one element to the other is not as simple as replacing a single ingredient. Sodium ions are larger than lithium ions and interact differently with the solid materials that temporarily accommodate them. A structure that repeatedly accepts and releases lithium may change shape or function poorly with sodium. Materials for a sodium cell therefore have to be chosen and tested on their own merits. Manufacturing know-how can carry over without implying that the component materials should be identical.",
+          "Long-term economic assessments add another complication. The price of the central element is only one portion of the cost of a finished battery. Factories, energy, supporting metals, quality control and packaging all contribute. A cell made with an abundant element can also require additional space or equipment if it supplies less energy per kilogram or needs a different way of controlling its temperature. Conversely, a more expensive cell might be a sensible purchase if it survives a greater number of useful cycles in its intended setting. The appropriate calculation depends on actual use.",
+          "The prospect of sodium batteries therefore complicates simple narratives about one technology taking the place of another. A new design can be valuable by occupying a part of the market that current designs serve imperfectly. Improvement in a vehicle battery aims at one set of constraints, and improvement in a fixed industrial installation aims at another. It takes time to learn whether laboratory gains survive large-scale manufacturing and whether apparently minor differences in operating conditions change the outcome. The most informative comparison begins with the job each battery is expected to do, then asks which properties matter for that job over its projected lifetime."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What is the main argument of the passage on sodium batteries?",
+          "options": [
+            "Sodium is destined to replace lithium in all markets.",
+            "Battery designs should be compared by how they serve particular applications over time.",
+            "High energy per unit mass has become unimportant in engineering.",
+            "The abundance of an element predicts total battery cost reliably."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The piece links technical differences and cost with the task a battery serves.",
+            "distractors": {
+              "0": "The possible advantage described is application-specific.",
+              "2": "It remains particularly useful for applications that must carry their own mass.",
+              "3": "The author distinguishes material abundance from other costs."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "constraint",
+              "hebrew": "אילוץ"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-06-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why might an electric grid operator accept a heavier battery per unit of stored energy?",
+          "options": [
+            "Heavier batter­ies necessarily last longer under every operating schedule.",
+            "Greater weight prevents ion structures from deforming.",
+            "Other characteristics could be more important where the equipment is stationary.",
+            "Weight indicates that manufacturing costs have been eliminated."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The weight constraint is weaker beside a power station than in aircraft.",
+            "distractors": {
+              "0": "Lifetime depends on design and intended use.",
+              "1": "The text does not connect total system mass to material stability in that way.",
+              "3": "Production expenses still contribute."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "fixed installation",
+              "hebrew": "מתקן נייח"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-06-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "What tone does the author adopt toward sodium technology?",
+          "options": [
+            "Indifferent toward real conditions of use.",
+            "Contemptuous, rejecting it because its central element is inexpensive.",
+            "Triumphant, treating sodium as the winner of every comparison.",
+            "Interested but discriminating, avoiding predictions beyond the comparison at hand."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The author identifies potential niches and practical uncertainties.",
+            "distractors": {
+              "0": "Those conditions are the basis of the analysis.",
+              "1": "Abundance is considered one factor, without contempt.",
+              "2": "The article emphasizes different needs in different settings."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "prospect",
+              "hebrew": "אפשרות עתידית"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-06-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “accommodate” mean in the description of solid battery materials?",
+          "options": [
+            "Remove from the entire system.",
+            "Predict the behaviour of.",
+            "Make room for and hold temporarily.",
+            "Convert into electrical current directly."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The ions enter and later leave the solids.",
+            "distractors": {
+              "0": "The ions are temporarily held, not expelled.",
+              "1": "The material physically receives the ions.",
+              "3": "Hosting ions and generating current are not identical operations."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "accommodate",
+              "hebrew": "לקלוט ולהכיל"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-06-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Why may a solid suitable for lithium prove unsuitable for sodium?",
+          "options": [
+            "Sodium and lithium share no relevant chemical properties.",
+            "Sodium ions are larger and interact differently with it.",
+            "Lithium ions cannot be released from solids once they enter.",
+            "Sodium-containing cells require no solid components."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The passage identifies ion size and interactions as reasons to test new materials.",
+            "distractors": {
+              "0": "Their similarities make some design ideas transferable.",
+              "2": "The text describes their repeated insertion and release.",
+              "3": "The text discusses solid structures for both systems."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "ion",
+              "hebrew": "יון"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-06-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

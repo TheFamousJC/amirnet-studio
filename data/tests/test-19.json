@@ -1,0 +1,996 @@
+{
+  "id": "test-19",
+  "number": 19,
+  "bankVersion": 2,
+  "title": "Stage Directions for an Empty Room / Running Clocks in a Moving World",
+  "sections": [
+    {
+      "id": "test-19-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "Isotopic analysis identified a quarry fifty kilometres away as the ____ of the stone used in the monument.",
+          "options": [
+            "centre",
+            "boundary",
+            "source",
+            "surface"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“source” means place or thing from which something comes. The quarry is where the building stone originated.",
+            "distractors": {
+              "0": "“centre” means middle point or part of an area. The clue is that the quarry is where the building stone originated.",
+              "1": "“boundary” means line separating two areas. The clue is that the quarry is where the building stone originated.",
+              "3": "“surface” means outermost layer of something. The clue is that the quarry is where the building stone originated."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "source",
+              "hebrew": "מקור"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-19-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "Unable to count each seed directly, the botanist had to ____ the total from the average number found in several small samples.",
+          "options": [
+            "record",
+            "predict",
+            "estimate",
+            "observe"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“estimate” means calculate an approximate value. Small samples support an approximate total.",
+            "distractors": {
+              "0": "“record” means store information for later use. The clue is that small samples support an approximate total.",
+              "1": "“predict” means state what is expected to happen. The clue is that small samples support an approximate total.",
+              "3": "“observe” means watch or examine directly. The clue is that small samples support an approximate total."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "estimate",
+              "hebrew": "לאמוד"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-19-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "Editors were allowed to correct spelling in quotations but could not ____ any wording that would change what the speaker meant.",
+          "options": [
+            "transfer",
+            "preserve",
+            "discard",
+            "alter"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“alter” means change the form, nature, or appearance of something. Changing substantive wording would distort the speaker's meaning.",
+            "distractors": {
+              "0": "“transfer” means move something from one place or system to another. The clue is that changing substantive wording would distort the speaker's meaning.",
+              "1": "“preserve” means protect something from loss or damage. The clue is that changing substantive wording would distort the speaker's meaning.",
+              "2": "“discard” means throw something away because it is no longer useful. The clue is that changing substantive wording would distort the speaker's meaning."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "alter",
+              "hebrew": "לשנות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-19-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The markings on the chart show a particularly ____ end to the broadcasts: one day the signal was strong, and by the next morning it had vanished entirely.",
+          "options": [
+            "persistent",
+            "abrupt",
+            "sporadic",
+            "gradual"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“abrupt” means happening suddenly and without warning. The broadcasts stopped completely from one day to the next.",
+            "distractors": {
+              "0": "“persistent” means continuing over time despite attempts to stop it. The clue is that the broadcasts stopped completely from one day to the next.",
+              "2": "“sporadic” means occurring at irregular and infrequent intervals. The clue is that the broadcasts stopped completely from one day to the next.",
+              "3": "“gradual” means happening slowly in stages. The clue is that the broadcasts stopped completely from one day to the next."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "abrupt",
+              "hebrew": "פתאומי, חד"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-19-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "When planning the underground station, the architects had to ____ a future rise in passenger numbers and make room for a wider platform.",
+          "options": [
+            "anticipate",
+            "verify",
+            "imply",
+            "modify"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“anticipate” means expect something and prepare for it. The architects allow in advance for growth that may occur later.",
+            "distractors": {
+              "1": "“verify” means check whether something is true or accurate. The clue is that the architects allow in advance for growth that may occur later.",
+              "2": "“imply” means suggest something without stating it explicitly. The clue is that the architects allow in advance for growth that may occur later.",
+              "3": "“modify” means make a partial change to something. The clue is that the architects allow in advance for growth that may occur later."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "anticipate",
+              "hebrew": "לצפות מראש"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-19-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "To keep costs within budget, the committee decided to ____ the survey by removing two districts from the sampling plan.",
+          "options": [
+            "compound",
+            "curtail",
+            "foster",
+            "offset"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“curtail” means reduce the extent or duration of something. Dropping districts reduces the scope of the survey.",
+            "distractors": {
+              "0": "“compound” means make an existing problem worse by adding to it. The clue is that dropping districts reduces the scope of the survey.",
+              "2": "“foster” means encourage the development of something. The clue is that dropping districts reduces the scope of the survey.",
+              "3": "“offset” means balance or counteract an effect. The clue is that dropping districts reduces the scope of the survey."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "curtail",
+              "hebrew": "לצמצם"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-19-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-19-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "Water pressure varied sharply overnight, so technicians installed a regulator to ____ it at a level the pipes could safely withstand.",
+          "options": [
+            "measure",
+            "restore",
+            "amplify",
+            "stabilize"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The regulator keeps pressure from varying excessively.",
+            "distractors": {
+              "0": "Measurement would tell technicians how pressure varies without correcting the variation.",
+              "1": "The sentence calls for a steady level, without establishing an earlier pressure level to restore.",
+              "2": "It is not designed to make the fluctuations or pressure greater."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "stabilize",
+              "hebrew": "לייצב"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-19-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The new wells made clean water less ____ during the dry season, when families had previously queued for hours to collect it.",
+          "options": [
+            "scarce",
+            "accessible",
+            "contaminated",
+            "affordable"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The additional wells ease a shortage of clean water.",
+            "distractors": {
+              "1": "The new wells make water more accessible, whereas the blank follows “less.”",
+              "2": "A shortage is established by the queues; no change in the level of contamination is described.",
+              "3": "Nothing indicates that families paid for water or that its price changed."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "scarce",
+              "hebrew": "נדיר, מצוי במחסור"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-19-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The association circulated the proposal to its members for discussion, but it has yet to ____ the plan publicly or urge any institution to adopt it.",
+          "options": [
+            "distribute",
+            "acknowledge",
+            "endorse",
+            "enforce"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The missing action is formal public support, distinct from circulating it for consideration.",
+            "distractors": {
+              "0": "The proposal has already been circulated, so distribution is not what remains to be done.",
+              "1": "Circulating the proposal already acknowledges its existence; the outstanding question is support.",
+              "3": "The association is described as potentially urging adoption rather than enforcing obligations."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך בפומבי, לאשר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-19-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The author dated the letter by means of a watermark, but the resulting chronology is ____ because the paper had continued in use for several decades.",
+          "options": [
+            "dubious",
+            "precise",
+            "impartial",
+            "disproved"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The watermark supplies too broad a time range to make the chronology trustworthy.",
+            "distractors": {
+              "1": "Several decades of use make the evidence insufficient to fix a narrow date.",
+              "2": "Impartiality concerns bias; the weakness is what the date range can establish.",
+              "3": "The evidence undermines the proposed date without proving it false."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "dubious",
+              "hebrew": "מפוקפק"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-19-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "Although the work produced six promising leads, two further tests were enough to ____ the investigation to three sites with the right geological features.",
+          "options": [
+            "narrow",
+            "relegate",
+            "diversify",
+            "extend"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The tests reduce the set of sites under consideration.",
+            "distractors": {
+              "1": "This would suggest downgrading the inquiry's importance, whereas only its scope changes.",
+              "2": "The tests remove possibilities rather than add or vary them.",
+              "3": "The investigation is reduced from six leads to three sites, rather than made broader."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "narrow",
+              "hebrew": "לצמצם, להצר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-19-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "Both project teams agreed to accept the result on condition that the assessment was conducted by an ____ reviewer with no stake in either outcome.",
+          "options": [
+            "impartial",
+            "authoritative",
+            "indispensable",
+            "anonymous"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Having no stake safeguards the reviewer's neutrality between both teams.",
+            "distractors": {
+              "1": "Expert credibility is different from an absence of favoritism.",
+              "2": "The requirement concerns the reviewer's lack of bias, not whether that person is uniquely necessary.",
+              "3": "The reviewer need not be anonymous to have no stake in the result."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "impartial",
+              "hebrew": "חסר פניות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-19-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-19-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Stage Directions for an Empty Room",
+        "paragraphs": [
+          "Readers of a printed play often treat stage directions as instructions from the playwright. Italic lines indicate that a door closes, that somebody crosses the room, or that a speaker waits before answering. For actors and designers these directions can provide practical guidance. For historians an additional question arises: who put the directions in that form, and what did that person expect them to do? A direction may preserve an authorial intention, record a decision made in rehearsal, or have been written after a production to help other companies stage the work.",
+          "Consider a comedy preserved in two fictitious documents. A manuscript used in rehearsal marks the point where a character becomes aware of a listener behind a screen. The first printed edition places that recognition earlier and supplies a direction for the character to move away from the screen. Moving away can lead an audience to infer knowledge before the manuscript’s preferred moment. The difference is small on the page but can alter which subsequent remarks seem accidental and which appear calculated. An editor who combines both versions without comment might unintentionally produce a third dramatic sequence in which the character's knowledge changes more than once.",
+          "Physical evidence can help explain one change without settling its authority. A plan of the original theatre may show that the screen could not cover a full-sized actor from some seats. A performer might therefore have moved in a direction that kept the fiction plausible for the audience. A later company, acting in a different room, could have no need for the same adjustment. The note is valuable evidence of one performance problem even if its usefulness as an instruction depends on architecture. Dating the direction may require a comparison of type, paper and annotations rather than a judgment about which wording seems dramatically better.",
+          "An edition prepared for readers can make these distinctions visible by explaining where a direction appears and what dramatic effect its placement might produce. If the main text gives only one version, the alternatives can remain accessible in the notes. Such an account cannot recover every movement made on a particular evening, and it need not forbid a modern performer from devising a new solution. It invites a reader to consider the surviving material as traces of decisions taken at several stages. A script can offer directions for an imagined stage while bearing marks left by the very particular rooms in which it has already worked."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What distinction about stage directions drives the author’s argument?",
+          "options": [
+            "Notes taken after a performance are primarily valuable as fixed instructions for future productions.",
+            "The placement that produces the clearest dramatic effect is the best guide to whether a direction originated with the playwright.",
+            "Editors can reconstruct a play's intended staging by resolving the disagreements between its earliest versions.",
+            "A direction’s significance can depend on who added it, when, and for what production conditions."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The text distinguishes intentions, rehearsal decisions and publication guidance and traces the effects of those origins.",
+            "distractors": {
+              "0": "A note can document a specific earlier problem without binding another company in a different space.",
+              "1": "The passage separates artistic judgment from evidence used to attribute or date an instruction.",
+              "2": "One version can be printed while alternatives remain available; the text does not promise a single recoverable intended staging."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "authorial",
+              "hebrew": "של המחבר"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-19-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "What would be a risk of silently combining both versions of the screen scene?",
+          "options": [
+            "The movement away could make the audience overlook whether the screen conceals the listener from every seat.",
+            "The character might appear to acquire the same knowledge at incompatible points in the resulting sequence.",
+            "The final version might imply a deliberate change in staging by the playwright before rehearsals began.",
+            "The printed instruction could make the character's calculated remarks seem accidental throughout the scene."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The author warns that unmarked combination can create a third, internally problematic sequence.",
+            "distractors": {
+              "0": "The visibility issue is plausible staging context, but the textual risk is conflicting points of recognition rather than the audience overlooking architecture.",
+              "2": "Conflicting documents do not establish who made the change or when; their combination can create a sequence absent from either text.",
+              "3": "An earlier awareness can have the opposite effect, making some later remarks appear knowing sooner."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "calculated",
+              "hebrew": "מחושב"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-19-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author assess the theatre plan as evidence?",
+          "options": [
+            "As enough to show that the manuscript version was initially devised for a different room.",
+            "As a way of dating the printed instruction more precisely than a study of the documents themselves.",
+            "As useful for explaining a choice in one production, with limited bearing on its authority elsewhere.",
+            "As a way to determine whether the printed movement should be kept in productions that use the same kind of screen."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Sight lines motivate an adjustment whose relevance depends on the architecture.",
+            "distractors": {
+              "0": "A theatre plan can show an optical constraint but does not establish the manuscript's setting or origins.",
+              "1": "An account of sightlines can explain a movement; dating may require examining type, paper, or annotations.",
+              "3": "The rest of the room and its sightlines matter, so a visually similar prop alone is insufficient."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "authority",
+              "hebrew": "סמכות"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-19-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “placement” refer to in an editor’s explanation of a direction?",
+          "options": [
+            "The point in the script’s unfolding action where the instruction appears.",
+            "The position to which the performer is directed to move.",
+            "The document or edition in which the instruction is found.",
+            "The surface where a handwritten note was added to a manuscript."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Its relation to nearby dialogue affects when a character seems to know something.",
+            "distractors": {
+              "1": "A character's position is part of the instruction itself, but placement here asks where the direction occurs in the dramatic sequence.",
+              "2": "The source and the point in the action are distinct features an editor can describe.",
+              "3": "The discussion concerns the dramatic effect of timing, not which part of a physical document carries the note."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "placement",
+              "hebrew": "מיקום"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-19-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What architectural constraint does the theatre plan suggest in the example?",
+          "options": [
+            "From several seats, the screen blocked views of the character's approach.",
+            "The actor moving away could appear to recognize the listener too late from the seats nearest the stage.",
+            "The screen was too close to the actor for their movement to be seen clearly from the rear of the room.",
+            "People in some seats might still see a person behind the screen."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The screen was not enough to conceal a full-sized actor from every angle.",
+            "distractors": {
+              "0": "The possible problem was insufficient concealment behind the screen, not an obstructed view of the approaching character.",
+              "1": "The plan suggests a visibility problem for an actor supposedly hidden by the screen, not a delay in recognition associated with specific seats.",
+              "2": "No distance from the screen or particular seating area is specified; the cited problem is that concealment could fail for some spectators."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "screen",
+              "hebrew": "מחיצה או פרגוד"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-19-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-19-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Although the steel frames had been stored outdoors, most joints showed no signs of corrosion.",
+          "options": [
+            "The steel frames had been stored outdoors; nevertheless, most joints showed no signs of corrosion.",
+            "Because the steel frames had been stored outdoors, most joints showed no signs of corrosion.",
+            "Most joints showed no signs of corrosion only before it became clear that the steel frames had been stored outdoors.",
+            "Most joints showed no signs of corrosion, which prevented anyone from finding out whether the steel frames had been stored outdoors."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the steel frames had been stored outdoors” and “most joints showed no signs of corrosion.”",
+            "distractors": {
+              "1": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast.",
+              "2": "It limits the second fact to an earlier time and adds a discovery that the original never mentions.",
+              "3": "It introduces an obstacle to discovering the first fact, which the original states directly."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-19-restatement-1-1"
+        },
+        {
+          "prompt": "The technician photographed them with a different instrument as a result of the fact that the microscope could not resolve the finer markings.",
+          "options": [
+            "The microscope could not resolve the finer markings; consequently, the technician photographed them with a different instrument.",
+            "The microscope could not resolve the finer markings; nevertheless, the technician photographed them with a different instrument.",
+            "The technician photographed them with a different instrument, but it is unknown whether the microscope could not resolve the finer markings.",
+            "The technician photographed them with a different instrument; consequently, the microscope could not resolve the finer markings."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the microscope could not resolve the finer markings, leading to the result that the technician photographed them with a different instrument.",
+            "distractors": {
+              "1": "It replaces the causal relationship with a concession.",
+              "2": "It casts doubt on the cause, which the original treats as an established fact.",
+              "3": "It reverses the direction of cause and result."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-19-restatement-1-2"
+        },
+        {
+          "prompt": "Once the light levels have fallen, the observers will start recording moth activity.",
+          "options": [
+            "The observers will start recording moth activity, regardless of whether the light levels have fallen.",
+            "The observers will not start recording moth activity even after the light levels have fallen.",
+            "The observers will start recording moth activity after the light levels have fallen.",
+            "The observers will start recording moth activity before the light levels have fallen."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled. The first event has to be complete.",
+            "distractors": {
+              "0": "It makes the first event irrelevant to the timing of the second.",
+              "1": "It denies the stated plan to carry out the second action.",
+              "3": "It places the scheduled action before the event that the sentence puts first."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-19-restatement-1-3"
+        },
+        {
+          "prompt": "The staff will adopt the method only if the researcher demonstrates sufficient accuracy.",
+          "options": [
+            "The staff will adopt the method in every case in which the researcher demonstrates sufficient accuracy.",
+            "The staff will adopt the method only on condition that the researcher demonstrates sufficient accuracy.",
+            "The staff will adopt the method only if it is impossible to establish that the researcher demonstrates sufficient accuracy.",
+            "The staff will adopt the method whether or not the researcher demonstrates sufficient accuracy."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The condition “the researcher demonstrates sufficient accuracy” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "0": "It treats the condition as sufficient and promises the outcome whenever it is met.",
+              "2": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met.",
+              "3": "It removes the requirement by making the outcome independent of the condition."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-19-restatement-1-4"
+        },
+        {
+          "prompt": "The printed schedule seemed accurate compared with the electronic schedule.",
+          "options": [
+            "The printed schedule appeared to exceed the electronic schedule in accuracy.",
+            "The electronic schedule appeared to exceed the printed schedule in accuracy.",
+            "The printed schedule appeared to match the electronic schedule in accuracy.",
+            "The difference in accuracy was established when the electronic schedule was more accurate than the printed schedule in a formal test."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the electronic schedule, first. The comparison concerns accuracy.",
+            "distractors": {
+              "0": "It reverses the relative ranking of the two items.",
+              "2": "It describes the two items as equal on the stated measure.",
+              "3": "It turns an impression into a demonstrated finding and invents a formal test."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-19-restatement-1-5"
+        },
+        {
+          "prompt": "But for the public appeal, the museum would not have recovered the missing panel.",
+          "options": [
+            "The museum would not have recovered the missing panel regardless of the effect of the public appeal.",
+            "The museum would not have recovered the missing panel because of the public appeal.",
+            "The museum would not have recovered the missing panel in the absence of the public appeal.",
+            "Whether the public appeal made any difference to the outcome is unknown."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the museum would not have recovered the missing panel” belongs to the hypothetical situation in which the public appeal was absent.",
+            "distractors": {
+              "0": "It predicts the same result without changing whether the factor was present.",
+              "1": "It attributes the hypothetical result to the presence of the factor rather than its absence.",
+              "3": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-19-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-19-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the proposed extension attracts enough donors, the university will review its operating costs.",
+          "options": [
+            "The proposed extension attracts enough donors; therefore, the university will review its operating costs.",
+            "The university will review its operating costs, including in the event that the proposed extension attracts enough donors.",
+            "The university will review its operating costs only in the event that the proposed extension attracts enough donors.",
+            "The university may or may not review its operating costs, depending on whether the proposed extension attracts enough donors."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the proposed extension attracts enough donors. The original leaves that case hypothetical.",
+            "distractors": {
+              "0": "It turns an open possibility into an established fact and presents it as the cause.",
+              "2": "It turns a condition that would make no difference into a requirement.",
+              "3": "It makes the outcome depend on the hypothetical condition."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-19-restatement-2-1"
+        },
+        {
+          "prompt": "The architects' association neither endorsed nor expressly rejected the choice of limestone for the new entrance.",
+          "options": [
+            "The architects' association withdrew an earlier endorsement of the choice of limestone for the new entrance.",
+            "The architects' association rejected the choice of limestone for the new entrance without giving a reason.",
+            "The architects' association accepted the choice of limestone for the new entrance in principle while withholding public support.",
+            "The architects' association offered no endorsement of the choice of limestone for the new entrance and issued no explicit rejection either."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It invents a prior endorsement and a reversal of position.",
+              "1": "It asserts an explicit rejection, which the original rules out.",
+              "2": "It invents an acceptance in principle, which cannot be inferred from the original."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-19-restatement-2-2"
+        },
+        {
+          "prompt": "The apparent gap in settlement stemmed less from a true decline in population than from the difficulty of identifying the period's buildings.",
+          "options": [
+            "The apparent gap in settlement was the principal reason for both a true decline in population and the difficulty of identifying the period's buildings.",
+            "A true decline in population and the difficulty of identifying the period's buildings played equally important roles in the apparent gap in settlement.",
+            "The difficulty of identifying the period's buildings contributed more to the apparent gap in settlement than a true decline in population did.",
+            "A true decline in population was the greater contributor to the apparent gap in settlement, though the difficulty of identifying the period's buildings also mattered."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “the difficulty of identifying the period's buildings” greater explanatory weight than “a true decline in population.”",
+            "distractors": {
+              "0": "It makes the outcome cause the factors that are supposed to explain it.",
+              "1": "It makes the factors equally important despite the stated inequality.",
+              "3": "It reverses the relative importance of the factors."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-19-restatement-2-3"
+        },
+        {
+          "prompt": "The museum did not lend the fragments to the university until its storage boxes had been replaced.",
+          "options": [
+            "The museum lent the fragments to the university only after its storage boxes had been replaced.",
+            "The museum lent the fragments to the university as evidence that its storage boxes had been replaced.",
+            "The museum lent the fragments to the university before its storage boxes had been replaced.",
+            "The museum did not lend the fragments to the university, although its storage boxes had been replaced."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "1": "It turns a timing relationship into an assertion about the actor’s purpose.",
+              "2": "It reverses the sequence by placing the main action first.",
+              "3": "It makes the main action fail to occur, whereas the original reports that it happened later."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-19-restatement-2-4"
+        },
+        {
+          "prompt": "Except for the one at the harbor, none of the coastal stations recorded a drop in pressure overnight.",
+          "options": [
+            "The one at the harbor recorded a drop in pressure overnight, and at least one other member of the group shares that distinction.",
+            "It has not been determined whether the one at the harbor recorded a drop in pressure overnight.",
+            "All the coastal stations recorded a drop in pressure overnight except the one at the harbor.",
+            "The one at the harbor recorded a drop in pressure overnight; the others in the same group did not."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the one at the harbor is the single item that has the stated property.",
+            "distractors": {
+              "0": "It allows a second exception even though “sole” limits the number to one.",
+              "1": "It changes an explicit exception into an uncertainty.",
+              "2": "It gives the property to the entire group except the one item that actually has it."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-19-restatement-2-5"
+        },
+        {
+          "prompt": "Although the engineer is credited with making the design practical, she was neither the first to propose it nor the only one to develop it.",
+          "options": [
+            "The design was already usable when the engineer joined the team, although she was the only person to refine the original proposal.",
+            "The engineer is recognized for turning the design into something usable, even though it had been proposed earlier and others took part in developing it.",
+            "The engineer first proposed the design but shared responsibility for making it practical with several colleagues.",
+            "The engineer is remembered mainly for suggesting the design, while other people deserve full credit for turning it into something usable."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The credit concerns usability. The sentence excludes both priority for the proposal and exclusive responsibility for its development",
+            "distractors": {
+              "0": "It contradicts both her role in making the design practical and the participation of others in development",
+              "2": "It assigns her priority that the original expressly denies",
+              "3": "It transfers practical credit away from her and changes the contribution for which she is recognized"
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "credited with",
+              "hebrew": "מיוחסת לו התרומה ל־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-19-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-19-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Running Clocks in a Moving World",
+        "paragraphs": [
+          "A navigation device built into a telephone can calculate a position using signals from a distant set of satellites. Each signal carries information about the time it was sent. Because radio waves travel very quickly, a small discrepancy in time corresponds to a substantial difference in inferred distance. The receiver combines information from several satellites while also adjusting for an error in its own clock. The result depends on the difference between measured and predicted arrival times. Improving the precision of a satellite clock is therefore only one part of making the position estimate reliable.",
+          "A satellite clock experiences motion and gravity that differ from those of a clock on the ground. In the theory of relativity, both differences affect the measured pace of a clock. Satellites orbit rapidly, and their motion tends to slow their clocks relative to the appropriate ground reference. On the other hand, being farther from Earth's centre typically places them where gravity slows time less. In commonly used navigation orbits the second effect exceeds the first, and their combination would make untreated satellite clocks gain time relative to clocks in the ground reference system. Navigation systems account for these predictable differences in their design and operation.",
+          "Propagation adds a different source of error. The upper atmosphere contains electrically charged particles and can change the speed at which navigation signals travel through it. The size of this effect depends in part on the signal's frequency. A receiver comparing two frequencies can estimate a substantial portion of the delay. In contrast, a signal reflected off a building may travel farther than the direct one before reaching the receiver. Comparing frequencies cannot by itself remove the geometric error introduced by that longer path. The causes of delay differ physically and call for different responses.",
+          "This distinction explains why errors can persist even when the underlying clocks are extraordinarily stable. The inference of position treats time as a way of measuring distance, which means that any process changing the times can masquerade as a displacement. Clock comparisons help solve one aspect of the problem, models of atmospheric propagation solve another, and antenna location and signal processing address local reflections. In open terrain the last effect can be modest, whereas a corridor of reflective buildings can make it prominent. The position shown on a screen represents the combined work of instruments and physical models, rather than a direct reading of a single ideal clock."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What thesis best unifies the navigation passage?",
+          "options": [
+            "Reliable positions depend largely on keeping a receiver’s clock synchronized with every orbiting clock.",
+            "The variation between positions in different settings chiefly reflects changes in the balance of gravitational and motion effects.",
+            "Reliable positions require distinguishing clock effects from several mechanisms that alter signal travel time.",
+            "Stable clock signals let receivers identify and correct most local reflections by comparing frequencies."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The article covers relativity, atmospheric delay and reflected paths as separate error sources.",
+            "distractors": {
+              "0": "The receiver can solve for clock error, and physical delays can remain even when clocks are stable.",
+              "1": "The buildings example concerns local propagation; the clock effects are a distinct source.",
+              "3": "Frequency comparison addresses part of the atmospheric effect; it does not resolve a longer reflected path by itself."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "propagation",
+              "hebrew": "התפשטות אות"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-19-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why might a receiver be less accurate in a street between tall buildings than an open field?",
+          "options": [
+            "Signals reflected from walls can travel a comparable path to direct signals but appear to have been sent at a different orbital time.",
+            "Charged particles trapped between buildings can delay signals at certain frequencies.",
+            "The taller buildings can increase the gravitational difference between ground and orbit enough to make the clocks unsynchronized.",
+            "A reflected signal can follow a longer path and be mistaken for the direct signal."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Local surfaces increase the opportunity for geometrically longer propagation.",
+            "distractors": {
+              "0": "The passage explains the error by added travel distance, not a change in the recorded transmission time.",
+              "1": "The frequency-dependent effect described occurs in the upper atmosphere, not as the explanation for the street contrast.",
+              "2": "The clock corrections concern orbital motion and gravity, rather than receiver visibility among buildings."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "displacement",
+              "hebrew": "העתק מקום"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-19-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the writer present relativity's role in ordinary navigation?",
+          "options": [
+            "As the primary explanation for navigation errors in heavily built areas.",
+            "As an effect whose correction depends on the frequencies picked up by the receiver.",
+            "As an unresolved problem because motion and gravity drive clocks in opposite directions.",
+            "As a real and predictable effect handled alongside other measurement problems."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The clock effects are explained and are accommodated through design.",
+            "distractors": {
+              "0": "The street example is explained by reflections, a propagation effect distinct from relativity.",
+              "1": "Two-frequency comparison is introduced for an atmospheric delay, not for clock corrections.",
+              "2": "The opposing effects combine in a predictable way and are taken into account."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "reference system",
+              "hebrew": "מערכת ייחוס"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-19-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does it mean for a time change to “masquerade as” a displacement?",
+          "options": [
+            "It can make a change of position look like an error in time.",
+            "It can register a real movement of the receiver that independent measurements miss.",
+            "It can change the receiver’s clock while leaving the inferred position unchanged.",
+            "It can appear in the calculation as if the receiver moved."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "A timing discrepancy can be interpreted as a distance change.",
+            "distractors": {
+              "0": "That reverses the example; a timing change is read as a spatial change.",
+              "1": "The change merely appears spatial; the time change need not come from actual motion.",
+              "2": "An apparent displacement is an effect on inferred position, rather than a time-only correction."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "masquerade as",
+              "hebrew": "להתחזות ל־"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-19-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "How can using two frequencies help with delay from the upper atmosphere?",
+          "options": [
+            "The frequencies travel different reflected paths, allowing the receiver to detect the shortest one.",
+            "The charged-particle delay differs with frequency and can be estimated by comparing the signals.",
+            "Both frequencies acquire the same atmospheric delay, so their average reveals it.",
+            "The receiver can compare the time each satellite clock gains relative to ground at each frequency."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The differential travel behaviour provides information about atmospheric delay.",
+            "distractors": {
+              "0": "Reflections are a separate source of error that frequency comparison alone does not solve.",
+              "2": "It is a difference between frequencies that allows the effect to be estimated.",
+              "3": "Satellite clock corrections are distinct from the frequency-dependent propagation delay."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "frequency",
+              "hebrew": "תדר"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-19-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

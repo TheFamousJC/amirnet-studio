@@ -1,0 +1,476 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "Staff kept the recovered bird indoors until it could fly normally and then decided to ____ it back into the wild.",
+      "options": [
+        "transfer",
+        "release",
+        "recruit",
+        "shelter"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Letting the recovered bird leave captivity is releasing it.",
+        "distractors": {
+          "0": "A transfer typically moves someone or something into another place or custody; the bird is allowed to return to freedom.",
+          "2": "The bird is not being signed up or brought into a group.",
+          "3": "The staff had been protecting the bird indoors; the decision ends that stay."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "release",
+          "hebrew": "לשחרר"
+        }
+      ],
+      "id": "test-18-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The lecture was planned to ____ with the annual fair, so both events opened on the same afternoon.",
+      "options": [
+        "alternate",
+        "compete",
+        "coincide",
+        "interfere"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The lecture and the fair occur at the same time.",
+        "distractors": {
+          "0": "Alternating would put the events at different times in turn.",
+          "1": "The shared starting time establishes coincidence, and the sentence says nothing about competition.",
+          "3": "The simultaneous start was planned, and no disruption of either event is mentioned."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "coincide",
+          "hebrew": "לחול באותו מועד (בביטוי coincide with)"
+        }
+      ],
+      "id": "test-18-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Short bursts of assistance helped individual growers, but the district's long-term effort required ____ support that would continue for several seasons.",
+      "options": [
+        "sustained",
+        "periodic",
+        "immediate",
+        "sporadic"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The aid needs to be maintained over an extended period.",
+        "distractors": {
+          "1": "Periodic support would arrive at intervals, whereas the statement calls for aid that continues across seasons.",
+          "2": "The emphasis is how long support lasts rather than how quickly it begins.",
+          "3": "Occasional bursts of assistance are precisely what the district says are insufficient."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "sustained",
+          "hebrew": "ממושך; רציף"
+        }
+      ],
+      "id": "test-18-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "When instructions conflict, the latest safety notice takes ____ over the older handbook, so staff must follow the notice.",
+      "options": [
+        "exception",
+        "obligation",
+        "authority",
+        "precedence"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Taking precedence means having priority when both instructions cannot be followed.",
+        "distractors": {
+          "0": "The notice outranks the handbook; no particular case is being exempted.",
+          "1": "An obligation is a duty imposed on someone; the sentence concerns the ranking of the documents.",
+          "2": "Authority is power or legitimacy; the established expression for priority in this context is takes precedence over."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "precedence",
+          "hebrew": "קדימות; עדיפות"
+        }
+      ],
+      "id": "test-18-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The waiter carried four glasses across the room on a flat ____ with raised edges.",
+      "options": [
+        "lid",
+        "shelf",
+        "cloth",
+        "tray"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "A tray provides a flat surface for carrying several items together.",
+        "distractors": {
+          "0": "A lid covers an opening and is not normally used to carry drinks.",
+          "1": "A shelf stores items in a fixed place rather than being held while crossing a room.",
+          "2": "A cloth does not have rigid raised edges to keep glasses on it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "tray",
+          "hebrew": "מגש"
+        }
+      ],
+      "id": "test-18-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The competition required artists to ____ their designs before midnight so the judges could review them the next day.",
+      "options": [
+        "submit",
+        "review",
+        "exhibit",
+        "announce"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Artists had to send in their designs by the deadline.",
+        "distractors": {
+          "1": "The judges would examine the designs later; the artists first had to send them in.",
+          "2": "A public display is different from sending entries for judging.",
+          "3": "Mentioning a design would not give judges the entry itself to review."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "submit",
+          "hebrew": "להגיש"
+        }
+      ],
+      "id": "test-18-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "The field notes mention a wooden box ____ the coins were discovered.",
+      "options": [
+        "where it",
+        "when there",
+        "which had",
+        "in which"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "In which introduces a relative clause giving the place of discovery.",
+        "distractors": {
+          "0": "Where could link the clause by itself, but the added it leaves two subjects.",
+          "1": "When refers to time rather than to a box, and the inserted there makes the clause ungrammatical.",
+          "2": "Which had cannot introduce the full clause the coins were discovered."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "discover",
+          "hebrew": "לגלות"
+        }
+      ],
+      "id": "test-18-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Had the site been open, the class ____ the ruins yesterday.",
+      "options": [
+        "could have visited",
+        "would have visit",
+        "can be visiting",
+        "could had visited"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Could have visited expresses the possible unreal past result.",
+        "distractors": {
+          "1": "The perfect requires the past participle visited.",
+          "2": "Can be visiting gives present possibility and conflicts with yesterday.",
+          "3": "A modal takes the bare perfect auxiliary have, not had."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "ruin",
+          "hebrew": "חורבה"
+        }
+      ],
+      "id": "test-18-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "A series of recordings ____ kept in a room where the humidity can be controlled.",
+      "options": [
+        "have",
+        "is",
+        "are being to",
+        "be"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "A series takes singular is, forming the passive is kept.",
+        "distractors": {
+          "0": "A series would take has, and active have kept supplies a different meaning.",
+          "2": "Being to kept cannot form a passive or agree with the singular series.",
+          "3": "Be is not a finite main verb in this declarative sentence."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "humidity",
+          "hebrew": "לחות"
+        }
+      ],
+      "id": "test-18-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Several of the volunteers offered ____ the labels into Arabic before the event.",
+      "options": [
+        "translating to",
+        "translate that",
+        "to translate",
+        "that translated"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Offer takes a to-infinitive for an action the subject volunteers to do.",
+        "distractors": {
+          "0": "Offered does not take this gerund phrase, and translate takes labels directly.",
+          "1": "The bare verb is not licensed after offered, and that comes in the wrong position.",
+          "3": "A that clause would require a subject; offered that translated is incomplete."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "translate",
+          "hebrew": "לתרגם"
+        }
+      ],
+      "id": "test-18-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "The opening of a second repair shop increased ____ for customers in the neighborhood.",
+      "base": "compete",
+      "answers": [
+        "competition"
+      ],
+      "explanation": "Competition names the rivalry for customers created by having two shops.",
+      "id": "test-18-word-1"
+    },
+    {
+      "prompt": "The paint faded so slowly that the difference became ____ only when the piece was compared with an old photograph.",
+      "base": "notice",
+      "answers": [
+        "noticeable"
+      ],
+      "explanation": "Noticeable means clear enough to be detected.",
+      "id": "test-18-word-2"
+    },
+    {
+      "prompt": "The original photograph was ____ at auction, while the museum kept a digital copy.",
+      "base": "sell",
+      "answers": [
+        "sold"
+      ],
+      "explanation": "Sold is the past participle of sell used with was.",
+      "id": "test-18-word-3"
+    },
+    {
+      "prompt": "The architect ____ used an uneven pattern so visitors would not assume the walls were identical.",
+      "base": "intention",
+      "answers": [
+        "intentionally"
+      ],
+      "explanation": "Intentionally is the adverb meaning that the choice was made on purpose.",
+      "id": "test-18-word-4"
+    }
+  ],
+  "writing": "Would you rather spend one week learning a skill intensively or learn it slowly over several months? Explain your choice.",
+  "listening": {
+    "type": "lecture",
+    "clips": [
+      {
+        "context": "Listen to part of a lecture on keeping artifacts stable during transport.",
+        "transcript": "A museum moved delicate ceramic bowls between buildings. The initial plan used stiff packing so the bowls could not shift. A trial with a damaged replica showed that vibrations traveled through the stiff material into the bowl. The final packing kept each bowl in place but introduced a softer layer between it and the crate. This reduced vibration without letting the object move freely.",
+        "audio": "/listening/lecture-8-1.wav",
+        "questions": [
+          {
+            "prompt": "Why was a softer layer added?",
+            "options": [
+              "To reduce the vibrations reaching each bowl.",
+              "To give each bowl room to slide inside the crate.",
+              "To make the crates easier to lift.",
+              "To hold fragments of the damaged replica together."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "The soft layer interrupted the transmission of vibration while preserving support.",
+              "distractors": {
+                "1": "The packing still prevented the bowls from shifting freely.",
+                "2": "Transport weight was not the concern described.",
+                "3": "The replica was used in a trial, not repaired by the new packing."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "vibration",
+                "hebrew": "רטט"
+              }
+            ],
+            "id": "test-18-audio-1-1",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on comparing water use.",
+        "transcript": "Two apartment buildings use similar amounts of water, but a manager wanted to know which used it more efficiently. She initially planned to divide the total in each building by the number of apartments. One building, however, included many empty apartments under renovation, while most apartments in the other were occupied. Dividing by all apartments would make the partly empty building look efficient even if its residents used more water per person. The manager collected occupancy figures and reported water use per resident as well. That made the comparison more meaningful, although the figures still could not distinguish indoor consumption from watering a shared garden. She therefore treated the new calculation as an improvement in the measure rather than a complete explanation of how the water was used.",
+        "audio": "/listening/lecture-8-2.wav",
+        "questions": [
+          {
+            "prompt": "Why might dividing by all apartments give a misleading result?",
+            "options": [
+              "Neither building had separate water meters.",
+              "The total use differed too greatly to compare.",
+              "One building had a higher proportion of empty units.",
+              "One building counted garden water but the other did not."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "Empty apartments inflate the denominator without adding normal resident use.",
+              "distractors": {
+                "0": "Consumption totals were available; the issue is the comparison unit.",
+                "1": "The buildings used similar amounts overall.",
+                "3": "Garden water remained an unresolved component, with no claim that one building omitted it."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "occupancy",
+                "hebrew": "תפוסה"
+              }
+            ],
+            "id": "test-18-audio-2-1",
+            "type": "lecture",
+            "difficulty": 3
+          },
+          {
+            "prompt": "What can the manager still not tell from the revised figures?",
+            "options": [
+              "How much of the water was used indoors rather than outside.",
+              "How many people live in each building.",
+              "Whether the original apartment counts included vacant units.",
+              "Whether the revised calculation uses residents as its basis."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "Water use per resident still combines indoor and garden use.",
+              "distractors": {
+                "1": "Occupancy information was collected.",
+                "2": "The problem was that all apartments, including empty ones, could be included.",
+                "3": "Using residents is explicitly part of the revised measure."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "consumption",
+                "hebrew": "צריכה"
+              }
+            ],
+            "id": "test-18-audio-2-2",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on reconstructing local history from advertisements.",
+        "transcript": "A historian studying a town's bakeries kept finding the phrase freshly baked in its old newspapers. She initially treated each advertisement as evidence that a shop was producing bread on its premises. Then she noticed that several shops used precisely the same illustration and wording. The similarity did not by itself show those shops lacked ovens. A printing company could have supplied a shared design to independent businesses. However, the historian obtained delivery books from one bakery and found that it supplied bread every morning to several of the advertising shops. The publicity therefore recorded where fresh bread was sold, but at least some notices did not identify where it had been baked. To extend her study, the historian compared advertisements with building plans that showed ovens and with leases that gave tenants permission to bake. These sources also had limits. An oven installed in a building might not be used, and permission does not establish that a tenant exercised it. By comparing sources, she developed a map that marked firm identifications separately from plausible ones. Her goal was to make the degree of uncertainty visible.",
+        "audio": "/listening/lecture-8-3.wav",
+        "questions": [
+          {
+            "prompt": "Which source showed that at least some shops sold bread made elsewhere?",
+            "options": [
+              "The printing company's shared design.",
+              "Building layouts with ovens drawn on them.",
+              "Leases permitting tenants to bake.",
+              "The delivery records of one bakery."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The records documented that a bakery supplied bread to advertising shops.",
+              "distractors": {
+                "0": "A common layout raised a question but did not establish how the shops obtained bread.",
+                "1": "Plans indicate physical capacity rather than delivery arrangements.",
+                "2": "Permission to bake does not show what products a shop actually sold."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "premises",
+                "hebrew": "מתחם בית עסק"
+              }
+            ],
+            "id": "test-18-audio-3-1",
+            "type": "lecture",
+            "difficulty": 3
+          },
+          {
+            "prompt": "Why did the historian distinguish firm identifications from plausible ones on her map?",
+            "options": [
+              "The location of every shop changed during the period.",
+              "Each source supports some conclusions more strongly than others.",
+              "Permission to bake is better evidence than any delivery record.",
+              "Newspaper advertisements were useful solely for identifying printers."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "Plans and leases can indicate possible baking without proving it took place, so the records justify different claims with different strength.",
+              "distractors": {
+                "0": "Changing addresses were not the reason given for marking uncertainty.",
+                "2": "The sources answer different questions; a lease still cannot establish actual baking.",
+                "3": "The notices suggest where bread was sold even if they do not establish where it was made."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "plausible",
+                "hebrew": "סביר"
+              }
+            ],
+            "id": "test-18-audio-3-2",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      }
+    ]
+  }
+}

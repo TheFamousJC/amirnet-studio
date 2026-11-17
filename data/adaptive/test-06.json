@@ -1,0 +1,477 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "The weather station needed a ____ power supply because even a brief interruption could erase measurements waiting to be transferred.",
+      "options": [
+        "portable",
+        "dependable",
+        "compact",
+        "economical"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "A dependable supply is one that can be counted on to stay available.",
+        "distractors": {
+          "0": "The sentence highlights continuous service rather than ease of moving the equipment.",
+          "2": "The size of the equipment does not establish whether power will be interrupted.",
+          "3": "Running costs are secondary to the stated need for uninterrupted operation."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "dependable",
+          "hebrew": "אמין"
+        }
+      ],
+      "id": "test-06-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "To reduce differences between examiners, the handbook will ____ a fixed order in which they are to read the instructions.",
+      "options": [
+        "interpret",
+        "test",
+        "prescribe",
+        "describe"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "A prescribed order is formally laid down and must be followed.",
+        "distractors": {
+          "0": "The handbook sets the order rather than explaining the meaning of an existing order.",
+          "1": "No trial or comparison of orders is described.",
+          "3": "A description could report any order; the handbook establishes the one examiners must use."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "prescribe",
+          "hebrew": "לקבוע; להורות"
+        }
+      ],
+      "id": "test-06-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The original index was ____ in one important respect: it listed personal names but omitted every place name.",
+      "options": [
+        "inconsistent",
+        "redundant",
+        "misclassified",
+        "deficient"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The index lacked one entire category that it was expected to cover.",
+        "distractors": {
+          "0": "The omission was systematic, not an irregular treatment of individual place names.",
+          "1": "An index is redundant when it repeats information unnecessarily; the problem here is missing coverage.",
+          "2": "No place names were assigned to the wrong category; they were omitted."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "deficient",
+          "hebrew": "לקוי; חסר"
+        }
+      ],
+      "id": "test-06-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "To satisfy the reviewer, the authors had to show a ____ improvement in accuracy with test results that anyone could check.",
+      "options": [
+        "demonstrable",
+        "considerable",
+        "anticipated",
+        "relative"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The requested improvement had to be established with verifiable evidence.",
+        "distractors": {
+          "1": "A large gain would not meet the reviewer's requirement unless it was supported by evidence.",
+          "2": "An expected improvement would not substitute for actual test results.",
+          "3": "A comparison may be part of evaluating improvement, but verifiability is the stated requirement."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "demonstrable",
+          "hebrew": "ניתן להוכחה"
+        }
+      ],
+      "id": "test-06-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The timetable offered a ____ between an early coach and a later train, either of which would arrive before the match.",
+      "options": [
+        "route",
+        "choice",
+        "ticket",
+        "fare"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The traveler can choose one of two workable options.",
+        "distractors": {
+          "0": "The sentence provides alternative services rather than specifying a path through particular places.",
+          "2": "A ticket is bought after selecting a service; the timetable does not offer one ticket shared by both.",
+          "3": "The prices of the services are not given."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "choice",
+          "hebrew": "בחירה"
+        }
+      ],
+      "id": "test-06-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The tenant association decided to ____ a public explanation after the council raised fees without stating a reason.",
+      "options": [
+        "invent",
+        "repeat",
+        "demand",
+        "withdraw"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The association wanted the council to provide information it had withheld.",
+        "distractors": {
+          "0": "Making up an explanation would not obtain the council's real reasons.",
+          "1": "The council had not yet stated a reason for the increase.",
+          "3": "The association is seeking an explanation rather than taking back one it gave."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "demand",
+          "hebrew": "לדרוש"
+        }
+      ],
+      "id": "test-06-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "The agreement requires both parties ____ the records for at least five years.",
+      "options": [
+        "to retaining",
+        "to retain",
+        "retaining of",
+        "retain that"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Require takes the object both parties plus a to-infinitive.",
+        "distractors": {
+          "0": "Infinitival to must be followed by a bare verb.",
+          "2": "This gerund construction cannot complement requires both parties.",
+          "3": "The bare verb retain is not licensed immediately after parties."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "retain",
+          "hebrew": "לשמור"
+        }
+      ],
+      "id": "test-06-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "This version of the map does not show all the wells that ____ in the original edition.",
+      "options": [
+        "was marking",
+        "had been mark",
+        "were marked",
+        "have mark"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Plural wells takes were, and marked is the participle for the passive.",
+        "distractors": {
+          "0": "Was does not agree with wells, and the wells did not perform the marking.",
+          "1": "Had been must be followed by marked in this passive clause.",
+          "3": "Have requires the participle marked, and this would make the wells the agents."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "well",
+          "hebrew": "באר"
+        }
+      ],
+      "id": "test-06-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "By the time the backup generator started, the vaccine refrigerators ____ without power for over two hours.",
+      "options": [
+        "will already be",
+        "had already been",
+        "would already being",
+        "have already been"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The past perfect measures a state leading up to a later past event.",
+        "distractors": {
+          "0": "The future phrase conflicts with the past reference given by started.",
+          "2": "Would takes the base form be rather than being.",
+          "3": "The present perfect uses the present as its reference point."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "backup",
+          "hebrew": "גיבוי"
+        }
+      ],
+      "id": "test-06-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "A single wire carries both signals, ____ a second cable unnecessary.",
+      "options": [
+        "thereby makes",
+        "unless making",
+        "thereby making",
+        "but it making"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Thereby making adds a participial result clause to the main clause.",
+        "distractors": {
+          "0": "A finite verb cannot link to the preceding clause using only thereby.",
+          "1": "The consequence is not a condition, and unless making leaves the condition unclear.",
+          "3": "But it needs a finite verb rather than making."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "thereby",
+          "hebrew": "ובכך"
+        }
+      ],
+      "id": "test-06-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "____, the team adopted the approach it had initially rejected, after finding that the alternatives did not work.",
+      "base": "eventual",
+      "answers": [
+        "Eventually"
+      ],
+      "explanation": "Eventually marks the outcome of a sequence and must be capitalized at the beginning of the sentence.",
+      "id": "test-06-word-1"
+    },
+    {
+      "prompt": "The committee's final ____ on whether to extend the contract will be announced on Friday.",
+      "base": "decide",
+      "answers": [
+        "decision"
+      ],
+      "explanation": "Decision is the noun for the formal choice made by the committee.",
+      "id": "test-06-word-2"
+    },
+    {
+      "prompt": "Because transport was delayed, most of the berries were ____ at the farm rather than sold fresh.",
+      "base": "freeze",
+      "answers": [
+        "frozen"
+      ],
+      "explanation": "The passive were frozen requires the irregular participle frozen.",
+      "id": "test-06-word-3"
+    },
+    {
+      "prompt": "Although the hypothesis was plausible, it had not yet been ____ by evidence from the field.",
+      "base": "prove",
+      "answers": [
+        "proven",
+        "proved"
+      ],
+      "explanation": "After had been, proven and proved are accepted participles of prove.",
+      "id": "test-06-word-4"
+    }
+  ],
+  "writing": "Should university courses include a group assignment even when most students prefer to work alone? Explain your position.",
+  "listening": {
+    "type": "lecture",
+    "clips": [
+      {
+        "context": "Listen to part of a lecture on seeds kept in collections.",
+        "transcript": "A seed bank keeps plants available for future research by drying and cooling their seeds. But counting envelopes tells you little about whether the collection is still useful. At intervals, staff take a few seeds from each batch and try to grow them. A sample that once sprouted readily may perform poorly years later, even when the envelope and the seeds inside look unchanged.",
+        "audio": "/listening/lecture-3-1.wav",
+        "questions": [
+          {
+            "prompt": "Why do staff try to grow some stored seeds?",
+            "options": [
+              "To find out which envelopes were opened before.",
+              "To compare the appearance of seeds from different plants.",
+              "To determine whether seeds in the batch remain viable.",
+              "To develop a new method of cooling stored material."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "The test checks an ability that cannot always be inferred from appearance.",
+              "distractors": {
+                "0": "The checks address whether seeds sprout rather than whether their envelopes were opened.",
+                "1": "Appearance can remain the same even as germination declines.",
+                "3": "Cooling is a storage practice, not the purpose of these trials."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "viable",
+                "hebrew": "בעל יכולת לנבוט"
+              }
+            ],
+            "id": "test-06-audio-1-1",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on naming features on maps.",
+        "transcript": "An archive recently digitized street plans produced during a period when the city often renamed streets. The archive team considered searchable text a priority, but it faced a problem. A reader who knows a modern name might never find a plan labeled with an earlier name. Automatically replacing every old name with the current one would make the plans easier to search, but it would also hide part of what the documents record. The team kept the names exactly as they appear and added searchable links to modern equivalents when a match could be confirmed. Some names are still unresolved. The website marks uncertain identifications explicitly rather than guessing. Users can therefore distinguish between original wording, a confirmed cross-reference, and a possible match.",
+        "audio": "/listening/lecture-3-2.wav",
+        "questions": [
+          {
+            "prompt": "How did the archive help readers search using a newer name?",
+            "options": [
+              "It added links when the old and new names could be matched.",
+              "It replaced obsolete labels before scanning each plan.",
+              "It removed plans that contained unidentified street names.",
+              "It allowed users to rename streets in the archive."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "Confirmed links help users locate plans while retaining their original wording.",
+              "distractors": {
+                "1": "The original labels were kept as evidence.",
+                "2": "Uncertain identifications are marked, not discarded.",
+                "3": "The solution is editorial cross-referencing, not user editing."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "cross-reference",
+                "hebrew": "הפניה צולבת"
+              }
+            ],
+            "id": "test-06-audio-2-1",
+            "type": "lecture",
+            "difficulty": 3
+          },
+          {
+            "prompt": "Why did the team refuse to replace historical labels automatically?",
+            "options": [
+              "The newer names are generally harder to search.",
+              "The old names were less likely to refer to more than one street.",
+              "Their wording is part of the information the plans preserve.",
+              "The scanned labels could not be read by most visitors."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "Replacing labels would preserve geography but hide a historical record of naming.",
+              "distractors": {
+                "0": "Modern names are precisely what some readers know.",
+                "1": "The lecture does not compare ambiguity in the two naming systems.",
+                "3": "Legibility was not the reason for preserving original names."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "identification",
+                "hebrew": "זיהוי"
+              }
+            ],
+            "id": "test-06-audio-2-2",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on the design of playgrounds.",
+        "transcript": "Public parks often contain seats at the edge of a playground. A landscape architect wanted to understand why some benches were occupied even on quiet mornings, while others were rarely used. Three benches had the best views of the entire play area, and she expected them to be the most popular. Instead, the busiest bench faced only one corner of the playground. When asked about their choice, caregivers said that the path behind this bench let them stand up, walk around it, and reach the playground quickly. People sitting in the benches with better views had to follow a longer path around a fence. The architect had assumed a bench was a stationary viewing point. Her visitors treated it as part of a short route. The study did not show that sightlines were unimportant; caregivers rejected places from which they could not see the equipment at all. It suggested that a design should consider visibility together with the speed of access. The architect later tested layouts in which benches had useful views and more than one way to reach the children.",
+        "audio": "/listening/lecture-3-3.wav",
+        "questions": [
+          {
+            "prompt": "Why was the bench facing a single corner widely used?",
+            "options": [
+              "Its position made it quick to reach the children.",
+              "The other benches gave a poorer view of the equipment.",
+              "It was easier to find from outside the park.",
+              "Its users could sit farther from the playground."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "The path behind the bench allowed direct, quick access.",
+              "distractors": {
+                "1": "Several less popular benches actually provided wider views.",
+                "2": "Approaching from outside the park was not the preference being explained.",
+                "3": "Visitors valued rapid access, not greater separation."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "access",
+                "hebrew": "גישה"
+              }
+            ],
+            "id": "test-06-audio-3-1",
+            "type": "lecture",
+            "difficulty": 3
+          },
+          {
+            "prompt": "What implication did the architect draw from the study?",
+            "options": [
+              "Designers should place every bench at the edge of one corner.",
+              "Designers should prefer the shortest path even when visibility is poor.",
+              "Designers should remove benches from the edges of playgrounds.",
+              "Designers should consider both views and how people move from seats."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The example shows that sitting and moving are related uses that should be designed together.",
+              "distractors": {
+                "0": "One bench illustrated the issue; no universal corner rule was proposed.",
+                "1": "Caregivers also rejected seating without a usable view.",
+                "2": "The improved layouts still include nearby seating."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "sightline",
+                "hebrew": "קו ראייה"
+              }
+            ],
+            "id": "test-06-audio-3-2",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      }
+    ]
+  }
+}

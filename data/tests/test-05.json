@@ -1,0 +1,996 @@
+{
+  "id": "test-05",
+  "number": 5,
+  "bankVersion": 2,
+  "title": "Measuring the Value of an Empty Seat / A Clock Below the Waves",
+  "sections": [
+    {
+      "id": "test-05-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "Although the library lends most of its collection, it must ____ the original maps in a secure room.",
+          "options": [
+            "retain",
+            "revise",
+            "release",
+            "replace"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“retain” means keep something in one's possession. The maps are kept on site under guard.",
+            "distractors": {
+              "1": "“revise” means change something to improve or correct it. The clue is that the maps are kept on site under guard.",
+              "2": "“release” means make something available to others. The clue is that the maps are kept on site under guard.",
+              "3": "“replace” means put something new in the place of something old. The clue is that the maps are kept on site under guard."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "retain",
+              "hebrew": "לשמור"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-05-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "The institute holds its ____ lecture on the first Friday in October, with one guest speaker each year.",
+          "options": [
+            "local",
+            "public",
+            "temporary",
+            "annual"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“annual” means occurring once a year. The lecture is held once each year.",
+            "distractors": {
+              "0": "“local” means relating to the nearby area. The clue is that the lecture is held once each year.",
+              "1": "“public” means open or available to anyone. The clue is that the lecture is held once each year.",
+              "2": "“temporary” means lasting for a limited time. The clue is that the lecture is held once each year."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "annual",
+              "hebrew": "שנתי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-05-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The clock proved ____ over the winter tests, losing less than a second each month for six months.",
+          "options": [
+            "visible",
+            "reliable",
+            "accessible",
+            "affordable"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“reliable” means consistently trustworthy or dependable. The clock performed consistently within a narrow margin of error.",
+            "distractors": {
+              "0": "“visible” means able to be seen. The clue is that the clock performed consistently within a narrow margin of error.",
+              "2": "“accessible” means possible to reach or use. The clue is that the clock performed consistently within a narrow margin of error.",
+              "3": "“affordable” means possible to buy without excessive expense. The clue is that the clock performed consistently within a narrow margin of error."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "reliable",
+              "hebrew": "אמין"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-05-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The signed ledger is the only surviving ____ of the payments made to those who repaired the harbour in 1864.",
+          "options": [
+            "exception",
+            "record",
+            "claim",
+            "objection"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“record” means account or documentation retained as evidence. The ledger preserves evidence of past payments.",
+            "distractors": {
+              "0": "“exception” means case that does not follow a general rule. The clue is that the ledger preserves evidence of past payments.",
+              "2": "“claim” means statement presented as true. The clue is that the ledger preserves evidence of past payments.",
+              "3": "“objection” means expression of opposition to something proposed. The clue is that the ledger preserves evidence of past payments."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "record",
+              "hebrew": "תיעוד"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-05-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The new chapter arrangement turned a scattered collection of observations into a ____ account in which each claim follows logically from the previous one.",
+          "options": [
+            "widespread",
+            "explicit",
+            "tentative",
+            "coherent"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“coherent” means forming a logical and unified whole. The rearranged book presents a unified line of reasoning.",
+            "distractors": {
+              "0": "“widespread” means extending across many places or among many people. The clue is that the rearranged book presents a unified line of reasoning.",
+              "1": "“explicit” means stated clearly and directly. The clue is that the rearranged book presents a unified line of reasoning.",
+              "2": "“tentative” means provisional and not yet definite. The clue is that the rearranged book presents a unified line of reasoning."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "coherent",
+              "hebrew": "קוהרנטי, עקבי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-05-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "One ____ deletion during a routine update removed three records that the technician had meant to keep.",
+          "options": [
+            "salient",
+            "inadvertent",
+            "plausible",
+            "concurrent"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“inadvertent” means unintentional, usually resulting from an oversight. The technician did not intend to delete the records.",
+            "distractors": {
+              "0": "“salient” means particularly noticeable or important. The clue is that the technician did not intend to delete the records.",
+              "2": "“plausible” means reasonable enough to be believed. The clue is that the technician did not intend to delete the records.",
+              "3": "“concurrent” means taking place at the same time. The clue is that the technician did not intend to delete the records."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "inadvertent",
+              "hebrew": "בלתי מכוון"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-05-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-05-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "The same unusual mark appeared on clay jars at several sites. By comparing the clay itself, researchers hoped to ____ the jars to a single workshop.",
+          "options": [
+            "return",
+            "assign",
+            "trace",
+            "adapt"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "They want to determine the original source of the jars.",
+            "distractors": {
+              "0": "Returning the jars would move them back, while the analysis is intended to identify their origin.",
+              "1": "Assigning the jars would classify them by decision rather than discover their physical origin.",
+              "3": "Adapting the jars would modify them for another use, which is unrelated to the analysis."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "trace",
+              "hebrew": "להתחקות אחר המקור"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-05-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The voucher is ____ at either branch until the end of August, although it can only be redeemed once.",
+          "options": [
+            "available",
+            "valid",
+            "refundable",
+            "eligible"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The sentence sets the locations and dates at which the voucher can be accepted.",
+            "distractors": {
+              "0": "Availability describes whether one can obtain the voucher, whereas the sentence concerns using it.",
+              "2": "A refund would return a payment, while “redeemed” here describes using the voucher.",
+              "3": "People or transactions may qualify; the voucher itself is in force."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "valid",
+              "hebrew": "תקף"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-05-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "When the central water pipe broke, the utility was able to ____ water from a smaller main to the affected district.",
+          "options": [
+            "withdraw",
+            "extract",
+            "divert",
+            "retain"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The alternative main supplied water by rerouting it.",
+            "distractors": {
+              "0": "This would suggest removing a supply rather than directing a supply into the district.",
+              "1": "The utility changes the course of the flow instead of removing water from its source by a separate process.",
+              "3": "Keeping the water in the smaller main would not supply the affected area."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "divert",
+              "hebrew": "להסיט"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-05-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The annual figure looked stable, but averaging the monthly returns served to ____ sharp losses that were concentrated in the first quarter.",
+          "options": [
+            "obscure",
+            "offset",
+            "isolate",
+            "exaggerate"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Averaging hid variations that were apparent in the separate returns.",
+            "distractors": {
+              "1": "The calculation changes how losses appear; it does not make up for the losses themselves.",
+              "2": "Isolating first-quarter losses would make them easier to see, while the average made them less visible.",
+              "3": "The stable average minimized the visibility of the losses rather than making them look greater."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "obscure",
+              "hebrew": "לטשטש, להסתיר מן העין"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-05-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "A new laboratory analysis appeared to ____ the earlier classification: the pigment in the sample was mineral-based, whereas the catalogue described it as plant-based.",
+          "options": [
+            "contradict",
+            "extend",
+            "clarify",
+            "endorse"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The chemical result and the written classification make incompatible claims.",
+            "distractors": {
+              "1": "The analysis challenges the original description rather than adding another compatible detail.",
+              "2": "The result conflicts with the catalogue's description rather than simply making it clearer.",
+              "3": "Agreement would require evidence of a plant-based pigment."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "contradict",
+              "hebrew": "לסתור"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-05-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "Libraries that end their leases early ____ a penalty equal to one month's rent, even if they can find another tenant for the owner.",
+          "options": [
+            "waive",
+            "levy",
+            "incur",
+            "reimburse"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Ending the lease early makes the library liable for a charge.",
+            "distractors": {
+              "0": "This would cancel the penalty, whereas the charge is still owed.",
+              "1": "The owner may impose the penalty; the library bears it.",
+              "3": "Reimbursement pays back a cost already borne by someone else, which is not what the libraries do."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "incur",
+              "hebrew": "לשאת בהוצאה, לספוג"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-05-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-05-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Measuring the Value of an Empty Seat",
+        "paragraphs": [
+          "A bus is often evaluated by the proportion of its seats that are occupied. The number seems to answer a reasonable question about the use of scarce resources: should a public agency continue to pay for vehicles that frequently travel with room to spare? Yet the average occupancy of a route aggregates journeys made for different reasons and at different times. Some unoccupied seats represent excess capacity; others make the timetable usable by passengers who cannot predict exactly when they will be able to depart. Distinguishing the cases requires attention to what passengers give up when the service disappears.",
+          "Suppose an agency reduces evening departures from every twenty minutes to once an hour. A person finishing work at a fixed time might simply learn the revised timetable. A colleague routinely asked to handle the final customer, by contrast, may face a choice between leaving a task unfinished and waiting nearly an hour for the next bus. If this second passenger switches to a costly ride home or changes jobs, the shorter timetable may still look efficient in occupancy figures. The remaining buses are fuller, while the losses to riders who withdrew are absent from the measurement.",
+          "In one hypothetical evaluation, analysts compare two periods with identical operating costs. During the first, service is concentrated around the busiest hour. During the second, the same number of buses is spread over a longer period. They measure occupancy in both cases, but they also count the workplaces an employee could leave at several specified times while reaching home within a reasonable interval. The extended schedule may increase this second measure even if it reduces average occupancy. Which result should guide the decision depends on the objective: accommodating the greatest number of trips in a short window and extending reliable access are related but distinct goals.",
+          "This approach should not make empty seats immune from scrutiny. Some low-use departures duplicate a reliable alternative, and retaining them can prevent investment where a different schedule would make a marked difference. It does, however, turn an intuition about waste into a question that can be investigated. An agency can identify where a departure is redundant and where it makes a network tolerant of ordinary variation in working hours. If transportation is partly valuable because it allows people to make plans despite uncertainty, capacity that remains unused on a given day can contribute to a service they are able to rely on."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What is the central distinction in “Measuring the Value of an Empty Seat”?",
+          "options": [
+            "An increase in occupancy is worthwhile whenever an agency can hold operating costs constant.",
+            "Scheduling more departures outside peak hours improves access without significantly changing occupancy.",
+            "Unused seats should be retained when they already serve many commuters during the busiest hour.",
+            "Unused capacity can be wasteful or can support dependable access under uncertain schedules."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The passage weighs redundancy against the option of traveling when a person is delayed.",
+            "distractors": {
+              "0": "The comparison holds costs constant precisely so that the competing value of dependable access can be considered.",
+              "1": "The text allows improved access to coincide with lower average occupancy and does not quantify the change.",
+              "2": "The focus is capacity that may be sparsely used but valuable to people with uncertain departure times."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "capacity",
+              "hebrew": "קיבולת"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-05-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why could shifting to an hourly evening schedule improve recorded occupancy while harming access?",
+          "options": [
+            "Riders with predictable shifts might change jobs rather than learn a longer timetable.",
+            "Fewer departures could create demand from workplaces previously too far from the route.",
+            "Some riders who need flexible departure times might stop taking the bus and disappear from the metric.",
+            "The concentration of passengers on fewer buses might make the occupancy estimate less accurate."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The remaining trips can be fuller even if people unable to use them suffer a loss.",
+            "distractors": {
+              "0": "The predictable worker can adjust; the example attributes the more consequential trade-off to the worker with variable hours.",
+              "1": "The schedule changes when the bus runs, not which workplaces the route is near.",
+              "3": "The measure can accurately describe fuller buses while overlooking riders who stopped using them."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "withdraw",
+              "hebrew": "לפרוש"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-05-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author regard occupancy figures?",
+          "options": [
+            "As relevant observations that need to be considered with other measures.",
+            "As a rough substitute for counting the total number of passenger trips.",
+            "As a direct measure of access at equal costs.",
+            "As most useful when the analyst has already decided that lightly used departures are inefficient."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The evaluation retains occupancy while adding an access measure.",
+            "distractors": {
+              "1": "The argument concerns how full buses are and what that misses, rather than using occupancy to estimate total trips.",
+              "2": "Comparable costs do not make occupancy a measure of available departure opportunities.",
+              "3": "Identifying true inefficiency is an outcome of the wider investigation, not the required starting assumption."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "aggregate",
+              "hebrew": "לאגד"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-05-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “redundant” identify near the end of the passage?",
+          "options": [
+            "A departure too lightly used to pay its share of operating costs.",
+            "A departure shifted from the busiest hour to an off-peak period.",
+            "A departure that adds little because a reliable substitute exists.",
+            "A departure capable of absorbing passengers when their shifts end late."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The preceding sentence introduces departures that duplicate another option.",
+            "distractors": {
+              "0": "Revenue is not the criterion; the key is whether there is a reliable substitute.",
+              "1": "Changing its place on the timetable does not establish duplication.",
+              "3": "Availability in that situation is a reason a low-use departure may add value."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "redundant",
+              "hebrew": "מיותר בשל כפילות"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-05-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Which outcome did the analysts add to occupancy in their hypothetical evaluation?",
+          "options": [
+            "The number of passengers reaching home within the target interval during the busiest hour.",
+            "The range of departure times offered at the same operating cost.",
+            "The number of workplaces from which commuters could reach a bus within a fixed walking time.",
+            "The number of workplaces permitting a timely return home at several departure times."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "This measures access under multiple possibilities for when work ends.",
+            "distractors": {
+              "0": "The new measure counts qualifying workplaces at multiple departure times rather than passengers at one peak hour.",
+              "1": "That describes how the schedules were designed, not the added measure of feasible journeys.",
+              "2": "The evaluation measures the time it takes to reach home when leaving work at specified times, not merely to reach a stop."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "specified",
+              "hebrew": "מוגדר מראש"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-05-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-05-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "It is true that the account contains errors in dates, yet it remains useful as a record of daily life.",
+          "options": [
+            "Because the account contains errors in dates, it remains useful as a record of daily life.",
+            "It remains useful as a record of daily life, which prevented anyone from finding out whether the account contains errors in dates.",
+            "The account contains errors in dates; nevertheless, it remains useful as a record of daily life.",
+            "It remains useful as a record of daily life only before it became clear that the account contains errors in dates."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the account contains errors in dates” and “it remains useful as a record of daily life.”",
+            "distractors": {
+              "0": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast.",
+              "1": "It introduces an obstacle to discovering the first fact, which the original states directly.",
+              "3": "It limits the second fact to an earlier time and adds a discovery that the original never mentions."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-05-restatement-1-1"
+        },
+        {
+          "prompt": "Owing to the fact that the lecturer's notes had been lost, the transcript was prepared from a recording.",
+          "options": [
+            "The lecturer's notes had been lost; consequently, the transcript was prepared from a recording.",
+            "The lecturer's notes had been lost; nevertheless, the transcript was prepared from a recording.",
+            "The transcript was prepared from a recording; consequently, the lecturer's notes had been lost.",
+            "The transcript was prepared from a recording, but it is unknown whether the lecturer's notes had been lost."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the lecturer's notes had been lost, leading to the result that the transcript was prepared from a recording.",
+            "distractors": {
+              "1": "It replaces the causal relationship with a concession.",
+              "2": "It reverses the direction of cause and result.",
+              "3": "It casts doubt on the cause, which the original treats as an established fact."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-05-restatement-1-2"
+        },
+        {
+          "prompt": "Once the train has cleared the crossing, the signal operator will raise the barrier.",
+          "options": [
+            "The signal operator will raise the barrier, regardless of whether the train has cleared the crossing.",
+            "The signal operator will raise the barrier before the train has cleared the crossing.",
+            "The signal operator will raise the barrier after the train has cleared the crossing.",
+            "The signal operator will not raise the barrier even after the train has cleared the crossing."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled. The first event has to be complete.",
+            "distractors": {
+              "0": "It makes the first event irrelevant to the timing of the second.",
+              "1": "It places the scheduled action before the event that the sentence puts first.",
+              "3": "It denies the stated plan to carry out the second action."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-05-restatement-1-3"
+        },
+        {
+          "prompt": "They will be lent to the gallery only if the prints can be handled safely.",
+          "options": [
+            "They will be lent to the gallery whether or not the prints can be handled safely.",
+            "They will be lent to the gallery only on condition that the prints can be handled safely.",
+            "They will be lent to the gallery only if it is impossible to establish that the prints can be handled safely.",
+            "They will be lent to the gallery in every case in which the prints can be handled safely."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The condition “the prints can be handled safely” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "0": "It removes the requirement by making the outcome independent of the condition.",
+              "2": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met.",
+              "3": "It treats the condition as sufficient and promises the outcome whenever it is met."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-05-restatement-1-4"
+        },
+        {
+          "prompt": "The original instrument seemed precise compared with its modern replica.",
+          "options": [
+            "The difference in precision was established when its modern replica measured more precisely than the original instrument in a formal test.",
+            "Its modern replica appeared to exceed the original instrument in precision.",
+            "The original instrument appeared to match its modern replica in precision.",
+            "The original instrument appeared to exceed its modern replica in precision."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, its modern replica, first. The comparison concerns precision.",
+            "distractors": {
+              "0": "It turns an impression into a demonstrated finding and invents a formal test.",
+              "2": "It describes the two items as equal on the stated measure.",
+              "3": "It reverses the relative ranking of the two items."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-05-restatement-1-5"
+        },
+        {
+          "prompt": "But for the conservator's photograph, the workshop could not have reconstructed the pattern.",
+          "options": [
+            "Whether the conservator's photograph made any difference to the outcome is unknown.",
+            "The workshop could not have reconstructed the pattern in the absence of the conservator's photograph.",
+            "The workshop could not have reconstructed the pattern because of the conservator's photograph.",
+            "The workshop could not have reconstructed the pattern regardless of the effect of the conservator's photograph."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the workshop could not have reconstructed the pattern” belongs to the hypothetical situation in which the conservator's photograph was absent.",
+            "distractors": {
+              "0": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs.",
+              "2": "It attributes the hypothetical result to the presence of the factor rather than its absence.",
+              "3": "It predicts the same result without changing whether the factor was present."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-05-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-05-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the revised estimate is accurate, the board will need to authorize extra spending.",
+          "options": [
+            "The board may or may not need to authorize extra spending, depending on whether the revised estimate is accurate.",
+            "The revised estimate is accurate; therefore, the board will need to authorize extra spending.",
+            "The board will need to authorize extra spending only in the event that the revised estimate is accurate.",
+            "The board will need to authorize extra spending, including in the event that the revised estimate is accurate."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the revised estimate is accurate. The original leaves that case hypothetical.",
+            "distractors": {
+              "0": "It makes the outcome depend on the hypothetical condition.",
+              "1": "It turns an open possibility into an established fact and presents it as the cause.",
+              "2": "It turns a condition that would make no difference into a requirement."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-05-restatement-2-1"
+        },
+        {
+          "prompt": "The zoning board neither endorsed nor expressly rejected the request to widen the service lane.",
+          "options": [
+            "The zoning board accepted the request to widen the service lane in principle while withholding public support.",
+            "The zoning board rejected the request to widen the service lane without giving a reason.",
+            "The zoning board offered no endorsement of the request to widen the service lane and issued no explicit rejection either.",
+            "The zoning board withdrew an earlier endorsement of the request to widen the service lane."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It invents an acceptance in principle, which cannot be inferred from the original.",
+              "1": "It asserts an explicit rejection, which the original rules out.",
+              "3": "It invents a prior endorsement and a reversal of position."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-05-restatement-2-2"
+        },
+        {
+          "prompt": "The instrument's popularity stemmed less from its ability to detect faint sounds than from its portability in difficult terrain.",
+          "options": [
+            "The instrument's popularity was the principal reason for both its ability to detect faint sounds and its portability in difficult terrain.",
+            "Its ability to detect faint sounds was the greater contributor to the instrument's popularity, though its portability in difficult terrain also mattered.",
+            "Its ability to detect faint sounds and its portability in difficult terrain played equally important roles in the instrument's popularity.",
+            "Its portability in difficult terrain contributed more to the instrument's popularity than its ability to detect faint sounds did."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “its portability in difficult terrain” greater explanatory weight than “its ability to detect faint sounds.”",
+            "distractors": {
+              "0": "It makes the outcome cause the factors that are supposed to explain it.",
+              "1": "It reverses the relative importance of the factors.",
+              "2": "It makes the factors equally important despite the stated inequality."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-05-restatement-2-3"
+        },
+        {
+          "prompt": "The photographers did not release the portraits until the families had approved their use.",
+          "options": [
+            "The photographers released the portraits only after the families had approved their use.",
+            "The photographers did not release the portraits, although the families had approved their use.",
+            "The photographers released the portraits before the families had approved their use.",
+            "The photographers released the portraits as evidence that the families had approved their use."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "1": "It makes the main action fail to occur, whereas the original reports that it happened later.",
+              "2": "It reverses the sequence by placing the main action first.",
+              "3": "It turns a timing relationship into an assertion about the actor’s purpose."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-05-restatement-2-4"
+        },
+        {
+          "prompt": "Of the revised timetables, none include a late service on Fridays with the sole exception of the spring edition.",
+          "options": [
+            "It has not been determined whether the spring edition includes a late service on Fridays.",
+            "The spring edition includes a late service on Fridays, and at least one other member of the group shares that distinction.",
+            "All the revised timetables include a late service on Fridays except the spring edition.",
+            "The spring edition includes a late service on Fridays; the others in the same group do not."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the spring edition is the single item that has the stated property.",
+            "distractors": {
+              "0": "It changes an explicit exception into an uncertainty.",
+              "1": "It allows a second exception even though “sole” limits the number to one.",
+              "2": "It gives the property to the entire group except the one item that actually has it."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-05-restatement-2-5"
+        },
+        {
+          "prompt": "The two estimates agree only insofar as they cover the districts that supplied complete records.",
+          "options": [
+            "The two estimates are equally reliable because both exclude all districts with incomplete records.",
+            "The estimates are consistent with each other for the districts with full records, and their agreement does not extend beyond that group.",
+            "The full records made it possible to estimate results for districts that supplied only partial data.",
+            "The estimates differ only in the districts whose records were complete."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The agreement is expressly limited to the districts with complete records",
+            "distractors": {
+              "0": "Agreement within a subset does not establish equal reliability or that the remaining districts were excluded",
+              "2": "This claims the complete records enabled estimates for other districts, something the sentence never says",
+              "3": "This reverses the area of agreement and disagreement"
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "insofar as",
+              "hebrew": "במידה שבה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-05-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-05-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "A Clock Below the Waves",
+        "paragraphs": [
+          "In deep water, where sunlight never supplies a reliable marker of day and night, a rhythmic animal might seem a contradiction. Yet a marine instrument left on the bottom often records activities that rise and fall with an identifiable period. Sorting out the origin of one of these cycles is harder than finding the cycle itself. Some rhythms are responses to recurring changes in the surroundings. Others are produced by internal mechanisms that keep running even when external signals are removed. An animal can also combine these strategies, using an environmental event to reset a timing mechanism that would continue temporarily in its absence.",
+          "Consider a small crustacean that emerges from sediment at certain times of day. At its natural site, both the strength of tidal currents and the arrival of food particles may follow regular schedules. Its emergence pattern might be directly driven by one of these schedules, or it might be timed by a mechanism inside the animal. Moving the crustacean into a tank with constant conditions allows investigators to ask whether the pattern continues. A rhythm that persists for several cycles under those circumstances suggests an internal contribution, though an experimenter must first exclude unintended cues such as a pump whose operation varies on a timer.",
+          "Observations of natural populations provide a further test. If the activity peak shifts in step after a change in current timing, currents might serve as cues. An immediate response could indicate that current itself triggers the behaviour. A gradual adjustment over several cycles would be more consistent with a timing mechanism that is being reset, as internal rhythms often take time to align with a changed environmental schedule. Neither pattern alone reveals the machinery involved, and different cues can sometimes shift together.",
+          "Even after an internal rhythm is established, there remains a separate question: what benefit does it confer? Anticipating an influx of food might improve the chance of feeding, but avoiding a predator active at another time could yield the same schedule. A species that appears punctual may even have inherited its rhythm from an ancestor that lived under substantially different conditions. These explanations generate different predictions, which researchers must compare with observations or with carefully controlled experiments. The existence of a cycle supplies a clue about how an animal lives, but cannot, by itself, identify the force that originally favoured it."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What distinction is central to the discussion of rhythms below the waves?",
+          "options": [
+            "Most rhythms persist because a change in tidal currents resets the animal’s internal clock.",
+            "Observing animal rhythms in a constant environment can identify what rewards that behaviour in nature.",
+            "Identifying a recurring pattern is distinct from determining its mechanism or its survival advantage.",
+            "A rhythmic response to tidal currents is more useful for finding food than for avoiding predators."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The passage separates detection, external or internal timing, and adaptive explanations.",
+            "distractors": {
+              "0": "The example keeps direct triggers, internal processes, and other environmental cues open.",
+              "1": "The constant environment probes mechanism; the advantage requires different evidence.",
+              "3": "Both benefits are proposed, with no evidence favoring one as generally more useful."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "rhythm",
+              "hebrew": "מקצב"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-05-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Which observation would best support an internal timing mechanism in the tank example?",
+          "options": [
+            "Emergence continues on a schedule for several cycles once recurring cues have been excluded.",
+            "Emergence tracks food deliveries in the tank even though the current remains steady.",
+            "The crustacean emerges immediately each time a current is introduced on a regular schedule.",
+            "Emergence persists while the pump runs on the site’s usual tidal timetable."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Persistence in constant conditions supports an internal contribution after possible hidden signals are ruled out.",
+            "distractors": {
+              "1": "Regular food delivery is still a recurring external cue.",
+              "2": "Immediate response fits direct triggering and does not require an internal clock.",
+              "3": "The pump may supply a hidden recurring cue, so this condition cannot isolate internal timing."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "persist",
+              "hebrew": "להימשך"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-05-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "Which description fits the author's interpretation of marine periodic behaviour?",
+          "options": [
+            "Convinced similar schedules indicate shared mechanisms.",
+            "Convinced that persistent rhythms matter chiefly because they let animals anticipate food availability.",
+            "Mainly interested in using field patterns to rule out evidence from laboratory conditions.",
+            "Evidence-minded and careful to consider competing explanations."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Each claim is paired with experimental checks and alternative causes.",
+            "distractors": {
+              "0": "Similar schedules may result from different triggers or arise under different evolutionary pressures.",
+              "1": "The passage presents food prediction alongside other possible explanations.",
+              "2": "The lab and field tests are complementary ways to evaluate timing."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "cue",
+              "hebrew": "אות מנחה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-05-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does it mean for an internal rhythm to “align” with a changed schedule?",
+          "options": [
+            "To adjust its timing to match the new pattern.",
+            "To recur at a steady interval under unchanging conditions.",
+            "To maintain its previous timing despite the shift.",
+            "To begin at the same moment as the environmental change."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The text describes gradual synchronization after currents shift.",
+            "distractors": {
+              "1": "A free-running rhythm can be steady without matching the altered external schedule.",
+              "2": "Alignment involves changing when activity peaks rather than maintaining the previous schedule.",
+              "3": "The text contrasts gradual alignment with an immediate response; it does not imply that timing shifts all at once."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "align",
+              "hebrew": "להסתנכרן"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-05-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What might signal direct triggering by a tidal current, in the author's example?",
+          "options": [
+            "The emergence peak persists after recurring current cues are removed.",
+            "A shift in the emergence peak immediately after current timing changes.",
+            "The current and the delivery of food peak together at the natural site.",
+            "The emergence peak shifts gradually over several cycles of the new current schedule."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "An immediate adjustment is contrasted with gradual resetting of an internal timer.",
+            "distractors": {
+              "0": "Persistence without the cue supports an internal contribution.",
+              "2": "The coincidence leaves both cues possible without showing that the current triggers emergence.",
+              "3": "Gradual adjustment fits resetting of an internal timer more closely than direct triggering."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "trigger",
+              "hebrew": "לעורר באופן ישיר"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-05-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

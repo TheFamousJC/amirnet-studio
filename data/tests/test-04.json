@@ -1,0 +1,996 @@
+{
+  "id": "test-04",
+  "number": 4,
+  "bankVersion": 2,
+  "title": "An Address That Outlived Its Building / Borrowed Time in a Forest",
+  "sections": [
+    {
+      "id": "test-04-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "The study found a persistent ____ between the wages of urban workers and those of rural workers doing comparable jobs.",
+          "options": [
+            "gap",
+            "delay",
+            "decline",
+            "rise"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“gap” means difference or separation between two things. The observation compares two separate groups' wages.",
+            "distractors": {
+              "1": "“delay” means additional waiting time before an event. The clue is that the observation compares two separate groups' wages.",
+              "2": "“decline” means decrease in amount or level. The clue is that the observation compares two separate groups' wages.",
+              "3": "“rise” means increase in amount or level. The clue is that the observation compares two separate groups' wages."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "gap",
+              "hebrew": "פער"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-04-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "The catalogue became ____ when the library removed the password and invited anyone to search it.",
+          "options": [
+            "local",
+            "temporary",
+            "public",
+            "annual"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“public” means open or available to anyone. Anyone can use the catalogue after the password is removed.",
+            "distractors": {
+              "0": "“local” means relating to the nearby area. The clue is that anyone can use the catalogue after the password is removed.",
+              "1": "“temporary” means lasting for a limited time. The clue is that anyone can use the catalogue after the password is removed.",
+              "3": "“annual” means occurring once a year. The clue is that anyone can use the catalogue after the password is removed."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "public",
+              "hebrew": "פתוח לציבור"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-04-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "Moving the exhibition to the ground floor made it ____ to visitors who could not climb the staircase.",
+          "options": [
+            "reliable",
+            "affordable",
+            "visible",
+            "accessible"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“accessible” means possible to reach or use. The relocation removed a physical barrier to visiting.",
+            "distractors": {
+              "0": "“reliable” means consistently trustworthy or dependable. The clue is that the relocation removed a physical barrier to visiting.",
+              "1": "“affordable” means possible to buy without excessive expense. The clue is that the relocation removed a physical barrier to visiting.",
+              "2": "“visible” means able to be seen. The clue is that the relocation removed a physical barrier to visiting."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "accessible",
+              "hebrew": "נגיש"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-04-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The newspaper's ____ that the bridge was already open proved false when inspectors found that the entrance was still closed.",
+          "options": [
+            "exception",
+            "record",
+            "claim",
+            "objection"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“claim” means statement presented as true. The newspaper made a statement subsequently shown to be false.",
+            "distractors": {
+              "0": "“exception” means case that does not follow a general rule. The clue is that the newspaper made a statement subsequently shown to be false.",
+              "1": "“record” means account or documentation retained as evidence. The clue is that the newspaper made a statement subsequently shown to be false.",
+              "3": "“objection” means expression of opposition to something proposed. The clue is that the newspaper made a statement subsequently shown to be false."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "claim",
+              "hebrew": "טענה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-04-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "After three workshops, the planners reached a ____ that the new footbridge should keep the existing alignment.",
+          "options": [
+            "consensus",
+            "restriction",
+            "transition",
+            "incentive"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“consensus” means general agreement among members of a group. The participants broadly agreed on the footbridge's alignment.",
+            "distractors": {
+              "1": "“restriction” means rule or condition that limits behaviour. The clue is that the participants broadly agreed on the footbridge's alignment.",
+              "2": "“transition” means process of changing from one state to another. The clue is that the participants broadly agreed on the footbridge's alignment.",
+              "3": "“incentive” means anything that encourages someone to take an action. The clue is that the participants broadly agreed on the footbridge's alignment."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "consensus",
+              "hebrew": "הסכמה כללית"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-04-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The archive examined the ____ renovations of two libraries that were both closed during the same six weeks.",
+          "options": [
+            "inadvertent",
+            "concurrent",
+            "plausible",
+            "salient"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“concurrent” means taking place at the same time. The two projects took place during the same period.",
+            "distractors": {
+              "0": "“inadvertent” means unintentional, usually resulting from an oversight. The clue is that the two projects took place during the same period.",
+              "2": "“plausible” means reasonable enough to be believed. The clue is that the two projects took place during the same period.",
+              "3": "“salient” means particularly noticeable or important. The clue is that the two projects took place during the same period."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "concurrent",
+              "hebrew": "בו-זמני"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-04-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-04-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "Work on the footpath stopped during the nesting season. The council expects the crews to ____ construction when the birds leave.",
+          "options": [
+            "initiate",
+            "resume",
+            "accelerate",
+            "extend"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The work had started, stopped, and is expected to continue.",
+            "distractors": {
+              "0": "Construction had already begun before the nesting season.",
+              "2": "This would mean increasing the pace, although the relevant change is from a stoppage to activity.",
+              "3": "This would lengthen the path or project, which the sentence does not imply."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "resume",
+              "hebrew": "לחדש, להמשיך לאחר הפסקה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-04-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "A replacement bridge would be faster to build, but the repair proposal remains ____ if its costs can be kept within the existing budget.",
+          "options": [
+            "mandatory",
+            "imminent",
+            "obsolete",
+            "viable"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The proposal remains workable given the stated financial condition.",
+            "distractors": {
+              "0": "The repair is an option under consideration rather than a requirement.",
+              "1": "This concerns how soon the repair would happen, which the budget condition does not establish.",
+              "2": "A successful budget limit would keep the repair workable, not make it out of date."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "viable",
+              "hebrew": "בר־קיימא, מעשי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-04-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The editors condensed the article to half its original length but chose to ____ the full account of the field methods.",
+          "options": [
+            "retain",
+            "summarize",
+            "restore",
+            "replicate"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "They left one part intact while shortening the rest.",
+            "distractors": {
+              "1": "This would shorten the account of the methods, contrary to leaving it in full.",
+              "2": "This would bring back something previously removed; the sentence says the editors chose to keep that part.",
+              "3": "This would produce a separate copy rather than leave a portion of the original in place."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "retain",
+              "hebrew": "לשמור, להחזיק"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-04-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The diary was the only record dating the storm to early April until port registers provided an independent account that could ____ the entry.",
+          "options": [
+            "refute",
+            "corroborate",
+            "interpret",
+            "replicate"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "A separate record supports what the diary says about the date.",
+            "distractors": {
+              "0": "The dates agree; the port records do not disprove the entry.",
+              "2": "The registers add supporting evidence rather than an explanation of the entry's words.",
+              "3": "An independent account need not reproduce the diary entry or its wording."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "corroborate",
+              "hebrew": "לאמת באמצעות ראיה נוספת"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-04-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The will's instructions were ____: the phrase “the western field” could refer either to the family's meadow or to an adjoining plot bought the following year.",
+          "options": [
+            "incomplete",
+            "inaccurate",
+            "inconsistent",
+            "ambiguous"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The expression permits two interpretations.",
+            "distractors": {
+              "0": "The instruction contains a term whose referent is uncertain, rather than omitting the term altogether.",
+              "1": "The two readings reveal uncertainty about intent, not that the instruction contains a factual error.",
+              "2": "There are not two mutually conflicting instructions; a single phrase has more than one reading."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "ambiguous",
+              "hebrew": "דו־משמעי, לא חד־משמעי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-04-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "Cameras at the station entrance are clearly visible from the street. Even when the devices are switched off, their presence can ____ theft by making thieves believe they are being watched.",
+          "options": [
+            "deter",
+            "confirm",
+            "record",
+            "investigate"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The apparent risk of being seen may discourage people from stealing.",
+            "distractors": {
+              "1": "The sentence concerns a possible preventive effect, rather than verifying a theft that already took place.",
+              "2": "The devices are switched off, so the effect cannot come from recording a theft.",
+              "3": "Inactive equipment cannot collect evidence for an inquiry after a theft."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "deter",
+              "hebrew": "להרתיע"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-04-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-04-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "An Address That Outlived Its Building",
+        "paragraphs": [
+          "In a town with frequent redevelopment, postal addresses can seem more durable than buildings. A business can operate at the same numbered address before and after reconstruction, and people often continue to identify a busy intersection by the name of a structure that no longer exists. These are familiar examples of how an address can remain useful after the particular arrangement of stone or timber once associated with it has disappeared. The inverse, however, also occurs. A house can survive successive street renumbering schemes and appear to vanish from documentary records every time its address changes.",
+          "The distinction matters to researchers tracing who lived in a district. If they rely on the apparent stability of a number, they may mistake changes in numbering for sudden changes in occupancy. In one local history exercise, researchers found that half a line of cottages appeared to have exchanged its residents within a year. The apparent turnover shrank after they compared household lists with a new plan of the road. Between the records, the authority had inserted numbers for houses built on previously vacant plots. Several longstanding residents remained in the same front rooms but now occupied places with different numbers in the directories.",
+          "Researchers sometimes resolve such problems by aligning landmarks that are independently documented: a school boundary, a bend in the road, a culvert or the rear entrance of a workshop. As anchors, these features need not be unusually prominent. Their usefulness depends on whether there is evidence that they stayed in place while something else changed. Even then, one anchor is seldom enough. A widened road can preserve its characteristic bend while shifting the alignment of entrances, and a remembered landmark can migrate in the speech of residents to the opposite side of a junction.",
+          "This uncertainty highlights a crucial feature of addresses: they belong to systems of reference maintained for particular purposes. One numbering convention helps a delivery worker identify the sequence of houses, while a cadastral map used to administer property may assign its own identifiers to plots and outbuildings. The householder's version may refer to a gate opening onto another street entirely. Multiple descriptions can therefore be true at the same time. To establish continuity, a researcher must ask which part of the property each source had reason to distinguish and how the reference can be checked with other evidence. Under such scrutiny an address is best understood as one piece of evidence about a place, and a place as something that may have been described in several valid ways."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "How does the passage advise researchers to interpret a street address?",
+          "options": [
+            "As a reference whose meaning rests chiefly on local memories of landmarks.",
+            "As a property marker best reconciled by privileging official lot numbers.",
+            "As evidence whose significance depends on the reference system and independent corroboration.",
+            "As a sign of continuity unless a district-wide numbering change is independently documented."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The examples show both stable and changing labels and stress checking their referents.",
+            "distractors": {
+              "0": "Local recollections may contribute, but even a remembered landmark can shift in speech.",
+              "1": "Lot numbers identify features for particular administrative purposes rather than settling every description.",
+              "3": "A stable number may survive a change in the building even without renumbering, and several systems can coexist."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "continuity",
+              "hebrew": "רציפות"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-04-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "If a grocery’s advertised number stays fixed over a period, what inference about the premises does the passage specifically caution against?",
+          "options": [
+            "Assuming that a delivery worker would use the number to locate it.",
+            "Assuming that its street number identifies the same sequence of shops in every municipal record.",
+            "Assuming that its advertised number could continue to be useful after alterations.",
+            "Assuming that its premises must be physically unchanged throughout that period."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "A number can survive rebuilding, so label continuity is insufficient.",
+            "distractors": {
+              "0": "This is a normal purpose of an address and does not imply continuity in the building.",
+              "1": "Different official schemes are possible, but the example asks what the stable number can establish about the grocery premises themselves.",
+              "2": "The opening paragraph specifically allows an address to remain useful after reconstruction."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "durable",
+              "hebrew": "עמיד"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-04-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "Which attitude characterizes the treatment of local records in “An Address That Outlived Its Building”?",
+          "options": [
+            "A suspicion that changes in official numbering typically conceal changes in occupancy.",
+            "A preference for cadastral maps when physical clues conflict with numbering.",
+            "Confidence in triangulation paired with caution about individual references.",
+            "Optimism that independent landmarks can settle every disagreement between references."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The author explains why records mislead alone and how they can be combined.",
+            "distractors": {
+              "0": "The cottage example goes the other way: changes in numbering made stable occupancy appear unstable.",
+              "1": "The author treats cadastral maps as one purpose-specific system among several.",
+              "3": "The examples show how a bend can survive while entrances shift and why one landmark is seldom sufficient."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "scrutiny",
+              "hebrew": "בחינה מדוקדקת"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-04-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What is meant by an “anchor” in the paragraph about aligning landmarks?",
+          "options": [
+            "A feature that is prominent enough to be remembered by most residents.",
+            "A sufficiently documented feature used as a reference point.",
+            "A detail that marks a property for administrative purposes.",
+            "An entry used to order houses in a local directory."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "A bend or boundary can help align records if its position is independently established.",
+            "distractors": {
+              "0": "An anchor need not be prominent; its continuity needs documentary support.",
+              "2": "Administrative identifiers reflect a record's purpose and are not necessarily stable physical points of comparison.",
+              "3": "Such entries are among the changing references that a landmark can help align."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "anchor",
+              "hebrew": "נקודת ייחוס"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-04-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What action accounted for much of the cottages’ apparent turnover in the directories?",
+          "options": [
+            "The authority reassigned cottages using an older property map.",
+            "The authority added directory entries for families previously recorded at another street.",
+            "The authority inserted house numbers for newly developed plots.",
+            "The authority numbered the workshops independently of the cottages for the first time."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "That insertion reassigned numbers to several established homes.",
+            "distractors": {
+              "0": "The cottages did not move between plots, and the comparison used a new road plan.",
+              "1": "The added numbers were for new houses on vacant plots, rather than newly listed families at old cottages.",
+              "3": "A workshop is an example of a possible landmark; it does not explain the cottages' shifted numbers."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "turnover",
+              "hebrew": "תחלופה"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-04-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-04-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Although the river carried less water than usual, flooding occurred near the mouth.",
+          "options": [
+            "Flooding occurred near the mouth, which prevented anyone from finding out whether the river carried less water than usual.",
+            "The river carried less water than usual; nevertheless, flooding occurred near the mouth.",
+            "Because the river carried less water than usual, flooding occurred near the mouth.",
+            "Flooding occurred near the mouth only before it became clear that the river carried less water than usual."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the river carried less water than usual” and “flooding occurred near the mouth.”",
+            "distractors": {
+              "0": "It introduces an obstacle to discovering the first fact, which the original states directly.",
+              "2": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast.",
+              "3": "It limits the second fact to an earlier time and adds a discovery that the original never mentions."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-04-restatement-1-1"
+        },
+        {
+          "prompt": "Staff digitized it before lending it as a result of the fact that the manuscript was printed on fragile paper.",
+          "options": [
+            "The manuscript was printed on fragile paper; consequently, staff digitized it before lending it.",
+            "The manuscript was printed on fragile paper; nevertheless, staff digitized it before lending it.",
+            "Staff digitized it before lending it; consequently, the manuscript was printed on fragile paper.",
+            "Staff digitized it before lending it, but it is unknown whether the manuscript was printed on fragile paper."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the manuscript was printed on fragile paper, leading to the result that staff digitized it before lending it.",
+            "distractors": {
+              "1": "It replaces the causal relationship with a concession.",
+              "2": "It reverses the direction of cause and result.",
+              "3": "It casts doubt on the cause, which the original treats as an established fact."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-04-restatement-1-2"
+        },
+        {
+          "prompt": "Once the sand has settled, the researchers will photograph the bottom of the tank.",
+          "options": [
+            "The researchers will photograph the bottom of the tank after the sand has settled.",
+            "The researchers will not photograph the bottom of the tank even after the sand has settled.",
+            "The researchers will photograph the bottom of the tank before the sand has settled.",
+            "The researchers will photograph the bottom of the tank, regardless of whether the sand has settled."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled. The first event has to be complete.",
+            "distractors": {
+              "1": "It denies the stated plan to carry out the second action.",
+              "2": "It places the scheduled action before the event that the sentence puts first.",
+              "3": "It makes the first event irrelevant to the timing of the second."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-04-restatement-1-3"
+        },
+        {
+          "prompt": "It will expand its service only if the bus company can secure overnight storage.",
+          "options": [
+            "It will expand its service whether or not the bus company can secure overnight storage.",
+            "It will expand its service only on condition that the bus company can secure overnight storage.",
+            "It will expand its service only if it is impossible to establish that the bus company can secure overnight storage.",
+            "It will expand its service in every case in which the bus company can secure overnight storage."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The condition “the bus company can secure overnight storage” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "0": "It removes the requirement by making the outcome independent of the condition.",
+              "2": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met.",
+              "3": "It treats the condition as sufficient and promises the outcome whenever it is met."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-04-restatement-1-4"
+        },
+        {
+          "prompt": "The painted shutters seemed durable compared with the untreated shutters.",
+          "options": [
+            "The painted shutters appeared to exceed the untreated shutters in durability.",
+            "The difference in durability was established when the untreated shutters lasted longer than the painted shutters in a formal test.",
+            "The painted shutters appeared to match the untreated shutters in durability.",
+            "The untreated shutters appeared to exceed the painted shutters in durability."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the untreated shutters, first. The comparison concerns durability.",
+            "distractors": {
+              "0": "It reverses the relative ranking of the two items.",
+              "1": "It turns an impression into a demonstrated finding and invents a formal test.",
+              "2": "It describes the two items as equal on the stated measure."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-04-restatement-1-5"
+        },
+        {
+          "prompt": "But for an early warning from the harbor, the crew would have arrived during the storm.",
+          "options": [
+            "The crew would have arrived during the storm in the absence of an early warning from the harbor.",
+            "The crew would have arrived during the storm regardless of the effect of an early warning from the harbor.",
+            "Whether an early warning from the harbor made any difference to the outcome is unknown.",
+            "The crew would have arrived during the storm because of an early warning from the harbor."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the crew would have arrived during the storm” belongs to the hypothetical situation in which an early warning from the harbor was absent.",
+            "distractors": {
+              "1": "It predicts the same result without changing whether the factor was present.",
+              "2": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs.",
+              "3": "It attributes the hypothetical result to the presence of the factor rather than its absence."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-04-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-04-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the snow disappears from the upper slopes, the mountain road will remain closed for resurfacing.",
+          "options": [
+            "The mountain road may or may not remain closed for resurfacing, depending on whether the snow disappears from the upper slopes.",
+            "The mountain road will remain closed for resurfacing only in the event that the snow disappears from the upper slopes.",
+            "The mountain road will remain closed for resurfacing, including in the event that the snow disappears from the upper slopes.",
+            "The snow disappears from the upper slopes; therefore, the mountain road will remain closed for resurfacing."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the snow disappears from the upper slopes. The original leaves that case hypothetical.",
+            "distractors": {
+              "0": "It makes the outcome depend on the hypothetical condition.",
+              "1": "It turns a condition that would make no difference into a requirement.",
+              "3": "It turns an open possibility into an established fact and presents it as the cause."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-04-restatement-2-1"
+        },
+        {
+          "prompt": "The archive's steering committee neither endorsed nor expressly rejected the recommendation to sell surplus cabinets.",
+          "options": [
+            "The archive's steering committee accepted the recommendation to sell surplus cabinets in principle while withholding public support.",
+            "The archive's steering committee rejected the recommendation to sell surplus cabinets without giving a reason.",
+            "The archive's steering committee offered no endorsement of the recommendation to sell surplus cabinets and issued no explicit rejection either.",
+            "The archive's steering committee withdrew an earlier endorsement of the recommendation to sell surplus cabinets."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It invents an acceptance in principle, which cannot be inferred from the original.",
+              "1": "It asserts an explicit rejection, which the original rules out.",
+              "3": "It invents a prior endorsement and a reversal of position."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-04-restatement-2-2"
+        },
+        {
+          "prompt": "The strength of the argument stemmed less from the number of examples than from the care with which they were selected.",
+          "options": [
+            "The strength of the argument was the principal reason for both the number of examples and the care with which they were selected.",
+            "The care with which they were selected contributed more to the strength of the argument than the number of examples did.",
+            "The number of examples and the care with which they were selected played equally important roles in the strength of the argument.",
+            "The number of examples was the greater contributor to the strength of the argument, though the care with which they were selected also mattered."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “the care with which they were selected” greater explanatory weight than “the number of examples.”",
+            "distractors": {
+              "0": "It makes the outcome cause the factors that are supposed to explain it.",
+              "2": "It makes the factors equally important despite the stated inequality.",
+              "3": "It reverses the relative importance of the factors."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-04-restatement-2-3"
+        },
+        {
+          "prompt": "The operators did not reopen the northern runway until the fog had lifted.",
+          "options": [
+            "The operators reopened the northern runway only after the fog had lifted.",
+            "The operators did not reopen the northern runway, although the fog had lifted.",
+            "The operators reopened the northern runway as evidence that the fog had lifted.",
+            "The operators reopened the northern runway before the fog had lifted."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "1": "It makes the main action fail to occur, whereas the original reports that it happened later.",
+              "2": "It turns a timing relationship into an assertion about the actor’s purpose.",
+              "3": "It reverses the sequence by placing the main action first."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-04-restatement-2-4"
+        },
+        {
+          "prompt": "Except for the copper roof, none of the experimental roofs leaked during testing.",
+          "options": [
+            "The copper roof leaked during testing, and at least one other member of the group shares that distinction.",
+            "It has not been determined whether the copper roof leaked during testing.",
+            "All the experimental roofs leaked during testing except the copper roof.",
+            "The copper roof leaked during testing; the others in the same group did not."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the copper roof is the single item that has the stated property.",
+            "distractors": {
+              "0": "It allows a second exception even though “sole” limits the number to one.",
+              "1": "It changes an explicit exception into an uncertainty.",
+              "2": "It gives the property to the entire group except the one item that actually has it."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-04-restatement-2-5"
+        },
+        {
+          "prompt": "What had long been attributed to a decline in demand now appears to have resulted from a shortage of storage space.",
+          "options": [
+            "A shortage of room for goods now seems to explain why demand declined over a long period.",
+            "A lack of room to store goods now seems to explain a development that was previously thought to reflect weaker demand.",
+            "The evidence confirms that demand was weakening even before available storage space began to decline.",
+            "The two explanations are now thought to have contributed equally to the same development."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The two explanations concern the same development. The newer one is about storage and is still tentative",
+            "distractors": {
+              "0": "The decline in demand was the earlier proposed explanation rather than the event to be explained",
+              "2": "It asserts chronology and confirmation where the original expresses a tentative reinterpretation",
+              "3": "It merges explanations the sentence distinguishes and adds a claim of equal importance"
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "attributed to",
+              "hebrew": "יוחס ל־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-04-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-04-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Borrowed Time in a Forest",
+        "paragraphs": [
+          "When ecologists think about the disappearance of species after a disturbance, the sequence of events can be as important as the final tally. Imagine a forest that is progressively reduced to several isolated patches. A walk through the oldest patch a year later may reveal mature individuals of nearly all the tree species recorded there before construction began. Their presence is encouraging, but it does not establish that the patch supports the processes needed to maintain them. Many trees live for decades, so individuals can remain long after conditions have become unfavourable for producing a subsequent generation.",
+          "Researchers call the losses expected from past environmental change an extinction debt. The analogy suggests an obligation whose consequences materialize later. It does not imply that the future is fixed. If intervening years allow restoration of connections or habitat, some projected losses can be prevented. The concept also does not describe a single universal delay. The characteristic times can differ sharply between organisms. Insects that require a particular host may respond quickly to a loss of their food source, while a tree population suffering from poor seed dispersal may take many decades to show a marked decline.",
+          "A practical difficulty is distinguishing a debt from ordinary fluctuation. Seedlings of some trees are naturally scarce during several consecutive years and then appear in great numbers after an unusually productive season. A single count of young plants provides little evidence in such cases. Ecologists can compare populations of different ages, monitor seed movement and measure seedling survival, but each observation answers a specific question. A low proportion of seedlings becomes compelling evidence of interrupted recruitment only when the normal reproductive schedule and the surrounding habitat are also understood.",
+          "The reverse problem arises when habitats are rebuilt. Conditions can improve before species recolonize a site. If a previous road or barrier isolated the site, a neighbouring population must still be close enough to supply individuals, and colonization may be rare even in otherwise suitable conditions. A newly protected forest that remains species poor for years need not represent failed protection. In fragmented landscapes, both apparent success and apparent failure can result from evaluating ecological changes too soon. The question for an observer is whether essential processes are happening now, even when their long-term consequences cannot yet be counted. That shift in attention changes which evidence is worth gathering and what action can reasonably be taken."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What idea unifies the passage on delayed changes in forests?",
+          "options": [
+            "The persistence of mature forest species is a sounder indicator of recovery than short-term seedling counts.",
+            "Species counts after restoration reveal whether enough habitat was connected to preserve recruitment.",
+            "Fragmentation delays losses primarily by keeping mature plants alive while insects disappear quickly.",
+            "Current species counts can conceal delayed losses or gains, so ecological processes and timescales also need attention."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Both the extinction debt and recolonization examples show a lag between conditions and counts.",
+            "distractors": {
+              "0": "Mature trees can outlive their ability to produce a next generation; neither count alone is decisive.",
+              "1": "Colonization may take time even when conditions are suitable, so early counts cannot settle that question.",
+              "2": "The different times of loss illustrate only part of an argument that also includes delayed gains."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "disturbance",
+              "hebrew": "הפרעה סביבתית"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-04-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why might conserving or restoring a connection between two forest patches avert some projected losses?",
+          "options": [
+            "A connection would bring reproduction rates into the same seasonal pattern on both patches.",
+            "Movement of seeds or organisms between patches could sustain processes interrupted by isolation.",
+            "A connection would immediately increase counts of every species present on both patches.",
+            "A connection would preserve adult trees until their presence alone established that reproduction had recovered."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Restoration can restore recruitment or permit recolonization before losses occur.",
+            "distractors": {
+              "0": "Reconnection can help seeds or organisms reach a site; synchronizing reproduction is not the mechanism.",
+              "2": "A connection can restore movement without causing an immediate or uniform rise in counts.",
+              "3": "The presence of mature individuals remains an unreliable sign if recruitment has stalled."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "dispersal",
+              "hebrew": "פיזור"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-04-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author approach the phrase “extinction debt”?",
+          "options": [
+            "As a useful way to estimate how long different species will take to disappear.",
+            "As a label for temporary scarcity of seedlings until the next productive season.",
+            "As a literal prediction that species lost through isolation will eventually disappear.",
+            "As a helpful analogy with a limit, since projected losses can sometimes be prevented."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The text explains the delay implied by debt and immediately qualifies its inevitability.",
+            "distractors": {
+              "0": "The analogy explains a delay but does not supply an estimated timetable.",
+              "1": "The passage distinguishes ordinary intermittent reproduction from extinction debt.",
+              "2": "Restoration can avert some projected losses, unlike an unavoidable obligation."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "analogy",
+              "hebrew": "הקבלה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-04-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “recruitment” refer to in the discussion of seedling counts?",
+          "options": [
+            "The return of a species to any previously occupied patch.",
+            "The dispersal of seeds from one patch to another.",
+            "The addition of new young individuals to a population.",
+            "The survival of established trees through a disturbance."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Seedling abundance and survival help indicate whether a new generation is becoming established.",
+            "distractors": {
+              "0": "Recolonization can result from recruitment, but recruitment can also add individuals to an existing population.",
+              "1": "Dispersal can enable recruitment, but a seed reaching a site does not by itself add a young individual.",
+              "3": "The word refers to replenishment, which established trees can persist without."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "recruitment",
+              "hebrew": "התחדשות טבעית"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-04-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What natural process can make several sparse seedling counts misleading?",
+          "options": [
+            "Some trees have years of limited reproduction followed by an unusually productive season.",
+            "Some mature trees keep growing after environmental conditions make reproduction difficult.",
+            "Isolated patches can have poor seed dispersal for several decades.",
+            "Young trees can take many years to reach maturity despite consistent reproduction."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Irregular reproduction can yield few seedlings even when recruitment is functioning over a longer period.",
+            "distractors": {
+              "1": "This can mask recruitment failure in adult counts; it does not explain why sparse seedling counts can be normal.",
+              "2": "This could indicate a persistent recruitment problem rather than a temporary natural fluctuation.",
+              "3": "Slow maturation is distinct from the naturally uneven appearance of seedlings described."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "consecutive",
+              "hebrew": "רצופים"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-04-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

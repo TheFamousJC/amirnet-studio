@@ -1,0 +1,996 @@
+{
+  "id": "test-08",
+  "number": 8,
+  "bankVersion": 2,
+  "title": "The Temporary Plaza / Finding a Voice in Room Echoes",
+  "sections": [
+    {
+      "id": "test-08-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "The authors agreed to ____ the article after a reviewer identified errors in two of its tables.",
+          "options": [
+            "release",
+            "retain",
+            "replace",
+            "revise"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“revise” means change something to improve or correct it. The existing article needs corrections prompted by a reviewer.",
+            "distractors": {
+              "0": "“release” means make something available to others. The clue is that the existing article needs corrections prompted by a reviewer.",
+              "1": "“retain” means keep something in one's possession. The clue is that the existing article needs corrections prompted by a reviewer.",
+              "2": "“replace” means put something new in the place of something old. The clue is that the existing article needs corrections prompted by a reviewer."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "revise",
+              "hebrew": "לתקן, לעדכן"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-08-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "The volunteers walked along the beach at low tide to ____ fragments of pottery for later examination.",
+          "options": [
+            "adjust",
+            "label",
+            "inspect",
+            "collect"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“collect” means gather things together. The pottery fragments are gathered from the beach.",
+            "distractors": {
+              "0": "“adjust” means alter slightly to suit conditions. The clue is that the pottery fragments are gathered from the beach.",
+              "1": "“label” means attach identifying information to something. The clue is that the pottery fragments are gathered from the beach.",
+              "2": "“inspect” means examine carefully for quality or damage. The clue is that the pottery fragments are gathered from the beach."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "collect",
+              "hebrew": "לאסוף"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-08-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "To ____ condensation, the laboratory maintains humidity below the point at which droplets would form on the lenses.",
+          "options": [
+            "monitor",
+            "detect",
+            "restore",
+            "prevent"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“prevent” means stop something from happening. The humidity control keeps droplets from forming.",
+            "distractors": {
+              "0": "“monitor” means observe or measure over a period of time. The clue is that the humidity control keeps droplets from forming.",
+              "1": "“detect” means discover the presence of something hard to notice. The clue is that the humidity control keeps droplets from forming.",
+              "2": "“restore” means bring something back to a former state. The clue is that the humidity control keeps droplets from forming."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "prevent",
+              "hebrew": "למנוע"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-08-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The researchers were ____ in describing their result, stressing that a single trial could not establish a general pattern.",
+          "options": [
+            "flexible",
+            "reluctant",
+            "impartial",
+            "cautious"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“cautious” means careful to avoid unwarranted certainty or risk. The researchers deliberately avoided unwarranted certainty.",
+            "distractors": {
+              "0": "“flexible” means able to adapt to changes. The clue is that the researchers deliberately avoided unwarranted certainty.",
+              "1": "“reluctant” means unwilling or hesitant to do something. The clue is that the researchers deliberately avoided unwarranted certainty.",
+              "2": "“impartial” means free from preference for one party or side. The clue is that the researchers deliberately avoided unwarranted certainty."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "cautious",
+              "hebrew": "זהיר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-08-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The method became ____ within a decade, appearing in classrooms from remote islands to major inland cities.",
+          "options": [
+            "coherent",
+            "explicit",
+            "widespread",
+            "tentative"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“widespread” means extending across many places or among many people. The method extended across many widely separated places.",
+            "distractors": {
+              "0": "“coherent” means forming a logical and unified whole. The clue is that the method extended across many widely separated places.",
+              "1": "“explicit” means stated clearly and directly. The clue is that the method extended across many widely separated places.",
+              "3": "“tentative” means provisional and not yet definite. The clue is that the method extended across many widely separated places."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "widespread",
+              "hebrew": "נפוץ"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-08-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "In a signed public statement, the panel chose to ____ its earlier recommendation and expressly withdrew all support for it.",
+          "options": [
+            "reconcile",
+            "reinterpret",
+            "repudiate",
+            "substantiate"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“repudiate” means formally disown or reject something previously associated with oneself. The panel publicly disowns its own previous recommendation.",
+            "distractors": {
+              "0": "“reconcile” means make apparently conflicting accounts compatible. The clue is that the panel publicly disowns its own previous recommendation.",
+              "1": "“reinterpret” means give a new meaning or explanation to familiar material. The clue is that the panel publicly disowns its own previous recommendation.",
+              "3": "“substantiate” means support a statement with evidence. The clue is that the panel publicly disowns its own previous recommendation."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "repudiate",
+              "hebrew": "להתנער מ־, לדחות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-08-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-08-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "Complaints about the crowded entrance ____ the managers to open a second door before the concert began.",
+          "options": [
+            "prompted",
+            "instructed",
+            "allowed",
+            "authorized"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The complaints caused the managers to take action.",
+            "distractors": {
+              "1": "The complainants reported a problem rather than issuing an order to the managers.",
+              "2": "Nothing suggests the managers lacked permission or the ability to open the door.",
+              "3": "The complaints were the reason for the action; they did not grant formal permission."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "prompted",
+              "hebrew": "הניע, גרם"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-08-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "A single battery provides ____ power to run the monitor overnight, so the reserve battery will be needed only if the main one fails.",
+          "options": [
+            "surplus",
+            "intermittent",
+            "supplementary",
+            "sufficient"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The battery meets the entire overnight power requirement.",
+            "distractors": {
+              "0": "The battery meets the requirement, but the sentence does not show it produces more power than needed.",
+              "1": "Power that regularly stops would not establish that the monitor can run all night.",
+              "2": "This describes an addition to a main supply, whereas the sentence says the first battery can run the device by itself."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "sufficient",
+              "hebrew": "מספיק"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-08-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "Copies of the original map were ____ across several private collections, so the archivists had to contact a number of owners to examine them all.",
+          "options": [
+            "circulated",
+            "dispersed",
+            "duplicated",
+            "compiled"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The copies were scattered among different collections.",
+            "distractors": {
+              "0": "This would suggest copies passed from one recipient to another, when their separation among owners is the relevant fact.",
+              "2": "This describes making copies but does not explain their distribution among owners.",
+              "3": "Compilation would gather the copies together, whereas the archivists had to search separately."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "dispersed",
+              "hebrew": "מפוזר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-08-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "Under the new rules, staff hired before July are ____ from the annual training requirement, even if they do the same work as recent hires.",
+          "options": [
+            "dismissed",
+            "withdrawn",
+            "exempt",
+            "shielded"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The rule excuses earlier hires from an obligation that applies to others.",
+            "distractors": {
+              "0": "This would imply that the staff lost their jobs or were told to leave, neither of which follows.",
+              "1": "This would suggest the staff had been taken out of a scheduled course, while the rule removes the obligation altogether.",
+              "3": "This suggests protection from an adverse effect, whereas the rules formally remove the requirement itself."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "exempt",
+              "hebrew": "פטור"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-08-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The charge remained unproven, but the discovery that two supposedly independent witnesses had met beforehand was enough to ____ confidence in their testimony.",
+          "options": [
+            "quantify",
+            "undermine",
+            "withhold",
+            "restore"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The meeting weakens trust in the evidence without settling whether the charge is true.",
+            "distractors": {
+              "0": "The discovery changes confidence but does not assign it a measurable value.",
+              "2": "People might withhold confidence, but the discovery itself weakens the confidence others place in the testimony.",
+              "3": "The meeting creates a reason for mistrust rather than recovering lost confidence."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "undermine",
+              "hebrew": "לערער"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-08-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The award had already been announced when organizers learned that the recipient had failed to meet the eligibility rules. They voted to ____ the award and invite new nominations rather than hold it for the original recipient.",
+          "options": [
+            "renew",
+            "ratify",
+            "rescind",
+            "suspend"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The vote officially cancels a decision already made.",
+            "distractors": {
+              "0": "Renewal would continue an award that was due to expire, which is not the issue.",
+              "1": "Ratification would confirm the award despite evidence of ineligibility.",
+              "3": "Suspension would leave open the prospect of reinstating the current award after a temporary interruption."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "rescind",
+              "hebrew": "לבטל רשמית"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-08-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-08-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "The Temporary Plaza",
+        "paragraphs": [
+          "When a town closes a short street and brings in tables for a few weekends, observers often treat the result as a preview of a permanent public plaza. If the tables fill, there appears to be demand; if they remain empty, plans to convert the street may look premature. This interpretation uses the short experiment to answer a sensible question, but it can make a pilot carry more weight than it deserves. Visitors respond to the novelty of a temporary arrangement and to the knowledge that the space will revert to its earlier use. A permanent closure changes both those expectations and the behaviour built around them.",
+          "A planning team tested a closure near a cluster of workshops. It counted pedestrians before the intervention and on three successive weekends, separating people who passed through the area from those who stayed. Attendance rose sharply on the first weekend, when a local association put on a concert, and fell on the next. The team could have treated the concert as interference and excluded its figures. Instead, it asked whether an enduring plaza would be able to attract occasional events and whether the unusual crowd was compatible with continuing access to the workshops. The concert thus became evidence about one possible use of the space while remaining a poor measure of typical activity.",
+          "Businesses along the street responded in ways the counts could not capture. Some were pleased to receive visitors who had time to examine displays. Others worried that their suppliers could not deliver conveniently. That disadvantage was partly hidden because several deliveries had been rescheduled specifically for the pilot. A permanent scheme would need a way for commercial traffic to operate reliably under its own rules. The team's interviews therefore tested adaptations that the occupancy figures, however accurate, would have missed.",
+          "An experiment of this kind can help a town revise a proposal before committing substantial funds. Its contribution is greatest when the designers specify which responses plausibly carry over and which depend on the event's temporary conditions. They might learn where visitors need shade, which crossing remains awkward, or which opening hours are difficult for nearby businesses. Those lessons do not require the first weekend's crowd to predict annual attendance. A pilot can be valuable because it reveals what must be changed before another step is taken, even when it offers only fragmentary evidence of how a finished plaza would function."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What does the author see as the strongest use of a temporary street closure?",
+          "options": [
+            "Identifying operational and design issues while separating temporary effects from transferable observations.",
+            "Finding a stable demand estimate by combining several weekend counts with interviews.",
+            "Testing whether planned events could generate enough custom to overcome delivery costs.",
+            "Judging the permanent proposal by attendance after unusual events have been removed from the figures."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The examples of deliveries and the concert support a diagnostic use of the pilot.",
+            "distractors": {
+              "1": "Interviews expose adaptations and access issues the counts miss; the central value is learning what to improve, with limited forecasting.",
+              "2": "Events and deliveries are both discussed, but the pilot does not weigh revenues against costs.",
+              "3": "The concert can reveal a possible use even though its attendance is unusual; exclusion would lose that information."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "pilot",
+              "hebrew": "ניסוי מקדים"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-08-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why might workshop delivery problems have been underestimated during the closure?",
+          "options": [
+            "Most deliveries apparently occurred when the plaza was under the heaviest use.",
+            "Several suppliers had already altered deliveries to avoid the pilot conditions.",
+            "The interviews took place before wholesalers knew that delivery arrangements would change.",
+            "The pedestrian observations showed that workshops could depend on people passing through for deliveries."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Those adjustments hid a burden that would matter under a lasting scheme.",
+            "distractors": {
+              "0": "The temporary changes make delivery difficulty less visible, rather than exposing suppliers to the concert crowd.",
+              "2": "The passage attributes the hidden problem to arrangements already changed for the trial, rather than interviews held too early.",
+              "3": "Pedestrian patterns do not establish that commercial traffic operated under normal conditions."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "reschedule",
+              "hebrew": "לשנות מועד"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-08-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "Which phrase best describes the writer’s attitude toward the prospect of permanent conversion?",
+          "options": [
+            "Open to it while asking for evidence about how specific challenges would be addressed.",
+            "Reluctant to proceed until pilot data give a dependable prediction of typical visitor numbers.",
+            "Receptive chiefly if the site can sustain the unusually strong demand seen at the concert.",
+            "Favorable because adaptations made by businesses during the trial show that a permanent closure would be workable."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The author treats conversion as a possibility and scrutinizes the evidence needed to inform it.",
+            "distractors": {
+              "1": "The pilot can guide a decision by uncovering design issues even when it cannot reliably predict attendance.",
+              "2": "The author treats that event as a use case, with weak value as a demand forecast.",
+              "3": "The special rescheduling can hide difficulties that a lasting conversion would need to solve independently."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "conversion",
+              "hebrew": "הסבה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-08-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "How is “interference” used in the discussion of the concert figures?",
+          "options": [
+            "A deliberate adaptation that conceals how suppliers would behave after conversion.",
+            "An event that can distort an estimate of ordinary visitation.",
+            "A fluctuation in ordinary visitor use across successive weekends.",
+            "An unplanned use of the plaza incompatible with workshop access."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The concert could impede measurement of a normal weekend even while illustrating one use.",
+            "distractors": {
+              "0": "That describes rescheduled deliveries, a separate way the pilot can obscure permanent conditions.",
+              "2": "The concern is an unusual event changing what the count represents, rather than routine variation itself.",
+              "3": "Compatibility with ongoing workshop access is a question the team asks, rather than the meaning of the term."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "interference",
+              "hebrew": "גורם מפריע"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-08-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Which distinction did the pedestrian count make near the workshops?",
+          "options": [
+            "It distinguished those who went through from those who lingered.",
+            "It distinguished people already present before the concert from those arriving for it.",
+            "It distinguished shoppers at displays from workers seeking access.",
+            "It distinguished pedestrians present on several weekends from those counted only once."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The team separately counted people passing and people staying.",
+            "distractors": {
+              "1": "There was a before-and-after plan, but it did not classify individual visitors by connection to the concert.",
+              "2": "Business interviews report those experiences, whereas the count classified people by movement and duration.",
+              "3": "The counts were repeated, but visitors were not tracked individually across weekends."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "successive",
+              "hebrew": "רצוף"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-08-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-08-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "It is true that the birds had been raised in captivity, yet they began migrating at the expected time.",
+          "options": [
+            "They began migrating at the expected time, which prevented anyone from finding out whether the birds had been raised in captivity.",
+            "Because the birds had been raised in captivity, they began migrating at the expected time.",
+            "The birds had been raised in captivity; nevertheless, they began migrating at the expected time.",
+            "They began migrating at the expected time only before it became clear that the birds had been raised in captivity."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the birds had been raised in captivity” and “they began migrating at the expected time.”",
+            "distractors": {
+              "0": "It introduces an obstacle to discovering the first fact, which the original states directly.",
+              "1": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast.",
+              "3": "It limits the second fact to an earlier time and adds a discovery that the original never mentions."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-08-restatement-1-1"
+        },
+        {
+          "prompt": "Owing to the fact that the excavated floor could not support visitors, the ruins were viewed from a raised platform.",
+          "options": [
+            "The ruins were viewed from a raised platform; consequently, the excavated floor could not support visitors.",
+            "The excavated floor could not support visitors; consequently, the ruins were viewed from a raised platform.",
+            "The excavated floor could not support visitors; nevertheless, the ruins were viewed from a raised platform.",
+            "The ruins were viewed from a raised platform, but it is unknown whether the excavated floor could not support visitors."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the excavated floor could not support visitors, leading to the result that the ruins were viewed from a raised platform.",
+            "distractors": {
+              "0": "It reverses the direction of cause and result.",
+              "2": "It replaces the causal relationship with a concession.",
+              "3": "It casts doubt on the cause, which the original treats as an established fact."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-08-restatement-1-2"
+        },
+        {
+          "prompt": "Once the official totals have been checked, the newspaper will publish its comparison.",
+          "options": [
+            "The newspaper will publish its comparison, regardless of whether the official totals have been checked.",
+            "The newspaper will publish its comparison after the official totals have been checked.",
+            "The newspaper will not publish its comparison even after the official totals have been checked.",
+            "The newspaper will publish its comparison before the official totals have been checked."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled. The first event has to be complete.",
+            "distractors": {
+              "0": "It makes the first event irrelevant to the timing of the second.",
+              "2": "It denies the stated plan to carry out the second action.",
+              "3": "It places the scheduled action before the event that the sentence puts first."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-08-restatement-1-3"
+        },
+        {
+          "prompt": "The council will open it to cyclists only if the bridge clears its final inspection.",
+          "options": [
+            "The council will open it to cyclists in every case in which the bridge clears its final inspection.",
+            "The council will open it to cyclists only on condition that the bridge clears its final inspection.",
+            "The council will open it to cyclists whether or not the bridge clears its final inspection.",
+            "The council will open it to cyclists only if it is impossible to establish that the bridge clears its final inspection."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The condition “the bridge clears its final inspection” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "0": "It treats the condition as sufficient and promises the outcome whenever it is met.",
+              "2": "It removes the requirement by making the outcome independent of the condition.",
+              "3": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-08-restatement-1-4"
+        },
+        {
+          "prompt": "The fabric replica seemed flexible compared with the original cloth.",
+          "options": [
+            "The original cloth appeared to exceed the fabric replica in flexibility.",
+            "The difference in flexibility was established when the original cloth was more flexible than the fabric replica in a formal test.",
+            "The fabric replica appeared to match the original cloth in flexibility.",
+            "The fabric replica appeared to exceed the original cloth in flexibility."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the original cloth, first. The comparison concerns flexibility.",
+            "distractors": {
+              "1": "It turns an impression into a demonstrated finding and invents a formal test.",
+              "2": "It describes the two items as equal on the stated measure.",
+              "3": "It reverses the relative ranking of the two items."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-08-restatement-1-5"
+        },
+        {
+          "prompt": "But for the recovered index, the librarian could not have located the letter.",
+          "options": [
+            "The librarian could not have located the letter regardless of the effect of the recovered index.",
+            "The librarian could not have located the letter because of the recovered index.",
+            "Whether the recovered index made any difference to the outcome is unknown.",
+            "The librarian could not have located the letter in the absence of the recovered index."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the librarian could not have located the letter” belongs to the hypothetical situation in which the recovered index was absent.",
+            "distractors": {
+              "0": "It predicts the same result without changing whether the factor was present.",
+              "1": "It attributes the hypothetical result to the presence of the factor rather than its absence.",
+              "2": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-08-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-08-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the private owners agree to sell, the developer will still need approval for demolition.",
+          "options": [
+            "The developer will still need approval for demolition, including in the event that the private owners agree to sell.",
+            "The developer may or may not need approval for demolition, depending on whether the private owners agree to sell.",
+            "The developer will still need approval for demolition only in the event that the private owners agree to sell.",
+            "The private owners agree to sell; therefore, the developer will still need approval for demolition."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the private owners agree to sell. The original leaves that case hypothetical.",
+            "distractors": {
+              "1": "It makes the outcome depend on the hypothetical condition.",
+              "2": "It turns a condition that would make no difference into a requirement.",
+              "3": "It turns an open possibility into an established fact and presents it as the cause."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-08-restatement-2-1"
+        },
+        {
+          "prompt": "The consultant's final report neither endorsed nor expressly rejected the theory that vibration had caused the cracks.",
+          "options": [
+            "The consultant's final report offered no endorsement of the theory that vibration had caused the cracks and issued no explicit rejection either.",
+            "The consultant's final report withdrew an earlier endorsement of the theory that vibration had caused the cracks.",
+            "The consultant's final report accepted the theory that vibration had caused the cracks in principle while withholding public support.",
+            "The consultant's final report rejected the theory that vibration had caused the cracks without giving a reason."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "1": "It invents a prior endorsement and a reversal of position.",
+              "2": "It invents an acceptance in principle, which cannot be inferred from the original.",
+              "3": "It asserts an explicit rejection, which the original rules out."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-08-restatement-2-2"
+        },
+        {
+          "prompt": "The collapse of the negotiations stemmed less from disagreement over the deadline than from doubts about who could enforce the agreement.",
+          "options": [
+            "Disagreement over the deadline was the greater contributor to the collapse of the negotiations, though doubts about who could enforce the agreement also mattered.",
+            "The collapse of the negotiations was the principal reason for both disagreement over the deadline and doubts about who could enforce the agreement.",
+            "Doubts about who could enforce the agreement contributed more to the collapse of the negotiations than disagreement over the deadline did.",
+            "Disagreement over the deadline and doubts about who could enforce the agreement played equally important roles in the collapse of the negotiations."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “doubts about who could enforce the agreement” greater explanatory weight than “disagreement over the deadline.”",
+            "distractors": {
+              "0": "It reverses the relative importance of the factors.",
+              "1": "It makes the outcome cause the factors that are supposed to explain it.",
+              "3": "It makes the factors equally important despite the stated inequality."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-08-restatement-2-3"
+        },
+        {
+          "prompt": "The archivists did not move the ledgers until they had completed a full inventory.",
+          "options": [
+            "The archivists did not move the ledgers, although they had completed a full inventory.",
+            "The archivists moved the ledgers before they had completed a full inventory.",
+            "The archivists moved the ledgers as evidence that they had completed a full inventory.",
+            "The archivists moved the ledgers only after they had completed a full inventory."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "0": "It makes the main action fail to occur, whereas the original reports that it happened later.",
+              "1": "It reverses the sequence by placing the main action first.",
+              "2": "It turns a timing relationship into an assertion about the actor’s purpose."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-08-restatement-2-4"
+        },
+        {
+          "prompt": "Of the sketches in the catalogue, none show the house from above with the sole exception of the view from the hill.",
+          "options": [
+            "The view from the hill shows the house from above, and at least one other member of the group shares that distinction.",
+            "It has not been determined whether the view from the hill shows the house from above.",
+            "The view from the hill shows the house from above; the others in the same group do not.",
+            "All the sketches in the catalogue show the house from above except the view from the hill."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the view from the hill is the single item that has the stated property.",
+            "distractors": {
+              "0": "It allows a second exception even though “sole” limits the number to one.",
+              "1": "It changes an explicit exception into an uncertainty.",
+              "3": "It gives the property to the entire group except the one item that actually has it."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-08-restatement-2-5"
+        },
+        {
+          "prompt": "The omission of a route from the printed map may reflect a decision about what to depict rather than the disappearance of the route itself.",
+          "options": [
+            "By including only the most important routes, the printed map shows how little traffic used the omitted route.",
+            "A route missing from the published map could have been left out by the mapmakers even though it still existed.",
+            "The route probably disappeared as a result of the mapmakers' decision to leave it out.",
+            "The mapmakers probably removed the route from the map because it had already fallen out of use."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The unexplained absence is on the map. The author offers a selective depiction as one possible explanation",
+            "distractors": {
+              "0": "Decisions about depiction do not supply evidence about the amount of traffic",
+              "2": "It reverses the relation by claiming the mapping decision affected the physical route",
+              "3": "It assumes the route had ceased to be used and makes that the cause of the omission"
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "omission",
+              "hebrew": "השמטה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-08-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-08-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Finding a Voice in Room Echoes",
+        "paragraphs": [
+          "A speaker's voice reaches a listener by more than one path. The first sound normally arrives along a direct line. Further energy arrives after bouncing off walls, floors, furniture or the ceiling. In a relatively bare room, someone standing near the back may hear a word partly superimposed on remnants of the previous one. The same capacity of a room to retain sound can contribute to the richness of choral singing. Architects designing a space for both speech and music therefore face a problem with no universal optimum. More persistence can help one activity and obscure another.",
+          "A common measurement is the time required for sound energy to fall by a specified proportion after a source has stopped. This figure describes how long sound persists overall. It does not reveal exactly when useful reflected energy reaches a listener. Some energy arriving shortly after the direct sound can make speech easier to hear, especially if the direct sound is weak. Arrivals separated by a much longer delay can instead blur syllables. Two halls with similar measured decay times can produce noticeably different experiences if their early reflections follow different routes or arrive at different intensities.",
+          "The position of the audience changes the situation again. A padded seat has been designed by some manufacturers to absorb a similar amount of sound whether occupied or vacant. Without such a property, the acoustic requirements of a nearly empty rehearsal might differ markedly from those of a crowded performance. Designers can also install curtains that change the amount of reflected energy when drawn across a rigid wall. Such devices give organizers some scope to adapt a space, though rearranging one surface cannot undo all acoustic effects of a long, narrow room or a highly curved ceiling.",
+          "Architecture also imposes limits on what a listener's impression can reveal. A concertgoer disappointed in the clarity of a solo trumpet may blame the performer, the room, the position of the seat or some combination of the three. Comparing recordings from different positions can narrow these possibilities, especially if they use a consistent source and measurement method. A single average value for a hall is useful at the start of that investigation. It is much less helpful as a final verdict. Good acoustic analysis, like good acoustic design, pays attention to the sequence and direction of sounds as well as to how long they remain audible."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "Which statement captures the main argument of the hall acoustics passage?",
+          "options": [
+            "The usefulness of reflections depends on their timing, routes and the activity a room serves.",
+            "Shortening overall decay is the most dependable way to improve speech in rooms designed for music.",
+            "Acoustic design is best evaluated by comparing average sound persistence across representative halls.",
+            "The acoustic quality of a hall depends mainly on maintaining the same absorption for every audience size."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The passage proceeds from speech and music to early reflections and seating effects.",
+            "distractors": {
+              "1": "Some early reflections may improve clarity; total decay alone cannot determine the outcome.",
+              "2": "The author calls such an average a useful start and an inadequate final verdict.",
+              "3": "Seating stability is one practical issue, rather than a substitute for studying sound paths."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "persistence",
+              "hebrew": "המשך קיום"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-08-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why might two spaces with the same decay time differ in speech clarity?",
+          "options": [
+            "The audience could absorb more energy in one room, meaning that its measured sound necessarily decays later.",
+            "The listeners could receive differing amounts of early and late reflected energy.",
+            "Stronger direct sound could prolong overlap between successive syllables.",
+            "Both spaces may have late arrivals, but with the same decay time their reflections must reach listeners at the same intervals."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Total decay does not specify the time pattern of arrivals at a seat.",
+            "distractors": {
+              "0": "The question stipulates equal decay, and more absorption does not imply longer persistence.",
+              "2": "Interference is attributed to the timing of reflections; strong direct sound alone does not show longer overlap.",
+              "3": "Matching decay time does not tell when different arrivals occur."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "reflection",
+              "hebrew": "החזרה"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-08-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "Which tone best describes the discussion of acoustic design?",
+          "options": [
+            "Skeptical that designers can adapt a room once its geometry has been fixed.",
+            "Preferential toward musical resonance because preserving reflected energy rarely affects speech.",
+            "Explanatory, weighing acoustic trade-offs for different purposes.",
+            "Principally concerned with standardizing measurements so that different halls can be ranked on one scale."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The author describes helpful and harmful reflection and limited interventions.",
+            "distractors": {
+              "0": "The author recognizes that curtains and seats can help within geometric constraints.",
+              "1": "The passage explicitly describes speech that can be helped or obscured by reflections.",
+              "3": "The discussion acknowledges standardized measurements but opposes relying on one average verdict."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "optimum",
+              "hebrew": "מצב מיטבי"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-08-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "In the opening paragraph, what does “superimposed” convey?",
+          "options": [
+            "Overlapping so that both sounds are heard together.",
+            "Arriving in a clearly separated sequence.",
+            "Amplified by repeated reflection.",
+            "Blended into a single new sound at its source."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The remains of an earlier word coexist with the next as they reach the listener.",
+            "distractors": {
+              "1": "The earlier and later sounds are heard partly together.",
+              "2": "The sentence concerns two words overlapping, regardless of whether reflection amplifies either one.",
+              "3": "The overlap is created by different arrival paths at the listener, rather than at the speaker."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "superimposed",
+              "hebrew": "מונח מעל או חופף"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-08-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Why are some padded seats designed to absorb sound similarly whether occupied or empty?",
+          "options": [
+            "To achieve the degree of sound persistence usually preferred for choral music.",
+            "To make reflected energy arrive at the same time as the direct sound.",
+            "To ensure that an empty rehearsal room absorbs less sound than a crowded hall.",
+            "To reduce acoustic changes between sparse and full audiences."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "More constant absorption helps maintain similar room behaviour.",
+            "distractors": {
+              "0": "The aim is stability across audience sizes, rather than a specific reverberation level.",
+              "1": "Absorbing a similar amount does not bring reflections into synchrony.",
+              "2": "The design aims to limit precisely that difference."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "vacant",
+              "hebrew": "פנוי"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-08-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

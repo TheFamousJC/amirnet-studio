@@ -1,0 +1,2784 @@
+[
+  {
+    "wordFormation": [
+      {
+        "prompt": "More than half of the water poured onto the dry bed was ____ by the soil before it reached the drain.",
+        "base": "absorb",
+        "answers": [
+          "absorbed"
+        ],
+        "explanation": "The water receives the action, so was requires the past participle absorbed."
+      },
+      {
+        "prompt": "Since its readings varied even under identical conditions, the laboratory questioned the ____ of the instrument.",
+        "base": "rely",
+        "answers": [
+          "reliability"
+        ],
+        "explanation": "The noun reliability describes the instrument's ability to give dependable readings."
+      },
+      {
+        "prompt": "The revised meeting format was more ____ because the participants settled all six outstanding issues in half an hour.",
+        "base": "produce",
+        "answers": [
+          "productive"
+        ],
+        "explanation": "The comparative more calls for productive, an adjective describing effective work."
+      },
+      {
+        "prompt": "The archivist ____ left the disputed date blank so that readers would not mistake an estimate for a fact.",
+        "base": "deliberate",
+        "answers": [
+          "deliberately"
+        ],
+        "explanation": "The adverb deliberately describes how the archivist left the date blank."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "Program fees will remain unchanged ____ the funding agreement is renewed.",
+          "options": [
+            "in case of",
+            "as long as",
+            "due to",
+            "despite of"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "As long as introduces a clause stating the condition.",
+            "distractors": {
+              "0": "In case of takes a noun phrase, whereas the agreement is renewed is a clause.",
+              "2": "Due to requires a noun phrase rather than a finite clause.",
+              "3": "Despite takes a noun or gerund and does not take of."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "agreement",
+              "hebrew": "הסכם"
+            }
+          ]
+        },
+        {
+          "prompt": "The archivist pointed out that several of the records ____ the street had disappeared.",
+          "options": [
+            "describing the history of",
+            "whose description of",
+            "in which they described",
+            "they are describing a"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The participial phrase describes the records and leaves had disappeared as the main verb.",
+            "distractors": {
+              "0": "Described needs an explicit object before the street; the resulting phrase is incomplete.",
+              "1": "Whose would put the only finite verb inside the relative clause, leaving the clause about the records without its main verb.",
+              "3": "This produces the ungrammatical sequence a the street."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "record",
+              "hebrew": "רשומה"
+            }
+          ]
+        },
+        {
+          "prompt": "The letters ____ in a private collection for sixty years before the archive acquired them in 2018.",
+          "options": [
+            "were being keep",
+            "have been keeping",
+            "kept there",
+            "had been kept"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Had been kept places passive storage before the acquisition.",
+            "distractors": {
+              "0": "After being, the passive requires kept.",
+              "1": "Keeping would make the letters the agents and uses present perfect.",
+              "2": "Kept there does not supply the main finite verb here."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "acquire",
+              "hebrew": "לרכוש"
+            }
+          ]
+        },
+        {
+          "prompt": "If the publisher had ordered fewer copies, it ____ to lower the price so sharply last month.",
+          "options": [
+            "might not need",
+            "does not need",
+            "had not needed",
+            "might not have needed"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The unreal past condition takes might have plus a participle for its past consequence.",
+            "distractors": {
+              "0": "Might not need points to a present or future consequence and conflicts with last month.",
+              "1": "Does not need gives a present fact instead of a past hypothetical result.",
+              "2": "Had not needed repeats a past perfect where a modal result is required."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "sharply",
+              "hebrew": "בחדות"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Should municipal libraries stay open later on weekdays, even if this means opening for fewer hours on weekends? Explain your position."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "The test measured the material's ____ to damage from repeated freezing and thawing.",
+        "base": "resist",
+        "answers": [
+          "resistance"
+        ],
+        "explanation": "The possessive material's needs a noun. Resistance describes how well it withstands damage."
+      },
+      {
+        "prompt": "The winning melody was ____ in less than a week, although its orchestration took several months.",
+        "base": "compose",
+        "answers": [
+          "composed"
+        ],
+        "explanation": "The passive was composed identifies when the melody was written."
+      },
+      {
+        "prompt": "The older gauge recorded the river level less ____ than the new gauge, sometimes differing by ten centimeters.",
+        "base": "accurate",
+        "answers": [
+          "accurately"
+        ],
+        "explanation": "Accurately is the adverb that modifies recorded."
+      },
+      {
+        "prompt": "This balance is so ____ to movement that opening the laboratory door can change the reading.",
+        "base": "sense",
+        "answers": [
+          "sensitive"
+        ],
+        "explanation": "The adjective sensitive describes an instrument that responds to small changes."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "The old bridge can still carry pedestrians, but heavy vehicles ____ use it.",
+          "options": [
+            "do not permitting",
+            "are forbidden for",
+            "are not allowed to",
+            "must not to"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Are not allowed to is a passive permission expression followed by an infinitive.",
+            "distractors": {
+              "0": "Do takes the base form permit; permitting fails after do.",
+              "1": "Forbidden for does not take the verb use as its complement.",
+              "3": "A modal such as must takes the bare infinitive."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "pedestrian",
+              "hebrew": "הולך רגל"
+            }
+          ]
+        },
+        {
+          "prompt": "The samples varied considerably, ____ their average weight changed very little.",
+          "options": [
+            "regardless of",
+            "in spite of",
+            "owing to",
+            "even though"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Even though introduces the contrasting finite clause.",
+            "distractors": {
+              "0": "Regardless of does not directly introduce a finite clause in this construction.",
+              "1": "In spite of needs a noun phrase or gerund.",
+              "2": "Owing to needs a noun phrase and would also give a causal reading."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "considerably",
+              "hebrew": "במידה ניכרת"
+            }
+          ]
+        },
+        {
+          "prompt": "Not until the roof had been repaired ____ open again to the public.",
+          "options": [
+            "was the gallery to has",
+            "had the gallery to",
+            "the gallery did",
+            "did the gallery"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Fronted Not until triggers inversion, and did takes the base verb open.",
+            "distractors": {
+              "0": "After to, has is not an infinitive and leaves open without a link.",
+              "1": "Had the gallery to open does not express the intended past event in this structure.",
+              "2": "The subject and auxiliary must invert after the fronted negative expression."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "gallery",
+              "hebrew": "גלריה"
+            }
+          ]
+        },
+        {
+          "prompt": "The new catalogue contains twice ____ the previous one did.",
+          "options": [
+            "as many entries as",
+            "the entries as",
+            "as much entries than",
+            "more entries from"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The comparative frame is twice as many plus a plural count noun and as.",
+            "distractors": {
+              "1": "Twice the entries can work with of, but as does not complete that pattern.",
+              "2": "Entries is countable and uses many, while the comparison requires as.",
+              "3": "Twice more entries from gives the wrong comparative structure."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "entry",
+              "hebrew": "פריט"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Describe one type of practical skill that students should learn before leaving school. Explain why that skill would be useful."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "The change in color was barely ____ without a magnifying lens and strong lighting.",
+        "base": "perceive",
+        "answers": [
+          "perceptible"
+        ],
+        "explanation": "Perceptible is an adjective meaning able to be detected."
+      },
+      {
+        "prompt": "Although most of the wooden tools had decayed, one was ____ almost intact in the waterlogged soil.",
+        "base": "preserve",
+        "answers": [
+          "preserved"
+        ],
+        "explanation": "The past participle preserved follows was to form the passive."
+      },
+      {
+        "prompt": "The printed menu offers several vegetarian ____, including two dishes based on beans.",
+        "base": "choose",
+        "answers": [
+          "choices"
+        ],
+        "explanation": "Choices is the plural noun derived from choose, required after several."
+      },
+      {
+        "prompt": "____, the survey team measures the shoreline on the first Monday of June.",
+        "base": "annual",
+        "answers": [
+          "Annually"
+        ],
+        "explanation": "Annually means once a year and must be capitalized because it starts the sentence."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "No sooner ____ the rehearsal than the building lost power.",
+          "options": [
+            "the orchestra began",
+            "the orchestra had begun",
+            "has the orchestra begin",
+            "had the orchestra begun"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "No sooner at the beginning requires inversion, and past perfect places the first action before the second.",
+            "distractors": {
+              "0": "This simple-past subject-first form also lacks the required inversion.",
+              "1": "The usual subject-first order is not licensed after fronted No sooner.",
+              "2": "Has needs a past participle, and present perfect conflicts with the past narrative."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "rehearsal",
+              "hebrew": "חזרה"
+            }
+          ]
+        },
+        {
+          "prompt": "The guide recommended ____ the caves in the morning, when the paths are usually less crowded.",
+          "options": [
+            "that visit",
+            "should visiting",
+            "to visit at",
+            "visiting"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Recommend can take a gerund phrase as its complement.",
+            "distractors": {
+              "0": "A that clause needs a subject before visit.",
+              "1": "Should requires a base verb and a clause with a subject.",
+              "2": "Recommend does not directly take to visit here, and visit does not require at before its object."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "recommend",
+              "hebrew": "להמליץ"
+            }
+          ]
+        },
+        {
+          "prompt": "Each of the participants ____ a separate consent form before the interviews began.",
+          "options": [
+            "was given",
+            "had been giving",
+            "have given",
+            "were given"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Each is singular, and the participants received the form.",
+            "distractors": {
+              "1": "Had been giving makes the participant the giver and does not fit the procedure described.",
+              "2": "Have does not agree with each, and the sentence describes receiving forms.",
+              "3": "Were cannot agree with each in this construction."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "consent",
+              "hebrew": "הסכמה"
+            }
+          ]
+        },
+        {
+          "prompt": "The roadway was closed ____ a retaining wall had shifted in the rain.",
+          "options": [
+            "in view to",
+            "on the grounds that",
+            "as a result of",
+            "despite of"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "On the grounds that introduces a full clause giving the reason.",
+            "distractors": {
+              "0": "In view to is not a causal conjunction before a finite clause.",
+              "2": "As a result of needs a noun phrase or gerund instead.",
+              "3": "Despite does not take of and would indicate concession."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "retaining wall",
+              "hebrew": "קיר תומך"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Should museums make admission free for local residents? Support your answer with reasons or an example."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "The unexpected discovery aroused the children's ____, and they began asking how the bridge had been built.",
+        "base": "curious",
+        "answers": [
+          "curiosity"
+        ],
+        "explanation": "Curiosity names the feeling that led the children to ask questions."
+      },
+      {
+        "prompt": "The new emergency system is more ____ to power failures and switches to a backup supply within seconds.",
+        "base": "respond",
+        "answers": [
+          "responsive"
+        ],
+        "explanation": "The adjective responsive describes how readily the system reacts."
+      },
+      {
+        "prompt": "The maps were ____ to the university for six months and then returned to their owner.",
+        "base": "lend",
+        "answers": [
+          "lent"
+        ],
+        "explanation": "Lent is the irregular past participle of lend."
+      },
+      {
+        "prompt": "Even after the letters had faded, the writer's distinctive signature remained ____ to her colleagues.",
+        "base": "recognize",
+        "answers": [
+          "recognizable",
+          "recognisable"
+        ],
+        "explanation": "Recognizable or recognisable means that the signature could still be identified."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "The pump was replaced, ____ reduced the amount of energy the facility consumed.",
+          "options": [
+            "what it then",
+            "where it",
+            "that in turn",
+            "which in turn"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Which can refer to the preceding event in a supplementary relative clause.",
+            "distractors": {
+              "0": "What it then incorrectly adds a subject to this clause and does not link to the replacement.",
+              "1": "Where expresses place, but the clause comments on the replacement event.",
+              "2": "After the comma, that cannot introduce this supplementary relative clause."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "in turn",
+              "hebrew": "כתוצאה מכך"
+            }
+          ]
+        },
+        {
+          "prompt": "The engineer spoke slowly so that the instructions ____ without specialized training.",
+          "options": [
+            "could be followed",
+            "could be follow",
+            "could following",
+            "could have follow"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Could be followed combines a modal with a passive infinitive.",
+            "distractors": {
+              "1": "The passive after be requires followed.",
+              "2": "A modal requires a base-form verb, not following.",
+              "3": "Have after could would require the participle followed."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "instruction",
+              "hebrew": "הוראה"
+            }
+          ]
+        },
+        {
+          "prompt": "Much of the evidence ____ during the first year of the investigation.",
+          "options": [
+            "were collecting",
+            "was collected",
+            "were collected",
+            "have collecting"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Evidence is uncountable and takes singular was in the passive.",
+            "distractors": {
+              "0": "The sentence describes evidence being collected, and were also fails agreement.",
+              "2": "Were incorrectly treats evidence as plural.",
+              "3": "Have cannot agree with evidence here, and it cannot directly precede collecting in this form."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "evidence",
+              "hebrew": "ראיות"
+            }
+          ]
+        },
+        {
+          "prompt": "The gardeners succeeded ____ the seedlings alive through an unusually dry summer.",
+          "options": [
+            "to keeping",
+            "at keep",
+            "in keeping",
+            "by kept"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Succeeded in is followed by the gerund keeping.",
+            "distractors": {
+              "0": "The construction requires in rather than to before this gerund.",
+              "1": "A preposition such as at cannot take the bare form keep here.",
+              "3": "The past form kept cannot serve as the object of by."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "seedling",
+              "hebrew": "שתיל"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Would you rather study a new subject through a series of lectures or through a project? Explain your choice."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "The technicians traced the radio ____ to a damaged cable near the antenna.",
+        "base": "interfere",
+        "answers": [
+          "interference"
+        ],
+        "explanation": "Interference is the noun for the unwanted disturbance to the radio signal."
+      },
+      {
+        "prompt": "Applicants who had already received the grant were ____ to receive it a second time.",
+        "base": "eligible",
+        "answers": [
+          "ineligible"
+        ],
+        "explanation": "Ineligible means excluded from consideration under the rule."
+      },
+      {
+        "prompt": "The device was designed ____ for monitoring pressure in narrow pipes, rather than for laboratory experiments generally.",
+        "base": "specific",
+        "answers": [
+          "specifically"
+        ],
+        "explanation": "Specifically modifies designed and indicates a particular purpose."
+      },
+      {
+        "prompt": "The custom was largely ____ until a historian found a description of it in a private letter.",
+        "base": "forget",
+        "answers": [
+          "forgotten"
+        ],
+        "explanation": "Forgotten is the past participle required by the passive construction."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "The lecture was so well attended that only a few seats ____ empty.",
+          "options": [
+            "remained",
+            "were remain",
+            "have remaining",
+            "remaining"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Remained supplies the finite past-tense verb for the result clause.",
+            "distractors": {
+              "1": "Were cannot be followed directly by the bare verb remain in this clause.",
+              "2": "Have remaining is not a valid perfect form of remain.",
+              "3": "Remaining alone cannot be the finite verb."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "attend",
+              "hebrew": "להשתתף"
+            }
+          ]
+        },
+        {
+          "prompt": "The website allows subscribers ____ back issues without having to contact the publisher.",
+          "options": [
+            "to downloading",
+            "to download",
+            "download for",
+            "that downloading"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Allow can take an object followed by a to-infinitive.",
+            "distractors": {
+              "0": "Infinitival to requires the base verb download.",
+              "2": "The verb allow requires to before download in this pattern.",
+              "3": "That does not connect the object subscribers to a gerund in this construction."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "subscriber",
+              "hebrew": "מנוי"
+            }
+          ]
+        },
+        {
+          "prompt": "Very little rain fell in April, and ____ reached the reservoir evaporated within a few days.",
+          "options": [
+            "few water that",
+            "the fewer water",
+            "what little water",
+            "how much water had"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "What little water means all of the small quantity that reached the reservoir.",
+            "distractors": {
+              "0": "Water is noncount in this sense and cannot be modified by few.",
+              "1": "Fewer modifies plural count nouns, and this expression also lacks a relative link.",
+              "3": "This combination does not form a subject for evaporated; had would require a participle and belong to an indirect question."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "evaporate",
+              "hebrew": "להתאדות"
+            }
+          ]
+        },
+        {
+          "prompt": "Only after several witnesses had been interviewed ____ establish when the power outage began.",
+          "options": [
+            "could the investigation to",
+            "could investigators",
+            "did investigators able to",
+            "investigators could"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Initial only after triggers inversion of could and the subject investigators.",
+            "distractors": {
+              "0": "Could must be followed by a bare infinitive after its subject, with no to.",
+              "2": "Able needs a form of be and cannot be the bare verb after did.",
+              "3": "A declarative subject-first order does not fit after the fronted restrictive expression."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "outage",
+              "hebrew": "הפסקת חשמל"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Your community has an unused building. What public purpose would you give it, and why?"
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "____, the team adopted the approach it had initially rejected, after finding that the alternatives did not work.",
+        "base": "eventual",
+        "answers": [
+          "Eventually"
+        ],
+        "explanation": "Eventually marks the outcome of a sequence and must be capitalized at the beginning of the sentence."
+      },
+      {
+        "prompt": "The committee's final ____ on whether to extend the contract will be announced on Friday.",
+        "base": "decide",
+        "answers": [
+          "decision"
+        ],
+        "explanation": "Decision is the noun for the formal choice made by the committee."
+      },
+      {
+        "prompt": "Because transport was delayed, most of the berries were ____ at the farm rather than sold fresh.",
+        "base": "freeze",
+        "answers": [
+          "frozen"
+        ],
+        "explanation": "The passive were frozen requires the irregular participle frozen."
+      },
+      {
+        "prompt": "Although the hypothesis was plausible, it had not yet been ____ by evidence from the field.",
+        "base": "prove",
+        "answers": [
+          "proven",
+          "proved"
+        ],
+        "explanation": "After had been, proven and proved are accepted participles of prove."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "The agreement requires both parties ____ the records for at least five years.",
+          "options": [
+            "to retaining",
+            "to retain",
+            "retaining of",
+            "retain that"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Require takes the object both parties plus a to-infinitive.",
+            "distractors": {
+              "0": "Infinitival to must be followed by a bare verb.",
+              "2": "This gerund construction cannot complement requires both parties.",
+              "3": "The bare verb retain is not licensed immediately after parties."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "retain",
+              "hebrew": "לשמור"
+            }
+          ]
+        },
+        {
+          "prompt": "This version of the map does not show all the wells that ____ in the original edition.",
+          "options": [
+            "was marking",
+            "had been mark",
+            "were marked",
+            "have mark"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Plural wells takes were, and marked is the participle for the passive.",
+            "distractors": {
+              "0": "Was does not agree with wells, and the wells did not perform the marking.",
+              "1": "Had been must be followed by marked in this passive clause.",
+              "3": "Have requires the participle marked, and this would make the wells the agents."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "well",
+              "hebrew": "באר"
+            }
+          ]
+        },
+        {
+          "prompt": "By the time the backup generator started, the vaccine refrigerators ____ without power for over two hours.",
+          "options": [
+            "will already be",
+            "had already been",
+            "would already being",
+            "have already been"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The past perfect measures a state leading up to a later past event.",
+            "distractors": {
+              "0": "The future phrase conflicts with the past reference given by started.",
+              "2": "Would takes the base form be rather than being.",
+              "3": "The present perfect uses the present as its reference point."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "backup",
+              "hebrew": "גיבוי"
+            }
+          ]
+        },
+        {
+          "prompt": "A single wire carries both signals, ____ a second cable unnecessary.",
+          "options": [
+            "thereby makes",
+            "unless making",
+            "thereby making",
+            "but it making"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Thereby making adds a participial result clause to the main clause.",
+            "distractors": {
+              "0": "A finite verb cannot link to the preceding clause using only thereby.",
+              "1": "The consequence is not a condition, and unless making leaves the condition unclear.",
+              "3": "But it needs a finite verb rather than making."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "thereby",
+              "hebrew": "ובכך"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Should university courses include a group assignment even when most students prefer to work alone? Explain your position."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "Replacing the valve is more ____ than buying a new pump because it costs less and has the same effect.",
+        "base": "economy",
+        "answers": [
+          "economical"
+        ],
+        "explanation": "Economical describes the option that saves money."
+      },
+      {
+        "prompt": "The labels were printed large so visitors could read them ____ from the far side of the room.",
+        "base": "clear",
+        "answers": [
+          "clearly"
+        ],
+        "explanation": "Clearly is the adverb showing how easily the labels could be read."
+      },
+      {
+        "prompt": "The authors proposed two competing ____ for the loss of color, one involving sunlight and the other heat.",
+        "base": "explain",
+        "answers": [
+          "explanations"
+        ],
+        "explanation": "Two competing calls for the plural noun explanations."
+      },
+      {
+        "prompt": "A corner had been ____ from the sheet before it was placed in the envelope.",
+        "base": "tear",
+        "answers": [
+          "torn"
+        ],
+        "explanation": "Torn is the past participle of tear, describing what had happened to the sheet."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "Although the first inventory was incomplete, the researchers discovered ____ of the items listed then are still in the collection.",
+          "options": [
+            "most that",
+            "that mostly",
+            "that most",
+            "of most"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "That introduces the reported discovery, with most of the items as the subject.",
+            "distractors": {
+              "0": "The connector that must come before the subject phrase.",
+              "1": "Mostly is an adverb and cannot quantify of the items.",
+              "3": "Of most of the items does not give discovered a grammatical clause."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "inventory",
+              "hebrew": "מצאי"
+            }
+          ]
+        },
+        {
+          "prompt": "The list of approved suppliers ____ companies from three different regions.",
+          "options": [
+            "including",
+            "includes",
+            "are including",
+            "have included"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Singular list is the subject and takes includes.",
+            "distractors": {
+              "0": "Including is not a finite main verb.",
+              "2": "Are incorrectly agrees with suppliers rather than list.",
+              "3": "Have does not agree with list."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "supplier",
+              "hebrew": "ספק"
+            }
+          ]
+        },
+        {
+          "prompt": "The committee objected to ____ on information collected almost a decade earlier.",
+          "options": [
+            "rely for",
+            "be relying",
+            "relying",
+            "have relied"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "To is a preposition in objected to and needs a gerund here.",
+            "distractors": {
+              "0": "The preposition to cannot take the bare verb rely in this expression.",
+              "1": "Be relying would be part of an infinitive, not the needed gerund.",
+              "3": "Have relied is the wrong complement after the preposition."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "rely on",
+              "hebrew": "להסתמך על"
+            }
+          ]
+        },
+        {
+          "prompt": "The operator would rather ____ the machine before the next shift than risk another fault.",
+          "options": [
+            "inspected by",
+            "to inspect",
+            "inspecting",
+            "inspect"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Would rather takes a bare infinitive when the subject is unchanged.",
+            "distractors": {
+              "0": "Inspected by would require a different passive structure and would not fit the machine.",
+              "1": "The following infinitive does not take to in this construction.",
+              "2": "A gerund does not complete would rather here."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "fault",
+              "hebrew": "תקלה"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Is it better for a city to improve bus service or to build more bicycle lanes? Choose one priority and explain your reasoning."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "The footbridge was ____ during the summer, when the river was low enough to work in safely.",
+        "base": "construct",
+        "answers": [
+          "constructed"
+        ],
+        "explanation": "Constructed is the past participle used after was in this passive sentence."
+      },
+      {
+        "prompt": "The school received written confirmation of her ____ of its offer to teach there.",
+        "base": "accept",
+        "answers": [
+          "acceptance"
+        ],
+        "explanation": "Acceptance names the act of agreeing to an offer."
+      },
+      {
+        "prompt": "The origin of the bright marks remained ____ until analysis showed they were made of powdered glass.",
+        "base": "mystery",
+        "answers": [
+          "mysterious"
+        ],
+        "explanation": "The adjective mysterious describes their unexplained origin."
+      },
+      {
+        "prompt": "Older maintenance records show that the western gate was repaired more ____ than any other entrance.",
+        "base": "frequent",
+        "answers": [
+          "frequently"
+        ],
+        "explanation": "Frequently modifies repaired and expresses how often repairs occurred."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "The organizers postponed ____ tickets until the safety inspection was complete.",
+          "options": [
+            "that they sell",
+            "selling",
+            "sold the",
+            "to sell"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Postpone generally takes a gerund for the activity delayed.",
+            "distractors": {
+              "0": "Postpone does not take a that clause to express the delayed activity here.",
+              "2": "Sold the leaves tickets without a grammatical connection to postponed.",
+              "3": "An infinitive does not complement postpone in this construction."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "postpone",
+              "hebrew": "לדחות"
+            }
+          ]
+        },
+        {
+          "prompt": "The new road runs farther from the village ____ the route on the original map.",
+          "options": [
+            "as does",
+            "compared is",
+            "than does",
+            "than is"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Farther takes than, and does stands for runs.",
+            "distractors": {
+              "0": "As does requires a different comparison frame such as as far as.",
+              "1": "Compared is does not form a comparative clause here.",
+              "3": "The comparison needs do to replace runs, not the unrelated be verb."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "route",
+              "hebrew": "מסלול"
+            }
+          ]
+        },
+        {
+          "prompt": "The family donated several paintings, one of which ____ in the entrance hall today.",
+          "options": [
+            "being displayed",
+            "are displaying",
+            "have displayed",
+            "is displayed"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "One is singular, and the passive is displayed describes the painting's present location.",
+            "distractors": {
+              "0": "Being alone does not supply the finite verb of the relative clause.",
+              "1": "Are fails agreement, and the painting does not display an object.",
+              "2": "Have cannot agree with one, and the construction needs the passive."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "display",
+              "hebrew": "להציג"
+            }
+          ]
+        },
+        {
+          "prompt": "The missing register ____ the dispute if it had not been destroyed in the fire.",
+          "options": [
+            "has been resolved",
+            "should have resolve",
+            "could be resolving",
+            "could have resolved"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Could have resolved expresses a possible outcome in an unreal past.",
+            "distractors": {
+              "0": "Has been resolved reverses the role of the register and describes an actual event.",
+              "1": "After should have, the participle resolved is required.",
+              "2": "The context requires a past counterfactual, not a present progressive."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "resolve",
+              "hebrew": "ליישב"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "What change would make online classes easier for students to follow? Explain how your proposal would help."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "The researchers expected little ____ in temperature here because all the samples were collected at the same depth.",
+        "base": "vary",
+        "answers": [
+          "variation"
+        ],
+        "explanation": "Variation is a noun for differences among the measured temperatures."
+      },
+      {
+        "prompt": "Before the storm, dozens of metal stakes had been ____ into the ground to secure the stage.",
+        "base": "drive",
+        "answers": [
+          "driven"
+        ],
+        "explanation": "Driven is the past participle of drive in this passive verb phrase."
+      },
+      {
+        "prompt": "Warm air reached the coast from the south, making the first week of March ____ warm.",
+        "base": "usual",
+        "answers": [
+          "unusually"
+        ],
+        "explanation": "Unusually modifies warm and signals that temperatures differed from the norm."
+      },
+      {
+        "prompt": "The engineer remained ____ that the original foundation could support another floor without reinforcement.",
+        "base": "doubt",
+        "answers": [
+          "doubtful"
+        ],
+        "explanation": "The adjective doubtful conveys that the engineer was unconvinced."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "Measurements from the new instrument ____ with observations made at a nearby station before the results were published.",
+          "options": [
+            "had comparing",
+            "were compare",
+            "were compared",
+            "was compared"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Plural measurements receives the action and takes were compared.",
+            "distractors": {
+              "0": "Had must take a past participle in this construction and the measurements are not doing the comparing.",
+              "1": "Compared is needed after were to complete the passive.",
+              "3": "Was does not agree with measurements."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "measurement",
+              "hebrew": "מדידה"
+            }
+          ]
+        },
+        {
+          "prompt": "Coal exports declined steadily between 1980 and 1990, during ____ several inland mines closed.",
+          "options": [
+            "the time when of",
+            "that time of",
+            "whose time of",
+            "which period"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Which period introduces a relative clause referring back to the stated interval.",
+            "distractors": {
+              "0": "When of cannot serve as a connector in this clause.",
+              "1": "That time of ends with of and cannot stand before the clause in this form.",
+              "2": "Whose time of improperly treats the interval as a possessor and leaves of without a noun phrase."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "steadily",
+              "hebrew": "בהתמדה"
+            }
+          ]
+        },
+        {
+          "prompt": "Had the lamps been mounted higher, the architect ____ fewer fixtures to light the hall.",
+          "options": [
+            "had needed",
+            "was needed",
+            "would need had",
+            "would have needed"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The inverted past condition takes a modal perfect result.",
+            "distractors": {
+              "0": "Had needed does not form the hypothetical main clause here.",
+              "1": "Was needed makes the architect the person required and leaves fewer fixtures unattached.",
+              "2": "Would need had wrongly adds had after the main verb."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "fixture",
+              "hebrew": "גוף תאורה"
+            }
+          ]
+        },
+        {
+          "prompt": "The university prevented unauthorized visitors ____ the storage room during the relocation.",
+          "options": [
+            "from entering",
+            "for entering",
+            "against enter",
+            "to enter"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Prevent someone from doing something is the idiomatic construction.",
+            "distractors": {
+              "1": "For entering can explain a sanction but cannot express the prevented action here.",
+              "2": "Against is the wrong preposition and enter cannot follow it as a bare verb.",
+              "3": "Prevent does not take a to-infinitive after its object in this construction."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "unauthorized",
+              "hebrew": "לא מורשה"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Should a university require its students to take a course outside their main area of study? Explain your answer."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "The conductor called his first performance ____ and said he could still recall its smallest details fifty years later.",
+        "base": "forget",
+        "answers": [
+          "unforgettable"
+        ],
+        "explanation": "Unforgettable is the adjective for an experience that cannot be forgotten."
+      },
+      {
+        "prompt": "The roof beams were ____ with steel braces before the additional weight was placed on them.",
+        "base": "strength",
+        "answers": [
+          "strengthened"
+        ],
+        "explanation": "Strengthened is the past participle of strengthen, formed from strength."
+      },
+      {
+        "prompt": "Because its original building was full, the archive planned an ____ that would double its storage capacity.",
+        "base": "expand",
+        "answers": [
+          "expansion"
+        ],
+        "explanation": "Expansion is the noun for increasing the size of the archive."
+      },
+      {
+        "prompt": "The footpath runs ____ from the station to the lake without passing through the village.",
+        "base": "direct",
+        "answers": [
+          "directly"
+        ],
+        "explanation": "Directly modifies runs and identifies the route as having no detour."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "Everyone ____ the north gate after sunset must show a permit to the attendant.",
+          "options": [
+            "is entering from",
+            "enters through",
+            "entered through of",
+            "entering through"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The participial phrase modifies everyone without adding a second finite verb before must.",
+            "distractors": {
+              "0": "Is entering also adds a second finite verb before must.",
+              "1": "Enters adds a second finite verb without a relative pronoun.",
+              "2": "The added of is ungrammatical and entered does not fit the clause structure."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "attendant",
+              "hebrew": "עובד אחראי"
+            }
+          ]
+        },
+        {
+          "prompt": "The specialist advised the team ____ on the new estimate until the source figures had been checked.",
+          "options": [
+            "not rely with",
+            "that not relying",
+            "to not relying",
+            "not to rely"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Advised plus object takes a negative to-infinitive.",
+            "distractors": {
+              "0": "The standard form needs to after the object and does not attach rely with to on.",
+              "1": "That would require a full clause with a subject and finite verb.",
+              "2": "After to the verb must be in the base form."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "estimate",
+              "hebrew": "אומדן"
+            }
+          ]
+        },
+        {
+          "prompt": "A considerable amount of debris ____ from the entrance after the storm.",
+          "options": [
+            "was cleared",
+            "was clearing",
+            "have clear",
+            "were cleared"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Amount of debris is singular and receives the action.",
+            "distractors": {
+              "1": "Was clearing makes the debris the agent rather than the material removed.",
+              "2": "Have fails agreement and needs a participle.",
+              "3": "Were cannot agree with a singular amount."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "debris",
+              "hebrew": "פסולת"
+            }
+          ]
+        },
+        {
+          "prompt": "The research group had no access to the original samples, ____ its conclusions were necessarily limited.",
+          "options": [
+            "where it means",
+            "which meant that",
+            "which were meant",
+            "that it meant"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Which meant that links the consequence to the preceding situation.",
+            "distractors": {
+              "0": "Where refers to a place, whereas the consequence concerns lack of access.",
+              "2": "Which were meant leaves the following finite clause with no connector.",
+              "3": "That cannot introduce a supplementary relative clause after a comma in this form."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "necessarily",
+              "hebrew": "בהכרח"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Describe a public place that people of different ages can enjoy together. Explain what makes it suitable for them."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "The committee began an ____ into why the equipment had failed during the trial.",
+        "base": "investigate",
+        "answers": [
+          "investigation"
+        ],
+        "explanation": "Investigation is the noun for the formal examination the committee started."
+      },
+      {
+        "prompt": "The results from the two stations are directly ____ because both instruments were calibrated against the same standard.",
+        "base": "compare",
+        "answers": [
+          "comparable"
+        ],
+        "explanation": "Comparable describes results that can meaningfully be compared."
+      },
+      {
+        "prompt": "For the exhibition, the loose pages were ____ together to form a single volume.",
+        "base": "bind",
+        "answers": [
+          "bound"
+        ],
+        "explanation": "Bound is the irregular past participle of bind."
+      },
+      {
+        "prompt": "The estimates were made ____ by two researchers who did not see each other's figures.",
+        "base": "independent",
+        "answers": [
+          "independently"
+        ],
+        "explanation": "The adverb independently modifies were made and indicates that the researchers worked separately."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "The team discovered a crack in the valve, ____ had been replaced only the week before.",
+          "options": [
+            "what",
+            "whether",
+            "that it",
+            "which"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Which introduces a supplementary clause and refers back to the valve.",
+            "distractors": {
+              "0": "What does not attach a supplementary clause to an expressed noun here.",
+              "1": "Whether introduces a yes-or-no clause and cannot refer back to the valve.",
+              "2": "That it is not a valid relative connector after this comma."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "valve",
+              "hebrew": "שסתום"
+            }
+          ]
+        },
+        {
+          "prompt": "Had it not been for the temporary dam, the river ____ the village in last night's storm.",
+          "options": [
+            "would have flooded",
+            "will have flooding",
+            "has been flooded",
+            "would flood now"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Would have flooded expresses the past result of a condition that did not occur.",
+            "distractors": {
+              "1": "Will have flooding does not form the past modal result and leaves the object unattached.",
+              "2": "Has been flooded makes the river receive the action and is not a counterfactual result.",
+              "3": "Would flood now points to a present result, while last night refers to a completed event."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "dam",
+              "hebrew": "סכר"
+            }
+          ]
+        },
+        {
+          "prompt": "Every building along this part of the canal ____ in the municipal register.",
+          "options": [
+            "being listed",
+            "is listed",
+            "are listing",
+            "have listed"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The singular subject every building receives the action, so is listed fits.",
+            "distractors": {
+              "0": "Being listed needs a finite auxiliary here.",
+              "2": "Are disagrees with building, which is the thing recorded.",
+              "3": "Have does not agree; this active verb also makes the building the agent."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "municipal",
+              "hebrew": "עירוני"
+            }
+          ]
+        },
+        {
+          "prompt": "Applicants cannot appeal the decision without ____ a copy of their original submission.",
+          "options": [
+            "provide",
+            "to provide",
+            "providing",
+            "have provided"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Without takes the gerund providing.",
+            "distractors": {
+              "0": "The bare verb provide cannot directly follow without.",
+              "1": "Without is a preposition here and takes a gerund rather than a to-infinitive.",
+              "3": "Have provided would require a finite subject or a different infinitive construction."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "appeal",
+              "hebrew": "לערער"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Would you prefer to receive detailed written feedback on a project or discuss your work with a teacher in person? Explain your choice."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "Permission had been ____ from the landowner before work began on the survey.",
+        "base": "seek",
+        "answers": [
+          "sought"
+        ],
+        "explanation": "Sought is the irregular past participle of seek and fits had been."
+      },
+      {
+        "prompt": "The manuscript is ____ because no copy exists and the author's drafts were destroyed.",
+        "base": "replace",
+        "answers": [
+          "irreplaceable"
+        ],
+        "explanation": "Irreplaceable describes something for which no substitute exists."
+      },
+      {
+        "prompt": "Attendance rose ____ over the semester, with a small increase recorded every week.",
+        "base": "steady",
+        "answers": [
+          "steadily"
+        ],
+        "explanation": "Steadily is the adverb for the continuous pattern without sudden changes."
+      },
+      {
+        "prompt": "The editor questioned the ____ of a humorous title for a report on a serious accident.",
+        "base": "appropriate",
+        "answers": [
+          "appropriateness"
+        ],
+        "explanation": "Appropriateness names how suitable the title would be in this setting."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "The absence of written records ____ it difficult to determine when the road was built.",
+          "options": [
+            "makes",
+            "have made",
+            "are making",
+            "make"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The subject is singular absence, so it takes makes.",
+            "distractors": {
+              "1": "Have made requires a plural subject here.",
+              "2": "Are making incorrectly agrees with records inside the prepositional phrase.",
+              "3": "Make does not agree with the singular subject."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "absence",
+              "hebrew": "היעדר"
+            }
+          ]
+        },
+        {
+          "prompt": "Most visitors were unaware that they were expected ____ their bags at the entrance.",
+          "options": [
+            "to leaving",
+            "to leave",
+            "leaving",
+            "that they leave"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Be expected is followed by a to-infinitive in this pattern.",
+            "distractors": {
+              "0": "Infinitival to must precede the base verb leave.",
+              "2": "Leaving cannot directly complete were expected here.",
+              "3": "A that clause is possible after an impersonal it was expected, not after the passive personal subject they."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "entrance",
+              "hebrew": "כניסה"
+            }
+          ]
+        },
+        {
+          "prompt": "The island is home to a bird ____ nowhere else in the world.",
+          "options": [
+            "finding",
+            "has found",
+            "found",
+            "which finding"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Found is a reduced passive relative clause equivalent to which is found.",
+            "distractors": {
+              "0": "Finding is active and leaves the bird doing the finding with no object.",
+              "1": "Has found adds a finite verb without a relative connector.",
+              "3": "Which needs a finite verb here; finding alone is not one."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "be home to",
+              "hebrew": "לשמש בית ל־"
+            }
+          ]
+        },
+        {
+          "prompt": "Only by examining both versions of the map ____ identify the missing route.",
+          "options": [
+            "did the researchers able to",
+            "were the researchers able to",
+            "were able the researchers to",
+            "the researchers were able to"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Fronted Only by prompts inversion of were and the subject, followed by able to.",
+            "distractors": {
+              "0": "Did requires a bare verb, but able is an adjective.",
+              "2": "Able cannot intervene between were and the subject in the inversion.",
+              "3": "Subject-first order is not licensed after this fronted restrictive expression."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "examine",
+              "hebrew": "לבחון"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Should shops in busy city centers reserve some areas for customers who arrive without cars? Explain your position."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "The small sensor ____ recorded lower readings than the other sensors on every trial.",
+        "base": "consist",
+        "answers": [
+          "consistently"
+        ],
+        "explanation": "Consistently modifies recorded and describes the same result across trials."
+      },
+      {
+        "prompt": "The final report draws three ____ from the evidence and explains the basis for each.",
+        "base": "conclude",
+        "answers": [
+          "conclusions"
+        ],
+        "explanation": "The plural noun conclusions names the judgments reached after evaluating the evidence."
+      },
+      {
+        "prompt": "The labels were ____ by hand before the museum had access to a printer.",
+        "base": "write",
+        "answers": [
+          "written"
+        ],
+        "explanation": "Written is the past participle of write in the passive construction."
+      },
+      {
+        "prompt": "Without a scale, the drawing is ____ for calculating the exact width of the doorway.",
+        "base": "use",
+        "answers": [
+          "useless"
+        ],
+        "explanation": "Useless is an adjective indicating that the drawing has no value for this purpose."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "It took the orchestra several weeks to get used to ____ in the smaller hall.",
+          "options": [
+            "be performed",
+            "performing",
+            "perform",
+            "performed"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Get used to ends in a preposition, so performing is the required gerund.",
+            "distractors": {
+              "0": "Be performed is an infinitive and would make the orchestra the thing performed.",
+              "2": "The bare verb would follow used to for a past habit, not get used to here.",
+              "3": "The past form cannot complement the preposition."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "get used to",
+              "hebrew": "להתרגל ל־"
+            }
+          ]
+        },
+        {
+          "prompt": "Both of the proposed locations ____ close to existing bus stops.",
+          "options": [
+            "is",
+            "has been",
+            "are",
+            "being"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Both refers to two locations and takes plural are.",
+            "distractors": {
+              "0": "Is does not agree with both.",
+              "1": "Has been is singular and does not agree.",
+              "3": "Being alone provides no finite verb."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "proposed",
+              "hebrew": "מוצע"
+            }
+          ]
+        },
+        {
+          "prompt": "Were parking spaces cheaper, more visitors ____ to drive rather than take the train.",
+          "options": [
+            "did chose",
+            "might choose",
+            "would choosing",
+            "might have chose"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Might choose gives a possible result of the hypothetical current condition.",
+            "distractors": {
+              "0": "Did requires the bare verb choose, not chose.",
+              "2": "Would requires a bare infinitive, not choosing.",
+              "3": "After have, the participle chosen is required; the past result would also need a past condition."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "rather than",
+              "hebrew": "במקום"
+            }
+          ]
+        },
+        {
+          "prompt": "The quality of the translation was checked by a colleague ____ language is Icelandic.",
+          "options": [
+            "who first",
+            "that the first",
+            "whose first",
+            "whom the first"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Whose links the colleague to the noun first language.",
+            "distractors": {
+              "0": "Who does not mark the required possessive relationship.",
+              "1": "That cannot connect the colleague to the possessed noun phrase in this construction.",
+              "3": "Whom is an object relative pronoun and cannot link a person to their language here."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "colleague",
+              "hebrew": "עמית"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "What would be the most useful part of a guided tour for someone visiting your area for the first time? Explain your answer."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "The route is ____ in winter because heavy snow can close it with little warning.",
+        "base": "predict",
+        "answers": [
+          "unpredictable"
+        ],
+        "explanation": "Unpredictable describes a route whose availability cannot be known in advance."
+      },
+      {
+        "prompt": "The two samples were ____ similar, given that they had been collected hundreds of kilometers apart.",
+        "base": "surprise",
+        "answers": [
+          "surprisingly"
+        ],
+        "explanation": "Surprisingly modifies similar and indicates that the resemblance was not expected."
+      },
+      {
+        "prompt": "The trees were ____ in a sheltered nursery before being planted beside the exposed road.",
+        "base": "grow",
+        "answers": [
+          "grown"
+        ],
+        "explanation": "Grown is the irregular past participle of grow."
+      },
+      {
+        "prompt": "The organizers made separate travel ____ for the six guests coming from abroad.",
+        "base": "arrange",
+        "answers": [
+          "arrangements"
+        ],
+        "explanation": "Arrangements is the plural noun for travel plans made in advance."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "The historian examined the invoices ____ whether the pigment had been bought locally.",
+          "options": [
+            "for establish",
+            "establishing of",
+            "to establish",
+            "to be establish"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The to-infinitive expresses the purpose of examining the invoices.",
+            "distractors": {
+              "0": "For cannot take the bare verb establish.",
+              "1": "Establish takes an indirect question directly, without of.",
+              "3": "After to be, establish would need a different form, and a passive construction would not express the historian's purpose."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "invoice",
+              "hebrew": "חשבונית"
+            }
+          ]
+        },
+        {
+          "prompt": "Neither of the two devices ____ capable of measuring very low temperatures.",
+          "options": [
+            "were be",
+            "is",
+            "are being",
+            "have"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Neither takes singular is in this formal construction, and capable follows be.",
+            "distractors": {
+              "0": "Were cannot be followed by the bare verb be here.",
+              "2": "Are being capable treats capability as a temporary action and fails formal singular agreement.",
+              "3": "Have has the wrong construction with the adjective capable."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "capable",
+              "hebrew": "מסוגל"
+            }
+          ]
+        },
+        {
+          "prompt": "The report suggests ____ the two sites before commissioning another survey.",
+          "options": [
+            "to revisit",
+            "that revisit",
+            "revisiting",
+            "to revisiting"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Suggest can take a gerund naming the proposed action.",
+            "distractors": {
+              "0": "Suggest does not directly take to revisit to express this recommendation.",
+              "1": "A that clause requires an explicit subject before the verb.",
+              "3": "An infinitive cannot take revisiting, and suggest does not license this complement."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "commission",
+              "hebrew": "להזמין ביצוע"
+            }
+          ]
+        },
+        {
+          "prompt": "Three of the readings agreed closely, but the fourth would have been within the same range if the instrument ____ before the experiment.",
+          "options": [
+            "would have calibrating",
+            "had properly calibrating",
+            "has properly calibrated",
+            "had been properly calibrated"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The modal perfect result takes an unreal past condition, expressed here with had been plus a passive participle.",
+            "distractors": {
+              "0": "Would have requires a past participle and would not form the necessary condition here.",
+              "1": "Had must be followed by a participle, and the instrument receives the calibration.",
+              "2": "Has puts the reference at the present and makes the instrument the agent."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "calibrate",
+              "hebrew": "לכייל"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Should public parks have designated areas where phones are put away? Explain the advantages or disadvantages of this idea."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "The clock was ____ by five minutes so its reading would match that of the reference clock.",
+        "base": "adjust",
+        "answers": [
+          "adjusted"
+        ],
+        "explanation": "The passive was adjusted requires the past participle."
+      },
+      {
+        "prompt": "Some of the field ____ were made at night, when the birds were easier to hear.",
+        "base": "observe",
+        "answers": [
+          "observations"
+        ],
+        "explanation": "Observations is the plural noun for the findings made in the field."
+      },
+      {
+        "prompt": "The electrician's estimate was ____ because it included the necessary parts and labor at a fair price.",
+        "base": "reason",
+        "answers": [
+          "reasonable"
+        ],
+        "explanation": "Reasonable is the adjective meaning fair or sensible in this setting."
+      },
+      {
+        "prompt": "The dye faded ____ as the cloth spent more time in direct sunlight.",
+        "base": "gradual",
+        "answers": [
+          "gradually"
+        ],
+        "explanation": "Gradually describes a process that occurs in small stages over time."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "It is worth ____ whether the incline is too steep before choosing a location for the ramp.",
+          "options": [
+            "check that for",
+            "checking",
+            "to checking",
+            "to check"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Worth takes a gerund for the action that merits doing.",
+            "distractors": {
+              "0": "Worth does not take a bare verb or the connector that for.",
+              "2": "This construction takes the gerund without to.",
+              "3": "Worth cannot take a to-infinitive in this construction."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "incline",
+              "hebrew": "שיפוע"
+            }
+          ]
+        },
+        {
+          "prompt": "So little light falls on the valley floor ____ only a few species of grass survive there.",
+          "options": [
+            "which",
+            "as though",
+            "that",
+            "for to"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The result construction links so little to a clause introduced by that.",
+            "distractors": {
+              "0": "Which would need to introduce a relative clause with an appropriate referent.",
+              "1": "As though introduces an apparent comparison rather than the stated consequence.",
+              "3": "For to does not introduce a result clause in standard English."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "survive",
+              "hebrew": "לשרוד"
+            }
+          ]
+        },
+        {
+          "prompt": "More than one explanation ____ been proposed for the sudden disappearance of the coins.",
+          "options": [
+            "are",
+            "having",
+            "have been",
+            "has"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "More than one takes singular has in the perfect passive has been proposed.",
+            "distractors": {
+              "0": "Are cannot precede been proposed to make this perfect passive.",
+              "1": "Having does not supply a finite auxiliary.",
+              "2": "This leaves two occurrences of been and fails to agree with the formal singular subject."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "disappearance",
+              "hebrew": "היעלמות"
+            }
+          ]
+        },
+        {
+          "prompt": "Despite ____ a detailed maintenance log, the investigators were unable to determine why the fault recurred.",
+          "options": [
+            "had consulting",
+            "to have consulted",
+            "they had consulted",
+            "having consulted"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Despite is a preposition and can introduce a gerund phrase such as having consulted.",
+            "distractors": {
+              "0": "Had consulting is not a valid perfect construction and lacks a subject here.",
+              "1": "Despite does not take a to-infinitive.",
+              "2": "A finite clause cannot directly follow despite without the fact that."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "recur",
+              "hebrew": "להישנות"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Is it more important for a university to provide quiet study rooms or spaces for collaborative work? Explain your priority."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "The bridge was closed for routine ____ even though no structural damage had been reported.",
+        "base": "maintain",
+        "answers": [
+          "maintenance"
+        ],
+        "explanation": "Maintenance refers to the ongoing work that keeps the bridge in good condition."
+      },
+      {
+        "prompt": "The smaller hall was ____ because it offered better acoustics for spoken presentations.",
+        "base": "choose",
+        "answers": [
+          "chosen"
+        ],
+        "explanation": "Chosen is the irregular past participle of choose."
+      },
+      {
+        "prompt": "The conservator handled the brittle pages ____ to avoid tearing them.",
+        "base": "cautious",
+        "answers": [
+          "cautiously"
+        ],
+        "explanation": "Cautiously is the adverb describing careful handling."
+      },
+      {
+        "prompt": "Most of the note was ____ after rain blurred the ink and soaked the paper.",
+        "base": "read",
+        "answers": [
+          "unreadable"
+        ],
+        "explanation": "Unreadable means that the writing cannot be read."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "Several new species ____ during a survey of the river basin last summer.",
+          "options": [
+            "have identify",
+            "identifying",
+            "were identified",
+            "was identified"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Were identified supplies a plural past passive matching the subject and time reference.",
+            "distractors": {
+              "0": "Have needs the past participle, and present perfect does not suit last summer.",
+              "1": "Identifying alone cannot form a finite verb here.",
+              "3": "Was cannot agree with species in this plural context."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "species",
+              "hebrew": "מינים"
+            }
+          ]
+        },
+        {
+          "prompt": "The lecturer paused every few minutes ____ students could review their notes.",
+          "options": [
+            "in order for",
+            "as a means of",
+            "with a view to",
+            "so that"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "So that introduces a full finite purpose clause.",
+            "distractors": {
+              "0": "In order for would require students to review rather than students could review.",
+              "1": "As a means of requires a nominal or gerund complement.",
+              "2": "With a view to would require a noun or gerund, not a finite clause."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "pause",
+              "hebrew": "לעצור לרגע"
+            }
+          ]
+        },
+        {
+          "prompt": "If the housing survey ____ out today, the results would probably be different.",
+          "options": [
+            "were carrying",
+            "could have carry",
+            "would have been carried",
+            "were carried"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Were carried out gives the hypothetical passive condition leading to the stated result.",
+            "distractors": {
+              "0": "Were carrying would make the survey conduct something and leaves no object.",
+              "1": "Have must take a past participle, not carry.",
+              "2": "Would have been carried introduces a past modal result rather than a present condition in the if-clause."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "survey",
+              "hebrew": "סקר"
+            }
+          ]
+        },
+        {
+          "prompt": "The editor insisted on ____ the quotations against the original recordings.",
+          "options": [
+            "checking",
+            "checked before",
+            "to check",
+            "check"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Insist on can take a gerund to name the required action.",
+            "distractors": {
+              "1": "Checked before does not form the required gerund phrase and places before before the wrong object.",
+              "2": "On takes a gerund here, not a to-infinitive.",
+              "3": "The preposition on cannot directly take the bare verb check."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "quotation",
+              "hebrew": "ציטוט"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Choose one way an organization could make it easier for new volunteers to participate. Explain why you think it would help."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "Because the only bridge had collapsed, a long detour was ____ for anyone traveling by road.",
+        "base": "avoid",
+        "answers": [
+          "unavoidable"
+        ],
+        "explanation": "Unavoidable describes a detour that could not be avoided."
+      },
+      {
+        "prompt": "A shallow channel was ____ beside the path to stop rainwater pooling at its lowest point.",
+        "base": "dig",
+        "answers": [
+          "dug"
+        ],
+        "explanation": "Dug is the irregular past participle of dig."
+      },
+      {
+        "prompt": "The team obtained ____ from the building's owner before setting up equipment on the roof.",
+        "base": "permit",
+        "answers": [
+          "permission"
+        ],
+        "explanation": "Permission is the noun for authorization in this context."
+      },
+      {
+        "prompt": "The supply of drinking water was divided ____ among all six field teams, so each received the same amount.",
+        "base": "equal",
+        "answers": [
+          "equally"
+        ],
+        "explanation": "Equally is the adverb indicating that the teams received identical shares."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "The two witnesses disagreed about what ____ to the documents after the hearing.",
+          "options": [
+            "have happen",
+            "has happening",
+            "was happen",
+            "had happened"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Had happened forms an indirect question about a past event before the disagreement.",
+            "distractors": {
+              "0": "Have needs a participle and does not fit after the singular subject what here.",
+              "1": "Has needs a past participle, not happening.",
+              "2": "Was does not take the bare verb happen."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "hearing",
+              "hebrew": "דיון"
+            }
+          ]
+        },
+        {
+          "prompt": "The museum promised ____ visitors in advance if the exhibition dates changed.",
+          "options": [
+            "notify for",
+            "that notify",
+            "notifying to",
+            "to notify"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Promise can be followed by a to-infinitive expressing the promised action.",
+            "distractors": {
+              "0": "The bare verb does not complete promised, and notify does not take for before its object.",
+              "1": "A that clause needs a subject before notify.",
+              "2": "Notifying to is not a complement of promised, and notify takes visitors directly."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "notify",
+              "hebrew": "להודיע"
+            }
+          ]
+        },
+        {
+          "prompt": "Only one of the proposed designs ____ the new accessibility requirements as currently written.",
+          "options": [
+            "meets",
+            "have met",
+            "conforming",
+            "meet"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The head of the subject is one, so the present simple verb is meets.",
+            "distractors": {
+              "1": "Have does not agree with one in this sentence.",
+              "2": "Conforming is not a finite main verb and would take to before its object.",
+              "3": "Meet would agree with a plural subject, not only one."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "requirement",
+              "hebrew": "דרישה"
+            }
+          ]
+        },
+        {
+          "prompt": "The second platform serves substantially more passengers ____ was originally expected.",
+          "options": [
+            "in order that",
+            "than",
+            "as",
+            "unless"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "More sets up a comparison and takes than to introduce the reference amount.",
+            "distractors": {
+              "0": "In order that introduces purpose, which does not fit the comparison.",
+              "2": "As does not complete a more-than comparison.",
+              "3": "Unless would require a condition and does not complete this comparison."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "substantially",
+              "hebrew": "במידה ניכרת"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Should students be able to revise a completed assignment after receiving feedback? Explain your position."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "The opening of a second repair shop increased ____ for customers in the neighborhood.",
+        "base": "compete",
+        "answers": [
+          "competition"
+        ],
+        "explanation": "Competition names the rivalry for customers created by having two shops."
+      },
+      {
+        "prompt": "The paint faded so slowly that the difference became ____ only when the piece was compared with an old photograph.",
+        "base": "notice",
+        "answers": [
+          "noticeable"
+        ],
+        "explanation": "Noticeable means clear enough to be detected."
+      },
+      {
+        "prompt": "The original photograph was ____ at auction, while the museum kept a digital copy.",
+        "base": "sell",
+        "answers": [
+          "sold"
+        ],
+        "explanation": "Sold is the past participle of sell used with was."
+      },
+      {
+        "prompt": "The architect ____ used an uneven pattern so visitors would not assume the walls were identical.",
+        "base": "intention",
+        "answers": [
+          "intentionally"
+        ],
+        "explanation": "Intentionally is the adverb meaning that the choice was made on purpose."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "The field notes mention a wooden box ____ the coins were discovered.",
+          "options": [
+            "where it",
+            "when there",
+            "which had",
+            "in which"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "In which introduces a relative clause giving the place of discovery.",
+            "distractors": {
+              "0": "Where could link the clause by itself, but the added it leaves two subjects.",
+              "1": "When refers to time rather than to a box, and the inserted there makes the clause ungrammatical.",
+              "2": "Which had cannot introduce the full clause the coins were discovered."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "discover",
+              "hebrew": "לגלות"
+            }
+          ]
+        },
+        {
+          "prompt": "Had the site been open, the class ____ the ruins yesterday.",
+          "options": [
+            "could have visited",
+            "would have visit",
+            "can be visiting",
+            "could had visited"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Could have visited expresses the possible unreal past result.",
+            "distractors": {
+              "1": "The perfect requires the past participle visited.",
+              "2": "Can be visiting gives present possibility and conflicts with yesterday.",
+              "3": "A modal takes the bare perfect auxiliary have, not had."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "ruin",
+              "hebrew": "חורבה"
+            }
+          ]
+        },
+        {
+          "prompt": "A series of recordings ____ kept in a room where the humidity can be controlled.",
+          "options": [
+            "have",
+            "is",
+            "are being to",
+            "be"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "A series takes singular is, forming the passive is kept.",
+            "distractors": {
+              "0": "A series would take has, and active have kept supplies a different meaning.",
+              "2": "Being to kept cannot form a passive or agree with the singular series.",
+              "3": "Be is not a finite main verb in this declarative sentence."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "humidity",
+              "hebrew": "לחות"
+            }
+          ]
+        },
+        {
+          "prompt": "Several of the volunteers offered ____ the labels into Arabic before the event.",
+          "options": [
+            "translating to",
+            "translate that",
+            "to translate",
+            "that translated"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Offer takes a to-infinitive for an action the subject volunteers to do.",
+            "distractors": {
+              "0": "Offered does not take this gerund phrase, and translate takes labels directly.",
+              "1": "The bare verb is not licensed after offered, and that comes in the wrong position.",
+              "3": "A that clause would require a subject; offered that translated is incomplete."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "translate",
+              "hebrew": "לתרגם"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Would you rather spend one week learning a skill intensively or learn it slowly over several months? Explain your choice."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "All measurements were ____ at the same hour each day to limit the effect of changing temperatures.",
+        "base": "take",
+        "answers": [
+          "taken"
+        ],
+        "explanation": "Taken is the past participle of take and completes the passive."
+      },
+      {
+        "prompt": "The proposed change would be ____ because the original material would have to be destroyed.",
+        "base": "reverse",
+        "answers": [
+          "irreversible"
+        ],
+        "explanation": "Irreversible means that the change could not later be undone."
+      },
+      {
+        "prompt": "The width was measured ____ to the nearest tenth of a millimeter.",
+        "base": "precise",
+        "answers": [
+          "precisely"
+        ],
+        "explanation": "Precisely is the adverb referring to the degree of exactness in the measurement."
+      },
+      {
+        "prompt": "The engineers measured the ____ of the new heating system by comparing its output with its electricity use.",
+        "base": "efficient",
+        "answers": [
+          "efficiency"
+        ],
+        "explanation": "Efficiency names the relationship between useful output and the energy consumed."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "The instruments at both ends of the tunnel ____ checked every morning before the first train.",
+          "options": [
+            "are",
+            "being",
+            "has been",
+            "is"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The plural subject instruments takes are to complete the regular passive are checked.",
+            "distractors": {
+              "1": "Being alone is nonfinite and leaves the sentence without a main verb.",
+              "2": "Has is singular and cannot agree with instruments.",
+              "3": "Is does not agree with instruments."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "instrument",
+              "hebrew": "מכשיר"
+            }
+          ]
+        },
+        {
+          "prompt": "Two members of the team denied ____ the results before the deadline.",
+          "options": [
+            "that seeing",
+            "having seen",
+            "to have seen",
+            "have saw"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Deny takes a gerund phrase, with having seen placing the seeing before the denial.",
+            "distractors": {
+              "0": "That requires a full clause with a subject and finite verb.",
+              "2": "Deny does not take a to-infinitive in this construction.",
+              "3": "Have has the wrong complement after denied, and the participle is seen."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "deny",
+              "hebrew": "להכחיש"
+            }
+          ]
+        },
+        {
+          "prompt": "The soil here contains so much clay ____ the surface remains slippery for days after rain.",
+          "options": [
+            "which",
+            "so as",
+            "that",
+            "in case of"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "So much is followed by a that clause expressing its result.",
+            "distractors": {
+              "0": "Which would need an appropriate noun referent and does not complete so much.",
+              "1": "So as requires a to-infinitive, not a following finite clause.",
+              "3": "In case of cannot take this finite clause or express the stated consequence."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "slippery",
+              "hebrew": "חלקלק"
+            }
+          ]
+        },
+        {
+          "prompt": "The paintings are believed ____ in the same workshop, even though they bear different signatures.",
+          "options": [
+            "to have making",
+            "to have been made",
+            "having been made",
+            "that they made"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The passive reporting construction are believed can take a perfect passive infinitive.",
+            "distractors": {
+              "0": "After have, a participle is required; the paintings also receive the action.",
+              "2": "The construction needs an infinitive after are believed, not a gerund.",
+              "3": "A that clause would need an impersonal expression such as it is believed, and they made is active."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "bear",
+              "hebrew": "לשאת"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "Should local news organizations devote more space to solutions to community problems? Explain your position."
+  },
+  {
+    "wordFormation": [
+      {
+        "prompt": "The delivery contains ____ two thousand photographs, although the exact number is still being checked.",
+        "base": "approximate",
+        "answers": [
+          "approximately"
+        ],
+        "explanation": "Approximately modifies the number to indicate that it is an estimate."
+      },
+      {
+        "prompt": "The island's earliest permanent ____ built their homes near a spring on the northern shore.",
+        "base": "inhabit",
+        "answers": [
+          "inhabitants"
+        ],
+        "explanation": "Inhabitants is the plural noun referring to the people who lived there."
+      },
+      {
+        "prompt": "Each team was ____ the same set of tools before the experiment began.",
+        "base": "give",
+        "answers": [
+          "given"
+        ],
+        "explanation": "Given is the past participle of give in the passive expression."
+      },
+      {
+        "prompt": "The repair was ____ because the device operated for years without another fault.",
+        "base": "success",
+        "answers": [
+          "successful"
+        ],
+        "explanation": "Successful is the adjective meaning the repair achieved its intended result."
+      }
+    ],
+    "grammar": {
+      "title": "Grammar in Context",
+      "paragraphs": [],
+      "questions": [
+        {
+          "prompt": "The instructions warned staff against ____ the folder while the update was running.",
+          "options": [
+            "have deleted",
+            "deleting",
+            "delete",
+            "to delete"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Against takes a gerund when it introduces the action to avoid.",
+            "distractors": {
+              "0": "Have deleted needs a different grammatical construction and cannot follow this preposition directly.",
+              "2": "The bare verb delete cannot directly follow against.",
+              "3": "A to-infinitive does not fit after against."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "folder",
+              "hebrew": "תיקייה"
+            }
+          ]
+        },
+        {
+          "prompt": "The materials used for the model ____ selected to withstand repeated handling.",
+          "options": [
+            "was",
+            "has",
+            "were",
+            "being"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The plural subject materials takes were to complete the passive.",
+            "distractors": {
+              "0": "Was cannot agree with the plural subject materials.",
+              "1": "Has fails agreement, and the passive requires been between has and selected.",
+              "3": "Being is nonfinite without an auxiliary here."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "withstand",
+              "hebrew": "לעמוד בפני"
+            }
+          ]
+        },
+        {
+          "prompt": "At this time next year, the team ____ the water level continuously for a decade.",
+          "options": [
+            "has recorded already",
+            "will have been recording",
+            "is recording previously",
+            "had been recording"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The future perfect continuous links ten years of recording to a specified future point.",
+            "distractors": {
+              "0": "Present perfect relates the activity to now rather than the future reference point.",
+              "2": "Present progressive with previously does not express the period leading up to next year.",
+              "3": "The past perfect must refer to a later point in the past, not next year."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "continuously",
+              "hebrew": "ברציפות"
+            }
+          ]
+        },
+        {
+          "prompt": "The scholars were unable to determine ____ the second signature belonged to the artist.",
+          "options": [
+            "who",
+            "which",
+            "whether",
+            "whose"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Whether introduces the embedded yes-or-no question about ownership of the signature.",
+            "distractors": {
+              "0": "Who would ask about a person and leaves the clause with the wrong structure.",
+              "1": "Which would need a choice among antecedents and cannot introduce this complete yes-or-no clause.",
+              "3": "Whose would require a following possessed item and does not complete this question."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "belong to",
+              "hebrew": "להיות שייך ל־"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": "What is one feature that would make an older neighborhood more accessible? Explain who would benefit and how."
+  }
+]

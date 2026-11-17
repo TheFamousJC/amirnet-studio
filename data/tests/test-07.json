@@ -1,0 +1,996 @@
+{
+  "id": "test-07",
+  "number": 7,
+  "bankVersion": 2,
+  "title": "The Handwriting of the Index / Mud Written into Shells",
+  "sections": [
+    {
+      "id": "test-07-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "The engineers plan to ____ the damaged sensor with a new one of the same model.",
+          "options": [
+            "release",
+            "replace",
+            "retain",
+            "revise"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“replace” means put something new in the place of something old. A new sensor takes the place of the damaged one.",
+            "distractors": {
+              "0": "“release” means make something available to others. The clue is that a new sensor takes the place of the damaged one.",
+              "2": "“retain” means keep something in one's possession. The clue is that a new sensor takes the place of the damaged one.",
+              "3": "“revise” means change something to improve or correct it. The clue is that a new sensor takes the place of the damaged one."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "replace",
+              "hebrew": "להחליף"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-07-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "Before lending the manuscript, the curator asked a specialist to ____ each page for tears and loose ink.",
+          "options": [
+            "adjust",
+            "label",
+            "collect",
+            "inspect"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“inspect” means examine carefully for quality or damage. The pages are examined carefully for physical damage.",
+            "distractors": {
+              "0": "“adjust” means alter slightly to suit conditions. The clue is that the pages are examined carefully for physical damage.",
+              "1": "“label” means attach identifying information to something. The clue is that the pages are examined carefully for physical damage.",
+              "2": "“collect” means gather things together. The clue is that the pages are examined carefully for physical damage."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "inspect",
+              "hebrew": "לבדוק, לבחון"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-07-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The station installed more sensitive instruments to ____ small movements that earlier equipment had missed.",
+          "options": [
+            "prevent",
+            "restore",
+            "detect",
+            "monitor"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“detect” means discover the presence of something hard to notice. The instruments reveal movements that were previously too faint to notice.",
+            "distractors": {
+              "0": "“prevent” means stop something from happening. The clue is that the instruments reveal movements that were previously too faint to notice.",
+              "1": "“restore” means bring something back to a former state. The clue is that the instruments reveal movements that were previously too faint to notice.",
+              "3": "“monitor” means observe or measure over a period of time. The clue is that the instruments reveal movements that were previously too faint to notice."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "detect",
+              "hebrew": "לאתר, לזהות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-07-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "Borrowers were normally limited to four volumes, but the archive made a special ____ for researchers working on the complete edition.",
+          "options": [
+            "objection",
+            "exception",
+            "claim",
+            "record"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“exception” means case that does not follow a general rule. Certain researchers were excused from the usual lending rule.",
+            "distractors": {
+              "0": "“objection” means expression of opposition to something proposed. The clue is that certain researchers were excused from the usual lending rule.",
+              "2": "“claim” means statement presented as true. The clue is that certain researchers were excused from the usual lending rule.",
+              "3": "“record” means account or documentation retained as evidence. The clue is that certain researchers were excused from the usual lending rule."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-07-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The authors offered a ____ interpretation that they intended to reconsider once the remaining samples had been analysed.",
+          "options": [
+            "widespread",
+            "tentative",
+            "explicit",
+            "coherent"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“tentative” means provisional and not yet definite. The interpretation may be revised in light of later results.",
+            "distractors": {
+              "0": "“widespread” means extending across many places or among many people. The clue is that the interpretation may be revised in light of later results.",
+              "2": "“explicit” means stated clearly and directly. The clue is that the interpretation may be revised in light of later results.",
+              "3": "“coherent” means forming a logical and unified whole. The clue is that the interpretation may be revised in light of later results."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "tentative",
+              "hebrew": "זמני, מהוסס"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-07-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The curator managed to ____ two apparently contradictory descriptions of the statue by showing that each referred to a different phase of repair.",
+          "options": [
+            "substantiate",
+            "reinterpret",
+            "repudiate",
+            "reconcile"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“reconcile” means make apparently conflicting accounts compatible. Different repair phases let both descriptions be accurate.",
+            "distractors": {
+              "0": "“substantiate” means support a statement with evidence. The clue is that different repair phases let both descriptions be accurate.",
+              "1": "“reinterpret” means give a new meaning or explanation to familiar material. The clue is that different repair phases let both descriptions be accurate.",
+              "2": "“repudiate” means formally disown or reject something previously associated with oneself. The clue is that different repair phases let both descriptions be accurate."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "reconcile",
+              "hebrew": "ליישב"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-07-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-07-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "The clinic currently opens only on weekdays, but a new grant will allow it to ____ its service to weekends.",
+          "options": [
+            "expand",
+            "transfer",
+            "consolidate",
+            "suspend"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Weekends are being added to the clinic's existing schedule.",
+            "distractors": {
+              "1": "This would move existing service from weekdays to weekends, while the plan adds days.",
+              "2": "This would combine parts of the existing service rather than add weekend hours.",
+              "3": "This would interrupt service rather than make it available on more days."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "expand",
+              "hebrew": "להרחיב"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-07-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The sensor failed whenever both systems were running. Before the engineers could repair it, they had to ____ the source of the interference by turning off each system in turn.",
+          "options": [
+            "isolate",
+            "stabilize",
+            "suppress",
+            "replicate"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Testing the systems separately lets them identify the particular source apart from the rest.",
+            "distractors": {
+              "1": "No source has yet been identified, and the task is to pinpoint it rather than make it stable.",
+              "2": "Turning each system off in turn is a diagnostic step rather than a permanent effort to stop the interference.",
+              "3": "The interference can already be reproduced by running both systems; what remains is to identify its source."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "isolate",
+              "hebrew": "לבודד"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-07-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The total number of library visits increased, but the ____ made by children fell from a third to a quarter.",
+          "options": [
+            "proportion",
+            "interval",
+            "distribution",
+            "frequency"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "One-third and one-quarter measure shares of the total.",
+            "distractors": {
+              "1": "This would measure time between visits rather than a share of visits.",
+              "2": "A distribution describes how visits are spread across multiple groups, not one group's fraction on its own.",
+              "3": "Frequency concerns how often visits occurred, whereas the fractions compare children's visits with all visits."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "proportion",
+              "hebrew": "שיעור יחסי, חלק"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-07-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The museum charges a ____ rental fee for its hall, set at one shekel merely to record the arrangement as a transaction.",
+          "options": [
+            "nominal",
+            "uniform",
+            "flexible",
+            "waived"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The token amount serves a formal purpose and is effectively negligible.",
+            "distractors": {
+              "1": "The fact that the fee is low says nothing about whether every renter pays the same amount.",
+              "2": "The fee is fixed at one shekel, with no indication that it can be adjusted.",
+              "3": "The fee is still charged, even though the amount is small."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "nominal",
+              "hebrew": "סמלי, זניח בגודלו"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-07-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "Because the selection committee heard only from applicants who could travel on short notice, its findings may ____ the experiences of the full applicant pool.",
+          "options": [
+            "summarize",
+            "differentiate",
+            "exemplify",
+            "distort"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The selection method can misrepresent what the complete group experienced.",
+            "distractors": {
+              "0": "A summary condenses available material; the missing applicants raise a concern about accuracy rather than length.",
+              "1": "The findings would distinguish experiences only with a meaningful comparison between groups, and many applicants were never heard.",
+              "2": "The interviews can illustrate certain experiences, but the warning concerns an unrepresentative overall picture."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "distort",
+              "hebrew": "לעוות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-07-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The authorities left the mountain road open, but keeping one lane closed for repairs continued to ____ deliveries for several weeks.",
+          "options": [
+            "ration",
+            "suspend",
+            "impede",
+            "defer"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "With only one lane in use, deliveries could continue but moved more slowly.",
+            "distractors": {
+              "0": "This would limit how much each recipient could receive, whereas the obstacle is access along the road.",
+              "1": "Deliveries were impeded rather than stopped altogether.",
+              "3": "This would reschedule deliveries to a later period, although the sentence describes a continuing operational obstacle."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "impede",
+              "hebrew": "לעכב, להפריע"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-07-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-07-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "The Handwriting of the Index",
+        "paragraphs": [
+          "A book's index often looks like a neutral directory. Its headings are arranged alphabetically and followed by numbers, an appearance so spare that readers may forget how much judgment it embodies. An indexer chooses how to name recurring ideas, which passages are substantial enough to list, and whether multiple expressions should be grouped under a shared heading. The resulting choices affect how the book can be consulted without reading it from beginning to end. They can also tell a historian something about which connections an indexer thought likely to matter to the book's first readers.",
+          "Compare two editions of a fictional treatise on the upkeep of public squares. In one index, references to the removal of refuse appear under cleanliness, along with rules about dust and smoke. In another, the same passages appear under labour, beside information about the hours and duties of workers. Neither heading is inaccurate. Each suggests a different unit of inquiry. A reader tracing working conditions would find the second index especially useful, while someone concerned with the management of the physical environment might benefit more from the first. A dense cross-reference system can serve both interests, although it can also become difficult to navigate if every related heading directs the reader to several others.",
+          "For researchers, these decisions raise an evidentiary problem. A change between indexes might reflect growing interest in a subject, but it might also result from the use of a new publisher's house style or a tight limit on page count. Copies marked by earlier readers offer one way to investigate. Marginal notes and inserted slips can show how a person actually used an index, perhaps pursuing a heading the compiler considered minor. Such items cannot supply the intentions of every reader, but they help separate the design of a reference system from its use in practice.",
+          "Today a searchable text makes it possible to locate every occurrence of a chosen expression. That capacity saves time, but it still presupposes that the searcher can anticipate the words the author used or recognize results referring to the same idea in different language. A carefully made index provides additional intellectual work: it offers a selection of connections and signals which passages the compiler regarded as substantial. Its value lies partly in those judgments, even when a later reader takes an interest in how they could have been made differently."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What is the central claim about indexing in the passage?",
+          "options": [
+            "Digital searches preserve the advantages of an index while avoiding its editorial assumptions.",
+            "A book's usefulness increases in proportion to the number of links its index supplies.",
+            "An index incorporates interpretations that shape how readers navigate a text.",
+            "Changes in headings offer a more reliable guide to readers' interests than the notes left in their books."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Naming, grouping, and selecting passages make particular routes through a book easier.",
+            "distractors": {
+              "0": "Digital search has its own assumptions about language and does not supply the compiler's selected relationships.",
+              "1": "The author notes that a dense network of references may make the index harder to use.",
+              "3": "Several production choices can account for changed headings; reader traces supply a separate check."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "indexer",
+              "hebrew": "מכין מפתח עניינים"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-07-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "What inference about a changed index would go beyond the evidence of the change alone?",
+          "options": [
+            "That a publisher's page limit could be one explanation for the revision.",
+            "That locating a passage may become easier for an inquiry suited to the new heading.",
+            "That the subject of refuse could be relevant under either of two headings.",
+            "That a change in readers' interests must have caused the new headings."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Publisher conventions and page limits could also explain the change.",
+            "distractors": {
+              "0": "The text expressly permits this as a possibility; it does not claim that such a limit operated in this case.",
+              "1": "The different usefulness of headings for different readers follows from the comparison in the second paragraph.",
+              "2": "The example directly shows how two accurate headings support different inquiries."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "evidentiary",
+              "hebrew": "ראייתי"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-07-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author regard searchable electronic texts?",
+          "options": [
+            "As tools that let readers search without anticipating the author’s wording.",
+            "As primarily valuable when users search only for headings the indexer selected.",
+            "As efficient tools with constraints that leave a role for carefully designed indexes.",
+            "As preferable to indexes when the reader investigates a recurring idea."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Their speed is acknowledged alongside dependence on the searcher's choice of terms.",
+            "distractors": {
+              "0": "Users still need to predict expressions or recognize the same idea under different wording.",
+              "1": "The author values the ability to find every instance of an expression, rather than limiting search to the indexer's choices.",
+              "3": "Recurrence can be found by search, but indexing adds judgment about related wording and substantive passages."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "presuppose",
+              "hebrew": "להניח מראש"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-07-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What do the separate headings suggest when each supplies a different “unit of inquiry”?",
+          "options": [
+            "A set of equivalent terms to be used in an electronic search.",
+            "A different organising concern for investigating the material.",
+            "A subdivision under the same main subject.",
+            "A fixed amount of material that a compiler assigns to a heading."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "One groups refuse with environmental issues, the other with working conditions.",
+            "distractors": {
+              "0": "Equivalent wording is raised later as a challenge for search, whereas this phrase concerns what the enquiry has as its object.",
+              "2": "The examples assign the same content to genuinely different organising concerns, not to subdivisions of a single heading.",
+              "3": "The issue is the kind of inquiry supported, rather than the quantity referenced."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "inquiry",
+              "hebrew": "חקירה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-07-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Which source is proposed to investigate how particular people actually sought material in an older edition?",
+          "options": [
+            "Annotations or loose slips left in readers’ copies.",
+            "A count of the references grouped under labour in the newer edition.",
+            "Cross-references added to give cleaning and labour equal treatment.",
+            "Notices explaining a publisher's style for index headings."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The third paragraph says these can show an individual's use of the index.",
+            "distractors": {
+              "1": "This shows what a compiler grouped together, rather than which references an earlier reader followed.",
+              "2": "Cross-references describe possible navigation supplied by the compiler, not actual past use.",
+              "3": "A style guide may explain how a compiler designed an index but does not reveal how specific readers consulted it."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "marginal",
+              "hebrew": "בשוליים"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-07-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-07-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Although the demonstration lasted only ten minutes, the newspaper devoted an entire page to it.",
+          "options": [
+            "The demonstration lasted only ten minutes; nevertheless, the newspaper devoted an entire page to it.",
+            "The newspaper devoted an entire page to it, which prevented anyone from finding out whether the demonstration lasted only ten minutes.",
+            "Because the demonstration lasted only ten minutes, the newspaper devoted an entire page to it.",
+            "The newspaper devoted an entire page to it only before it became clear that the demonstration lasted only ten minutes."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the demonstration lasted only ten minutes” and “the newspaper devoted an entire page to it.”",
+            "distractors": {
+              "1": "It introduces an obstacle to discovering the first fact, which the original states directly.",
+              "2": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast.",
+              "3": "It limits the second fact to an earlier time and adds a discovery that the original never mentions."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-07-restatement-1-1"
+        },
+        {
+          "prompt": "Its operators could observe on more cloudless nights as a result of the fact that the telescope was moved inland.",
+          "options": [
+            "Its operators could observe on more cloudless nights, but it is unknown whether the telescope was moved inland.",
+            "Its operators could observe on more cloudless nights; consequently, the telescope was moved inland.",
+            "The telescope was moved inland; consequently, its operators could observe on more cloudless nights.",
+            "The telescope was moved inland; nevertheless, its operators could observe on more cloudless nights."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the telescope was moved inland, leading to the result that its operators could observe on more cloudless nights.",
+            "distractors": {
+              "0": "It casts doubt on the cause, which the original treats as an established fact.",
+              "1": "It reverses the direction of cause and result.",
+              "3": "It replaces the causal relationship with a concession."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-07-restatement-1-2"
+        },
+        {
+          "prompt": "Once the leather has softened, the conservator will unfold the letter.",
+          "options": [
+            "The conservator will unfold the letter, regardless of whether the leather has softened.",
+            "The conservator will unfold the letter after the leather has softened.",
+            "The conservator will not unfold the letter even after the leather has softened.",
+            "The conservator will unfold the letter before the leather has softened."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled. The first event has to be complete.",
+            "distractors": {
+              "0": "It makes the first event irrelevant to the timing of the second.",
+              "2": "It denies the stated plan to carry out the second action.",
+              "3": "It places the scheduled action before the event that the sentence puts first."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-07-restatement-1-3"
+        },
+        {
+          "prompt": "They will receive credit for the course only if the students complete the fieldwork.",
+          "options": [
+            "They will receive credit for the course only on condition that the students complete the fieldwork.",
+            "They will receive credit for the course only if it is impossible to establish that the students complete the fieldwork.",
+            "They will receive credit for the course in every case in which the students complete the fieldwork.",
+            "They will receive credit for the course whether or not the students complete the fieldwork."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The condition “the students complete the fieldwork” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "1": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met.",
+              "2": "It treats the condition as sufficient and promises the outcome whenever it is met.",
+              "3": "It removes the requirement by making the outcome independent of the condition."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-07-restatement-1-4"
+        },
+        {
+          "prompt": "The first edition seemed consistent in spelling compared with the second edition.",
+          "options": [
+            "The first edition appeared to exceed the second edition in consistency.",
+            "The second edition appeared to exceed the first edition in consistency.",
+            "The first edition appeared to match the second edition in consistency.",
+            "The difference in consistency was established when the second edition spelled words more consistently than the first edition in a formal test."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the second edition, first. The comparison concerns consistency.",
+            "distractors": {
+              "0": "It reverses the relative ranking of the two items.",
+              "2": "It describes the two items as equal on the stated measure.",
+              "3": "It turns an impression into a demonstrated finding and invents a formal test."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-07-restatement-1-5"
+        },
+        {
+          "prompt": "But for the newly built footbridge, the workers would have had to take the long route.",
+          "options": [
+            "Whether the newly built footbridge made any difference to the outcome is unknown.",
+            "The workers would have had to take the long route because of the newly built footbridge.",
+            "The workers would have had to take the long route regardless of the effect of the newly built footbridge.",
+            "The workers would have had to take the long route in the absence of the newly built footbridge."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the workers would have had to take the long route” belongs to the hypothetical situation in which the newly built footbridge was absent.",
+            "distractors": {
+              "0": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs.",
+              "1": "It attributes the hypothetical result to the presence of the factor rather than its absence.",
+              "2": "It predicts the same result without changing whether the factor was present."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-07-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-07-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the oldest fragments are reclassified as modern, the case for maintaining the collection will survive.",
+          "options": [
+            "The oldest fragments are reclassified as modern; therefore, the case for maintaining the collection will survive.",
+            "The case for maintaining the collection may or may not survive, depending on whether the oldest fragments are reclassified as modern.",
+            "The case for maintaining the collection will survive, including in the event that the oldest fragments are reclassified as modern.",
+            "The case for maintaining the collection will survive only in the event that the oldest fragments are reclassified as modern."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the oldest fragments are reclassified as modern. The original leaves that case hypothetical.",
+            "distractors": {
+              "0": "It turns an open possibility into an established fact and presents it as the cause.",
+              "1": "It makes the outcome depend on the hypothetical condition.",
+              "3": "It turns a condition that would make no difference into a requirement."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-07-restatement-2-1"
+        },
+        {
+          "prompt": "The botanical society neither endorsed nor expressly rejected the plan to relocate the glasshouse.",
+          "options": [
+            "The botanical society withdrew an earlier endorsement of the plan to relocate the glasshouse.",
+            "The botanical society offered no endorsement of the plan to relocate the glasshouse and issued no explicit rejection either.",
+            "The botanical society accepted the plan to relocate the glasshouse in principle while withholding public support.",
+            "The botanical society rejected the plan to relocate the glasshouse without giving a reason."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It invents a prior endorsement and a reversal of position.",
+              "2": "It invents an acceptance in principle, which cannot be inferred from the original.",
+              "3": "It asserts an explicit rejection, which the original rules out."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-07-restatement-2-2"
+        },
+        {
+          "prompt": "The scholar's influence stemmed less from the novelty of her conclusions than from the clarity with which she identified unresolved problems.",
+          "options": [
+            "The scholar's influence was the principal reason for both the novelty of her conclusions and the clarity with which she identified unresolved problems.",
+            "The novelty of her conclusions and the clarity with which she identified unresolved problems played equally important roles in the scholar's influence.",
+            "The novelty of her conclusions was the greater contributor to the scholar's influence, though the clarity with which she identified unresolved problems also mattered.",
+            "The clarity with which she identified unresolved problems contributed more to the scholar's influence than the novelty of her conclusions did."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “the clarity with which she identified unresolved problems” greater explanatory weight than “the novelty of her conclusions.”",
+            "distractors": {
+              "0": "It makes the outcome cause the factors that are supposed to explain it.",
+              "1": "It makes the factors equally important despite the stated inequality.",
+              "2": "It reverses the relative importance of the factors."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-07-restatement-2-3"
+        },
+        {
+          "prompt": "The council did not reopen the footbridge until an engineer had confirmed its stability.",
+          "options": [
+            "The council reopened the footbridge as evidence that an engineer had confirmed its stability.",
+            "The council did not reopen the footbridge, although an engineer had confirmed its stability.",
+            "The council reopened the footbridge before an engineer had confirmed its stability.",
+            "The council reopened the footbridge only after an engineer had confirmed its stability."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "0": "It turns a timing relationship into an assertion about the actor’s purpose.",
+              "1": "It makes the main action fail to occur, whereas the original reports that it happened later.",
+              "2": "It reverses the sequence by placing the main action first."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-07-restatement-2-4"
+        },
+        {
+          "prompt": "Except for the fragment found near the doorway, none of the recovered fragments contain an image of a bird.",
+          "options": [
+            "It has not been determined whether the fragment found near the doorway contains an image of a bird.",
+            "The fragment found near the doorway contains an image of a bird, and at least one other member of the group shares that distinction.",
+            "The fragment found near the doorway contains an image of a bird; the others in the same group do not.",
+            "All the recovered fragments contain an image of a bird except the fragment found near the doorway."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the fragment found near the doorway is the single item that has the stated property.",
+            "distractors": {
+              "0": "It changes an explicit exception into an uncertainty.",
+              "1": "It allows a second exception even though “sole” limits the number to one.",
+              "3": "It gives the property to the entire group except the one item that actually has it."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-07-restatement-2-5"
+        },
+        {
+          "prompt": "Whether the new wells increased the total supply remains disputed, although there is little doubt that they reduced the distance residents had to walk for water.",
+          "options": [
+            "The wells almost certainly made water easier to reach on foot, even though it is unclear whether they made more water available overall.",
+            "There is general agreement that the wells increased the supply, while their effect on the distance residents walked remains contested.",
+            "The new wells probably shortened the journey for water because they increased the overall supply.",
+            "The overall volume of water supplied stayed the same, but residents disagree over whether they walked less far to collect it."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The statement makes the shorter journeys highly certain and the change in total supply uncertain",
+            "distractors": {
+              "1": "It exchanges the disputed claim and the well-supported claim",
+              "2": "It presents an increase in water supply as a causal explanation even though that increase is disputed",
+              "3": "It treats the uncertain supply outcome as settled and introduces a dispute about the shorter journeys"
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "disputed",
+              "hebrew": "שנוי במחלוקת"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-07-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-07-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Mud Written into Shells",
+        "paragraphs": [
+          "At the margin of a river or lake, a researcher might collect a short cylinder of sediment and carry it away as a record of past conditions. The value of this cylinder is not immediately obvious. Most of its contents have lost their original colour and structure. Under a microscope, however, the sediment may contain intricate remains of single-celled algae called diatoms. Their glassy walls often outlast the soft parts of the organisms that built them. A small sample can preserve evidence of several hundred species in proportions that change from one layer to the next.",
+          "For ecologists, those proportions can be informative because diatom species flourish under different circumstances. Some tolerate comparatively salty water, while others thrive where the mineral content is low. A change in the assemblage may therefore suggest a change in the water. The inference requires an idea of where the species lived. A shell found in an offshore core may have been carried from a tributary or washed off a rock at the lake edge. Diatoms growing in the sunlit water and those attached to surfaces can end up in the same sample even though they experienced different conditions.",
+          "The physical survival of the walls also influences the record. Delicate structures can break or dissolve more easily than durable ones. A layer dominated by thick-walled species might testify to unusual water chemistry when the organisms were alive. It might instead reflect the loss of more fragile remains after burial. To investigate those alternatives, workers can examine broken structures, compare cores at different locations and look for agreement with independent evidence. The abundance of a given species is easiest to interpret when multiple indicators tell a consistent story.",
+          "The evidence can be valuable precisely because it describes times before regular chemical measurements began. A conservation plan that aims to return a lake to an earlier state needs to specify which earlier state it means. Conditions may have varied naturally long before the event blamed for a recent decline. Fossil communities can help reveal a historical range of variation, placing the earliest written measurements in a longer context. They do not offer a precise chemical reading for each day of recorded history. Their utility lies in preserving patterned changes that can be tested against other traces, and in allowing the current condition of a lake to be compared with conditions well outside living memory."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What is the central point of the discussion of diatom shells?",
+          "options": [
+            "The width of diatom walls mainly records mineral content before routine water measurements began.",
+            "Diatom remains mainly reveal where organisms grew by tracing how they were carried across a lake.",
+            "Diatom cores are particularly reliable when restoration plans rely on the oldest measurable lake conditions.",
+            "Preserved diatom communities can extend knowledge of past waters when transport and preservation are accounted for."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The passage explains biological indicators, confounders and historical value.",
+            "distractors": {
+              "0": "Wall thickness can affect what survives, but a difference in proportions does not directly establish past mineral content.",
+              "1": "Transport is a caveat, not the main historical application of the remains.",
+              "2": "The passage emphasizes natural variability rather than treating the oldest known state as a dependable target."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "assemblage",
+              "hebrew": "מכלול מינים"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-07-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why could a rise in thick-walled shells occur without a corresponding rise in that group while alive?",
+          "options": [
+            "Fragile shells might preferentially dissolve or break after deposition.",
+            "The thick-walled species had multiplied throughout the lake before their remains were buried.",
+            "Thick-walled species may have thrived under different water chemistry.",
+            "A change in lake chemistry could have made the surviving walls thicker after burial."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Differential survival can alter proportions among remains.",
+            "distractors": {
+              "1": "The question asks for a change in the preserved sample that can occur even when the group did not increase while alive.",
+              "2": "Greater abundance while alive would not answer why remains increased without such a change.",
+              "3": "The passage explains the change through relative survival, not thickening of individual remains."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "burial",
+              "hebrew": "קבורה במשקע"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-07-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "Which stance characterizes the writer's discussion of lake restoration?",
+          "options": [
+            "Confident that diatom shells can determine the precise chemistry a restoration should reproduce.",
+            "Reluctant to use fossils wherever modern chemical measurements are available.",
+            "Receptive to historical evidence for restoration and attentive to its limits.",
+            "Supportive of choosing the earliest state represented by the core as the natural restoration target."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Past variability matters, but the shells are an indirect record.",
+            "distractors": {
+              "0": "The text rules out exact chemical readings from fossil assemblages.",
+              "1": "The passage values comparison with the written record rather than treating the sources as mutually exclusive.",
+              "3": "A historical range informs decisions; the author assigns no special status to its earliest point."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "conservation",
+              "hebrew": "שימור"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-07-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “testify to” mean in the paragraph about thick-walled species?",
+          "options": [
+            "Be caused only by.",
+            "Preserve the original state of.",
+            "Remain unchanged despite.",
+            "Serve as evidence of."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The shell proportions might indicate past water chemistry.",
+            "distractors": {
+              "0": "Testifying to chemistry means pointing to it; it does not imply a unique cause.",
+              "1": "Shells can suggest what conditions were without preserving lake water in its original state.",
+              "2": "The phrase describes what the remains indicate, not whether they resist physical change."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "testify to",
+              "hebrew": "להעיד על"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-07-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Why might surface-attached and free-floating diatoms both appear in an offshore sample?",
+          "options": [
+            "The two groups were preserved equally well once buried in an offshore layer.",
+            "Remains can move from rocks or tributaries before burial.",
+            "Both groups grew offshore, where light was more readily available.",
+            "Thick walls allowed attached species to begin floating after they reached the offshore site."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Shells can be washed or carried to a site away from where they grew.",
+            "distractors": {
+              "0": "Equal preservation would not move remains from distinct habitats into the same sample.",
+              "2": "The author says a core can combine remains from different habitats, including shores and tributaries.",
+              "3": "The passage does not ascribe floating to wall thickness; it discusses transport before burial."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "tributary",
+              "hebrew": "יובל"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-07-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

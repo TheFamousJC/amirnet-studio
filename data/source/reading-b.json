@@ -1,0 +1,2722 @@
+[
+  {
+    "title": "The Sideways View of Rain",
+    "paragraphs": [
+      "To a person walking through a rainstorm, the relevant question is whether drops reach the ground. To an atmospheric scientist, it may matter just as much what happens to those drops several kilometres above the pavement. Weather radar answers the second question by sending out short bursts of electromagnetic radiation and recording the portion that returns. An early radar image showed where the returning signal was strong, but a bright patch could signify either a large number of modest drops or a smaller number of much larger objects. A strong echo was therefore an informative but ambiguous observation.",
+      "The ambiguity was partly resolved by taking advantage of a surprising feature of falling drops. They do not usually resemble the teardrops in cartoons. A small drop is nearly spherical, while a larger one tends to flatten as air presses against its underside. A radar that transmits pulses polarized in two perpendicular directions can compare the responses. Rain made up of flattened drops will generally return more energy from the horizontally polarized pulse than from the vertically polarized one. This difference provides information that a single strength measurement cannot reveal. The exact interpretation still depends on the mixture of particles inside the volume being examined.",
+      "Shape is not the only consideration. Wet snowflakes melting on their way down can reflect radar vigorously because their liquid coating interacts strongly with the signal. A thin layer of such particles can consequently produce a conspicuous ring in some radar images. A viewer who treats all strong returns as signs of intense rain will mistake this ring for a real band of heavy precipitation. Meanwhile, far away from a radar station, the main beam may travel above a shallow rain cloud altogether. Radar can therefore invent a storm in one place, in the sense of inviting a misleading interpretation, and miss light rain in another.",
+      "Modern forecasting systems compare multiple radar measurements and consult temperature profiles before estimating what reaches the surface. Ground gauges help evaluate those estimates, but gauges also sample a very small area and may miss the heaviest part of a local shower. The point of comparing instruments is to make their limitations complementary. A strong echo is neither a direct count of raindrops nor a forecast by itself. It becomes useful when interpreted as part of a physical account of the atmosphere between the instrument and the ground."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What is the main point of the passage on rain radar?",
+        "options": [
+          "Rainfall estimates require interpreting radar signals using particle physics and corroborating data.",
+          "Comparing two polarizations resolves the ambiguities that once prevented radar from measuring rainfall at the surface.",
+          "The main advances in radar forecasting have come from replacing local measurements with broader coverage.",
+          "The accuracy of radar depends chiefly on separating melting snow from liquid rain."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The passage develops this from polarization to complementary instruments.",
+          "distractors": {
+            "1": "Polarization helps distinguish shapes, but melting snow and high beams still cause uncertainty.",
+            "2": "The passage advocates using local gauges alongside radar, each checking a different limitation.",
+            "3": "Melting snow is one example within a broader argument about interpreting signals."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "echo",
+            "hebrew": "הד"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "If the radar beam passes high above a distant village, what might account for an absent echo?",
+        "options": [
+          "The cloud could be producing enough small drops for a strong combined return.",
+          "A layer of melting snow could have made the station mistake the village’s rain for heavy precipitation.",
+          "A ground gauge might be too localized to sample the rain near the village.",
+          "Light rain could be falling from a cloud below the beam."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "Radar can overshoot shallow rain clouds.",
+          "distractors": {
+            "0": "A strong return would predict an echo; this does not address the beam missing the cloud.",
+            "1": "The ring produces a conspicuous echo rather than accounting for an absent one.",
+            "2": "A gauge can miss a shower, but its small area does not explain the missing radar echo."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "shallow",
+            "hebrew": "רדוד"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the writer evaluate the strengths of weather radar?",
+        "options": [
+          "Principally admiring, emphasizing that polarization makes other instruments secondary.",
+          "Mainly critical, using misleading echoes to question the value of radar for forecasts.",
+          "Appreciative but cautious, explaining how useful observations can mislead.",
+          "Chiefly historical, tracing improvements in radar without evaluating present limitations."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "The text explains gains from polarization and limitations needing cross-checks.",
+          "distractors": {
+            "0": "The discussion treats other observations as valuable complements.",
+            "1": "The author shows how physical interpretation makes radar useful for forecasts.",
+            "3": "The essay continues beyond the history to assess modern limitations."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "complementary",
+            "hebrew": "משלימים"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “conspicuous” mean in the discussion of melting snowflakes?",
+        "options": [
+          "Physically extensive.",
+          "Easy to notice.",
+          "Unusually intense.",
+          "Readily attributable to one source."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "The stronger echo makes the ring stand out.",
+          "distractors": {
+            "0": "The ring stands out because of its return strength; size is not the meaning.",
+            "2": "A strong return makes the ring noticeable, but the word describes its visibility rather than its intensity.",
+            "3": "The ring is easy to see, but interpreting its cause requires distinguishing melting snow from heavy rain."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "conspicuous",
+            "hebrew": "בולט לעין"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Why can large raindrops respond differently to two polarizations?",
+        "options": [
+          "Air pressure on the underside makes them wider horizontally.",
+          "The pulses encounter different numbers of drops.",
+          "A layer of liquid on each drop reflects one pulse more strongly.",
+          "Larger drops return the same energy from both directions because of their increased volume."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The pulses interact with different dimensions of the flattened drop.",
+          "distractors": {
+            "1": "They are compared over the same examined volume; drop shape accounts for the difference.",
+            "2": "The liquid coating explanation concerns melting snow, not the shape contrast of large drops.",
+            "3": "An enlarged spherical object might behave symmetrically, but the passage emphasizes flattening."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "flatten",
+            "hebrew": "להשתטח"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "When Pavements Remember Heat",
+    "paragraphs": [
+      "A city can remain uncomfortably warm long after the sky has grown dark. The usual explanation is that streets and buildings have absorbed energy all day and release it at night. This is correct as far as it goes, but two different properties are often confused when people compare possible remedies. One property describes how much sunlight a material reflects. Another describes how readily it transfers stored heat. A pale façade can reflect much of the radiation that strikes it, while a massive wall may still take hours to warm or cool. Neither colour nor size alone specifies the temperature a pedestrian will experience.",
+      "The distinction is important when evaluating reflective paving. Replacing a dark surface with a lighter one may reduce the amount of energy stored in the ground. On an unshaded square at midday, however, some of the sunlight previously absorbed by the pavement is reflected toward people and buildings. A thermometer sheltered from direct radiation might show a modest improvement even while people crossing the square gain more radiant energy. For this reason, researchers studying comfort sometimes track radiant exposure separately from air temperature. The two measures describe different pathways by which the environment transfers heat to the body.",
+      "A canopy of trees changes several of these pathways at once. Leaves intercept sunlight before it strikes the pavement, and water evaporating from foliage consumes energy that might otherwise raise local temperatures. Because evaporation depends on a supply of water, its cooling contribution can decline during a drought. In a street with a dense canopy and little wind, foliage may also slow the exchange of air with cooler surroundings. The net effect is shaped by the hour of the day, the amount of water available and the geometry of the street.",
+      "What matters for planning, then, is the match between a proposed treatment and the problem residents actually face. A residential block where bedrooms remain warm at midnight presents a different design challenge from a route across a plaza that has no refuge from the midday sun. A measure that improves one setting may do comparatively little in the other. Testing a treatment at a single hour, or relying on just one instrument, risks recording a real physical improvement that does not correspond to the outcome the project was intended to deliver."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What claim organizes “When Pavements Remember Heat”?",
+        "options": [
+          "Cities should prioritize measures that reduce how much energy surfaces store over the course of a day.",
+          "Pedestrian comfort can be evaluated most reliably by measuring radiant exposure alone.",
+          "The most promising cooling measures improve several heat-transfer pathways at the same time.",
+          "Cities need to choose and measure cooling interventions around specific human exposures."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "The final paragraph applies distinct heat mechanisms to two different situations.",
+          "distractors": {
+            "0": "Storage matters to some nighttime problems, but midday exposure requires separate consideration.",
+            "1": "Radiation is one pathway; the author calls for choosing measures to fit the problem.",
+            "2": "Multiple pathways can yield opposing effects, so their number does not establish that a method fits."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "remedy",
+            "hebrew": "פתרון"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "What could explain a lower midday air temperature but increased pedestrian discomfort after repaving?",
+        "options": [
+          "The lighter pavement releases its stored heat faster during the midday crossing.",
+          "The lighter material means that more sunlight is absorbed by the surface around pedestrians.",
+          "The new pavement redirects more sunlight toward pedestrians.",
+          "The sheltered thermometer measures more of the reflected sunlight than pedestrians receive."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "A sheltered air thermometer misses the change in radiation reaching a person.",
+          "distractors": {
+            "0": "The described trade-off involves reflected sunlight, not faster release of stored energy.",
+            "1": "The passage predicts less absorption by the repaved surface and more reflection toward pedestrians.",
+            "3": "The thermometer is shielded from precisely the radiation that can increase pedestrian exposure."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "radiant exposure",
+            "hebrew": "חשיפה לקרינה"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "Which description best captures the author's approach to urban cooling proposals?",
+        "options": [
+          "Supportive of shade-based solutions because they affect more than one heat pathway.",
+          "Practical and conditional, weighing benefits against side effects and site conditions.",
+          "Focused on comparing new materials by how much less heat they store.",
+          "Mainly skeptical of physical measurements because they overlook residents’ experiences."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "The article examines mechanisms and matches treatments to goals.",
+          "distractors": {
+            "0": "The author explains how trees can help and why local conditions can limit the effect.",
+            "2": "The discussion includes storage but also treats pedestrian exposure as a separate planning concern.",
+            "3": "The issue is choosing measurements that correspond to the intended benefit, not rejecting measurement."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "evaluate",
+            "hebrew": "להעריך"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "In the plaza example, what is a “refuge”?",
+        "options": [
+          "A place offering shelter from sunlight.",
+          "An area with a cooler air temperature.",
+          "A surface that reflects more sunlight.",
+          "A route that avoids the hottest part of the plaza."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "It allows a pedestrian to escape direct exposure.",
+          "distractors": {
+            "1": "The protection in the example concerns direct sunlight; the air need not be cooler.",
+            "2": "Reflective materials can increase exposure unless there is actual shelter.",
+            "3": "A refuge is a sheltered place, rather than a route or a guaranteed temperature difference."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "refuge",
+            "hebrew": "מקום מפלט"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "How can drought reduce cooling under a canopy?",
+        "options": [
+          "Scarce water limits the ability of branches to slow the exchange of warm air.",
+          "Dry leaves intercept more incoming sunlight.",
+          "The lack of water makes foliage release the day’s stored heat more rapidly.",
+          "An inadequate water supply can limit evaporation."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "Evaporation consumes energy and depends on water.",
+          "distractors": {
+            "0": "The airflow effect is discussed in relation to canopy density and wind.",
+            "1": "The drought example concerns evaporation, not increased interception of sunlight.",
+            "2": "The text links drought to reduced evaporative energy use, not to faster heat release."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "foliage",
+            "hebrew": "עלווה"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dunes with a Pulse",
+    "paragraphs": [
+      "People who visit a desert once may remember its dunes as permanent features, as much a part of the landscape as a ridge of rock. Surveyors who return repeatedly find something less stable. Sand advances up the shallow face of a dune as wind drives grains in short hops. At the crest, some of the grains fall down a steep sheltered slope. The dune can thus migrate without carrying the same grains along for its whole journey. In a moving dune, the shape persists through the circulation of material. From an unmoving viewpoint, by contrast, the dune seems to be a single object sliding across the ground.",
+      "This circulation does not proceed at a steady rate. A wind too gentle to lift resting grains may sustain movement after other grains are already hopping, because incoming grains knock additional ones loose. Gusts that cross the initial threshold matter disproportionately. Rain temporarily binds grains together, so even windy hours may yield little transport on a recently wetted surface. The annual average wind speed, when considered alone, conceals these interruptions and bursts. Two locations with similar annual averages may therefore have very different patterns of sand movement.",
+      "A further complication is that dunes affect the airflow that moves them. A growing ridge diverts the wind, and the distortion can influence the transport of sand on a neighbouring ridge. When researchers observe a row of regularly spaced dunes, they do not necessarily need to invoke evenly spaced obstacles beneath the sand. The spacing can emerge while wind and dune shapes adjust to each other. Looking for buried obstacles may still be useful at a particular site, but regularity alone provides little warrant for assuming they exist.",
+      "This is why cautious reconstruction of desert history draws on more than the surface outline. The angles of layers exposed in sand pits may reveal former slip faces, and layers of different grain sizes can record changes in transport. Even these clues have limits. A new shift in prevailing winds can erode part of the record before depositing another set of layers. The evidence is therefore selective. A striking dune is both a present structure assembled by the latest winds and an imperfect archive of earlier conditions. Its interpretation requires thinking about which episodes preserved evidence and which erased it, as well as about the conditions that produced the shape visible today."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "How does the discussion of migrating dunes connect their present appearance with their past?",
+        "options": [
+          "Present dune shapes survive migration because the same grains circulate within each dune and preserve the old layers.",
+          "Since surface profiles conceal the past, sand layers provide a reliable record of earlier conditions.",
+          "Dunes are maintained by moving grains, and both ongoing transport and partial preservation shape what their current forms reveal.",
+          "Spacing and shape supply stronger evidence of former winds than layers in sand pits."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "The passage explains changing airflow and the selective record created by deposition and erosion.",
+          "distractors": {
+            "0": "Sand is exchanged as the dune moves, and erosion can erase layers.",
+            "1": "The passage explicitly qualifies what layers preserve.",
+            "3": "The author treats surface appearance as insufficient and analyzes the origin and limits of layering."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "migration",
+            "hebrew": "נדידה"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why might a brief storm move more sand than many hours of moderately windy weather at the same dry site?",
+        "options": [
+          "The strongest gusts remove the need for grains to strike one another during later movement.",
+          "A gust can initiate hopping, after which collisions dislodge grains at speeds too low to start transport unaided.",
+          "Once a gust has passed, the same wind speed will be needed to keep grains moving as to start them.",
+          "A long spell of moderate wind has more opportunity to clear the dune crest than a brief gust."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "The passage describes separate thresholds for starting and sustaining grain movement.",
+          "distractors": {
+            "0": "The passage uses later collisions to explain why transport can persist at lower wind speeds.",
+            "2": "The distinction is precisely that sustaining movement can take less wind.",
+            "3": "Duration alone tells little if the wind remains below the threshold for starting motion."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "threshold",
+            "hebrew": "סף"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "What attitude does the author take toward deductions drawn from regularly spaced dunes?",
+        "options": [
+          "Cautious, proposing an alternative mechanism and allowing site-specific tests.",
+          "Convinced that regular spacing is sufficient evidence of an adjustment between dunes and airflow.",
+          "Inclined to attribute the pattern to buried obstacles unless they can be ruled out.",
+          "Reluctant to test for obstacles after considering airflow."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Regular spacing could emerge from interacting dunes or have another cause at a given site.",
+          "distractors": {
+            "1": "That mechanism is possible, but spacing alone does not settle the issue.",
+            "2": "The author argues there is little reason to infer obstacles from regular spacing alone.",
+            "3": "The author explicitly allows that searching for obstacles may be useful at particular sites."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "invoke",
+            "hebrew": "להסתמך על הסבר"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "In the sentence on buried obstacles, “warrant” is closest in meaning to what?",
+        "options": [
+          "A reliable prediction.",
+          "A definitive demonstration.",
+          "A practical incentive.",
+          "A reasonable basis."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "The visual pattern alone gives too little grounds for that conclusion.",
+          "distractors": {
+            "0": "A warrant here supports a conclusion about what exists; it makes no prediction.",
+            "1": "The author needs an adequate reason to infer obstacles, not proof beyond doubt.",
+            "2": "The paragraph is about justification for a belief, rather than motivation to look."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "warrant",
+            "hebrew": "הצדקה"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What can make sand layers an incomplete record of previous winds?",
+        "options": [
+          "When the same active wind adds a new layer, it makes the earlier wind appear to have lasted longer.",
+          "Sand transported in gusts forms layers that record only the annual average wind speed.",
+          "A new wind regime can remove old layers before adding new ones.",
+          "Grains falling down slip faces destroy the evidence left by each previous crest."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "Later erosion can destroy earlier evidence prior to renewed deposition.",
+          "distractors": {
+            "0": "The author describes erasure of earlier evidence, not a systematic overestimate of its duration.",
+            "1": "The annual mean is an inadequate summary; distinct grain-size layers can reflect changes in transport.",
+            "3": "Slip-face deposits can preserve clues; the specified loss mechanism is later erosion."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "deposit",
+            "hebrew": "להשקיע חומר"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Borrowed Time in a Forest",
+    "paragraphs": [
+      "When ecologists think about the disappearance of species after a disturbance, the sequence of events can be as important as the final tally. Imagine a forest that is progressively reduced to several isolated patches. A walk through the oldest patch a year later may reveal mature individuals of nearly all the tree species recorded there before construction began. Their presence is encouraging, but it does not establish that the patch supports the processes needed to maintain them. Many trees live for decades, so individuals can remain long after conditions have become unfavourable for producing a subsequent generation.",
+      "Researchers call the losses expected from past environmental change an extinction debt. The analogy suggests an obligation whose consequences materialize later. It does not imply that the future is fixed. If intervening years allow restoration of connections or habitat, some projected losses can be prevented. The concept also does not describe a single universal delay. The characteristic times can differ sharply between organisms. Insects that require a particular host may respond quickly to a loss of their food source, while a tree population suffering from poor seed dispersal may take many decades to show a marked decline.",
+      "A practical difficulty is distinguishing a debt from ordinary fluctuation. Seedlings of some trees are naturally scarce during several consecutive years and then appear in great numbers after an unusually productive season. A single count of young plants provides little evidence in such cases. Ecologists can compare populations of different ages, monitor seed movement and measure seedling survival, but each observation answers a specific question. A low proportion of seedlings becomes compelling evidence of interrupted recruitment only when the normal reproductive schedule and the surrounding habitat are also understood.",
+      "The reverse problem arises when habitats are rebuilt. Conditions can improve before species recolonize a site. If a previous road or barrier isolated the site, a neighbouring population must still be close enough to supply individuals, and colonization may be rare even in otherwise suitable conditions. A newly protected forest that remains species poor for years need not represent failed protection. In fragmented landscapes, both apparent success and apparent failure can result from evaluating ecological changes too soon. The question for an observer is whether essential processes are happening now, even when their long-term consequences cannot yet be counted. That shift in attention changes which evidence is worth gathering and what action can reasonably be taken."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What idea unifies the passage on delayed changes in forests?",
+        "options": [
+          "The persistence of mature forest species is a sounder indicator of recovery than short-term seedling counts.",
+          "Current species counts can conceal delayed losses or gains, so ecological processes and timescales also need attention.",
+          "Fragmentation delays losses primarily by keeping mature plants alive while insects disappear quickly.",
+          "Species counts after restoration reveal whether enough habitat was connected to preserve recruitment."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "Both the extinction debt and recolonization examples show a lag between conditions and counts.",
+          "distractors": {
+            "0": "Mature trees can outlive their ability to produce a next generation; neither count alone is decisive.",
+            "2": "The different times of loss illustrate only part of an argument that also includes delayed gains.",
+            "3": "Colonization may take time even when conditions are suitable, so early counts cannot settle that question."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "disturbance",
+            "hebrew": "הפרעה סביבתית"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why might conserving or restoring a connection between two forest patches avert some projected losses?",
+        "options": [
+          "Movement of seeds or organisms between patches could sustain processes interrupted by isolation.",
+          "A connection would immediately increase counts of every species present on both patches.",
+          "A connection would preserve adult trees until their presence alone established that reproduction had recovered.",
+          "A connection would bring reproduction rates into the same seasonal pattern on both patches."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Restoration can restore recruitment or permit recolonization before losses occur.",
+          "distractors": {
+            "1": "A connection can restore movement without causing an immediate or uniform rise in counts.",
+            "2": "The presence of mature individuals remains an unreliable sign if recruitment has stalled.",
+            "3": "Reconnection can help seeds or organisms reach a site; synchronizing reproduction is not the mechanism."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "dispersal",
+            "hebrew": "פיזור"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author approach the phrase “extinction debt”?",
+        "options": [
+          "As a useful way to estimate how long different species will take to disappear.",
+          "As a literal prediction that species lost through isolation will eventually disappear.",
+          "As a label for temporary scarcity of seedlings until the next productive season.",
+          "As a helpful analogy with a limit, since projected losses can sometimes be prevented."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "The text explains the delay implied by debt and immediately qualifies its inevitability.",
+          "distractors": {
+            "0": "The analogy explains a delay but does not supply an estimated timetable.",
+            "1": "Restoration can avert some projected losses, unlike an unavoidable obligation.",
+            "2": "The passage distinguishes ordinary intermittent reproduction from extinction debt."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "analogy",
+            "hebrew": "הקבלה"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “recruitment” refer to in the discussion of seedling counts?",
+        "options": [
+          "The dispersal of seeds from one patch to another.",
+          "The survival of established trees through a disturbance.",
+          "The addition of new young individuals to a population.",
+          "The return of a species to any previously occupied patch."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "Seedling abundance and survival help indicate whether a new generation is becoming established.",
+          "distractors": {
+            "0": "Dispersal can enable recruitment, but a seed reaching a site does not by itself add a young individual.",
+            "1": "The word refers to replenishment, which established trees can persist without.",
+            "3": "Recolonization can result from recruitment, but recruitment can also add individuals to an existing population."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "recruitment",
+            "hebrew": "התחדשות טבעית"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What natural process can make several sparse seedling counts misleading?",
+        "options": [
+          "Some mature trees keep growing after environmental conditions make reproduction difficult.",
+          "Some trees have years of limited reproduction followed by an unusually productive season.",
+          "Isolated patches can have poor seed dispersal for several decades.",
+          "Young trees can take many years to reach maturity despite consistent reproduction."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "Irregular reproduction can yield few seedlings even when recruitment is functioning over a longer period.",
+          "distractors": {
+            "0": "This can mask recruitment failure in adult counts; it does not explain why sparse seedling counts can be normal.",
+            "2": "This could indicate a persistent recruitment problem rather than a temporary natural fluctuation.",
+            "3": "Slow maturation is distinct from the naturally uneven appearance of seedlings described."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "consecutive",
+            "hebrew": "רצופים"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "A Clock Below the Waves",
+    "paragraphs": [
+      "In deep water, where sunlight never supplies a reliable marker of day and night, a rhythmic animal might seem a contradiction. Yet a marine instrument left on the bottom often records activities that rise and fall with an identifiable period. Sorting out the origin of one of these cycles is harder than finding the cycle itself. Some rhythms are responses to recurring changes in the surroundings. Others are produced by internal mechanisms that keep running even when external signals are removed. An animal can also combine these strategies, using an environmental event to reset a timing mechanism that would continue temporarily in its absence.",
+      "Consider a small crustacean that emerges from sediment at certain times of day. At its natural site, both the strength of tidal currents and the arrival of food particles may follow regular schedules. Its emergence pattern might be directly driven by one of these schedules, or it might be timed by a mechanism inside the animal. Moving the crustacean into a tank with constant conditions allows investigators to ask whether the pattern continues. A rhythm that persists for several cycles under those circumstances suggests an internal contribution, though an experimenter must first exclude unintended cues such as a pump whose operation varies on a timer.",
+      "Observations of natural populations provide a further test. If the activity peak shifts in step after a change in current timing, currents might serve as cues. An immediate response could indicate that current itself triggers the behaviour. A gradual adjustment over several cycles would be more consistent with a timing mechanism that is being reset, as internal rhythms often take time to align with a changed environmental schedule. Neither pattern alone reveals the machinery involved, and different cues can sometimes shift together.",
+      "Even after an internal rhythm is established, there remains a separate question: what benefit does it confer? Anticipating an influx of food might improve the chance of feeding, but avoiding a predator active at another time could yield the same schedule. A species that appears punctual may even have inherited its rhythm from an ancestor that lived under substantially different conditions. These explanations generate different predictions, which researchers must compare with observations or with carefully controlled experiments. The existence of a cycle supplies a clue about how an animal lives, but cannot, by itself, identify the force that originally favoured it."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What distinction is central to the discussion of rhythms below the waves?",
+        "options": [
+          "Identifying a recurring pattern is distinct from determining its mechanism or its survival advantage.",
+          "Observing animal rhythms in a constant environment can identify what rewards that behaviour in nature.",
+          "Most rhythms persist because a change in tidal currents resets the animal’s internal clock.",
+          "A rhythmic response to tidal currents is more useful for finding food than for avoiding predators."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The passage separates detection, external or internal timing, and adaptive explanations.",
+          "distractors": {
+            "1": "The constant environment probes mechanism; the advantage requires different evidence.",
+            "2": "The example keeps direct triggers, internal processes, and other environmental cues open.",
+            "3": "Both benefits are proposed, with no evidence favoring one as generally more useful."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "rhythm",
+            "hebrew": "מקצב"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Which observation would best support an internal timing mechanism in the tank example?",
+        "options": [
+          "The crustacean emerges immediately each time a current is introduced on a regular schedule.",
+          "Emergence tracks food deliveries in the tank even though the current remains steady.",
+          "Emergence persists while the pump runs on the site’s usual tidal timetable.",
+          "Emergence continues on a schedule for several cycles once recurring cues have been excluded."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "Persistence in constant conditions supports an internal contribution after possible hidden signals are ruled out.",
+          "distractors": {
+            "0": "Immediate response fits direct triggering and does not require an internal clock.",
+            "1": "Regular food delivery is still a recurring external cue.",
+            "2": "The pump may supply a hidden recurring cue, so this condition cannot isolate internal timing."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "persist",
+            "hebrew": "להימשך"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "Which description fits the author's interpretation of marine periodic behaviour?",
+        "options": [
+          "Convinced that persistent rhythms matter chiefly because they let animals anticipate food availability.",
+          "Mainly interested in using field patterns to rule out evidence from laboratory conditions.",
+          "Evidence-minded and careful to consider competing explanations.",
+          "Convinced similar schedules indicate shared mechanisms."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "Each claim is paired with experimental checks and alternative causes.",
+          "distractors": {
+            "0": "The passage presents food prediction alongside other possible explanations.",
+            "1": "The lab and field tests are complementary ways to evaluate timing.",
+            "3": "Similar schedules may result from different triggers or arise under different evolutionary pressures."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "cue",
+            "hebrew": "אות מנחה"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does it mean for an internal rhythm to “align” with a changed schedule?",
+        "options": [
+          "To maintain its previous timing despite the shift.",
+          "To adjust its timing to match the new pattern.",
+          "To begin at the same moment as the environmental change.",
+          "To recur at a steady interval under unchanging conditions."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "The text describes gradual synchronization after currents shift.",
+          "distractors": {
+            "0": "Alignment involves changing when activity peaks rather than maintaining the previous schedule.",
+            "2": "The text contrasts gradual alignment with an immediate response; it does not imply that timing shifts all at once.",
+            "3": "A free-running rhythm can be steady without matching the altered external schedule."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "align",
+            "hebrew": "להסתנכרן"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What might signal direct triggering by a tidal current, in the author's example?",
+        "options": [
+          "A shift in the emergence peak immediately after current timing changes.",
+          "The emergence peak shifts gradually over several cycles of the new current schedule.",
+          "The emergence peak persists after recurring current cues are removed.",
+          "The current and the delivery of food peak together at the natural site."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "An immediate adjustment is contrasted with gradual resetting of an internal timer.",
+          "distractors": {
+            "1": "Gradual adjustment fits resetting of an internal timer more closely than direct triggering.",
+            "2": "Persistence without the cue supports an internal contribution.",
+            "3": "The coincidence leaves both cues possible without showing that the current triggers emergence."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "trigger",
+            "hebrew": "לעורר באופן ישיר"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Sodium Alternative",
+    "paragraphs": [
+      "A battery design is often introduced to the public with a photograph of a small cell and a large figure printed underneath. The figure usually expresses stored energy per unit of mass. This is a valuable way to compare competing technologies, particularly for an aircraft, which must lift its energy supply. Yet the same measurement may be less important for a battery installed beside a power station. Engineers choosing between lithium-based and sodium-based batteries are interested in the size and mass of the installation, but also in the elements used, the temperature range of operation and the cost of keeping the cells available over many years.",
+      "Lithium and sodium have related chemical properties, which makes some ideas transferable between the two systems. They are different enough, however, that switching from one element to the other is not as simple as replacing a single ingredient. Sodium ions are larger than lithium ions and interact differently with the solid materials that temporarily accommodate them. A structure that repeatedly accepts and releases lithium may change shape or function poorly with sodium. Materials for a sodium cell therefore have to be chosen and tested on their own merits. Manufacturing know-how can carry over without implying that the component materials should be identical.",
+      "Long-term economic assessments add another complication. The price of the central element is only one portion of the cost of a finished battery. Factories, energy, supporting metals, quality control and packaging all contribute. A cell made with an abundant element can also require additional space or equipment if it supplies less energy per kilogram or needs a different way of controlling its temperature. Conversely, a more expensive cell might be a sensible purchase if it survives a greater number of useful cycles in its intended setting. The appropriate calculation depends on actual use.",
+      "The prospect of sodium batteries therefore complicates simple narratives about one technology taking the place of another. A new design can be valuable by occupying a part of the market that current designs serve imperfectly. Improvement in a vehicle battery aims at one set of constraints, and improvement in a fixed industrial installation aims at another. It takes time to learn whether laboratory gains survive large-scale manufacturing and whether apparently minor differences in operating conditions change the outcome. The most informative comparison begins with the job each battery is expected to do, then asks which properties matter for that job over its projected lifetime."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What is the main argument of the passage on sodium batteries?",
+        "options": [
+          "Because sodium is abundant, sodium cells will reduce the cost of storing power at stationary sites.",
+          "Lithium manufacturing chiefly helps identify what materials sodium cells should retain.",
+          "Sodium cells show why energy density is a poor basis for comparing batteries in any setting.",
+          "Battery designs should be compared by how they serve particular applications over time."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "The piece links technical differences and cost with the task a battery serves.",
+          "distractors": {
+            "0": "The input price is only part of lifetime costs, so abundance cannot guarantee a saving.",
+            "1": "Know-how can carry over, but materials must be tested independently.",
+            "2": "Energy density still matters greatly where stored energy has to be lifted."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "constraint",
+            "hebrew": "אילוץ"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why might an electric grid operator accept a heavier battery per unit of stored energy?",
+        "options": [
+          "The extra weight indicates that the heavier cell is more likely to survive repeated use.",
+          "Larger batteries can always use the same temperature-control equipment as lighter ones.",
+          "Other characteristics could be more important where the equipment is stationary.",
+          "The greater weight is evidence that the cell delivers more energy per kilogram at a fixed installation."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "The weight constraint is weaker beside a power station than in aircraft.",
+          "distractors": {
+            "0": "The article treats mass and cycle life as separate properties.",
+            "1": "Operating temperature can require different equipment, adding to the cost comparison.",
+            "3": "Moving the battery to a stationary site changes the weight constraint, not the energy supplied per kilogram."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "fixed installation",
+            "hebrew": "מתקן נייח"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "What tone does the author adopt toward sodium technology?",
+        "options": [
+          "Persuaded that sodium will eventually replace lithium as manufacturing expands.",
+          "Interested but discriminating, avoiding predictions beyond the comparison at hand.",
+          "Doubtful that any knowledge from lithium production will transfer to sodium designs.",
+          "Primarily concerned with securing a supply of inexpensive ingredients for factories."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "The author identifies potential niches and practical uncertainties.",
+          "distractors": {
+            "0": "The text discusses niches and treats the effect of manufacturing at scale as unsettled.",
+            "2": "The author explicitly allows that manufacturing know-how may transfer.",
+            "3": "Element cost is one of several dimensions; the author repeatedly returns to practical use."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "prospect",
+            "hebrew": "אפשרות עתידית"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “accommodate” mean in the description of solid battery materials?",
+        "options": [
+          "Make room for and hold temporarily.",
+          "Allow the ions to pass through without retaining them.",
+          "Prevent the ions from leaving permanently.",
+          "Make the ions small enough to enter an existing structure."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The ions enter and later leave the solids.",
+          "distractors": {
+            "1": "The materials receive ions and release them later; the ability to retain them matters.",
+            "2": "The material must repeatedly release and accept the ions.",
+            "3": "The passage describes choosing a suitable solid, rather than changing ion size."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "accommodate",
+            "hebrew": "לקלוט ולהכיל"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Why may a solid suitable for lithium prove unsuitable for sodium?",
+        "options": [
+          "The smaller lithium ions change the solid before sodium is added.",
+          "A lithium solid necessarily contains more supporting metals than a sodium solid.",
+          "The two ions behave similarly inside a solid, but sodium requires a different storage temperature.",
+          "Sodium ions are larger and interact differently with it."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "The passage identifies ion size and interactions as reasons to test new materials.",
+          "distractors": {
+            "0": "The passage attributes the difficulty to how a structure interacts with sodium, without requiring prior use with lithium.",
+            "1": "Supporting metals enter the cost discussion, but composition is not given as a universal explanation.",
+            "2": "Temperature can affect operation, but the specific explanation is size and interaction with the solid."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "ion",
+            "hebrew": "יון"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mud Written into Shells",
+    "paragraphs": [
+      "At the margin of a river or lake, a researcher might collect a short cylinder of sediment and carry it away as a record of past conditions. The value of this cylinder is not immediately obvious. Most of its contents have lost their original colour and structure. Under a microscope, however, the sediment may contain intricate remains of single-celled algae called diatoms. Their glassy walls often outlast the soft parts of the organisms that built them. A small sample can preserve evidence of several hundred species in proportions that change from one layer to the next.",
+      "For ecologists, those proportions can be informative because diatom species flourish under different circumstances. Some tolerate comparatively salty water, while others thrive where the mineral content is low. A change in the assemblage may therefore suggest a change in the water. The inference requires an idea of where the species lived. A shell found in an offshore core may have been carried from a tributary or washed off a rock at the lake edge. Diatoms growing in the sunlit water and those attached to surfaces can end up in the same sample even though they experienced different conditions.",
+      "The physical survival of the walls also influences the record. Delicate structures can break or dissolve more easily than durable ones. A layer dominated by thick-walled species might testify to unusual water chemistry when the organisms were alive. It might instead reflect the loss of more fragile remains after burial. To investigate those alternatives, workers can examine broken structures, compare cores at different locations and look for agreement with independent evidence. The abundance of a given species is easiest to interpret when multiple indicators tell a consistent story.",
+      "The evidence can be valuable precisely because it describes times before regular chemical measurements began. A conservation plan that aims to return a lake to an earlier state needs to specify which earlier state it means. Conditions may have varied naturally long before the event blamed for a recent decline. Fossil communities can help reveal a historical range of variation, placing the earliest written measurements in a longer context. They do not offer a precise chemical reading for each day of recorded history. Their utility lies in preserving patterned changes that can be tested against other traces, and in allowing the current condition of a lake to be compared with conditions well outside living memory."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What is the central point of the discussion of diatom shells?",
+        "options": [
+          "The width of diatom walls mainly records mineral content before routine water measurements began.",
+          "Diatom cores are particularly reliable when restoration plans rely on the oldest measurable lake conditions.",
+          "Preserved diatom communities can extend knowledge of past waters when transport and preservation are accounted for.",
+          "Diatom remains mainly reveal where organisms grew by tracing how they were carried across a lake."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "The passage explains biological indicators, confounders and historical value.",
+          "distractors": {
+            "0": "Wall thickness can affect what survives, but a difference in proportions does not directly establish past mineral content.",
+            "1": "The passage emphasizes natural variability rather than treating the oldest known state as a dependable target.",
+            "3": "Transport is a caveat, not the main historical application of the remains."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "assemblage",
+            "hebrew": "מכלול מינים"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why could a rise in thick-walled shells occur without a corresponding rise in that group while alive?",
+        "options": [
+          "Thick-walled species may have thrived under different water chemistry.",
+          "Fragile shells might preferentially dissolve or break after deposition.",
+          "The thick-walled species had multiplied throughout the lake before their remains were buried.",
+          "A change in lake chemistry could have made the surviving walls thicker after burial."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "Differential survival can alter proportions among remains.",
+          "distractors": {
+            "0": "Greater abundance while alive would not answer why remains increased without such a change.",
+            "2": "The question asks for a change in the preserved sample that can occur even when the group did not increase while alive.",
+            "3": "The passage explains the change through relative survival, not thickening of individual remains."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "burial",
+            "hebrew": "קבורה במשקע"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "Which stance characterizes the writer's discussion of lake restoration?",
+        "options": [
+          "Receptive to historical evidence for restoration and attentive to its limits.",
+          "Supportive of choosing the earliest state represented by the core as the natural restoration target.",
+          "Reluctant to use fossils wherever modern chemical measurements are available.",
+          "Confident that diatom shells can determine the precise chemistry a restoration should reproduce."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Past variability matters, but the shells are an indirect record.",
+          "distractors": {
+            "1": "A historical range informs decisions; the author assigns no special status to its earliest point.",
+            "2": "The passage values comparison with the written record rather than treating the sources as mutually exclusive.",
+            "3": "The text rules out exact chemical readings from fossil assemblages."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "conservation",
+            "hebrew": "שימור"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “testify to” mean in the paragraph about thick-walled species?",
+        "options": [
+          "Be caused only by.",
+          "Preserve the original state of.",
+          "Remain unchanged despite.",
+          "Serve as evidence of."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "The shell proportions might indicate past water chemistry.",
+          "distractors": {
+            "0": "Testifying to chemistry means pointing to it; it does not imply a unique cause.",
+            "1": "Shells can suggest what conditions were without preserving lake water in its original state.",
+            "2": "The phrase describes what the remains indicate, not whether they resist physical change."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "testify to",
+            "hebrew": "להעיד על"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Why might surface-attached and free-floating diatoms both appear in an offshore sample?",
+        "options": [
+          "Both groups grew offshore, where light was more readily available.",
+          "Thick walls allowed attached species to begin floating after they reached the offshore site.",
+          "Remains can move from rocks or tributaries before burial.",
+          "The two groups were preserved equally well once buried in an offshore layer."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "Shells can be washed or carried to a site away from where they grew.",
+          "distractors": {
+            "0": "The author says a core can combine remains from different habitats, including shores and tributaries.",
+            "1": "The passage does not ascribe floating to wall thickness; it discusses transport before burial.",
+            "3": "Equal preservation would not move remains from distinct habitats into the same sample."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "tributary",
+            "hebrew": "יובל"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Finding a Voice in Room Echoes",
+    "paragraphs": [
+      "A speaker's voice reaches a listener by more than one path. The first sound normally arrives along a direct line. Further energy arrives after bouncing off walls, floors, furniture or the ceiling. In a relatively bare room, someone standing near the back may hear a word partly superimposed on remnants of the previous one. The same capacity of a room to retain sound can contribute to the richness of choral singing. Architects designing a space for both speech and music therefore face a problem with no universal optimum. More persistence can help one activity and obscure another.",
+      "A common measurement is the time required for sound energy to fall by a specified proportion after a source has stopped. This figure describes how long sound persists overall. It does not reveal exactly when useful reflected energy reaches a listener. Some energy arriving shortly after the direct sound can make speech easier to hear, especially if the direct sound is weak. Arrivals separated by a much longer delay can instead blur syllables. Two halls with similar measured decay times can produce noticeably different experiences if their early reflections follow different routes or arrive at different intensities.",
+      "The position of the audience changes the situation again. A padded seat has been designed by some manufacturers to absorb a similar amount of sound whether occupied or vacant. Without such a property, the acoustic requirements of a nearly empty rehearsal might differ markedly from those of a crowded performance. Designers can also install curtains that change the amount of reflected energy when drawn across a rigid wall. Such devices give organizers some scope to adapt a space, though rearranging one surface cannot undo all acoustic effects of a long, narrow room or a highly curved ceiling.",
+      "Architecture also imposes limits on what a listener's impression can reveal. A concertgoer disappointed in the clarity of a solo trumpet may blame the performer, the room, the position of the seat or some combination of the three. Comparing recordings from different positions can narrow these possibilities, especially if they use a consistent source and measurement method. A single average value for a hall is useful at the start of that investigation. It is much less helpful as a final verdict. Good acoustic analysis, like good acoustic design, pays attention to the sequence and direction of sounds as well as to how long they remain audible."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "Which statement captures the main argument of the hall acoustics passage?",
+        "options": [
+          "Shortening overall decay is the most dependable way to improve speech in rooms designed for music.",
+          "The usefulness of reflections depends on their timing, routes and the activity a room serves.",
+          "The acoustic quality of a hall depends mainly on maintaining the same absorption for every audience size.",
+          "Acoustic design is best evaluated by comparing average sound persistence across representative halls."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "The passage proceeds from speech and music to early reflections and seating effects.",
+          "distractors": {
+            "0": "Some early reflections may improve clarity; total decay alone cannot determine the outcome.",
+            "2": "Seating stability is one practical issue, rather than a substitute for studying sound paths.",
+            "3": "The author calls such an average a useful start and an inadequate final verdict."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "persistence",
+            "hebrew": "המשך קיום"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why might two spaces with the same decay time differ in speech clarity?",
+        "options": [
+          "The listeners could receive differing amounts of early and late reflected energy.",
+          "Both spaces may have late arrivals, but with the same decay time their reflections must reach listeners at the same intervals.",
+          "Stronger direct sound could prolong overlap between successive syllables.",
+          "The audience could absorb more energy in one room, meaning that its measured sound necessarily decays later."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Total decay does not specify the time pattern of arrivals at a seat.",
+          "distractors": {
+            "1": "Matching decay time does not tell when different arrivals occur.",
+            "2": "Interference is attributed to the timing of reflections; strong direct sound alone does not show longer overlap.",
+            "3": "The question stipulates equal decay, and more absorption does not imply longer persistence."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "reflection",
+            "hebrew": "החזרה"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "Which tone best describes the discussion of acoustic design?",
+        "options": [
+          "Principally concerned with standardizing measurements so that different halls can be ranked on one scale.",
+          "Skeptical that designers can adapt a room once its geometry has been fixed.",
+          "Preferential toward musical resonance because preserving reflected energy rarely affects speech.",
+          "Explanatory, weighing acoustic trade-offs for different purposes."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "The author describes helpful and harmful reflection and limited interventions.",
+          "distractors": {
+            "0": "The discussion acknowledges standardized measurements but opposes relying on one average verdict.",
+            "1": "The author recognizes that curtains and seats can help within geometric constraints.",
+            "2": "The passage explicitly describes speech that can be helped or obscured by reflections."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "optimum",
+            "hebrew": "מצב מיטבי"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "In the opening paragraph, what does “superimposed” convey?",
+        "options": [
+          "Amplified by repeated reflection.",
+          "Arriving in a clearly separated sequence.",
+          "Overlapping so that both sounds are heard together.",
+          "Blended into a single new sound at its source."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "The remains of an earlier word coexist with the next as they reach the listener.",
+          "distractors": {
+            "0": "The sentence concerns two words overlapping, regardless of whether reflection amplifies either one.",
+            "1": "The earlier and later sounds are heard partly together.",
+            "3": "The overlap is created by different arrival paths at the listener, rather than at the speaker."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "superimposed",
+            "hebrew": "מונח מעל או חופף"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Why are some padded seats designed to absorb sound similarly whether occupied or empty?",
+        "options": [
+          "To make reflected energy arrive at the same time as the direct sound.",
+          "To reduce acoustic changes between sparse and full audiences.",
+          "To ensure that an empty rehearsal room absorbs less sound than a crowded hall.",
+          "To achieve the degree of sound persistence usually preferred for choral music."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "More constant absorption helps maintain similar room behaviour.",
+          "distractors": {
+            "0": "Absorbing a similar amount does not bring reflections into synchrony.",
+            "2": "The design aims to limit precisely that difference.",
+            "3": "The aim is stability across audience sizes, rather than a specific reverberation level."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "vacant",
+            "hebrew": "פנוי"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "What a Glacier Leaves Behind",
+    "paragraphs": [
+      "A ridge of loose stones at the foot of a mountain can look like the debris from an ordinary rockfall. Its shape and texture may instead point to the former margin of a glacier. As ice advances, it carries material scraped from the valley sides and floor. Some of that material is dumped near a stable margin, where it can accumulate into a ridge called a moraine. The resulting deposit can remain long after the ice retreats. It gives a visitor a way to see where a glacier once reached without seeing the glacier itself.",
+      "Yet a moraine is not a complete chart of a glacier's history. When ice stands near the same position for a long time, more debris can accumulate there than at a position the margin passed quickly. A modest advance can therefore leave a conspicuous deposit if it stabilizes for years, while a greater advance might leave little evidence or have its evidence destroyed by later activity. Several ridges in a single valley can record distinct advances, pauses during retreat, or a combination. Their existence shows that deposits survived in several locations; reconstructing the movement that produced them is a further task.",
+      "To estimate when an exposed boulder was left behind, researchers sometimes examine rare isotopes produced when high-energy particles reach minerals at the surface. In an ideal case, the clock starts when the ice withdraws and the boulder is uncovered. But the boulder might have been exposed on a cliff before the ice picked it up, giving it an apparent head start. It might also have been shielded by snow for part of the period, making it appear younger. Sampling several boulders and comparing their surroundings can reveal disagreement that a single date would conceal.",
+      "These difficulties do not disqualify moraines as evidence of previous climates. They do alter the confidence with which one can link a particular ridge to a particular event. Glaciers respond to more than air temperature: snowfall and the arrangement of the valley affect how much ice accumulates and where it flows. A reconstruction based on one ridge can be compared with independent records from lakes, caves or nearby valleys. The strongest conclusions emerge when the various lines agree within their uncertainties and when researchers can explain where a local glacier would be expected to respond differently."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What is the main point about glacier ridges?",
+        "options": [
+          "They provide valuable but selective evidence requiring contextual interpretation and checks.",
+          "The most conspicuous ridges by themselves establish the full extent of former glacial advances.",
+          "Isotope measurements chiefly distinguish glacial debris from ordinary rockfall.",
+          "A series of moraines can reveal the sequence of climate changes more directly than local records from lakes and caves."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The article describes biased preservation, dating uncertainties and climate cross-checks.",
+          "distractors": {
+            "1": "Long pauses can leave major ridges even after modest advances.",
+            "2": "They are described as tools for dating exposed material, subject to possible biases.",
+            "3": "The sequence of ridges can be ambiguous; independent records help support the interpretation."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "moraine",
+            "hebrew": "מורנה"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "How might prior exposure on a cliff affect an isotope-based estimate for a boulder moved by ice?",
+        "options": [
+          "Prior exposure would make the date appear later because part of the sample’s isotope record was recorded outside the valley.",
+          "Prior exposure would cause the minerals to accumulate fewer isotopes once the glacier withdrew.",
+          "Prior exposure would have no bearing on an estimate if the boulder was moved by a glacier.",
+          "It could make the rock appear to have been deposited earlier than it actually was."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "Isotope production before deposition gives the apparent exposure clock a head start.",
+          "distractors": {
+            "0": "Isotopes produced before final exposure add to the estimate instead of postponing it.",
+            "1": "A head start means additional apparent exposure, not a reduced rate afterward.",
+            "2": "The boulder can retain evidence of exposure before the ice picked it up."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "isotope",
+            "hebrew": "איזוטופ"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author regard uncertainty in moraine dating?",
+        "options": [
+          "As mainly a consequence of brief advances producing too little debris to date.",
+          "As a temporary obstacle best overcome by taking one sample from the largest ridge.",
+          "As an issue to investigate through comparison rather than grounds to dismiss the deposits.",
+          "As a reason to infer local climate change only from caves and lakes."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "The passage recommends several samples and independent evidence.",
+          "distractors": {
+            "0": "Short advances can leave less evidence, but different boulder exposure histories also create uncertainty.",
+            "1": "The passage recommends taking several samples and comparing independent observations.",
+            "3": "Independent records are checks, not grounds for discarding useful moraines."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "reconstruction",
+            "hebrew": "שחזור"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “shielded” mean in the paragraph on isotope measurements?",
+        "options": [
+          "Covered after it had accumulated all its isotopes.",
+          "Protected from some exposure to incoming particles.",
+          "Insulated against variations in the air’s temperature.",
+          "Removed from the action of the ice when the margin first retreated."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "Snow can block particles from the minerals, reducing apparent age.",
+          "distractors": {
+            "0": "Shielding prevents some particles from reaching minerals during the exposure period.",
+            "2": "The term concerns particle exposure; temperature is discussed elsewhere as a factor in glacier response.",
+            "3": "Snow shielding can occur after retreat and does not mean the boulder has been moved out of the glacier."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "shielded",
+            "hebrew": "מוגן מחשיפה"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Why can a stable margin leave an impressive ridge after a modest advance?",
+        "options": [
+          "Debris can build up over a long period at that position.",
+          "The ridge extends across the entire distance the ice advanced.",
+          "The margin reaches a series of new positions, depositing similar amounts at each.",
+          "The ice exposes several boulders at once, giving them similar isotope histories."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The size can reflect duration of deposition instead of distance advanced.",
+          "distractors": {
+            "1": "Its size can reflect one sustained position rather than the length of travel.",
+            "2": "Similar deposits over many positions do not explain why one ridge builds up.",
+            "3": "Exposure patterns help date debris but do not explain the size of its accumulation."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "accumulate",
+            "hebrew": "להצטבר"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Signals from a Tree Ring",
+    "paragraphs": [
+      "A board cut across the trunk of a tree displays a series of pale and dark bands. In many environments, each cycle of growth produces a distinctive pair of zones. By aligning patterns of particularly wide and narrow rings in pieces of wood, researchers can place a specimen in a longer sequence with dates. This method can even connect timber in a building with the years its source tree grew. The year of the last surviving ring is the earliest the tree could have been cut, however, because a carpenter may have removed the outer wood. Some boards preserve that last stage of growth better than others.",
+      "Using rings to estimate climate introduces a different problem. A tree at the upper limit of a mountain forest may grow more vigorously in a warm summer because cold often constrains its growth. A tree of the same species in a dry lowland valley might produce a narrow ring in a hot year if the warmth increases its demand for water. In the first setting, wide rings can accompany warmth. In the second setting, they can reflect ample moisture. The species name alone is insufficient to identify a ring's climatic meaning. Site conditions, age, competition and disturbance all influence the response.",
+      "Measurement also matters. The width of a ring is closely related to how much wood forms, but density tells something different about its internal structure. A tree can begin to grow early in a season and then produce little dense late-season wood if conditions deteriorate. Conversely, favourable late conditions may support dense tissue even after a poor start. Researchers sometimes use several properties of the same ring to resolve such differences, alongside modern weather records to check how each property behaves in known conditions.",
+      "A resulting reconstruction may be robust across centuries, or it may only be reliable for a particular site and interval. The possibility that the dominant constraint can change is worth particular attention. Trees once limited mainly by cold could become increasingly limited by water as the climate changes. Extrapolating a single modern relationship over centuries would be hazardous in such a setting. Cross-checking with other species, sites and historical evidence helps distinguish a widely shared climate signal from an idiosyncratic local response. The practical strength of tree rings is that their exact sequence allows that comparison to be made year by year."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What is the main aim of “Signals from a Tree Ring”?",
+        "options": [
+          "To show how building timbers can be dated more reliably than past temperature changes.",
+          "To explain why ring density should replace ring width in climate estimates.",
+          "To show how one well-dated species can provide a uniform measure of climate over many sites.",
+          "To explain why well-dated growth patterns require calibration and context to serve as historical evidence."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "The passage distinguishes dating ring sequences from interpreting several environmental effects.",
+          "distractors": {
+            "0": "Timber dating introduces chronological matching, but the main concern is the contextual use of rings.",
+            "1": "Density and width yield different information and may be combined.",
+            "2": "The same species can respond differently depending on site conditions."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "reconstruction",
+            "hebrew": "שחזור"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why could warming be associated with wider rings at a high site and narrower rings in a low valley?",
+        "options": [
+          "Trees at both sites are limited by cold, but rapid growth makes the valley wood less dense.",
+          "A warmer summer can supply more moisture at the high site while delaying growth at the low site.",
+          "Warming can relieve cold stress at one site while aggravating water scarcity at the other.",
+          "Only the high-site pattern reflects climate; lowland width changes reflect site disturbance alone."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "Limiting factors differ across settings even for the same species.",
+          "distractors": {
+            "0": "The contrast is between factors limiting width, and density is a distinct characteristic.",
+            "1": "Warmth relieves cold in one location and raises water demand in the drier setting.",
+            "3": "Water constraints can create climatic growth responses in the valley as well."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "constrain",
+            "hebrew": "להגביל"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "What tone does the writer adopt toward extending modern climate correlations into the distant past?",
+        "options": [
+          "Ready to apply the relationship wherever the same species occurs.",
+          "Cautious, allowing that the relationship to weather may have changed.",
+          "Doubtful that modern records can help interpret tree rings under any historical conditions.",
+          "Confident that the same weather variable remains important if dated rings are sampled at one site."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "The text warns that the growth constraint can shift over time.",
+          "distractors": {
+            "0": "The species alone is insufficient to establish which climate factor dominates.",
+            "2": "Modern weather can calibrate the record, even though extrapolation has limits.",
+            "3": "Even within a site, the dominant constraint can change over time."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "extrapolate",
+            "hebrew": "להסיק מעבר לנתונים"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “idiosyncratic” mean in the final paragraph?",
+        "options": [
+          "Peculiar to a particular site.",
+          "Variable from year to year.",
+          "Caused by a flaw in the measurement method.",
+          "Characteristic of the species as a whole."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The writer contrasts a local peculiarity with a signal shared across many areas.",
+          "distractors": {
+            "1": "A local response may be variable, but the contrast concerns where a response is shared.",
+            "2": "The response can be a genuine effect of local conditions.",
+            "3": "The concluding contrast concerns a peculiarity of a specific location."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "idiosyncratic",
+            "hebrew": "ייחודי ומאפיין מקום מסוים"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What helps researchers date a piece of timber whose rings are still visible?",
+        "options": [
+          "Estimating its growth rate from the density of its late-season wood.",
+          "Inferring the cutting date from the thickest surviving outer ring.",
+          "Selecting a modern tree of the same species with similarly dense wood.",
+          "Matching its sequence of wide and narrow rings to a dated longer sequence."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "A characteristic pattern can overlap with an established chronology.",
+          "distractors": {
+            "0": "Density can inform climate interpretation, but an overlap in the width sequence establishes the date.",
+            "1": "The pattern of multiple rings must be matched; the final outer wood may also be missing.",
+            "2": "A similarity in density or species does not by itself align the timber to a dated chronology."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "align",
+            "hebrew": "ליישר ולהתאים"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "How Dark Should a Telescope Be?",
+    "paragraphs": [
+      "When a city replaces streetlights, the effects may be visible far beyond the streets being illuminated. Some light travels directly upward, while some initially travels toward the ground and is subsequently reflected. When particles and molecules in the atmosphere scatter that light, the night sky becomes noticeably brighter. A telescope aimed above the horizon may have to distinguish the light of a distant galaxy from an artificial glow created by lamps many kilometres away. The glow does not usually make a galaxy disappear. Instead, it increases the uncertainty involved in separating an already weak signal from its background.",
+      "A lamp fixture designed to direct light downward can reduce the first route by which light reaches the sky. It cannot prevent a pale concrete road or a wet pavement from reflecting part of the beam. The colour of the lamp also matters, partly because short wavelengths scatter efficiently in clear air. Comparing two cities by the number of lamps they operate may therefore give the wrong impression of the effect at an observatory. The intensity, spectrum and direction of the emissions all matter, as do the materials and weather between the lamps and the telescope.",
+      "Some observers address the problem with filters that reject a narrow range of wavelengths. This works well when the irritating emission is concentrated in a few spectral lines, leaving the rest of the spectrum comparatively undisturbed. A broad source creates a more difficult problem. Rejecting the entire range of wavelengths where that source emits could also block much of the light from the star or galaxy under study. A filter is most effective when the unwanted light and the desired signal differ in spectral character. Filters selected for one problem can prove far less effective when a city changes the type of light it produces.",
+      "Darkness can thus be treated as a resource shared by the people who operate lighting and those who study the sky. An observatory's immediate surroundings are important, but managing only the nearest lamp will not restore darkness lost to a distant commercial district. The most useful improvements combine attention to where light is needed, when it is needed and what wavelengths it emits. This approach leaves room for urban lighting while acknowledging an important physical fact: light directed carelessly can travel well outside the place it was intended to serve."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What is the main claim of the passage on telescope observing conditions?",
+        "options": [
+          "Urban light affects telescopes mainly when lamp fixtures let their beams travel directly upward.",
+          "Telescope filters provide the most reliable way to preserve darkness when streetlights change.",
+          "Reducing artificial skyglow requires accounting for routes, wavelengths and locations of emitted light.",
+          "Closing streets near an observatory at night would solve the most important causes of skyglow."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "The text connects reflection, atmospheric scattering, filtering and regional lighting choices.",
+          "distractors": {
+            "0": "Light reflected off surfaces can also reach the sky.",
+            "1": "Their effectiveness depends on the unwanted spectrum, so changes to lighting can undermine them.",
+            "3": "The glow can come from distant districts, and the author emphasizes several properties of emissions."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "emission",
+            "hebrew": "פליטה"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Which change could make an existing narrow filter less useful to an observatory?",
+        "options": [
+          "Directing more of the lamps' light at the ground without changing the emitted wavelengths.",
+          "Replacing sources concentrated in a few lines with sources emitting broadly.",
+          "Dimming a distant source while retaining its concentrated emission lines.",
+          "Replacing a broad source with one emitting mostly in the narrow band the filter rejects."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "A narrow filter blocks much less of a broad glow, while a broad filter sacrifices the target signal.",
+          "distractors": {
+            "0": "This can change the route or amount of stray light without widening the range the filter must reject.",
+            "2": "A narrow filter aimed at those lines should still match their spectral character.",
+            "3": "Concentrating unwanted light into the blocked range would make this filter more effective."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "spectral line",
+            "hebrew": "קו ספקטרלי"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "What attitude does the writer take toward street lighting near dark sky sites?",
+        "options": [
+          "Pragmatic, encouraging precise control rather than treating lighting and observation as incompatible.",
+          "Prepared to accept local street lighting if observatories can filter out any wavelengths it emits.",
+          "Focused on defending dark sites by restricting lights closest to the telescope.",
+          "Concerned principally with replacing short-wavelength lamps, regardless of how or when they are used."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The conclusion discusses where, when and at what wavelengths light is needed.",
+          "distractors": {
+            "1": "The article explains that filters may block the desired spectra along with broad unwanted emissions.",
+            "2": "The author argues that addressing only nearby sources can miss distant contributors.",
+            "3": "Wavelength is considered alongside direction, timing and the purposes of lighting."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "skyglow",
+            "hebrew": "זוהר שמיים מלאכותי"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “undisturbed” mean in the filtering paragraph?",
+        "options": [
+          "Concentrated in a few spectral lines.",
+          "Made brighter by removing the surrounding light.",
+          "Separated entirely from artificial light.",
+          "Largely unaffected by the filter."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "The narrow filter blocks a band of wavelengths and leaves the rest available for observation.",
+          "distractors": {
+            "0": "The unwanted light may be concentrated; the remaining spectrum is largely unaffected by the filter.",
+            "1": "Removing a narrow band does not strengthen the remaining wavelengths.",
+            "2": "The word describes what is left unchanged by filtering, and does not guarantee that all unwanted light is absent."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "undisturbed",
+            "hebrew": "ללא הפרעה"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Why can a downward-pointing fixture still contribute to skyglow?",
+        "options": [
+          "A downward fixture can emit a broad range of wavelengths that a narrow filter misses.",
+          "Short wavelengths can scatter before they leave the fixture.",
+          "The surface it illuminates can send some light back upward.",
+          "Aiming the beam down can make distant lamps more visible from the observatory."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "The text gives pale concrete and wet pavement as reflecting surfaces.",
+          "distractors": {
+            "0": "That could affect filtering, but upward reflection explains how the downward light contributes to the glow.",
+            "1": "The stated route involves light traveling from lamp to ground to sky.",
+            "3": "The text distinguishes direct observation of lamps from the sky brightened by scattered light."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "fixture",
+            "hebrew": "גוף תאורה"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Waste Heat Under the Footpath",
+    "paragraphs": [
+      "On a winter morning in a dense neighbourhood, warm air leaves buildings through vents even as boilers nearby work to heat water. It is tempting to regard the coexistence of discarded warmth and fuel consumption as a problem with an obvious solution: send the waste heat to someone who needs it. The proposal is sound in principle, but it obscures an important distinction. The amount of thermal energy released by one process is only one property of a useful heat source. Its temperature, consistency and location also influence whether another process can use it economically.",
+      "A supermarket's refrigeration equipment, for instance, rejects heat as it keeps cabinets cold. Some warmth could be used on the premises for space heating. A nearby building demanding much hotter water could require a device that raises the temperature of the recovered heat. A heat pump transfers heat from a cooler source to a warmer destination by consuming electricity. A relatively warm source can make that work easier compared with extracting heat from outdoor air in cold weather. The recovered heat supplies part of the resulting output; electrical work is still needed to lift it to the desired temperature.",
+      "District systems face a further question about timing. A source can be most productive precisely when a customer has little need for heat. A building that emits heat steadily throughout the year may be easier to plan around, but even steady sources need pipes, maintenance and arrangements for interruptions. Planners can combine different sources or store some heat, though storage occupies space and loses energy. Obtaining heat from a source should therefore be costed alongside the infrastructure needed to get it to the right place at the right time.",
+      "The distribution network itself offers options. If it carries relatively cool water, it may lose less heat to the surrounding soil and may accept heat from more low-temperature sources. Customers then need local equipment to reach higher temperatures for particular uses. Alternatively, a hotter network can supply some loads directly while demanding higher-temperature inputs and careful insulation. Neither choice solves every problem. The attraction of recovered heat lies in the possibility of reusing a local resource that already exists. Its practical worth is established by comparing the source, the network and the actual pattern of demand, including the coldest days when reliability matters most."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What is the main purpose of “Waste Heat Under the Footpath”?",
+        "options": [
+          "To advocate giving priority to heat sources that release the most energy over a year.",
+          "To explain the conditions that determine whether discarded warmth is useful elsewhere.",
+          "To compare the costs of local heating and of running refrigeration.",
+          "To show that cooler distribution networks are the most efficient choice when recovered heat is available."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "The passage considers temperature, timing, infrastructure and service requirements.",
+          "distractors": {
+            "0": "The total quantity cannot substitute for considering temperature, schedule and distribution.",
+            "2": "Refrigeration supplies an example of heat recovery, not the principal cost comparison.",
+            "3": "Cooler networks have potential advantages but may require local reheating."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "thermal energy",
+            "hebrew": "אנרגיה תרמית"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why might a heat pump using refrigeration waste heat use less electricity than one drawing heat from freezing outdoor air?",
+        "options": [
+          "Starting with a warmer source can reduce the work needed to achieve the destination temperature.",
+          "Heat from refrigeration can always be delivered without raising its temperature.",
+          "The electricity used for refrigeration is recovered along with the heat it produces.",
+          "A warmer source lets the pump supply more energy by lowering the destination temperature."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The passage says a relatively warm source makes the transfer easier.",
+          "distractors": {
+            "1": "Heat for hotter water requires a device to lift the temperature.",
+            "2": "Recovering waste heat does not recover the electricity originally used; the transfer draws power.",
+            "3": "The contrast concerns reaching the same desired temperature from different starting temperatures."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "temperature lift",
+            "hebrew": "העלאת טמפרטורה"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the writer address the possibility of reusing heat?",
+        "options": [
+          "Supportive mainly because recovered heat stays available whenever the demand is highest.",
+          "Skeptical because the infrastructure cost usually rules out a useful heat transfer.",
+          "Interested primarily in finding the design that minimizes heat loss from pipes.",
+          "Optimistic about the opportunity while weighing engineering and demand conditions."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "Temperature, network, timing and costs are considered explicitly.",
+          "distractors": {
+            "0": "The author highlights that supply and demand can peak at different times.",
+            "1": "Infrastructure is a condition to assess, not a reason to dismiss most proposals.",
+            "2": "Pipe losses are one issue within a wider judgment about source and customer requirements."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "economically",
+            "hebrew": "באופן כלכלי"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "In the refrigeration example, what does “rejects” mean?",
+        "options": [
+          "Prevents warmth from reaching the cold cabinets.",
+          "Recovers heat for a second use.",
+          "Releases heat out of the cooling equipment.",
+          "Raises heat to a temperature suitable for warm water."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "The cabinets are kept cold while the equipment sends heat elsewhere.",
+          "distractors": {
+            "0": "The word identifies the outward release rather than describing insulation from incoming heat.",
+            "1": "Heat can be captured afterward; rejection is the process that makes it available.",
+            "3": "That requires separate equipment; the refrigerator's equipment gives off heat."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "rejects heat",
+            "hebrew": "פולט חום"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What extra equipment may customers need with a cooler distribution network?",
+        "options": [
+          "A system for lowering the temperature of water delivered to the building.",
+          "A local device that raises the delivered temperature for some uses.",
+          "Extra insulation for the district network to allow it to carry water at a higher temperature.",
+          "A tank to collect all heat produced when customer demand is highest."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "The passage says the cooler water may need additional heating on site.",
+          "distractors": {
+            "0": "The cooler network already delivers at a lower temperature; some uses need the reverse adjustment.",
+            "2": "This pertains to the hotter network option and would not by itself raise temperatures at the customer.",
+            "3": "Storage is one way of dealing with timing mismatches, not the temperature equipment asked about."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "distribution network",
+            "hebrew": "רשת חלוקה"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Salt as an Uninvited Sculptor",
+    "paragraphs": [
+      "A sandstone carving can lose details over a period in which the wall around it appears to remain dry. In some cases the damage is attributed to wind, since wind is visible in the motion of dust and the carving itself shows no obvious leaks. Yet decay can proceed from changes taking place within an apparently solid block. Stone contains a network of tiny spaces. Water entering these spaces can carry dissolved salts, either from the soil, from sea spray or from materials introduced when the building was repaired. When the water eventually leaves, some of the salts stay behind.",
+      "Salt visible as a powdery layer on the surface is often noticed first. A deposit there may offer useful information about what has travelled through the stone, without necessarily accounting for the greatest mechanical damage. When crystals grow in confined pores beneath the surface, they can press on the surrounding walls. Over many cycles, flakes may separate from the face of the stone. The location of evaporation is therefore important. If liquid reaches the exterior before drying, much of the salt may crystallize outside. If drying occurs within the material, a similar quantity of dissolved salt may produce a different outcome.",
+      "Changes in atmospheric humidity matter even after the source of liquid has been removed. Some salts take up enough moisture in humid air to dissolve and later crystallize again when the humidity falls. The details differ among salts and become more complicated when several occur together. A conservation measure that protects against direct rain may stop one source of water without preventing these repeated transitions. In some situations an impermeable coating can even shift the region where moisture evaporates, hiding the processes beneath a surface that briefly looks much improved.",
+      "A conservator examining a sheltered monument therefore has several questions to answer. What kinds of salts are present, how did they arrive and under what conditions do they change state? Which areas of stone are structurally weak, and is damage still progressing? Watching changes in the building over time can be more informative than a quick inspection immediately after cleaning. The goal is to interrupt the destructive cycle while respecting the remaining material. Removing the visible salt has a role when the treatment is suitable, but the effect on hidden moisture and crystallization is what determines whether the carved details will last."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What is the central argument of the passage on sandstone decay?",
+        "options": [
+          "Effective preservation depends on understanding where and when moisture and salt change within the stone.",
+          "The type of salt deposited on the surface is the most dependable guide to where carved details are being lost.",
+          "Protecting monuments from direct rain is the main means of preventing salt damage after repair.",
+          "Sandstone deteriorates mainly when different salts mix after the stone has been cleaned."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The text links salt transport and repeated crystallization to hidden mechanical damage.",
+          "distractors": {
+            "1": "The visible deposit can be informative without revealing the most damaging crystallization.",
+            "2": "Salt can continue cycling through humidity changes even without direct rain.",
+            "3": "Mixed salts complicate the mechanism, which can occur regardless of cleaning."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "pore",
+            "hebrew": "נקבובית"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why might a recently coated face appear better while flakes continue to develop behind it?",
+        "options": [
+          "The coating could make salt deposits more visible at the surface.",
+          "The coating could move damaging crystals to the outside while leaving previous cracks visible.",
+          "The coating could stop evaporation throughout the stone while allowing all salts to remain dissolved.",
+          "The coating could shift evaporation and crystal growth deeper into the stone."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "The surface may hide ongoing changes beneath it.",
+          "distractors": {
+            "0": "Increased visible deposition would not account for a deceptively improved face; damage can occur deeper inside.",
+            "1": "The flaking described requires continued internal pressure; exterior crystallization differs in its effects.",
+            "2": "Continued crystallization and internal growth are the mechanism proposed in the passage."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "impermeable",
+            "hebrew": "אטום"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the writer approach quick visual inspections of conservation results?",
+        "options": [
+          "Useful chiefly for showing whether the most damaging salts have been removed.",
+          "Worth relying on once the stone has been protected from direct rain.",
+          "Potentially misleading because immediate appearance can conceal longer-term damage.",
+          "Useful chiefly for confirming that internal stone has already weakened."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "The article distinguishes visible improvement from evidence that damage has stopped.",
+          "distractors": {
+            "0": "A quick check cannot establish which salt deposits were doing the most damage.",
+            "1": "Humidity changes and subsurface crystallization can remain relevant after rain is blocked.",
+            "3": "The author treats the visible powder as a clue, rather than as proof of hidden damage."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "conservator",
+            "hebrew": "משמר יצירות ומבנים"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “confined” describe about some sandstone pores?",
+        "options": [
+          "Located below the outer face.",
+          "They provide a restricted space for crystals to grow.",
+          "Closed off from incoming moisture.",
+          "Occupied completely by salt crystals."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "A growing crystal can press on surrounding walls because the space limits it.",
+          "distractors": {
+            "0": "The pores may occur beneath the surface, but the word describes how space is limited.",
+            "2": "The pores can receive a solution; confinement does not imply that water cannot enter.",
+            "3": "The passage describes restricted room to grow, whether or not crystal growth has filled it."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "confined",
+            "hebrew": "מוגבל במרחב"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What can allow repeated cycles even after liquid water stops entering the stone?",
+        "options": [
+          "Certain salts absorb moisture from humid air and crystallize again as it dries.",
+          "Humidity changes keep existing salts dissolved without any recrystallization.",
+          "Salt already deposited on the outer face draws liquid back into the building from the soil.",
+          "Water that was trapped in the stone permanently supplies moisture without further humidity changes."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Humidity changes can drive dissolution and recrystallization.",
+          "distractors": {
+            "1": "The shift between dissolved and crystalline states, rather than continuous dissolution, drives cycles.",
+            "2": "The question concerns a mechanism that can work after entry of liquid water stops.",
+            "3": "The described repeated process depends on changes in atmospheric humidity."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "humidity",
+            "hebrew": "לחות"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Shape of a Wave Farm",
+    "paragraphs": [
+      "A device that extracts energy from an ocean wave has an influence beyond the electricity it delivers to shore. By taking energy out of the motion of the water, it changes the wave field around it. It can also reflect waves and scatter them in new directions. When engineers place several devices together, each operates in a field partly produced by the others. This means a group of converters cannot always be studied by measuring one unit on its own and multiplying the result. Arrangement can change both the average output and the regularity of production.",
+      "The spacing problem is sometimes explained with a simpler example. If two sources produce waves that arrive at a point with crests coinciding, the resulting motion there may be larger. If a crest reaches the point together with a trough, their motions can partly cancel. The interaction depends on distances and wavelengths. In an operating farm, wave directions and wavelengths change as weather systems move. An arrangement aligned for an impressive result in one particular test can offer a poor compromise when the full range of conditions is considered. Engineers care about the annual pattern as well as the performance during peak waves.",
+      "Survival in storms leads to a separate class of trade-offs. A converter that captures motion efficiently in moderate conditions may need to adopt a less responsive setting when extreme waves could damage its mechanisms. Connecting every device to one convenient cable can simplify installation but creates other considerations, including access for repairs. Practical choices balance expected energy, reliability and the amount of time a broken unit will be inaccessible. A projection that assumes every wave can be captured and every device remains connected will overstate what the project can supply.",
+      "There are also reasons to study the water beyond the installation. A large array could alter the waves that approach a shore or pass into nearby sheltered water. Whether such an effect is important depends on the size and location of the farm and on the existing variability of waves. The issue calls for measurement rather than a presumption that the effect will always be helpful or harmful. An energy-producing installation is a participant in a changing marine environment. Its performance is most informative when specified for that environment, over timescales that include ordinary operations, storms and maintenance."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "Which argument best summarizes the passage on arrays of ocean wave converters?",
+        "options": [
+          "Converters must be positioned to produce the strongest constructive interference during peak waves.",
+          "The annual power of a well-placed converter can be extended to a farm by adjusting only for storm damage.",
+          "The main engineering objective of a wave farm is to prevent shifts in the waves that reach shore.",
+          "A project's output and impacts depend on device interactions, environmental variability and practical reliability."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "The article develops interactions, shifting conditions, storm limits and downstream effects.",
+          "distractors": {
+            "0": "Optimizing for peak conditions can give poor results across a wider range of weather.",
+            "1": "Farm layout changes wave fields, and downtime and repairs matter too.",
+            "2": "Shore effects are one issue alongside interactions, energy output and reliability."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "array",
+            "hebrew": "מערך"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why might the best arrangement in a test tank be suboptimal at sea?",
+        "options": [
+          "Output in the tank depends on converter interactions, whereas at sea each converter receives an independent wave field.",
+          "The arrangement may have been selected to limit cable length instead of maximizing test output.",
+          "The range of wave directions and lengths at sea could change interference among units.",
+          "The greater strength of ocean waves means that crests will coincide at more of the selected positions."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "Fixed spacing produces different combinations under different wave conditions.",
+          "distractors": {
+            "0": "The units still influence one another at sea; changing waves make interactions more complicated.",
+            "1": "Cable choices matter in practice, but the question is why a good hydrodynamic result may fail to carry over.",
+            "3": "Coincidence depends on direction, wavelength and spacing, rather than wave strength alone."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "trough",
+            "hebrew": "שפל הגל"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "What is the author's stance on possible changes to waves near shore?",
+        "options": [
+          "Inclined to assume that reduced incoming wave energy will make the coast safer.",
+          "Open to differing outcomes, with importance to be evaluated in context.",
+          "Concerned that changes in direction usually increase the waves approaching sheltered water.",
+          "Ready to judge the shoreline effect by counting the number of converters alone."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "The closing paragraph explicitly calls for measurement in local conditions.",
+          "distractors": {
+            "0": "Reduced transmission does not establish a universal benefit; the writer calls for local observations.",
+            "2": "The passage allows this possibility but makes no general prediction about direction or intensity.",
+            "3": "The number and location of devices, existing wave variation and measurements all matter."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "presumption",
+            "hebrew": "הנחה מוקדמת"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “responsive” mean in the sentence about settings for extreme waves?",
+        "options": [
+          "Able to react readily to water movement.",
+          "Able to remain connected during maintenance.",
+          "Able to retain the same setting through changing conditions.",
+          "Able to reflect waves away from the installation."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "A less responsive setting reacts less to storms and may protect mechanisms.",
+          "distractors": {
+            "1": "The word concerns how the device reacts to movement, rather than its connection to the network.",
+            "2": "The passage describes choosing a less reactive setting in special conditions.",
+            "3": "A converter may scatter waves, but responsiveness here concerns its response to wave motion."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "responsive",
+            "hebrew": "מגיב"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What could make a projection of annual output overly high?",
+        "options": [
+          "Allowing for lower capture during extreme waves even when the array remains connected.",
+          "Averaging production across wave directions rather than favoring one angle.",
+          "Using measured downtime from a less accessible site with otherwise similar machinery.",
+          "Assuming every unit stays in service through storms and repairs."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "Extreme conditions and outages can reduce actual energy supply.",
+          "distractors": {
+            "0": "That adjustment would help prevent an overestimate.",
+            "1": "Including more wave conditions avoids overstating a single good result.",
+            "2": "This may overstate outage losses for the target site, which would lower the estimate."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "inaccessible",
+            "hebrew": "בלתי נגיש"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Glass That Stays Visible to Birds",
+    "paragraphs": [
+      "A window is generally judged from the viewpoint of someone inside a room. The glass should admit light and allow a view without drawing attention to itself. From the standpoint of a bird approaching the same window, invisibility can be a serious defect. A reflective façade can display a convincing image of a tree; clear panes on opposite walls may appear to offer an unobstructed route. Bird collisions therefore occur under at least two different visual conditions. In one case the pane reproduces an apparent destination, and in the other it conceals a barrier between the animal and something genuinely visible.",
+      "A common response is to place markings on the glass. The broad idea is to interrupt the appearance of open space, but the details matter. A few large silhouettes may attract a person's attention while leaving wide blank areas that still appear passable to a small bird. More closely spaced marks can minimize the apparent gaps. Position also matters. If the pane reflects strongly on its outer surface, a mark fixed to the inside may be less visible from outside than a similar mark placed on the outer surface. Appearance must be assessed from the direction and in the lighting in which birds approach.",
+      "Other designs rely on patterns that are more conspicuous to some birds than to human occupants. This is an appealing goal because it could preserve the human view. But sensitivity to particular wavelengths differs among species, and the light reaching a façade changes during a day. A pattern that works in direct sunlight may be harder to recognize when the same window lies in shade. The usefulness of a pattern therefore has to be established across a plausible range of conditions rather than inferred from a single photograph or from the sensitivity of one species.",
+      "Evaluating interventions introduces a practical complication. Fewer discovered birds after a change could signify reduced collisions, but it could also reflect changes in how often an area is searched or how long evidence remains. A building regularly patrolled before treatment and seldom visited afterward would offer an unreliable comparison. Repeated searches by consistent methods, and comparisons with untreated windows when feasible, strengthen the evidence. The design objective is easy to state: make the barrier visible. Tests of visibility and careful field observations determine how reliably a particular installation accomplishes it."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What central claim governs the discussion of bird-safe windows?",
+        "options": [
+          "Designers should favor treatments that preserve a clear view for occupants while making glass visible to a sensitive bird species.",
+          "Reflective glass needs treatment more urgently because it creates hazards that clear windows usually avoid.",
+          "Markings and other treatments must make barriers detectable under real viewing conditions and should be validated by reliable comparisons.",
+          "The most reliable basis for choosing a treatment is an immediate fall in the number of birds found after installation."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "The passage connects collision mechanisms to design choices and field evaluation.",
+          "distractors": {
+            "0": "Visibility needs assessment across species and conditions, and human preference is secondary to the barrier test.",
+            "1": "The opening describes a risk for both reflective and clear glass, through different mechanisms.",
+            "3": "A change in discoveries has to be interpreted against search frequency and comparison conditions."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "façade",
+            "hebrew": "חזית"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why might a closely spaced external pattern work better than a sparse internal one on reflective glass?",
+        "options": [
+          "Besides covering more of the visible exterior, the pattern increases the pane’s reflection enough to hide interior features.",
+          "The exterior pattern is less likely to be obscured by reflection and leaves fewer apparent openings.",
+          "Exterior markings work chiefly by blocking a bird’s view of trees and other destinations beyond the pane.",
+          "The narrower gaps make the markings more conspicuous to people inside, which indicates how visible they will be to birds."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "The text identifies both location and spacing effects.",
+          "distractors": {
+            "0": "The exterior pattern is intended to remain visible despite the reflection, not to increase it.",
+            "2": "An outside pattern can interrupt an apparent route, but the question concerns reflected destinations and the effect of gaps.",
+            "3": "The passage cautions that the important viewpoint and lighting are those of the approaching bird."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "passable",
+            "hebrew": "ניתן למעבר"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author regard treatments intended to be more visible to birds than humans?",
+        "options": [
+          "Interested but cautious about variation across species and lighting.",
+          "Persuaded that selecting a pattern for one sensitive species is sufficient if its human appearance improves.",
+          "More concerned with obstructing views than with species differences.",
+          "Confident that successful visibility in direct sunlight is a good substitute for testing in shade."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The aim is called appealing while conditions for effectiveness are specified.",
+          "distractors": {
+            "1": "A pattern's usefulness has to be tested across species and light conditions.",
+            "2": "The ambition is to preserve the human view, but the stated concern is whether birds see the design under varied conditions.",
+            "3": "The passage specifically notes that shade can defeat a pattern visible in sunlight."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "conspicuous",
+            "hebrew": "בולט"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “conceals” mean in the description of clear panes on opposite walls?",
+        "options": [
+          "Changes which objects appear in the reflection.",
+          "Makes the open route appear permanently blocked.",
+          "Stops light from reaching something beyond the glass.",
+          "Keeps something from being recognized or seen."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "A transparent pane can hide the fact that a barrier interrupts an apparent route.",
+          "distractors": {
+            "0": "The example concerns a line of sight through clear panes, not a reflected image.",
+            "1": "The pane looks passable precisely because the barrier is hard to see.",
+            "2": "Light can pass through; what goes unrecognized is the transparent obstruction itself."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "conceals",
+            "hebrew": "מסתיר"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Which change could make a reported drop in bird collisions overstate a treatment’s effect?",
+        "options": [
+          "Checking treated windows more frequently after installation.",
+          "Finding that collision evidence remains visible for longer after installation.",
+          "Searching for evidence much less frequently after installing the treatment.",
+          "Comparing treated and untreated windows using the same reporting method."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "Fewer discoveries could result from reduced observation effort.",
+          "distractors": {
+            "0": "More frequent checks can lead to more discoveries after treatment, which would tend to mask an improvement.",
+            "1": "Evidence remaining visible longer would make it easier to find after treatment and would tend to mask an improvement.",
+            "3": "An untreated comparison using the same method helps rule out unrelated changes affecting both groups."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "patrolled",
+            "hebrew": "השטח נסרק"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Where a River Gains Water",
+    "paragraphs": [
+      "A map usually draws a river as a continuous blue line. The water crossing a particular point, however, may have arrived through several routes. Recent rain can run down slopes and enter the channel in minutes. Water that seeped into the soil weeks or years before may arrive slowly through sediment beneath the surrounding land. During a long dry spell, a stream that still flows may depend considerably on this less visible source. A river can also lose water to the ground in places where the water surface lies above the nearby groundwater level. The direction of exchange can vary along a single river.",
+      "Measuring the flow at two bridges may seem to offer a simple way to test what happens between them. If flow increases downstream despite the absence of large visible tributaries, the reach might be gaining groundwater. But small drainage pipes, unrecorded withdrawals and evaporation also change the balance. Measurements taken at slightly different times can miss changes moving through the river as well. A release from an upstream gate, for example, may pass the first bridge before it passes the second. An observer who ignores that delay could infer a gain or loss that is unrelated to groundwater.",
+      "Temperature supplies an independent clue. Groundwater reaching the stream can be warmer than the river in winter and cooler in summer. A thermometer moved along a stream bed may detect localized signals where water seeps up. Those signals are easiest to interpret when the two sources have appreciably different temperatures. Shade, depth and mixing also affect the pattern. Researchers may therefore combine temperature with chemical measurements or observations of the height of water in wells. Agreement among the methods allows them to interpret temperature anomalies with more confidence.",
+      "The exchange matters for both people and aquatic organisms. A cold inflow during a hot month can create a small area where fish find relief. Pumping groundwater can affect those refuges if it lowers the nearby water table enough to interrupt seepage. The consequences may appear later or farther from the pump than observers expect, since the ground transmits changes gradually. Knowledge of the hidden connections changes the meaning of a drought management plan. Preserving flow at the nearest measuring station may be one useful goal, but it cannot tell planners whether every ecologically important stretch is still receiving the groundwater on which it depends."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What is the central argument of the river–groundwater passage?",
+        "options": [
+          "River management depends primarily on determining how much groundwater enters the channel during dry spells.",
+          "Hidden exchanges vary across a river and require multiple observations to understand and manage.",
+          "Temperature patterns can locate groundwater gains more reliably than any hydrological measurement.",
+          "Groundwater pumping is likely to affect a river only when downstream gauges register a decline."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "The text gives diverse exchange routes, measurement checks and ecological implications.",
+          "distractors": {
+            "0": "Dry-spell inflow is one example; the passage also addresses losses, local variation, detection and ecosystem effects.",
+            "2": "Temperature is informative but sensitive to shading, depth and mixing, so confirmation matters.",
+            "3": "The passage describes important local impacts that a gauge may miss."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "seepage",
+            "hebrew": "חלחול"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "How might a nearby well affect fish even if the river appears to flow normally at a monitoring station?",
+        "options": [
+          "Pumping could reduce a local flow of cool groundwater that fish use as a refuge.",
+          "The well could reduce flow at the station immediately while leaving the local cold inflow intact.",
+          "The well could increase seepage by lowering the groundwater level beneath the channel.",
+          "The well could warm the entire river while leaving the supply of cool groundwater unchanged."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "An important inflow can decline without an obvious change in total flow at another location.",
+          "distractors": {
+            "1": "This describes the reverse of a local effect hidden from a monitoring station.",
+            "2": "A lower groundwater level can reduce inflow to the river or encourage movement out of it.",
+            "3": "The effect described is a reduction in groundwater that creates a localized cool refuge."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "water table",
+            "hebrew": "מפלס מי תהום"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author approach the use of temperature measurements in rivers?",
+        "options": [
+          "As sufficient evidence whenever temperature anomalies persist.",
+          "As useful chiefly because they measure the direction of water exchange directly.",
+          "As less useful than well measurements when temperatures differ sharply between the two water sources.",
+          "As valuable evidence that needs checks for other influences."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "The article recommends chemical and well-level observations alongside temperature.",
+          "distractors": {
+            "0": "A repeated anomaly can still reflect persistent shading, depth or mixing.",
+            "1": "They provide indirect signals caused in several possible ways.",
+            "2": "A pronounced temperature difference makes the temperature technique easier to interpret."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "anomaly",
+            "hebrew": "חריגה"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "To say that the temperature difference is “appreciable” is to say it is what?",
+        "options": [
+          "Evident even without measuring it.",
+          "Consistent from season to season.",
+          "Large enough to notice or measure usefully.",
+          "Large enough to rule out all other causes."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "The sources must differ sufficiently for temperature to help distinguish them.",
+          "distractors": {
+            "0": "The passage requires enough contrast for useful detection, without specifying that no instrument is needed.",
+            "1": "The direction of the temperature difference may reverse between winter and summer.",
+            "3": "A noticeable difference helps separate sources but does not eliminate the effects of shade, depth or mixing."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "appreciable",
+            "hebrew": "משמעותי וניכר"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Why can simultaneous or nearly simultaneous bridge readings be deceptive after an upstream gate opens?",
+        "options": [
+          "An increase in discharge travels through groundwater before the channel receives it.",
+          "The release can take time to travel from the upstream bridge to the downstream one.",
+          "The water release changes the groundwater levels beside both bridges at the same instant.",
+          "The downstream reading will capture the release first because the river already carries more water there."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "Readings before and after the pulse arrives are not directly comparable.",
+          "distractors": {
+            "0": "The example describes a pulse traveling along the channel; it can create a false impression of groundwater exchange.",
+            "2": "The issue is the time required for flow to move between sites, rather than an instantaneous change.",
+            "3": "The release passes the upstream bridge first regardless of ordinary downstream discharge."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "downstream",
+            "hebrew": "במורד הזרם"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "When Silence Is a Data Problem",
+    "paragraphs": [
+      "An autonomous recorder in a wetland can run for days without an observer nearby. Its file may contain calls from frogs, birds and insects, alongside rain, traffic and the rustle of vegetation. Software can be trained to search the recording for characteristic signals. Because the method is inexpensive to repeat, it can describe variation across nights that a few human visits would miss. Yet a marked increase in recorded calls does not necessarily mean that more animals are present. A small number of individuals calling repeatedly may account for much of the difference.",
+      "Failure to record calls is equally ambiguous. A species can be present but silent during a survey, or a signal can be masked by wind and other animals. The microphone may pick up nearby calls more reliably than distant ones. Even a perfectly calibrated recorder would be subject to variation in how loudly a species calls and how sound moves across the habitat. Investigators accordingly visit or listen to sites repeatedly, preferably under a range of conditions. Repeated absences carry more information when the species would usually call and when other circumstances made detection likely.",
+      "Automatic classification introduces a different issue. A model accurate on recordings from the region where it was trained may make more errors in a new region. Related species can produce subtly different signals, and local noise can resemble the structure of a call the software was taught to recognize. Evaluating the system solely on short excerpts taken from the original recordings would test performance under familiar conditions. To estimate performance at unvisited sites, researchers need tests based on separate locations or recording periods and should inspect a selection of uncertain identifications themselves.",
+      "These limitations change the ecological question an acoustic survey can answer. Estimating whether a species ever uses a site requires a defensible treatment of missed detections. Counting individuals generally requires additional information, since recording a sound does not automatically reveal which animal made it. Comparing the time of peak calling for a well-detected species may involve fewer assumptions. Passive recording has broadened the range of phenomena scientists can observe. Its power comes from arranging repeated measurements intelligently and making claims appropriate to the signals they collect. In that setting, silence is a potentially informative observation whose meaning depends on how well the observer could have heard a call."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What is the main idea of “When Silence Is a Data Problem”?",
+        "options": [
+          "Acoustic monitoring supports different conclusions depending on which detection and classification limits are addressed.",
+          "Acoustic recorders answer ecological questions most reliably when call totals agree across successive nights.",
+          "The greatest obstacle to acoustic surveys is extending an accurate classifier from one region to another.",
+          "With enough recording time, sound surveys can replace observations that once required observers at sites."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The text connects missed signals, recording conditions and model validation to specific ecological claims.",
+          "distractors": {
+            "1": "Agreement alone does not distinguish callers or address limitations that remain consistent across nights.",
+            "2": "Classifier transfer is one constraint alongside missed calls and interpretation of presence or abundance.",
+            "3": "More recording helps, but some conclusions still require additional evidence or manual checking."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "detection",
+            "hebrew": "זיהוי"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why should a call classifier be checked on recordings from locations separate from its training sites?",
+        "options": [
+          "A separate site makes it possible to distinguish repeated calls made by the same animal.",
+          "A classifier can only be evaluated if the local signals resemble the ones it was initially trained to recognize.",
+          "Recordings from familiar sites generally contain less background sound than those from new sites.",
+          "Unfamiliar species or noise may expose errors not apparent in familiar recordings."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "Similarity among signals and background sounds can depend on location.",
+          "distractors": {
+            "0": "Using independent sites tests transfer; it does not identify individual callers.",
+            "1": "Testing only familiar signals would miss failures on unfamiliar recordings.",
+            "2": "The problem is a change in noise type or signal similarity, not a demonstrated increase in the amount of noise."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "classification",
+            "hebrew": "סיווג"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "What tone characterizes the discussion of acoustic recording?",
+        "options": [
+          "Principally concerned with using well-calibrated equipment to make detection reliable.",
+          "Skeptical of inferences about occupancy because calls cannot identify individual animals.",
+          "Positive about its reach while precise about what sound can establish.",
+          "Confident that enough repeated observations can support the same claims for every species."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "The author points to broader observation and specifies the limits of detection and interpretation.",
+          "distractors": {
+            "0": "The text explains that detection can vary even with a perfectly calibrated recorder.",
+            "1": "How many individuals call and whether a species uses a site are distinct questions.",
+            "3": "Which claims are justified also depends on the species, the signal and the recording conditions."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "defensible",
+            "hebrew": "בר הצדקה"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “masked” mean in the paragraph on missed calls?",
+        "options": [
+          "Recorded from too far away to establish its source.",
+          "Made difficult to distinguish because other sounds interfere.",
+          "Misclassified as a call from a related species.",
+          "Unusually quiet because the animal changes its calling behavior."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "Wind or other signals can make a real call hard to distinguish.",
+          "distractors": {
+            "0": "Distance can lower detectability, but masking specifically involves competing sounds.",
+            "2": "A classification error is a separate issue; interference can prevent a signal from being detected at all.",
+            "3": "Masking concerns interference even if the strength of the call is unchanged."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "masked",
+            "hebrew": "מוסווה או מכוסה"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Why might many recorded calls come from very few animals?",
+        "options": [
+          "The same individuals can call several times.",
+          "Only nearby animals make calls that the software can distinguish from background sounds.",
+          "The classifier can confuse similar calls.",
+          "The same species can be silent when other species are especially active."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "A count of calls is not necessarily a count of callers.",
+          "distractors": {
+            "1": "Nearby signals may be easier to record, but repeated calling explains why many calls need not represent many animals.",
+            "2": "That describes possible misclassification rather than the number of calls contributed by one individual.",
+            "3": "Silence accounts for missed detections rather than high call totals from a few individuals."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "repeatedly",
+            "hebrew": "שוב ושוב"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Snow That Measures a Mountain",
+    "paragraphs": [
+      "A snowy mountain often looks uniformly white in a satellite image. Water managers, who depend on snowmelt months later, need information more detailed than a map of white areas. A shallow crust may produce the same mapped coverage as a thick snowpack. The quantity of interest is commonly described as the depth of water that would remain if a column of snow melted without any loss. Dense wet snow holds more water at a given depth than fresh powder. A depth measurement is useful, but it needs information about density before it can be translated into stored water.",
+      "Measuring depth itself is a substantial sampling problem. Wind can scrape a ridge almost bare and deposit deep drifts a short distance away. Shaded areas may retain snow much longer than exposed slopes. The site of a measuring station is often chosen in part because it can be reached and serviced. A convenient site may supply a long, reliable record while remaining unrepresentative of neighbouring terrain. If an unusual storm shifts the direction from which snow accumulates, differences between the station and the rest of its catchment can become especially large.",
+      "One method uses an aircraft carrying an instrument that measures distance to the surface with pulses of light. Comparing measurements made with snow present and absent can estimate the thickness over a large area. Dense branches can hide the ground from the sensor, and repeated flights are resource intensive. The result also needs models or measurements of density to estimate water storage. Such a flight provides a different sampling pattern from visits to fixed stations, which makes the two types of information especially valuable when used together.",
+      "An accurate estimate of stored water still leaves the question of how much reaches a reservoir. Some snow can turn directly into vapour. Meltwater can collect in the soil, feed plants or travel slowly underground. A warm storm can make accumulated snow release water quickly and can also add rain of its own. The route and timing matter as much to flood planning as the seasonal total. A forecast that starts with a good water inventory therefore combines it with observations about weather and the landscape. Snow is an important form of temporary storage, and measuring it is one stage in the larger problem of accounting for water moving through a mountain basin."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What connects the different measurements in the snowpack passage?",
+        "options": [
+          "Seasonal inventories of snow-covered land are the best predictors when water managers need to plan for floods.",
+          "The main reason to use several measurement techniques is to identify where snow falls most heavily.",
+          "Accurate estimates from aircraft can replace separate measurements of density and snowmelt.",
+          "They progressively inform a forecast, from coverage through depth and density to the timing and routes of water release."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "The text distinguishes area, water inventory and actual delivery.",
+          "distractors": {
+            "0": "Coverage alone misses depth and density, and a stored volume does not establish the timing of runoff.",
+            "1": "Distribution matters, but the article also asks how much water is stored and how it reaches a reservoir.",
+            "2": "Aircraft offer broader depth measurements alongside other evidence; they cannot replace density or runoff information."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "snowpack",
+            "hebrew": "שכבת שלג מצטברת"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "If two mountain basins have the same mapped snow coverage, why could their snow storage differ substantially?",
+        "options": [
+          "The two basins could send different amounts of runoff to their reservoirs after the snow melts.",
+          "Storms from differing directions could have distributed the snow.",
+          "Their covered areas could hold snow of different depths or densities.",
+          "A long-established monitoring station may be easier to reach in one of the two basins."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "Coverage indicates where snow exists, not the amount of water it contains.",
+          "distractors": {
+            "0": "Different runoff outcomes are possible even with equal storage and do not by themselves explain a storage difference.",
+            "1": "Wind can affect distribution, but a different direction alone does not tell whether one holds more water.",
+            "3": "Access affects how well a station samples the terrain rather than the amount of water held by snow."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "density",
+            "hebrew": "צפיפות"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author treat mountain flight surveys in relation to fixed stations?",
+        "options": [
+          "As more accurate than stations because their measurements directly estimate the amount of water stored.",
+          "As useful complements with distinct sampling strengths and limitations.",
+          "As a useful way to check convenient stations, with little reliance on local observations afterward.",
+          "As less dependable than stations because overlapping areas provide only redundant evidence."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "Flights cover wide areas, while stations provide local ongoing measurements.",
+          "distractors": {
+            "0": "Aircraft measure surface distance and still need estimates of density.",
+            "2": "The author emphasizes combining sampling patterns and still needing density information.",
+            "3": "The methods sample differently and therefore offer complementary information."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "sampling",
+            "hebrew": "דגימה"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “catchment” mean in the account of isolated measuring stations?",
+        "options": [
+          "The area from which water drains into the same system.",
+          "An area of snow deposition around the station.",
+          "The area directly visible to the aircraft’s sensor.",
+          "A reservoir used to receive and store runoff."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The station represents a local point within the mountain drainage area.",
+          "distractors": {
+            "1": "A catchment is defined by where water drains, regardless of where snow is currently deposited.",
+            "2": "The drainage boundary is independent of what an aircraft can see.",
+            "3": "A reservoir may receive runoff, but the catchment is the contributing area."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "catchment",
+            "hebrew": "אגן ניקוז"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What does the aircraft-based method compare to estimate snow thickness?",
+        "options": [
+          "Surface heights on shaded slopes and on nearby exposed ridges.",
+          "The estimated depth of fresh powder and the density of older snow nearby.",
+          "Flight measurements across several points and the average depth at a station.",
+          "Surface distances measured with and without snow cover."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "The difference in surface level provides an estimate of thickness.",
+          "distractors": {
+            "0": "Those comparisons can describe spatial variation, but they would not isolate snow thickness from terrain.",
+            "1": "Density is needed to infer water content, while two distance surveys provide thickness.",
+            "2": "The two methods can complement one another; this is not the difference used to calculate thickness."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "thickness",
+            "hebrew": "עובי"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Running Clocks in a Moving World",
+    "paragraphs": [
+      "A navigation device built into a telephone can calculate a position using signals from a distant set of satellites. Each signal carries information about the time it was sent. Because radio waves travel very quickly, a small discrepancy in time corresponds to a substantial difference in inferred distance. The receiver combines information from several satellites while also adjusting for an error in its own clock. The result depends on the difference between measured and predicted arrival times. Improving the precision of a satellite clock is therefore only one part of making the position estimate reliable.",
+      "A satellite clock experiences motion and gravity that differ from those of a clock on the ground. In the theory of relativity, both differences affect the measured pace of a clock. Satellites orbit rapidly, and their motion tends to slow their clocks relative to the appropriate ground reference. On the other hand, being farther from Earth's centre typically places them where gravity slows time less. In commonly used navigation orbits the second effect exceeds the first, and their combination would make untreated satellite clocks gain time relative to clocks in the ground reference system. Navigation systems account for these predictable differences in their design and operation.",
+      "Propagation adds a different source of error. The upper atmosphere contains electrically charged particles and can change the speed at which navigation signals travel through it. The size of this effect depends in part on the signal's frequency. A receiver comparing two frequencies can estimate a substantial portion of the delay. In contrast, a signal reflected off a building may travel farther than the direct one before reaching the receiver. Comparing frequencies cannot by itself remove the geometric error introduced by that longer path. The causes of delay differ physically and call for different responses.",
+      "This distinction explains why errors can persist even when the underlying clocks are extraordinarily stable. The inference of position treats time as a way of measuring distance, which means that any process changing the times can masquerade as a displacement. Clock comparisons help solve one aspect of the problem, models of atmospheric propagation solve another, and antenna location and signal processing address local reflections. In open terrain the last effect can be modest, whereas a corridor of reflective buildings can make it prominent. The position shown on a screen represents the combined work of instruments and physical models, rather than a direct reading of a single ideal clock."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What thesis best unifies the navigation passage?",
+        "options": [
+          "Reliable positions depend largely on keeping a receiver’s clock synchronized with every orbiting clock.",
+          "Stable clock signals let receivers identify and correct most local reflections by comparing frequencies.",
+          "Reliable positions require distinguishing clock effects from several mechanisms that alter signal travel time.",
+          "The variation between positions in different settings chiefly reflects changes in the balance of gravitational and motion effects."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "The article covers relativity, atmospheric delay and reflected paths as separate error sources.",
+          "distractors": {
+            "0": "The receiver can solve for clock error, and physical delays can remain even when clocks are stable.",
+            "1": "Frequency comparison addresses part of the atmospheric effect; it does not resolve a longer reflected path by itself.",
+            "3": "The buildings example concerns local propagation; the clock effects are a distinct source."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "propagation",
+            "hebrew": "התפשטות אות"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why might a receiver be less accurate in a street between tall buildings than an open field?",
+        "options": [
+          "Charged particles trapped between buildings can delay signals at certain frequencies.",
+          "A reflected signal can follow a longer path and be mistaken for the direct signal.",
+          "The taller buildings can increase the gravitational difference between ground and orbit enough to make the clocks unsynchronized.",
+          "Signals reflected from walls can travel a comparable path to direct signals but appear to have been sent at a different orbital time."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "Local surfaces increase the opportunity for geometrically longer propagation.",
+          "distractors": {
+            "0": "The frequency-dependent effect described occurs in the upper atmosphere, not as the explanation for the street contrast.",
+            "2": "The clock corrections concern orbital motion and gravity, rather than receiver visibility among buildings.",
+            "3": "The passage explains the error by added travel distance, not a change in the recorded transmission time."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "displacement",
+            "hebrew": "העתק מקום"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the writer present relativity's role in ordinary navigation?",
+        "options": [
+          "As a real and predictable effect handled alongside other measurement problems.",
+          "As the primary explanation for navigation errors in heavily built areas.",
+          "As an unresolved problem because motion and gravity drive clocks in opposite directions.",
+          "As an effect whose correction depends on the frequencies picked up by the receiver."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The clock effects are explained and are accommodated through design.",
+          "distractors": {
+            "1": "The street example is explained by reflections, a propagation effect distinct from relativity.",
+            "2": "The opposing effects combine in a predictable way and are taken into account.",
+            "3": "Two-frequency comparison is introduced for an atmospheric delay, not for clock corrections."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "reference system",
+            "hebrew": "מערכת ייחוס"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does it mean for a time change to “masquerade as” a displacement?",
+        "options": [
+          "It can change the receiver’s clock while leaving the inferred position unchanged.",
+          "It can make a change of position look like an error in time.",
+          "It can register a real movement of the receiver that independent measurements miss.",
+          "It can appear in the calculation as if the receiver moved."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "A timing discrepancy can be interpreted as a distance change.",
+          "distractors": {
+            "0": "An apparent displacement is an effect on inferred position, rather than a time-only correction.",
+            "1": "That reverses the example; a timing change is read as a spatial change.",
+            "2": "The change merely appears spatial; the time change need not come from actual motion."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "masquerade as",
+            "hebrew": "להתחזות ל־"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "How can using two frequencies help with delay from the upper atmosphere?",
+        "options": [
+          "Both frequencies acquire the same atmospheric delay, so their average reveals it.",
+          "The frequencies travel different reflected paths, allowing the receiver to detect the shortest one.",
+          "The charged-particle delay differs with frequency and can be estimated by comparing the signals.",
+          "The receiver can compare the time each satellite clock gains relative to ground at each frequency."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "The differential travel behaviour provides information about atmospheric delay.",
+          "distractors": {
+            "0": "It is a difference between frequencies that allows the effect to be estimated.",
+            "1": "Reflections are a separate source of error that frequency comparison alone does not solve.",
+            "3": "Satellite clock corrections are distinct from the frequency-dependent propagation delay."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "frequency",
+            "hebrew": "תדר"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ice That Floats Out of the Record",
+    "paragraphs": [
+      "The seasonal disappearance of sea ice is often summarized using the size of the area it covers. This measure is easy to compare across years, but it combines many events. In one region ice may melt where it formed. In another, prevailing winds may drive it out through a passage and lower the local coverage while the displaced ice continues to exist. Ice can also spread apart, exposing water between floes, or move together to form a compact field. A record of area can therefore reveal an important change while leaving open the process that caused it.",
+      "Thickness responds to some of the same forces. Cold air helps ice form and grow, but ice also thickens where floes collide and pile up. A smooth sheet made during a brief cold spell can extend across considerable space without storing the same volume as a smaller area of densely ridged ice. Thickness measurements themselves introduce new questions. A satellite can estimate how high the upper surface stands above the surrounding water. Inferring the submerged portion from that elevation requires assumptions about density and the weight of any snow covering the surface.",
+      "Researchers investigate the motion using successive images. A recognizable pattern of cracks can serve as a set of landmarks that drifts in time. When the pattern deforms beyond recognition or clouds obstruct views with certain instruments, the inferred tracks become less reliable. Drifting instruments attached to floes supply direct evidence at particular points, though their tracks need not describe the motion of their neighbours. In the best cases, several kinds of observation can reveal whether expanding water openings reflect transport, deformation or local melting.",
+      "Understanding the process matters because similar short-term maps can lead to different futures. Ice exported to warmer water may be likely to melt later, whereas gaps in an area of cold air may freeze rapidly once movement stops. Local extent also influences sunlight entering the ocean, so a map of open water remains relevant even without an explanation of its origin. The challenge is to choose a measure appropriate to the question. Coverage describes part of the surface state, volume addresses the amount of ice, and observations of motion help locate the processes responsible for changes. Each is more useful when interpreted alongside the others and across a timescale long enough to expose what a pair of snapshots cannot show."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What is the principal claim of the sea ice passage?",
+        "options": [
+          "The reduction in sea ice extent is best understood by distinguishing areas that are getting thinner from those that are thickening.",
+          "Understanding sea ice change calls for comparing coverage with thickness, movement and local conditions.",
+          "Satellite estimates of ice volume give a more complete account of motion than tracks from individual floes.",
+          "The main value of sea ice records is predicting which gaps will freeze once local movements stop."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "The author explains how several mechanisms can change the same coverage measure.",
+          "distractors": {
+            "0": "Thickness matters, but transport, deformation and changing extent also need to be distinguished.",
+            "2": "Volume estimates concern amount, whereas tracks and images indicate motion.",
+            "3": "That is one application within a broader argument about choosing and comparing measurements."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "extent",
+            "hebrew": "היקף"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "What inference can be drawn from a sharp local drop in ice area during strong offshore winds?",
+        "options": [
+          "Some ice could have been moved away without immediately melting.",
+          "The ice remaining in the area is likely to have thinned before the wind displaced it.",
+          "The loss of local coverage implies that the exported ice has already melted in warmer water.",
+          "Wind could have compressed the ice locally."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The text distinguishes wind-driven export from in-place melt.",
+          "distractors": {
+            "1": "A sudden local decrease does not tell how the thickness of the remaining ice changed.",
+            "2": "Export can precede melting; the extent alone cannot show that later outcome.",
+            "3": "Compaction is a different possibility, but local extent does not demonstrate compaction."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "floe",
+            "hebrew": "גוש קרח צף"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author characterize ice coverage as a measurement?",
+        "options": [
+          "Reliable as a measure of the amount of ice if observations are collected at regular intervals.",
+          "Most valuable when it can independently identify which processes are changing the ice.",
+          "Largely superseded by measurements of ice thickness, which have the same value for tracking open water.",
+          "Useful for describing part of the surface state, with interpretation depending on the question."
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "correct": "Coverage reveals the distribution of open water and complements data on amount and motion.",
+          "distractors": {
+            "0": "More frames do not turn surface area into volume; thickness still matters.",
+            "1": "The author explicitly says extent leaves the processes open.",
+            "2": "Coverage remains useful for mapping open water and estimating sunlight entering the ocean."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "deformation",
+            "hebrew": "שינוי צורה"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "In the paragraph describing satellite measurements, “submerged” means what?",
+        "options": [
+          "Hidden under snow.",
+          "Lowered to the same height as surrounding water.",
+          "Lying below the water surface.",
+          "Enclosed between neighbouring floes."
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "correct": "The passage contrasts ice standing above the surface with the part below it.",
+          "distractors": {
+            "0": "Snow can affect how the ice floats, but the term specifies a position below the waterline.",
+            "1": "The word refers to ice below the surface, rather than exactly level with it.",
+            "3": "The position is defined vertically relative to water, rather than horizontally relative to other ice."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "submerged",
+            "hebrew": "שקוע מתחת למים"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What method in the passage estimates drift from images?",
+        "options": [
+          "Comparing the height of a floe above the water to the average thickness of nearby floes.",
+          "Recognizing a pattern of cracks as it changes position in successive observations.",
+          "Looking for the widest newly opened gaps and treating their width as the distance ice has traveled.",
+          "Following the routes of instruments secured to ice and assigning those routes to all neighbouring floes."
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "correct": "The position of a recognizable shape across images indicates movement.",
+          "distractors": {
+            "0": "Surface elevation helps estimate thickness or volume, not the displacement of a pattern.",
+            "2": "Gap size can reflect processes besides transport; drift tracking matches a pattern across observations.",
+            "3": "Attached instruments provide point observations, not direct image-based tracks of neighbouring ice."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "successive",
+            "hebrew": "עוקבים"
+          }
+        ]
+      }
+    ]
+  }
+]

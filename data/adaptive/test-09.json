@@ -1,0 +1,456 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "Before choosing where to put the new footpath, staff walked the entire site to ____ the terrain and mark slopes and obstacles on a map.",
+      "options": [
+        "cultivate",
+        "vacate",
+        "occupy",
+        "survey"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "They examined the land systematically and recorded its features.",
+        "distractors": {
+          "0": "The team examined the land rather than preparing it for crops.",
+          "1": "Leaving the site would not produce the information needed to choose the route.",
+          "2": "Being present on the land is not the stated task; collecting information about it is."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "survey",
+          "hebrew": "לסקר; לבדוק באופן שיטתי"
+        }
+      ],
+      "id": "test-09-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The trial protocol required samples to be frozen immediately, so leaving them at room temperature overnight would ____ the protocol.",
+      "options": [
+        "violate",
+        "confirm",
+        "amend",
+        "clarify"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Leaving samples out breaks an explicit requirement.",
+        "distractors": {
+          "1": "Compliance might confirm that the procedure was followed; leaving the samples out is noncompliance.",
+          "2": "Disregarding a requirement does not officially change it.",
+          "3": "The requirement is already explicit, and failing to follow it does not make it clearer."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "violate",
+          "hebrew": "להפר"
+        }
+      ],
+      "id": "test-09-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The wide-angle photograph made the corridor seem much longer than it actually was, showing how lens choice can ____ apparent proportions.",
+      "options": [
+        "preserve",
+        "standardize",
+        "distort",
+        "emphasize"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The lens gave a misleading impression of the relation between the corridor's dimensions.",
+        "distractors": {
+          "0": "The impression of greater length shows the proportions were not kept faithfully.",
+          "1": "The photograph does not bring dimensions into agreement with a standard.",
+          "3": "Emphasis would draw attention to a true characteristic; here the image alters the apparent proportion itself."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "distort",
+          "hebrew": "לעוות"
+        }
+      ],
+      "id": "test-09-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The appeal deadline had passed, leaving the tenant no ____ except to ask the board to reopen the case.",
+      "options": [
+        "incentive",
+        "recourse",
+        "mandate",
+        "obligation"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The tenant had only one remaining means of seeking a remedy.",
+        "distractors": {
+          "0": "The issue is what means of obtaining a review remained, not what motivation the tenant had.",
+          "2": "The tenant had no official authorization or order to act.",
+          "3": "The tenant was free not to pursue the matter; asking the board was simply the only way left to seek a review."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "recourse",
+          "hebrew": "אפשרות לפנות לקבלת סעד"
+        }
+      ],
+      "id": "test-09-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The baker decided to ____ the loaves a little longer because the dough in the middle was still raw.",
+      "options": [
+        "bake",
+        "slice",
+        "weigh",
+        "wrap"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "More time in the oven would finish cooking the bread.",
+        "distractors": {
+          "1": "Cutting the loaves would not cook their raw centers.",
+          "2": "The baker is addressing the raw dough rather than measuring weight.",
+          "3": "Wrapping would not finish cooking bread that is still raw."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "bake",
+          "hebrew": "לאפות"
+        }
+      ],
+      "id": "test-09-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "Before the water enters the drinking supply, plant staff ____ it to remove harmful organisms.",
+      "options": [
+        "sample",
+        "treat",
+        "measure",
+        "store"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The staff process the water to make it safe for drinking.",
+        "distractors": {
+          "0": "A sample can be tested but does not make the entire supply safer.",
+          "2": "Measuring the organisms would reveal how many are present, not remove them.",
+          "3": "Putting water aside is different from processing it to remove organisms."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "treat",
+          "hebrew": "לטפל ב־"
+        }
+      ],
+      "id": "test-09-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "Measurements from the new instrument ____ with observations made at a nearby station before the results were published.",
+      "options": [
+        "had comparing",
+        "were compare",
+        "were compared",
+        "was compared"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Plural measurements receives the action and takes were compared.",
+        "distractors": {
+          "0": "Had must take a past participle in this construction and the measurements are not doing the comparing.",
+          "1": "Compared is needed after were to complete the passive.",
+          "3": "Was does not agree with measurements."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "measurement",
+          "hebrew": "מדידה"
+        }
+      ],
+      "id": "test-09-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Coal exports declined steadily between 1980 and 1990, during ____ several inland mines closed.",
+      "options": [
+        "the time when of",
+        "that time of",
+        "whose time of",
+        "which period"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Which period introduces a relative clause referring back to the stated interval.",
+        "distractors": {
+          "0": "When of cannot serve as a connector in this clause.",
+          "1": "That time of ends with of and cannot stand before the clause in this form.",
+          "2": "Whose time of improperly treats the interval as a possessor and leaves of without a noun phrase."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "steadily",
+          "hebrew": "בהתמדה"
+        }
+      ],
+      "id": "test-09-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Had the lamps been mounted higher, the architect ____ fewer fixtures to light the hall.",
+      "options": [
+        "had needed",
+        "was needed",
+        "would need had",
+        "would have needed"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The inverted past condition takes a modal perfect result.",
+        "distractors": {
+          "0": "Had needed does not form the hypothetical main clause here.",
+          "1": "Was needed makes the architect the person required and leaves fewer fixtures unattached.",
+          "2": "Would need had wrongly adds had after the main verb."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "fixture",
+          "hebrew": "גוף תאורה"
+        }
+      ],
+      "id": "test-09-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The university prevented unauthorized visitors ____ the storage room during the relocation.",
+      "options": [
+        "from entering",
+        "for entering",
+        "against enter",
+        "to enter"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Prevent someone from doing something is the idiomatic construction.",
+        "distractors": {
+          "1": "For entering can explain a sanction but cannot express the prevented action here.",
+          "2": "Against is the wrong preposition and enter cannot follow it as a bare verb.",
+          "3": "Prevent does not take a to-infinitive after its object in this construction."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "unauthorized",
+          "hebrew": "לא מורשה"
+        }
+      ],
+      "id": "test-09-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "The researchers expected little ____ in temperature here because all the samples were collected at the same depth.",
+      "base": "vary",
+      "answers": [
+        "variation"
+      ],
+      "explanation": "Variation is a noun for differences among the measured temperatures.",
+      "id": "test-09-word-1"
+    },
+    {
+      "prompt": "Before the storm, dozens of metal stakes had been ____ into the ground to secure the stage.",
+      "base": "drive",
+      "answers": [
+        "driven"
+      ],
+      "explanation": "Driven is the past participle of drive in this passive verb phrase.",
+      "id": "test-09-word-2"
+    },
+    {
+      "prompt": "Warm air reached the coast from the south, making the first week of March ____ warm.",
+      "base": "usual",
+      "answers": [
+        "unusually"
+      ],
+      "explanation": "Unusually modifies warm and signals that temperatures differed from the norm.",
+      "id": "test-09-word-3"
+    },
+    {
+      "prompt": "The engineer remained ____ that the original foundation could support another floor without reinforcement.",
+      "base": "doubt",
+      "answers": [
+        "doubtful"
+      ],
+      "explanation": "The adjective doubtful conveys that the engineer was unconvinced.",
+      "id": "test-09-word-4"
+    }
+  ],
+  "writing": "Should a university require its students to take a course outside their main area of study? Explain your answer.",
+  "listening": {
+    "type": "continuation",
+    "clips": [
+      {
+        "context": "Listen to part of a lecture on interpreting a market survey.",
+        "transcript": "People surveyed outside a bakery said they rarely bought bread elsewhere. Interviewers had picked that location because it was convenient. But visitors stopping there were more likely to favor that bakery than residents who never went near it. A broader survey should",
+        "audio": "/listening/continuation-4-1.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about surveying shoppers.",
+            "options": [
+              "include people recruited at other locations",
+              "use the same interviews to estimate the habits of all residents",
+              "ask more customers beside the same door",
+              "omit people who buy bread elsewhere"
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "Recruiting at other locations reduces the selection bias created by interviewing at the bakery.",
+              "distractors": {
+                "1": "The original group is unlikely to represent all residents.",
+                "2": "Increasing the sample at the same location does not fix the recruitment bias.",
+                "3": "People who shop elsewhere are needed to broaden the sample."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "recruit",
+                "hebrew": "לגייס"
+              }
+            ],
+            "id": "test-09-audio-1-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on conserving paper.",
+        "transcript": "An archive used transparent folders to let visitors view fragile notes without removing them. Inspectors later found that the folder surface created glare under ceiling lights. The notes themselves remained safe, but the new system made them harder to",
+        "audio": "/listening/continuation-4-2.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about archive folders.",
+            "options": [
+              "store without damaging the paper",
+              "identify by their original dates",
+              "read in the existing lighting",
+              "place in transparent folders"
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "Reflections make the written material harder to see even though it remains protected.",
+              "distractors": {
+                "0": "The notes stayed safe, so storage protection was successful.",
+                "1": "No dates or catalog details were lost.",
+                "3": "Fitting the notes in folders was not the difficulty described."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "glare",
+                "hebrew": "סנוור"
+              }
+            ],
+            "id": "test-09-audio-2-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on designing an outdoor map.",
+        "transcript": "The designer placed a town map beside an intersection. Visitors could easily locate the dot marked You Are Here, but many walked the wrong way because north on the board pointed toward the street behind them. The designer could reduce confusion by",
+        "audio": "/listening/continuation-4-3.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the town map.",
+            "options": [
+              "making the location dot smaller",
+              "turning the map to align with the view ahead",
+              "listing destinations alphabetically",
+              "showing the same map at a smaller scale"
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "Aligning the map with what viewers see makes directions easier to translate into movement.",
+              "distractors": {
+                "0": "People already locate the dot successfully.",
+                "2": "Alphabetical order does not correct orientation.",
+                "3": "Changing scale would not address the direction mismatch."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "align",
+                "hebrew": "ליישר"
+              }
+            ],
+            "id": "test-09-audio-3-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on comparing museum visits.",
+        "transcript": "A gallery introduced free evening admission and saw visitor numbers rise. At the same time, a popular artist gave several talks to promote a new show. Before attributing the rise to cheaper tickets, it would help to compare",
+        "audio": "/listening/continuation-4-4.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about gallery attendance.",
+            "options": [
+              "the topics chosen for the artist's talks",
+              "the age of visitors seated at each talk",
+              "ticket prices charged by galleries on another continent",
+              "attendance on evenings with and without talks"
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The talks are a competing explanation; comparing evenings with and without them helps separate the effects.",
+              "distractors": {
+                "0": "Talk content alone does not show how much the talks affected attendance.",
+                "1": "Age does not distinguish the promotions from the free admission policy.",
+                "2": "Distant gallery prices do not resolve the two simultaneous local changes."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "attribute",
+                "hebrew": "לייחס"
+              }
+            ],
+            "id": "test-09-audio-4-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,995 @@
+{
+  "id": "test-13",
+  "number": 13,
+  "title": "Beyond the Last Recorded Sale / Salt as an Uninvited Sculptor",
+  "sections": [
+    {
+      "id": "test-13-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "The researchers decided to ____ measurements from the broken thermometer before calculating the average.",
+          "options": [
+            "compare",
+            "repeat",
+            "combine",
+            "exclude"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“exclude” means leave out of a group or calculation. The faulty readings must be left out of the calculation.",
+            "distractors": {
+              "0": "“compare” means examine similarities and differences. The clue is that the faulty readings must be left out of the calculation.",
+              "1": "“repeat” means carry out the same action again. The clue is that the faulty readings must be left out of the calculation.",
+              "2": "“combine” means bring separate things together. The clue is that the faulty readings must be left out of the calculation."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "exclude",
+              "hebrew": "להוציא מן הכלל"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-13-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "Since the fieldwork must coincide with low tide, the crew drew up a ____ that listed arrival times for every morning in July.",
+          "options": [
+            "goal",
+            "schedule",
+            "method",
+            "outcome"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“schedule” means plan that assigns times to activities. The plan identifies when the crew must arrive each day.",
+            "distractors": {
+              "0": "“goal” means intended result or target. The clue is that the plan identifies when the crew must arrive each day.",
+              "2": "“method” means systematic way of doing something. The clue is that the plan identifies when the crew must arrive each day.",
+              "3": "“outcome” means result of an event or process. The clue is that the plan identifies when the crew must arrive each day."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "schedule",
+              "hebrew": "לוח זמנים"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-13-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The assistants' measurements were remarkably ____ even when different people read the instrument at different times.",
+          "options": [
+            "consistent",
+            "suitable",
+            "distinct",
+            "available"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“consistent” means uniform across occasions or cases. Different readers and times produced nearly the same values.",
+            "distractors": {
+              "1": "“suitable” means appropriate for a specific purpose. The clue is that different readers and times produced nearly the same values.",
+              "2": "“distinct” means clearly separate or different. The clue is that different readers and times produced nearly the same values.",
+              "3": "“available” means obtainable or ready for use. The clue is that different readers and times produced nearly the same values."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "consistent",
+              "hebrew": "עקבי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-13-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The author had to ____ her decision to omit the later diaries by showing that they were copies of material already included.",
+          "options": [
+            "assess",
+            "convey",
+            "justify",
+            "challenge"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“justify” means give sufficient reasons supporting a choice or claim. The question is whether the omission had an adequate reason.",
+            "distractors": {
+              "0": "“assess” means judge the quality or significance of something. The clue is that the question is whether the omission had an adequate reason.",
+              "1": "“convey” means communicate an idea or feeling. The clue is that the question is whether the omission had an adequate reason.",
+              "3": "“challenge” means dispute the validity or authority of something. The clue is that the question is whether the omission had an adequate reason."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "justify",
+              "hebrew": "להצדיק"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-13-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "After several minor streams dried up, the eastern channel became the ____ route by which water entered the lake.",
+          "options": [
+            "random",
+            "dominant",
+            "comparable",
+            "marginal"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“dominant” means more influential or widespread than others. The eastern channel now carries the principal share of incoming water.",
+            "distractors": {
+              "0": "“random” means not following a deliberate pattern or selection rule. The clue is that the eastern channel now carries the principal share of incoming water.",
+              "2": "“comparable” means similar enough to allow meaningful comparison. The clue is that the eastern channel now carries the principal share of incoming water.",
+              "3": "“marginal” means small enough to be of limited significance. The clue is that the eastern channel now carries the principal share of incoming water."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "dominant",
+              "hebrew": "דומיננטי, שולט"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-13-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The notice was ____ about eligibility: its wording could refer either to all residents or only to those living in the central district.",
+          "options": [
+            "ambiguous",
+            "analogous",
+            "anomalous",
+            "arbitrary"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“ambiguous” means capable of being understood in more than one way. The eligibility wording supports two interpretations.",
+            "distractors": {
+              "1": "“analogous” means similar in a relevant respect despite other differences. The clue is that the eligibility wording supports two interpretations.",
+              "2": "“anomalous” means inconsistent with an otherwise regular pattern. The clue is that the eligibility wording supports two interpretations.",
+              "3": "“arbitrary” means based on chance or preference rather than a defensible reason. The clue is that the eligibility wording supports two interpretations."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "ambiguous",
+              "hebrew": "דו-משמעי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-13-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-13-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "The delegates voted to ____ the charter by inserting a provision for appeals after its third clause.",
+          "options": [
+            "withhold",
+            "retract",
+            "disseminate",
+            "amend"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“amend” means change or correct a formal text. A formal text is changed by the addition of a provision.",
+            "distractors": {
+              "0": "“withhold” means keep something back instead of giving it. The clue is that a formal text is changed by the addition of a provision.",
+              "1": "“retract” means formally withdraw a previously made statement. The clue is that a formal text is changed by the addition of a provision.",
+              "2": "“disseminate” means spread something widely among people or places. The clue is that a formal text is changed by the addition of a provision."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "amend",
+              "hebrew": "לתקן, להכניס תיקון"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-13-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The older film stock was especially ____ to scratching, so it was handled only with clean gloves and soft rollers.",
+          "options": [
+            "inert",
+            "resilient",
+            "susceptible",
+            "adaptive"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“susceptible” means particularly vulnerable or prone to being affected. The stock is especially vulnerable to surface damage.",
+            "distractors": {
+              "0": "“inert” means showing little or no tendency to react. The clue is that the stock is especially vulnerable to surface damage.",
+              "1": "“resilient” means able to recover after disruption or damage. The clue is that the stock is especially vulnerable to surface damage.",
+              "3": "“adaptive” means able to change in response to new conditions. The clue is that the stock is especially vulnerable to surface damage."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "susceptible",
+              "hebrew": "רגיש, פגיע"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-13-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "On grounds of theoretical ____, the physicist favoured the account that fit the observations while making the fewest additional assumptions.",
+          "options": [
+            "parsimony",
+            "rigour",
+            "redundancy",
+            "versatility"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“parsimony” means preference for simplicity or economy of assumptions. The physicist prefers the explanation requiring fewer assumptions.",
+            "distractors": {
+              "1": "“rigour” means thoroughness and strict adherence to analytical standards. The clue is that the physicist prefers the explanation requiring fewer assumptions.",
+              "2": "“redundancy” means unnecessary repetition or duplication. The clue is that the physicist prefers the explanation requiring fewer assumptions.",
+              "3": "“versatility” means ability to perform a range of functions or adapt to different uses. The clue is that the physicist prefers the explanation requiring fewer assumptions."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "parsimony",
+              "hebrew": "חסכנות בהנחות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-13-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The host was ____ about court protocol, even checking that each name card had been positioned at the prescribed angle.",
+          "options": [
+            "judicious",
+            "desultory",
+            "assiduous",
+            "punctilious"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“punctilious” means exacting about minor details of procedure or etiquette. The host carefully observes even very minor formal requirements.",
+            "distractors": {
+              "0": "“judicious” means showing sound judgment and discretion. The clue is that the host carefully observes even very minor formal requirements.",
+              "1": "“desultory” means lacking a sustained plan, purpose, or focus. The clue is that the host carefully observes even very minor formal requirements.",
+              "2": "“assiduous” means showing persistent care and effort. The clue is that the host carefully observes even very minor formal requirements."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "punctilious",
+              "hebrew": "מדקדק בפרטי נוהל או נימוס"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-13-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "Even the critic refused to ____ the plain observation that the measured value had fallen, though she disagreed about why.",
+          "options": [
+            "adduce",
+            "impugn",
+            "gainsay",
+            "avow"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“gainsay” means deny or dispute the truth of a statement. The issue is whether to dispute the reality of the observed decline.",
+            "distractors": {
+              "0": "“adduce” means bring forward evidence or reasons in support of a case. The clue is that the issue is whether to dispute the reality of the observed decline.",
+              "1": "“impugn” means attack the honesty, validity, or integrity of something. The clue is that the issue is whether to dispute the reality of the observed decline.",
+              "3": "“avow” means declare one's belief, commitment, or responsibility openly. The clue is that the issue is whether to dispute the reality of the observed decline."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "gainsay",
+              "hebrew": "להכחיש, לחלוק על"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-13-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The scale of the flood was ____ in the century-long record: no earlier entry came close to the river level observed that night.",
+          "options": [
+            "incommensurate",
+            "unprecedented",
+            "unwarranted",
+            "unassailable"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“unprecedented” means having no previous example of its kind. The descriptive record contains no earlier event on that scale.",
+            "distractors": {
+              "0": "“incommensurate” means out of proportion or lacking a suitable correspondence in magnitude. The clue is that the descriptive record contains no earlier event on that scale.",
+              "2": "“unwarranted” means not sufficiently justified by the facts or circumstances. The clue is that the descriptive record contains no earlier event on that scale.",
+              "3": "“unassailable” means so strong that it cannot reasonably be challenged. The clue is that the descriptive record contains no earlier event on that scale."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "unprecedented",
+              "hebrew": "חסר תקדים"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-13-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-13-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Beyond the Last Recorded Sale",
+        "paragraphs": [
+          "Economic historians often learn about local markets through recorded transactions. A merchant sold a set of tools for a named sum, or a customer promised payment after the harvest. The detail of such exchanges allows an investigator to compare prices, track credit, and estimate how a business changed. Transactions that people considered only briefly usually left less precise evidence. Yet without some account of offers that were declined or negotiations that failed, the historian can mistake the limits of a surviving ledger for the limits of what people imagined possible.",
+          "A small dealer in a fictitious port kept sales in a formal account and used an informal notebook to list requests that the shop could not immediately satisfy. The two sources suggest different pictures of the dealer's trade. Most completed transactions involved repairing compact instruments. The requests show that customers repeatedly asked the shop to repair larger machines, sometimes offering to pay a premium for prompt service. The dealer declined many of those jobs because the workshop doorway was narrow, not because local customers lacked interest or were unwilling to pay.",
+          "The informal evidence has complications. The dealer sometimes used a single mark for a returning customer's second inquiry without recording the customer's name. Counting each mark as a fresh customer would overstate the number of distinct people involved. In other places the only evidence is a request forwarded by a colleague, whose own understanding of the job might have been imperfect. The notes supply a qualitative correction to a conclusion drawn from sales, but they cannot automatically be given the numerical precision of the formal record.",
+          "This distinction has consequences beyond the history of one shop. If several workshops faced comparable physical constraints, low recorded sales of some service might coexist with considerable unmet demand. Conversely, if one dealer became known for discouraging certain inquiries, even the informal notebook could understate potential business. These possibilities cannot be settled by renaming every unsuccessful conversation a lost sale. They can inform a more careful account of the choices available at the time. For an economic historian, a number is often most illuminating when the processes that produced it are understood. The final set of recorded sales describes an outcome reached through both opportunity and constraint, with other possible outcomes surviving only as uneven traces."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What problem with using sales records does “Beyond the Last Recorded Sale” emphasise?",
+          "options": [
+            "Informal negotiation always provides exact evidence of potential turnover.",
+            "Small shops could only undertake instrument repair if they raised prices.",
+            "Formal records necessarily overstate all prices quoted to customers.",
+            "Completed trades alone can underrepresent demand blocked by practical limitations."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The larger-machine example establishes an interest that was invisible in successful sales.",
+            "distractors": {
+              "0": "Repeated marks and forwarded requests make precision difficult.",
+              "1": "The obstacle described is the workshop entrance for larger jobs.",
+              "2": "The concern is missing interactions, not systematic price inflation."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "unmet demand",
+              "hebrew": "ביקוש שלא נענה"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-13-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why should a historian be careful when counting marks in the dealer’s notebook?",
+          "options": [
+            "Some marks may refer to repeated inquiries from the same person.",
+            "There are no records anywhere that distinguish repair requests from sales.",
+            "All the marks were made by the dealer's customers.",
+            "The notebook records cash sales in a different currency."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The dealer sometimes recorded a second inquiry with no accompanying name.",
+            "distractors": {
+              "1": "The passage distinguishes the notebook from the formal account.",
+              "2": "The dealer used them, and some requests originated with a colleague.",
+              "3": "The marks concern requests rather than a currency conversion."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "overstate",
+              "hebrew": "להפריז"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-13-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author treat evidence of unsuccessful negotiations?",
+          "options": [
+            "As so unreliable that every historical analysis should omit it.",
+            "As identical to evidence of purchases already completed.",
+            "As revealing about possible business while subject to a different standard of numerical confidence.",
+            "As deserving more confidence than a formal ledger in every respect."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The author highlights its corrective value and counting limitations.",
+            "distractors": {
+              "0": "It can correct an inference about the absence of demand.",
+              "1": "A declined offer cannot be counted as an actual transaction.",
+              "3": "The text contrasts the notebook's roughness with formal precision."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "constraint",
+              "hebrew": "מגבלה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-13-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What is the closest meaning of “premium” in the requests for prompt work?",
+          "options": [
+            "A reduction granted automatically to all first-time customers.",
+            "An additional amount above the usual payment.",
+            "A formal certificate that proves a device is of high quality.",
+            "The amount already paid for the machinery before its sale."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The customers offered more for timely service.",
+            "distractors": {
+              "0": "There is an offer of extra payment rather than an automatic reduction.",
+              "2": "The term is used with payment and timing.",
+              "3": "The proposed payment concerns new repair work."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "premium",
+              "hebrew": "תוספת תשלום"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-13-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What concrete bottleneck kept the dealer from accepting certain larger jobs?",
+          "options": [
+            "The entrance to the repair space was too narrow.",
+            "The harbour required every instrument to stay on a ship.",
+            "Customers insisted on waiting until the next harvest to be billed.",
+            "The dealer could not obtain a list of the machines’ previous owners."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The author identifies the doorway as the constraint.",
+            "distractors": {
+              "1": "No harbour policy limits the jobs in the example.",
+              "2": "The harvest appears only as an example of credit entries.",
+              "3": "The refusal concerns physical handling, not ownership."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "bottleneck",
+              "hebrew": "צוואר בקבוק"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-13-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-13-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Although the painter rarely left the capital, many of her subjects were rural workers.",
+          "options": [
+            "Many of her subjects were rural workers, which prevented anyone from finding out whether the painter rarely left the capital.",
+            "Because the painter rarely left the capital, many of her subjects were rural workers.",
+            "The painter rarely left the capital; nevertheless, many of her subjects were rural workers.",
+            "Many of her subjects were rural workers only before it became clear that the painter rarely left the capital."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the painter rarely left the capital” and “many of her subjects were rural workers.”",
+            "distractors": {
+              "0": "It introduces an obstacle to discovering the first fact, which the original states directly.",
+              "1": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast.",
+              "3": "It limits the second fact to an earlier time and adds a discovery that the original never mentions."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-13-restatement-1-1"
+        },
+        {
+          "prompt": "It retained photographs of the machinery as a result of the fact that the archive had little space for large objects.",
+          "options": [
+            "The archive had little space for large objects; nevertheless, it retained photographs of the machinery.",
+            "It retained photographs of the machinery; consequently, the archive had little space for large objects.",
+            "It retained photographs of the machinery, but it is unknown whether the archive had little space for large objects.",
+            "The archive had little space for large objects; consequently, it retained photographs of the machinery."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the archive had little space for large objects, leading to the result that it retained photographs of the machinery.",
+            "distractors": {
+              "0": "It replaces the causal relationship with a concession.",
+              "1": "It reverses the direction of cause and result.",
+              "2": "It casts doubt on the cause, which the original treats as an established fact."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-13-restatement-1-2"
+        },
+        {
+          "prompt": "Once the neighbors have accepted the route, the planners will mark it on the public map.",
+          "options": [
+            "The planners will not mark it on the public map even after the neighbors have accepted the route.",
+            "The planners will mark it on the public map after the neighbors have accepted the route.",
+            "The planners will mark it on the public map before the neighbors have accepted the route.",
+            "The planners will mark it on the public map, regardless of whether the neighbors have accepted the route."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled.",
+            "distractors": {
+              "0": "It denies the stated plan to carry out the second action.",
+              "2": "It places the scheduled action before the event that the sentence puts first.",
+              "3": "It makes the first event irrelevant to the timing of the second."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-13-restatement-1-3"
+        },
+        {
+          "prompt": "The board will commission a design only if the residents approve the funding plan.",
+          "options": [
+            "The board will commission a design in every case in which the residents approve the funding plan.",
+            "The board will commission a design only if it is impossible to establish that the residents approve the funding plan.",
+            "The board will commission a design whether or not the residents approve the funding plan.",
+            "The board will commission a design only on condition that the residents approve the funding plan."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The condition “the residents approve the funding plan” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "0": "It treats the condition as sufficient and promises the outcome whenever it is met.",
+              "1": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met.",
+              "2": "It removes the requirement by making the outcome independent of the condition."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-13-restatement-1-4"
+        },
+        {
+          "prompt": "The recently planted trees seemed tall compared with the established trees.",
+          "options": [
+            "The recently planted trees appeared to match the established trees in height.",
+            "The established trees appeared to exceed the recently planted trees in height.",
+            "The recently planted trees appeared to exceed the established trees in height.",
+            "The difference in height was established when the established trees were taller than the recently planted trees in a formal test."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the established trees, first. The comparison concerns height.",
+            "distractors": {
+              "0": "It describes the two items as equal on the stated measure.",
+              "2": "It reverses the relative ranking of the two items.",
+              "3": "It turns an impression into a demonstrated finding and invents a formal test."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-13-restatement-1-5"
+        },
+        {
+          "prompt": "But for the reserve motor, the lift would have remained out of service.",
+          "options": [
+            "The lift would have remained out of service in the absence of the reserve motor.",
+            "The lift would have remained out of service even if the reserve motor had still been a factor.",
+            "Whether the reserve motor made any difference to the outcome is unknown.",
+            "The lift would have remained out of service because of the reserve motor."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the lift would have remained out of service” belongs to the hypothetical situation in which the reserve motor was absent.",
+            "distractors": {
+              "1": "It predicts the same result without changing whether the factor was present.",
+              "2": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs.",
+              "3": "It attributes the hypothetical result to the presence of the factor rather than its absence."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-13-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-13-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the new translation is well received, the publisher will keep the older edition in print.",
+          "options": [
+            "The new translation is well received; therefore, the publisher will keep the older edition in print.",
+            "The publisher may or may not keep the older edition in print, depending on whether the new translation is well received.",
+            "The publisher will keep the older edition in print, including in the event that the new translation is well received.",
+            "The publisher will keep the older edition in print only in the event that the new translation is well received."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the new translation is well received. The original leaves that case hypothetical.",
+            "distractors": {
+              "0": "It turns an open possibility into an established fact and presents it as the cause.",
+              "1": "It makes the outcome depend on the hypothetical condition.",
+              "3": "It turns a condition that would make no difference into a requirement."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-13-restatement-2-1"
+        },
+        {
+          "prompt": "The language board neither endorsed nor expressly rejected the proposal to replace the technical vocabulary.",
+          "options": [
+            "The language board initially backed the proposal to replace the technical vocabulary but later withdrew its endorsement.",
+            "The language board offered no endorsement of the proposal to replace the technical vocabulary and issued no explicit rejection either.",
+            "The language board expressly rejected the proposal to replace the technical vocabulary, although it stopped short of explaining why.",
+            "The language board accepted the proposal to replace the technical vocabulary in principle while withholding public support."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It invents a prior endorsement and a reversal of position.",
+              "2": "It asserts an explicit rejection, which the original rules out.",
+              "3": "It invents an acceptance in principle, which cannot be inferred from the original."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-13-restatement-2-2"
+        },
+        {
+          "prompt": "The similarity between the images stemmed less from a shared set of pigments than from the use of the same underlying sketch.",
+          "options": [
+            "A shared set of pigments was the greater contributor to the similarity between the images, though the use of the same underlying sketch also mattered.",
+            "The similarity between the images was the principal reason for both a shared set of pigments and the use of the same underlying sketch.",
+            "A shared set of pigments and the use of the same underlying sketch played equally important roles in the similarity between the images.",
+            "The use of the same underlying sketch contributed more to the similarity between the images than a shared set of pigments did."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “the use of the same underlying sketch” greater explanatory weight than “a shared set of pigments.”",
+            "distractors": {
+              "0": "It reverses the relative importance of the factors.",
+              "1": "It makes the outcome cause the factors that are supposed to explain it.",
+              "2": "It makes the factors equally important despite the stated inequality."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-13-restatement-2-3"
+        },
+        {
+          "prompt": "The trustees did not announce the relocation until the lease on the new building had been signed.",
+          "options": [
+            "The trustees announced the relocation only after the lease on the new building had been signed.",
+            "The trustees announced the relocation as evidence that the lease on the new building had been signed.",
+            "The trustees announced the relocation before the lease on the new building had been signed.",
+            "The trustees did not announce the relocation, although the lease on the new building had been signed."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "1": "It turns a timing relationship into an assertion about the actor’s purpose.",
+              "2": "It reverses the sequence by placing the main action first.",
+              "3": "It makes the main action fail to occur, whereas the original reports that it happened later."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-13-restatement-2-4"
+        },
+        {
+          "prompt": "Except for the handwritten register, none of the surviving catalogues list the donated instruments.",
+          "options": [
+            "All the surviving catalogues list the donated instruments except the handwritten register.",
+            "It has not been determined whether the handwritten register lists the donated instruments.",
+            "The handwritten register lists the donated instruments; the others in the same group do not.",
+            "The handwritten register lists the donated instruments, and at least one other member of the group shares that distinction."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the handwritten register is the single item that has the stated property.",
+            "distractors": {
+              "0": "It gives the property to the entire group except the one item that actually has it.",
+              "1": "It changes an explicit exception into an uncertainty.",
+              "3": "It allows a second exception even though “sole” limits the number to one."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-13-restatement-2-5"
+        },
+        {
+          "prompt": "Had the first survey included a follow-up visit, the effects of the repairs might have been clearer.",
+          "options": [
+            "Because the first survey had included a follow-up visit, the effects of the repairs must have been clearer.",
+            "The effects of the repairs might have been clearer if the first survey had included a follow-up visit.",
+            "The effects of the repairs might have been clearer only if the first survey had included a follow-up visit.",
+            "The effects of the repairs would certainly have been clearer if the first survey had included a follow-up visit."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "This is a past counterfactual. The opening clause introduces an unrealized condition and “might have” presents the result as possible under that condition.",
+            "distractors": {
+              "0": "It asserts an actual outcome and treats the unrealized condition as fact.",
+              "2": "It adds a requirement that no other scenario could have produced the outcome.",
+              "3": "It turns a possible outcome into a guaranteed one."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "might have",
+              "hebrew": "ייתכן שהיה / הייתה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-13-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-13-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Salt as an Uninvited Sculptor",
+        "paragraphs": [
+          "A sandstone carving can lose details over a period in which the wall around it appears to remain dry. In some cases the damage is attributed to wind, since wind is visible in the motion of dust and the carving itself shows no obvious leaks. Yet decay can proceed from changes taking place within an apparently solid block. Stone contains a network of tiny spaces. Water entering these spaces can carry dissolved salts, either from the soil, from sea spray or from materials introduced when the building was repaired. When the water eventually leaves, some of the salts stay behind.",
+          "Salt visible as a powdery layer on the surface is often noticed first. A deposit there may offer useful information about what has travelled through the stone, without necessarily accounting for the greatest mechanical damage. When crystals grow in confined pores beneath the surface, they can press on the surrounding walls. Over many cycles, flakes may separate from the face of the stone. The location of evaporation is therefore important. If liquid reaches the exterior before drying, much of the salt may crystallize outside. If drying occurs within the material, a similar quantity of dissolved salt may produce a different outcome.",
+          "Changes in atmospheric humidity matter even after the source of liquid has been removed. Some salts take up enough moisture in humid air to dissolve and later crystallize again when the humidity falls. The details differ among salts and become more complicated when several occur together. A conservation measure that protects against direct rain may stop one source of water without preventing these repeated transitions. In some situations an impermeable coating can even shift the region where moisture evaporates, hiding the processes beneath a surface that briefly looks much improved.",
+          "A conservator examining a sheltered monument therefore has several questions to answer. What kinds of salts are present, how did they arrive and under what conditions do they change state? Which areas of stone are structurally weak, and is damage still progressing? Watching changes in the building over time can be more informative than a quick inspection immediately after cleaning. The goal is to interrupt the destructive cycle while respecting the remaining material. Removing the visible salt has a role when the treatment is suitable, but the effect on hidden moisture and crystallization is what determines whether the carved details will last."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What is the central argument of the passage on sandstone decay?",
+          "options": [
+            "Effective preservation depends on understanding where and when moisture and salt change within the stone.",
+            "Sheltering a monument from rain necessarily eliminates crystallization.",
+            "Visible salt always identifies the location of greatest damage.",
+            "Wind is the sole cause of damage in dry-looking stone."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The text links salt transport and repeated crystallization to hidden mechanical damage.",
+            "distractors": {
+              "1": "Some salts cycle according to atmospheric humidity.",
+              "2": "The most damaging growth can occur beneath the surface.",
+              "3": "Processes within the stone offer another cause."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "pore",
+              "hebrew": "נקבובית"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-13-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why might a recently coated face appear better while flakes continue to develop behind it?",
+          "options": [
+            "Flakes only develop where a powder layer is plainly visible.",
+            "Interior stone cannot experience changes in moisture.",
+            "New coatings convert all salts into permanent liquid.",
+            "The coating could shift evaporation and crystal growth deeper into the stone."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The surface may hide ongoing changes beneath it.",
+            "distractors": {
+              "0": "Confined crystals can cause hidden stress.",
+              "1": "Moisture can migrate and change state within pores.",
+              "2": "They can change evaporation without disabling crystallization."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "impermeable",
+              "hebrew": "אטום"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-13-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the writer approach quick visual inspections of conservation results?",
+          "options": [
+            "With indifference because preserving carved detail is unimportant.",
+            "Enthusiastically, as sufficient for identifying every source of salt.",
+            "Skeptically, because immediate appearance may miss longer-term structural processes.",
+            "With outright rejection of visible deposits as evidence of anything."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The article distinguishes visible improvement from evidence that damage has stopped.",
+            "distractors": {
+              "0": "Protecting remaining details is the stated goal.",
+              "1": "The author calls for monitoring and investigating hidden conditions.",
+              "3": "Surface deposits can provide clues about transport."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "conservator",
+              "hebrew": "משמר יצירות ומבנים"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-13-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “confined” describe about some sandstone pores?",
+          "options": [
+            "They prevent all liquids from entering the stone.",
+            "They have intentionally been filled during restoration.",
+            "They are found only on exposed exterior surfaces.",
+            "They provide a restricted space for crystals to grow."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "A growing crystal can press on surrounding walls because the space limits it.",
+            "distractors": {
+              "0": "Dissolved salt can reach those pores.",
+              "1": "Confinement describes the available space regardless of cause.",
+              "2": "The passage locates them beneath the surface."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "confined",
+              "hebrew": "מוגבל במרחב"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-13-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What can allow repeated cycles even after liquid water stops entering the stone?",
+          "options": [
+            "Certain salts absorb moisture from humid air and crystallize again as it dries.",
+            "The carving expands only when all existing salts disappear.",
+            "A powdery layer produces a continuous heat source.",
+            "Wind always forces rain into the deepest pores."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Humidity changes can drive dissolution and recrystallization.",
+            "distractors": {
+              "1": "The repeated transitions occur while salts remain.",
+              "2": "No such heat production is described.",
+              "3": "The scenario explicitly removes the liquid supply."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "humidity",
+              "hebrew": "לחות"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-13-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

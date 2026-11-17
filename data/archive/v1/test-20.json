@@ -1,0 +1,995 @@
+{
+  "id": "test-20",
+  "number": 20,
+  "title": "Returning a Name to Public Use / Ice That Floats Out of the Record",
+  "sections": [
+    {
+      "id": "test-20-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "The specimen was placed at the ____ of the circular plate, equally far from every point on its edge.",
+          "options": [
+            "boundary",
+            "source",
+            "centre",
+            "surface"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“centre” means middle point or part of an area. Equal distance from the plate's edge identifies its middle.",
+            "distractors": {
+              "0": "“boundary” means line separating two areas. The clue is that equal distance from the plate's edge identifies its middle.",
+              "1": "“source” means place or thing from which something comes. The clue is that equal distance from the plate's edge identifies its middle.",
+              "3": "“surface” means outermost layer of something. The clue is that equal distance from the plate's edge identifies its middle."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "centre",
+              "hebrew": "מרכז"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-20-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "Each volunteer used the same electronic form to ____ the time and location of every sighting.",
+          "options": [
+            "observe",
+            "predict",
+            "estimate",
+            "record"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“record” means store information for later use. The form preserves the details of sightings for later use.",
+            "distractors": {
+              "0": "“observe” means watch or examine directly. The clue is that the form preserves the details of sightings for later use.",
+              "1": "“predict” means state what is expected to happen. The clue is that the form preserves the details of sightings for later use.",
+              "2": "“estimate” means calculate an approximate value. The clue is that the form preserves the details of sightings for later use."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "record",
+              "hebrew": "לתעד"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-20-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The archive runs its recordings through a digitisation process to ____ voices that would otherwise disappear as the old tape deteriorates.",
+          "options": [
+            "preserve",
+            "alter",
+            "discard",
+            "transfer"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“preserve” means protect something from loss or damage. Digitisation protects the recorded voices from being lost.",
+            "distractors": {
+              "1": "“alter” means change the form, nature, or appearance of something. The clue is that digitisation protects the recorded voices from being lost.",
+              "2": "“discard” means throw something away because it is no longer useful. The clue is that digitisation protects the recorded voices from being lost.",
+              "3": "“transfer” means move something from one place or system to another. The clue is that digitisation protects the recorded voices from being lost."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "preserve",
+              "hebrew": "לשמר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-20-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The numbers on the excavation tags should ____ exactly to the entries in the digital register; otherwise finds may be assigned to the wrong site.",
+          "options": [
+            "cooperate",
+            "correspond",
+            "differ",
+            "compete"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“correspond” means match or be equivalent. The tag numbers must match the register entries.",
+            "distractors": {
+              "0": "“cooperate” means work together to reach a shared goal. The clue is that the tag numbers must match the register entries.",
+              "2": "“differ” means be unlike or distinct in some respect. The clue is that the tag numbers must match the register entries.",
+              "3": "“compete” means seek the same goal or resource as others. The clue is that the tag numbers must match the register entries."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "correspond",
+              "hebrew": "להתאים, להקביל"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-20-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The composer chose to ____ the final movement by changing its tempo while leaving the melody and harmony intact.",
+          "options": [
+            "imply",
+            "verify",
+            "modify",
+            "anticipate"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“modify” means make a partial change to something. Only one feature of the movement is changed.",
+            "distractors": {
+              "0": "“imply” means suggest something without stating it explicitly. The clue is that only one feature of the movement is changed.",
+              "1": "“verify” means check whether something is true or accurate. The clue is that only one feature of the movement is changed.",
+              "3": "“anticipate” means expect something and prepare for it. The clue is that only one feature of the movement is changed."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "modify",
+              "hebrew": "לשנות, להתאים"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-20-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "Reduced maintenance costs were expected to ____ the higher purchase price over the first five years.",
+          "options": [
+            "offset",
+            "compound",
+            "curtail",
+            "foster"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“offset” means balance or counteract an effect. One financial benefit counterbalances an increased expense.",
+            "distractors": {
+              "1": "“compound” means make an existing problem worse by adding to it. The clue is that one financial benefit counterbalances an increased expense.",
+              "2": "“curtail” means reduce the extent or duration of something. The clue is that one financial benefit counterbalances an increased expense.",
+              "3": "“foster” means encourage the development of something. The clue is that one financial benefit counterbalances an increased expense."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "offset",
+              "hebrew": "לקזז"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-20-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-20-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "An unreliable mountain road remained the greatest ____ to year-round delivery, since vehicles could not cross it after snowfall.",
+          "options": [
+            "repercussion",
+            "impediment",
+            "premise",
+            "impetus"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“impediment” means obstacle that hinders action or progress. The road blocks deliveries during part of the year.",
+            "distractors": {
+              "0": "“repercussion” means further consequence of an action or event. The clue is that the road blocks deliveries during part of the year.",
+              "2": "“premise” means proposition taken as the basis of an argument. The clue is that the road blocks deliveries during part of the year.",
+              "3": "“impetus” means force or stimulus that sets a process in motion. The clue is that the road blocks deliveries during part of the year."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "impediment",
+              "hebrew": "מכשול, מעצור"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-20-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "Additional evening buses could ____ crowding on the busiest route, although passengers would still have to stand at peak times.",
+          "options": [
+            "forestall",
+            "precipitate",
+            "aggravate",
+            "alleviate"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“alleviate” means make pain or a problem less severe. The buses would reduce the severity of crowding.",
+            "distractors": {
+              "0": "“forestall” means act in advance to prevent a foreseeable event. The clue is that the buses would reduce the severity of crowding.",
+              "1": "“precipitate” means cause an event to occur abruptly or sooner. The clue is that the buses would reduce the severity of crowding.",
+              "2": "“aggravate” means make an existing problem more severe. The clue is that the buses would reduce the severity of crowding."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "alleviate",
+              "hebrew": "להקל"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-20-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The reviewer asked the author to ____ her conclusion by specifying that it applied only to cities with extensive tram networks.",
+          "options": [
+            "refute",
+            "elucidate",
+            "corroborate",
+            "qualify"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“qualify” means introduce a limiting condition or reservation into a claim. A condition narrows the scope of the conclusion.",
+            "distractors": {
+              "0": "“refute” means show an assertion to be false with evidence or reasoning. The clue is that a condition narrows the scope of the conclusion.",
+              "1": "“elucidate” means make a difficult subject clearer by explanation. The clue is that a condition narrows the scope of the conclusion.",
+              "2": "“corroborate” means strengthen a claim with independent supporting evidence. The clue is that a condition narrows the scope of the conclusion."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "qualify",
+              "hebrew": "לסייג"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-20-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The result proved ____ across all five alternative sampling strategies, with virtually the same estimate under each one.",
+          "options": [
+            "tenuous",
+            "provisional",
+            "robust",
+            "spurious"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“robust” means remaining reliable despite changes in conditions or assumptions. Changing the analytical conditions leaves the result essentially unchanged.",
+            "distractors": {
+              "0": "“tenuous” means weak and lacking solid support. The clue is that changing the analytical conditions leaves the result essentially unchanged.",
+              "1": "“provisional” means accepted temporarily while a final answer is pending. The clue is that changing the analytical conditions leaves the result essentially unchanged.",
+              "3": "“spurious” means appearing genuine or valid while actually false. The clue is that changing the analytical conditions leaves the result essentially unchanged."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "robust",
+              "hebrew": "עמיד, יציב"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-20-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "Correspondence exposed the negotiator's ____: he assured each delegation in secret that its conflicting position would take precedence.",
+          "options": [
+            "obduracy",
+            "duplicity",
+            "diffidence",
+            "rectitude"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“duplicity” means deliberate deception, often through contradictory behaviour. The negotiator misleads both sides with incompatible promises.",
+            "distractors": {
+              "0": "“obduracy” means unyielding refusal to change one's position. The clue is that the negotiator misleads both sides with incompatible promises.",
+              "2": "“diffidence” means lack of self-confidence in one's abilities or judgments. The clue is that the negotiator misleads both sides with incompatible promises.",
+              "3": "“rectitude” means morally correct and principled conduct. The clue is that the negotiator misleads both sides with incompatible promises."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "duplicity",
+              "hebrew": "צביעות מרמה, כפל פנים"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-20-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The auditor argued that dividing a single large expense among unnamed categories would ____ the true cost of the project.",
+          "options": [
+            "obfuscate",
+            "instantiate",
+            "adumbrate",
+            "enunciate"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“obfuscate” means make something harder to understand, often deliberately. The division makes the project's actual cost harder to discern.",
+            "distractors": {
+              "1": "“instantiate” means represent an abstract principle through a particular instance. The clue is that the division makes the project's actual cost harder to discern.",
+              "2": "“adumbrate” means outline something in a partial or preliminary way. The clue is that the division makes the project's actual cost harder to discern.",
+              "3": "“enunciate” means formulate or state an idea clearly and explicitly. The clue is that the division makes the project's actual cost harder to discern."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "obfuscate",
+              "hebrew": "לערפל, לטשטש"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-20-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-20-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Returning a Name to Public Use",
+        "paragraphs": [
+          "A place name can seem like a simple label until a public body proposes changing one. Supporters may speak of recovering a neglected history; opponents may say that the familiar wording makes the place easier to find. Even when the proposal involves restoring an older name, recovery is seldom a single act. A sign can be replaced overnight while business addresses, timetables, and the habits of speakers continue to change at different speeds. The name exists in many practical settings, and people update those settings according to differing concerns.",
+          "A small coastal town in a hypothetical study restored an earlier name to a public landing. The first new sign gave only the restored wording. Some residents were pleased to see it in an official place but found that visitors looking for the landing under the familiar name could not match the sign to printed directions. The council then displayed both names for an interim period and asked local institutions to use the paired wording in guides. The goal of pairing was to keep references usable while people encountered the restored name through ordinary travel and communication, rather than to settle whose preferred label was correct.",
+          "A researcher following the change compared printed guides, public announcements, and casual directions exchanged at the landing. The sources tracked different kinds of uptake. A timetable could adopt the new wording after one editorial decision, while a person's active vocabulary might change gradually after repeated encounters with the sign. Conversely, some speakers could begin using the older name before an institution renewed any printed information. Counting appearances in guides alone would therefore tell a researcher more about publication decisions than about how familiar the restored name had become in everyday conversation.",
+          "The difficulties suggest possible criteria for judging the transition. If the objective is to make a historical name publicly visible, a stable sign and consistent guide wording may achieve much of it. If the objective also includes routine spoken use, another kind of evidence will be needed. Continued use of the former label need not show that the change has failed: both names may become familiar enough to orient people with different experience of the landing. The eventual outcome can embody a new distribution of meanings rather than a complete substitution. That distinction matters because it tells a council which aspects of the change it can implement directly and which depend on practices it can influence only indirectly."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What overall distinction does the author make about restoring a place name?",
+          "options": [
+            "Official display can be changed directly, while routine use develops through varied practices.",
+            "A name qualifies as historic only after all businesses have adopted it.",
+            "A restored label must replace every earlier form immediately to be successful.",
+            "A council’s ability to put up a sign determines how often speakers will use its wording."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The text separates signs and guides from the gradual or uneven changes in speech.",
+            "distractors": {
+              "1": "Business addresses are one setting among many and confer no such status.",
+              "2": "Different goals can be satisfied even if several names coexist.",
+              "3": "Speech is influenced indirectly and requires distinct evidence."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "restoration",
+              "hebrew": "השבה"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-20-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why would a new name appearing in every official guide be insufficient evidence of common spoken use?",
+          "options": [
+            "Editors can renew their publications only after speakers unanimously change usage.",
+            "People invariably learn all place names from conversations at the landing.",
+            "Printed guides are assumed to contain no information about place names.",
+            "Guide editors can change wording through decisions that do not establish the habits of individual speakers."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The third paragraph draws precisely this distinction between publication and active vocabulary.",
+            "distractors": {
+              "0": "The passage allows editorial change before gradual speech changes.",
+              "1": "Several settings can influence familiarity, including print and signs.",
+              "2": "Guides are one explicit source of naming data."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "uptake",
+              "hebrew": "אימוץ בפועל"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-20-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the writer view the council's interim use of both names?",
+          "options": [
+            "As sufficient evidence that the restored label had already become the sole spoken name.",
+            "As a permanent linguistic rule imposed on every individual speaker.",
+            "As a practical way to preserve orientation while the restored name becomes familiar.",
+            "As evidence that the council had rejected the restored name."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Pairing helped visitors make connections and gave opportunities to encounter the restored form.",
+            "distractors": {
+              "0": "Continued plurality remains possible and the paired sign cannot settle actual speech.",
+              "1": "The sign was interim and the institutions were asked, not every individual speaker compelled.",
+              "3": "Displaying it officially serves the goal of visibility."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "interim",
+              "hebrew": "זמני"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-20-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “substitution” mean in the final paragraph’s description of the possible outcome?",
+          "options": [
+            "The creation of a historical record without a date.",
+            "Replacement of one label by another.",
+            "A gradual decline in the number of boats using the landing.",
+            "The transfer of guide publishing from one institution to another."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The author contrasts coexistence in different uses with complete replacement.",
+            "distractors": {
+              "0": "The term refers to the fate of names themselves.",
+              "2": "The topic is the relationship between names rather than traffic levels.",
+              "3": "The passage discusses wording in publications, not transfer of ownership."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "substitution",
+              "hebrew": "החלפה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-20-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What specific mismatch arose after the first replacement sign was installed?",
+          "options": [
+            "The notice gave the familiar name twice and left no room for dates.",
+            "The sign used the wrong hours for guided visits.",
+            "Residents reported that both labels already meant different landings elsewhere.",
+            "Visitors with directions using the familiar name could not match them to the new sign."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The first sign displayed only the restored wording.",
+            "distractors": {
+              "0": "It displayed only the restored name.",
+              "1": "No incorrect time was identified.",
+              "2": "The difficulty came from matching two names for the same location."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "mismatch",
+              "hebrew": "חוסר התאמה"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-20-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-20-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "It is true that the town's population had doubled, yet its library still employed only two staff members.",
+          "options": [
+            "Its library still employed only two staff members only before it became clear that the town's population had doubled.",
+            "The town's population had doubled; nevertheless, its library still employed only two staff members.",
+            "Its library still employed only two staff members, which prevented anyone from finding out whether the town's population had doubled.",
+            "Because the town's population had doubled, its library still employed only two staff members."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the town's population had doubled” and “its library still employed only two staff members.”",
+            "distractors": {
+              "0": "It limits the second fact to an earlier time and adds a discovery that the original never mentions.",
+              "2": "It introduces an obstacle to discovering the first fact, which the original states directly.",
+              "3": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-20-restatement-1-1"
+        },
+        {
+          "prompt": "Owing to the fact that the wood warped in damp air, the conservator stored the panels in a drier room.",
+          "options": [
+            "The conservator stored the panels in a drier room, but it is unknown whether the wood warped in damp air.",
+            "The wood warped in damp air; nevertheless, the conservator stored the panels in a drier room.",
+            "The wood warped in damp air; consequently, the conservator stored the panels in a drier room.",
+            "The conservator stored the panels in a drier room; consequently, the wood warped in damp air."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the wood warped in damp air, leading to the result that the conservator stored the panels in a drier room.",
+            "distractors": {
+              "0": "It casts doubt on the cause, which the original treats as an established fact.",
+              "1": "It replaces the causal relationship with a concession.",
+              "3": "It reverses the direction of cause and result."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-20-restatement-1-2"
+        },
+        {
+          "prompt": "Once the repairs have passed inspection, the caretaker will unlock the west entrance.",
+          "options": [
+            "The caretaker will unlock the west entrance after the repairs have passed inspection.",
+            "The caretaker will unlock the west entrance, regardless of whether the repairs have passed inspection.",
+            "The caretaker will not unlock the west entrance even after the repairs have passed inspection.",
+            "The caretaker will unlock the west entrance before the repairs have passed inspection."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled.",
+            "distractors": {
+              "1": "It makes the first event irrelevant to the timing of the second.",
+              "2": "It denies the stated plan to carry out the second action.",
+              "3": "It places the scheduled action before the event that the sentence puts first."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-20-restatement-1-3"
+        },
+        {
+          "prompt": "The school will resume guided visits only if the excavation site dries.",
+          "options": [
+            "The school will resume guided visits only on condition that the excavation site dries.",
+            "The school will resume guided visits whether or not the excavation site dries.",
+            "The school will resume guided visits in every case in which the excavation site dries.",
+            "The school will resume guided visits only if it is impossible to establish that the excavation site dries."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The condition “the excavation site dries” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "1": "It removes the requirement by making the outcome independent of the condition.",
+              "2": "It treats the condition as sufficient and promises the outcome whenever it is met.",
+              "3": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-20-restatement-1-4"
+        },
+        {
+          "prompt": "The restored path seemed steep compared with the original path.",
+          "options": [
+            "The restored path appeared to exceed the original path in steepness.",
+            "The difference in steepness was established when the original path was steeper than the restored path in a formal test.",
+            "The restored path appeared to match the original path in steepness.",
+            "The original path appeared to exceed the restored path in steepness."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the original path, first. The comparison concerns steepness.",
+            "distractors": {
+              "0": "It reverses the relative ranking of the two items.",
+              "1": "It turns an impression into a demonstrated finding and invents a formal test.",
+              "2": "It describes the two items as equal on the stated measure."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-20-restatement-1-5"
+        },
+        {
+          "prompt": "But for the librarian's intervention, the collection would have been split between two buildings.",
+          "options": [
+            "The collection would have been split between two buildings because of the librarian's intervention.",
+            "The collection would have been split between two buildings even if the librarian's intervention had still been a factor.",
+            "The collection would have been split between two buildings in the absence of the librarian's intervention.",
+            "Whether the librarian's intervention made any difference to the outcome is unknown."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the collection would have been split between two buildings” belongs to the hypothetical situation in which the librarian's intervention was absent.",
+            "distractors": {
+              "0": "It attributes the hypothetical result to the presence of the factor rather than its absence.",
+              "1": "It predicts the same result without changing whether the factor was present.",
+              "3": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-20-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-20-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the recordings are authenticated, the precise date of the event will remain uncertain.",
+          "options": [
+            "The precise date of the event will remain uncertain only in the event that the recordings are authenticated.",
+            "The precise date of the event will remain uncertain, including in the event that the recordings are authenticated.",
+            "The precise date of the event may or may not remain uncertain, depending on whether the recordings are authenticated.",
+            "The recordings are authenticated; therefore, the precise date of the event will remain uncertain."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the recordings are authenticated. The original leaves that case hypothetical.",
+            "distractors": {
+              "0": "It turns a condition that would make no difference into a requirement.",
+              "2": "It makes the outcome depend on the hypothetical condition.",
+              "3": "It turns an open possibility into an established fact and presents it as the cause."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-20-restatement-2-1"
+        },
+        {
+          "prompt": "The municipal committee neither endorsed nor expressly rejected the proposal to expand the evening ferry service.",
+          "options": [
+            "The municipal committee offered no endorsement of the proposal to expand the evening ferry service and issued no explicit rejection either.",
+            "The municipal committee initially backed the proposal to expand the evening ferry service but later withdrew its endorsement.",
+            "The municipal committee expressly rejected the proposal to expand the evening ferry service, although it stopped short of explaining why.",
+            "The municipal committee accepted the proposal to expand the evening ferry service in principle while withholding public support."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "1": "It invents a prior endorsement and a reversal of position.",
+              "2": "It asserts an explicit rejection, which the original rules out.",
+              "3": "It invents an acceptance in principle, which cannot be inferred from the original."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-20-restatement-2-2"
+        },
+        {
+          "prompt": "The landscape's current appearance stemmed less from changes in annual rainfall than from the abandonment of older farming practices.",
+          "options": [
+            "Changes in annual rainfall and the abandonment of older farming practices played equally important roles in the landscape's current appearance.",
+            "The landscape's current appearance was the principal reason for both changes in annual rainfall and the abandonment of older farming practices.",
+            "The abandonment of older farming practices contributed more to the landscape's current appearance than changes in annual rainfall did.",
+            "Changes in annual rainfall was the greater contributor to the landscape's current appearance, though the abandonment of older farming practices also mattered."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “the abandonment of older farming practices” greater explanatory weight than “changes in annual rainfall.”",
+            "distractors": {
+              "0": "It makes the factors equally important despite the stated inequality.",
+              "1": "It makes the outcome cause the factors that are supposed to explain it.",
+              "3": "It reverses the relative importance of the factors."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-20-restatement-2-3"
+        },
+        {
+          "prompt": "The office did not make the accounts public until the auditor had reviewed the adjustments.",
+          "options": [
+            "The office did not make the accounts public, although the auditor had reviewed the adjustments.",
+            "The office made the accounts public as evidence that the auditor had reviewed the adjustments.",
+            "The office made the accounts public before the auditor had reviewed the adjustments.",
+            "The office made the accounts public only after the auditor had reviewed the adjustments."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "0": "It makes the main action fail to occur, whereas the original reports that it happened later.",
+              "1": "It turns a timing relationship into an assertion about the actor’s purpose.",
+              "2": "It reverses the sequence by placing the main action first."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-20-restatement-2-4"
+        },
+        {
+          "prompt": "Of the reviews that appeared in print, none comment on the new introduction with the sole exception of the regional journal's review.",
+          "options": [
+            "The regional journal's review comments on the new introduction, and at least one other member of the group shares that distinction.",
+            "The regional journal's review comments on the new introduction; the others in the same group do not.",
+            "It has not been determined whether the regional journal's review comments on the new introduction.",
+            "All the reviews that appeared in print comment on the new introduction except the regional journal's review."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the regional journal's review is the single item that has the stated property.",
+            "distractors": {
+              "0": "It allows a second exception even though “sole” limits the number to one.",
+              "2": "It changes an explicit exception into an uncertainty.",
+              "3": "It gives the property to the entire group except the one item that actually has it."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-20-restatement-2-5"
+        },
+        {
+          "prompt": "Supposing that the new coating had been tried outdoors, the technicians might have discovered its tendency to peel.",
+          "options": [
+            "The technicians might have discovered its tendency to peel only if the new coating had been tried outdoors.",
+            "The technicians would certainly have discovered its tendency to peel if the new coating had been tried outdoors.",
+            "Because the new coating had been tried outdoors, the technicians must have discovered its tendency to peel.",
+            "The technicians might have discovered its tendency to peel if the new coating had been tried outdoors."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "This is a past counterfactual. The opening clause introduces an unrealized condition and “might have” presents the result as possible under that condition.",
+            "distractors": {
+              "0": "It adds a requirement that no other scenario could have produced the outcome.",
+              "1": "It turns a possible outcome into a guaranteed one.",
+              "2": "It asserts an actual outcome and treats the unrealized condition as fact."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "might have",
+              "hebrew": "ייתכן שהיה / הייתה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-20-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-20-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Ice That Floats Out of the Record",
+        "paragraphs": [
+          "The seasonal disappearance of sea ice is often summarized using the size of the area it covers. This measure is easy to compare across years, but it combines many events. In one region ice may melt where it formed. In another, prevailing winds may drive it out through a passage and lower the local coverage while the displaced ice continues to exist. Ice can also spread apart, exposing water between floes, or move together to form a compact field. A record of area can therefore reveal an important change while leaving open the process that caused it.",
+          "Thickness responds to some of the same forces. Cold air helps ice form and grow, but ice also thickens where floes collide and pile up. A smooth sheet made during a brief cold spell can extend across considerable space without storing the same volume as a smaller area of densely ridged ice. Thickness measurements themselves introduce new questions. A satellite can estimate how high the upper surface stands above the surrounding water. Inferring the submerged portion from that elevation requires assumptions about density and the weight of any snow covering the surface.",
+          "Researchers investigate the motion using successive images. A recognizable pattern of cracks can serve as a set of landmarks that drifts in time. When the pattern deforms beyond recognition or clouds obstruct views with certain instruments, the inferred tracks become less reliable. Drifting instruments attached to floes supply direct evidence at particular points, though their tracks need not describe the motion of their neighbours. In the best cases, several kinds of observation can reveal whether expanding water openings reflect transport, deformation or local melting.",
+          "Understanding the process matters because similar short-term maps can lead to different futures. Ice exported to warmer water may be likely to melt later, whereas gaps in an area of cold air may freeze rapidly once movement stops. Local extent also influences sunlight entering the ocean, so a map of open water remains relevant even without an explanation of its origin. The challenge is to choose a measure appropriate to the question. Coverage describes part of the surface state, volume addresses the amount of ice, and observations of motion help locate the processes responsible for changes. Each is more useful when interpreted alongside the others and across a timescale long enough to expose what a pair of snapshots cannot show."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What is the principal claim of the sea ice passage?",
+          "options": [
+            "Measuring surface area identifies every individual process that changed it.",
+            "Wind can change ice thickness but cannot transport ice out of a region.",
+            "Understanding sea ice change calls for comparing coverage with thickness, movement and local conditions.",
+            "Volume and coverage are equivalent when the air is cold."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The author explains how several mechanisms can change the same coverage measure.",
+            "distractors": {
+              "0": "The text describes several processes that can produce the same area change.",
+              "1": "Wind can drive ice out through a passage.",
+              "3": "A thin large field and a thick small field can differ in volume."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "extent",
+              "hebrew": "היקף"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-20-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "What inference can be drawn from a sharp local drop in ice area during strong offshore winds?",
+          "options": [
+            "Some ice could have been moved away without immediately melting.",
+            "All the displaced ice must immediately refreeze in the same location.",
+            "The thickness of each remaining floe must have doubled.",
+            "The sea's ice volume must have fallen by the same percentage as local area."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The text distinguishes wind-driven export from in-place melt.",
+            "distractors": {
+              "1": "Ice carried to warmer water may subsequently melt, and need not return.",
+              "2": "The area change does not establish a proportional thickness change.",
+              "3": "Export can change local area without an equivalent change in overall volume."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "floe",
+              "hebrew": "גוש קרח צף"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-20-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author characterize ice coverage as a measurement?",
+          "options": [
+            "Sufficient for explaining regional changes without tracking motion.",
+            "Useful for describing part of the surface state, with interpretation depending on the question.",
+            "Worthless whenever ice motion is driven by wind.",
+            "Obsolete now that any satellite can directly measure total volume."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Coverage reveals the distribution of open water and complements data on amount and motion.",
+            "distractors": {
+              "0": "A coverage map alone cannot distinguish transport, melt or deformation.",
+              "2": "Coverage still shows open water and associated sunlight exposure.",
+              "3": "Inferring thickness from satellite elevation requires assumptions about snow and density."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "deformation",
+              "hebrew": "שינוי צורה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-20-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "In the paragraph describing satellite measurements, “submerged” means what?",
+          "options": [
+            "Elevated higher in the air by overlapping ice.",
+            "Lying below the water surface.",
+            "Transported to a region with colder weather.",
+            "Covered by clouds and invisible to all instruments."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The passage contrasts ice standing above the surface with the part below it.",
+            "distractors": {
+              "0": "The term refers to the hidden portion below the surface level.",
+              "2": "The term describes vertical position in the water, not travel between places.",
+              "3": "Clouds obstruct some imaging observations but do not describe submergence."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "submerged",
+              "hebrew": "שקוע מתחת למים"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-20-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What method in the passage estimates drift from images?",
+          "options": [
+            "Using snow density to infer underwater thickness.",
+            "Measuring whether a drifting instrument has recorded temperature.",
+            "Finding the first place where ice melts in a warmer region.",
+            "Recognizing a pattern of cracks as it changes position in successive observations."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The position of a recognizable shape across images indicates movement.",
+            "distractors": {
+              "0": "This relates to estimates of thickness rather than horizontal position.",
+              "1": "The image method uses identifiable spatial landmarks.",
+              "2": "The crack pattern may be followed independently of where ice begins to melt."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "successive",
+              "hebrew": "עוקבים"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-20-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

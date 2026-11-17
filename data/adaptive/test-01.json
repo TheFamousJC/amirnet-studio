@@ -1,0 +1,476 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "Because the public hearing ended before everyone could speak, the chair agreed to ____ the period for written comments by two weeks.",
+      "options": [
+        "extend",
+        "shorten",
+        "divide",
+        "ignore"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Adding two weeks makes the time available for written comments longer.",
+        "distractors": {
+          "1": "Taking time away would be the opposite of adding two weeks.",
+          "2": "The announcement adds time to one period rather than separating it into parts.",
+          "3": "The chair changed the time limit rather than disregarding it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "extend",
+          "hebrew": "להאריך"
+        }
+      ],
+      "id": "test-01-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Before the meeting, the secretary will ____ the draft among all committee members so that each can propose changes.",
+      "options": [
+        "compile",
+        "circulate",
+        "retrieve",
+        "conceal"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Sending copies to everyone in the group is circulating the draft.",
+        "distractors": {
+          "0": "Compiling would mean assembling the draft or its material, a step that precedes sending it.",
+          "2": "Retrieving a copy does not get it to every member.",
+          "3": "Concealing would prevent the review the secretary wants."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "circulate",
+          "hebrew": "להפיץ"
+        }
+      ],
+      "id": "test-01-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The sign was ____ because its arrow appeared to point toward the entrance but actually directed visitors to a loading bay.",
+      "options": [
+        "outdated",
+        "legible",
+        "misleading",
+        "unfamiliar"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The arrow gave visitors a false impression about where to go.",
+        "distractors": {
+          "0": "The sentence describes the wrong impression and supplies no evidence that the sign was once correct.",
+          "1": "Legibility concerns whether the sign is easy to read, whereas the problem is where the arrow directs visitors.",
+          "3": "A new or unfamiliar sign can still point the right way."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "misleading",
+          "hebrew": "מטעה"
+        }
+      ],
+      "id": "test-01-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The researchers found that the coating did not kill the seeds, but it did ____ germination: fewer seeds sprouted, and those that did took longer.",
+      "options": [
+        "initiate",
+        "synchronize",
+        "accelerate",
+        "inhibit"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Germination was made slower or less likely while the seeds remained alive.",
+        "distractors": {
+          "0": "The coating made sprouting less frequent and slower rather than getting it started.",
+          "1": "The results concern failures and delays, with no evidence that the seeds sprouted at the same time.",
+          "2": "Faster germination would mean the seeds took less time to sprout."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "inhibit",
+          "hebrew": "לעכב; לדכא"
+        }
+      ],
+      "id": "test-01-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "Visitors formed a ____ at the only open ticket desk and waited for their turn.",
+      "options": [
+        "queue",
+        "circle",
+        "team",
+        "crowd"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The visitors arranged themselves in a line to be served one at a time.",
+        "distractors": {
+          "1": "This shape has no clear first or last place for service.",
+          "2": "Waiting in turn does not make the visitors a group working together.",
+          "3": "A crowd need not have the ordered places suggested by waiting for one's turn."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "queue",
+          "hebrew": "תור"
+        }
+      ],
+      "id": "test-01-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "Because tickets often sold out before the day of the concert, the organizer advised guests to ____ seats online ahead of time.",
+      "options": [
+        "count",
+        "reserve",
+        "check",
+        "rearrange"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "An advance booking makes particular seats available to those guests.",
+        "distractors": {
+          "0": "Counting seats does not hold any for the guests.",
+          "2": "Checking availability does not secure seats.",
+          "3": "Changing the seating arrangement is unnecessary; guests need to claim seats before sales close."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "reserve",
+          "hebrew": "להזמין מראש"
+        }
+      ],
+      "id": "test-01-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "Program fees will remain unchanged ____ the funding agreement is renewed.",
+      "options": [
+        "in case of",
+        "as long as",
+        "due to",
+        "despite of"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "As long as introduces a clause stating the condition.",
+        "distractors": {
+          "0": "In case of takes a noun phrase, whereas the agreement is renewed is a clause.",
+          "2": "Due to requires a noun phrase rather than a finite clause.",
+          "3": "Despite takes a noun or gerund and does not take of."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "agreement",
+          "hebrew": "הסכם"
+        }
+      ],
+      "id": "test-01-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The archivist pointed out that several of the records ____ the street had disappeared.",
+      "options": [
+        "describing the history of",
+        "whose description of",
+        "in which they described",
+        "they are describing a"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The participial phrase describes the records and leaves had disappeared as the main verb.",
+        "distractors": {
+          "0": "Described needs an explicit object before the street; the resulting phrase is incomplete.",
+          "1": "Whose would put the only finite verb inside the relative clause, leaving the clause about the records without its main verb.",
+          "3": "This produces the ungrammatical sequence a the street."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "record",
+          "hebrew": "רשומה"
+        }
+      ],
+      "id": "test-01-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The letters ____ in a private collection for sixty years before the archive acquired them in 2018.",
+      "options": [
+        "were being keep",
+        "have been keeping",
+        "kept there",
+        "had been kept"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Had been kept places passive storage before the acquisition.",
+        "distractors": {
+          "0": "After being, the passive requires kept.",
+          "1": "Keeping would make the letters the agents and uses present perfect.",
+          "2": "Kept there does not supply the main finite verb here."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "acquire",
+          "hebrew": "לרכוש"
+        }
+      ],
+      "id": "test-01-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "If the publisher had ordered fewer copies, it ____ to lower the price so sharply last month.",
+      "options": [
+        "might not need",
+        "does not need",
+        "had not needed",
+        "might not have needed"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The unreal past condition takes might have plus a participle for its past consequence.",
+        "distractors": {
+          "0": "Might not need points to a present or future consequence and conflicts with last month.",
+          "1": "Does not need gives a present fact instead of a past hypothetical result.",
+          "2": "Had not needed repeats a past perfect where a modal result is required."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "sharply",
+          "hebrew": "בחדות"
+        }
+      ],
+      "id": "test-01-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "More than half of the water poured onto the dry bed was ____ by the soil before it reached the drain.",
+      "base": "absorb",
+      "answers": [
+        "absorbed"
+      ],
+      "explanation": "The water receives the action, so was requires the past participle absorbed.",
+      "id": "test-01-word-1"
+    },
+    {
+      "prompt": "Since its readings varied even under identical conditions, the laboratory questioned the ____ of the instrument.",
+      "base": "rely",
+      "answers": [
+        "reliability"
+      ],
+      "explanation": "The noun reliability describes the instrument's ability to give dependable readings.",
+      "id": "test-01-word-2"
+    },
+    {
+      "prompt": "The revised meeting format was more ____ because the participants settled all six outstanding issues in half an hour.",
+      "base": "produce",
+      "answers": [
+        "productive"
+      ],
+      "explanation": "The comparative more calls for productive, an adjective describing effective work.",
+      "id": "test-01-word-3"
+    },
+    {
+      "prompt": "The archivist ____ left the disputed date blank so that readers would not mistake an estimate for a fact.",
+      "base": "deliberate",
+      "answers": [
+        "deliberately"
+      ],
+      "explanation": "The adverb deliberately describes how the archivist left the date blank.",
+      "id": "test-01-word-4"
+    }
+  ],
+  "writing": "Should municipal libraries stay open later on weekdays, even if this means opening for fewer hours on weekends? Explain your position.",
+  "listening": {
+    "type": "lecture",
+    "clips": [
+      {
+        "context": "Listen to part of a lecture on urban water management.",
+        "transcript": "When rain falls on a paved schoolyard, it travels rapidly into drains. One school replaced a strip of paving with a shallow garden. During storms, water pooled among the plants and then entered the soil gradually. The garden did not reduce the amount of rain that fell. Its benefit was to delay the arrival of water at the drains, especially during the heaviest minutes of a storm.",
+        "audio": "/listening/lecture-1-1.wav",
+        "questions": [
+          {
+            "prompt": "What benefit of the garden does the lecturer emphasize?",
+            "options": [
+              "It reduced the amount of rain falling nearby.",
+              "It slowed the flow of rainwater into drains.",
+              "It diverted water from the garden onto the paving.",
+              "It made the soil dry rapidly after storms."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "The garden held rainwater temporarily, delaying its arrival at drains.",
+              "distractors": {
+                "0": "The lecturer explicitly says the project did not change rainfall.",
+                "2": "Water flowed toward the planted strip rather than away from it.",
+                "3": "Water entered the soil gradually, and fast drying is not described as a goal."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "gradually",
+                "hebrew": "בהדרגה"
+              }
+            ],
+            "id": "test-01-audio-1-1",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on musical manuscript collections.",
+        "transcript": "Before mechanical recording, families preserved songs by writing down the words and sometimes the melody. A local archive has three manuscripts of the same song, all copied within twenty years. The tune is almost identical in all three, but one manuscript ends with a different verse. At first, the editors planned to treat that verse as a copying error. They changed their minds when they found a letter in which the copyist described hearing the verse at a wedding. The letter does not prove which version is oldest. It does show that someone sang the uncommon verse in a particular setting. The printed edition therefore includes all three texts. Readers can see how the differences circulated without assuming that any surviving copy is necessarily the original.",
+        "audio": "/listening/lecture-1-2.wav",
+        "questions": [
+          {
+            "prompt": "What made the editors reconsider their interpretation of the unusual verse?",
+            "options": [
+              "An older manuscript with the same verse.",
+              "A note in the manuscript correcting the tune.",
+              "A recording of its copyist singing the verse.",
+              "A letter about a performance of it at a wedding."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The wedding account showed the verse was performed, so it need not have been accidental.",
+              "distractors": {
+                "0": "No older manuscript with the verse was discovered.",
+                "1": "The tunes are similar, and the new evidence was a separate letter.",
+                "2": "The examples are from before mechanical recording and no recording is mentioned."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "verse",
+                "hebrew": "בית בשיר"
+              }
+            ],
+            "id": "test-01-audio-2-1",
+            "type": "lecture",
+            "difficulty": 3
+          },
+          {
+            "prompt": "What does the lecturer say the letter leaves unresolved?",
+            "options": [
+              "Where the unusual verse was heard.",
+              "Who wrote down the unusual verse.",
+              "Which version came first.",
+              "Whether the printed edition includes that verse."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "The letter documents one performance but cannot establish priority.",
+              "distractors": {
+                "0": "The setting was a wedding.",
+                "1": "The letter was written by the copyist whose manuscript contained the verse.",
+                "3": "The edition contains all three versions."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "unresolved",
+                "hebrew": "בלתי פתור"
+              }
+            ],
+            "id": "test-01-audio-2-2",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on daytime animal surveys.",
+        "transcript": "Suppose you want to compare the number of butterflies in two fields. You walk a fixed route at noon and record every butterfly you notice. The first field is open to the sun, while the second is shaded by trees. You see twice as many butterflies in the open field. Is the population there twice as large? Possibly, but your count does not establish that. Butterflies are more likely to fly at higher temperatures, and a flying insect is easier to see than one resting under a leaf. Repeating the walk at noon for a week would help if the first day were unusual. It would not remove the difference in visibility if the shaded field remained cooler on every visit. To investigate that problem, a team could record the temperature and visit each field under several comparable temperature conditions. The resulting counts would still depend on how well observers detect butterflies. But they would give researchers a better basis for deciding whether the initial gap reflects a population difference or simply a difference in activity at the time of observation.",
+        "audio": "/listening/lecture-1-3.wav",
+        "questions": [
+          {
+            "prompt": "Why might the initial count exaggerate a difference between the two populations?",
+            "options": [
+              "Butterflies in the warmer field may be easier to see.",
+              "The route through the warmer field may be longer.",
+              "The shaded field may attract more visiting observers.",
+              "Butterflies in both fields may leave at noon."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "Butterflies are more active in warmth, making more of them visible in the open field.",
+              "distractors": {
+                "1": "The lecturer presents a fixed route and focuses on visibility.",
+                "2": "The number of observers is not the explanation under discussion.",
+                "3": "No midday departure is presented; the issue is flight activity and detection."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "visibility",
+                "hebrew": "נראות"
+              }
+            ],
+            "id": "test-01-audio-3-1",
+            "type": "lecture",
+            "difficulty": 3
+          },
+          {
+            "prompt": "What limitation remains if both fields are surveyed at noon every day?",
+            "options": [
+              "An unusual first day necessarily determines the final results.",
+              "The survey design makes it impossible to measure field temperatures.",
+              "The same temperature difference can persist.",
+              "The observer cannot use a consistent walking route."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "Repeating the timing can preserve the systematic shade and temperature difference.",
+              "distractors": {
+                "0": "Additional visits make the study less dependent on any one unusual day.",
+                "1": "Measuring temperature is a proposed improvement.",
+                "3": "The lecturer begins with a fixed walking route, which can be repeated."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "persist",
+                "hebrew": "להימשך"
+              }
+            ],
+            "id": "test-01-audio-3-2",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      }
+    ]
+  }
+}

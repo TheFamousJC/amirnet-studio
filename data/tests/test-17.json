@@ -1,0 +1,996 @@
+{
+  "id": "test-17",
+  "number": 17,
+  "bankVersion": 2,
+  "title": "Three Ways to Display a Meeting / When Silence Is a Data Problem",
+  "sections": [
+    {
+      "id": "test-17-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "A thin film of oil spread across the ____ of the water, leaving the deeper layers clear.",
+          "options": [
+            "source",
+            "centre",
+            "boundary",
+            "surface"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“surface” means outermost layer of something. The oil lay on the outside layer above the clear depths.",
+            "distractors": {
+              "0": "“source” means place or thing from which something comes. The clue is that the oil lay on the outside layer above the clear depths.",
+              "1": "“centre” means middle point or part of an area. The clue is that the oil lay on the outside layer above the clear depths.",
+              "2": "“boundary” means line separating two areas. The clue is that the oil lay on the outside layer above the clear depths."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "surface",
+              "hebrew": "פני השטח"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-17-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "The singer listened to the composer's ____ recording to hear details lost in later copies.",
+          "options": [
+            "original",
+            "precise",
+            "ordinary",
+            "formal"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“original” means first version from which later versions are derived. The composer's recording is the first version used to make later copies.",
+            "distractors": {
+              "1": "“precise” means exact and free of unnecessary ambiguity. The clue is that the composer's recording is the first version used to make later copies.",
+              "2": "“ordinary” means common and unremarkable. The clue is that the composer's recording is the first version used to make later copies.",
+              "3": "“formal” means following recognised official conventions. The clue is that the composer's recording is the first version used to make later copies."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "original",
+              "hebrew": "מקורי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-17-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The main ____ of the interviews was to understand how residents had made sense of the recent change in street names.",
+          "options": [
+            "condition",
+            "advantage",
+            "purpose",
+            "obstacle"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“purpose” means reason for which something is done. Understanding residents' views motivated the interviews.",
+            "distractors": {
+              "0": "“condition” means requirement that must be met. The clue is that understanding residents' views motivated the interviews.",
+              "1": "“advantage” means feature that offers a benefit. The clue is that understanding residents' views motivated the interviews.",
+              "3": "“obstacle” means thing that blocks progress. The clue is that understanding residents' views motivated the interviews."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "purpose",
+              "hebrew": "מטרה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-17-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "Written records suggest a ____ shift in trade patterns, with the new route gaining customers a little at a time over several decades.",
+          "options": [
+            "abrupt",
+            "persistent",
+            "sporadic",
+            "gradual"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“gradual” means happening slowly in stages. The route gained customers in small increments over decades.",
+            "distractors": {
+              "0": "“abrupt” means happening suddenly and without warning. The clue is that the route gained customers in small increments over decades.",
+              "1": "“persistent” means continuing over time despite attempts to stop it. The clue is that the route gained customers in small increments over decades.",
+              "2": "“sporadic” means occurring at irregular and infrequent intervals. The clue is that the route gained customers in small increments over decades."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "gradual",
+              "hebrew": "הדרגתי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-17-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The historian never says that the exchange was hostile, but the way she describes the diplomats' silence seems to ____ it.",
+          "options": [
+            "modify",
+            "imply",
+            "anticipate",
+            "verify"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“imply” means suggest something without stating it explicitly. The hostility is conveyed indirectly.",
+            "distractors": {
+              "0": "“modify” means make a partial change to something. The clue is that the hostility is conveyed indirectly.",
+              "2": "“anticipate” means expect something and prepare for it. The clue is that the hostility is conveyed indirectly.",
+              "3": "“verify” means check whether something is true or accurate. The clue is that the hostility is conveyed indirectly."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "imply",
+              "hebrew": "לרמוז"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-17-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The team found a clear ____ between floor height and wind exposure but could not establish whether a third factor accounted for both.",
+          "options": [
+            "correlation",
+            "precedent",
+            "discrepancy",
+            "constraint"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“correlation” means statistical association between variables. The result is an association without an established cause.",
+            "distractors": {
+              "1": "“precedent” means earlier instance used as a guide in later similar cases. The clue is that the result is an association without an established cause.",
+              "2": "“discrepancy” means lack of agreement between accounts or values expected to match. The clue is that the result is an association without an established cause.",
+              "3": "“constraint” means limit that restricts available choices. The clue is that the result is an association without an established cause."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "correlation",
+              "hebrew": "מתאם"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-17-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-17-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "The only copy appeared to have been deleted from the main drive, but staff were able to ____ the missing file from a recent backup.",
+          "options": [
+            "archive",
+            "recover",
+            "compile",
+            "duplicate"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The backup provided a way to get back a file that had been lost.",
+            "distractors": {
+              "0": "This would store the file for future reference rather than bring it back after deletion.",
+              "2": "Compilation combines separate material into one file, whereas the backup already contains the file.",
+              "3": "A duplicate would be an extra copy; the purpose here is to retrieve the missing file."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "recover",
+              "hebrew": "לחלץ, לשחזר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-17-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The figures had first been proposed on the basis of a rough guess. Additional measurements were needed to ____ the height with certainty.",
+          "options": [
+            "exaggerate",
+            "establish",
+            "illustrate",
+            "assume"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The measurements are intended to determine a value with confidence.",
+            "distractors": {
+              "0": "This would overstate the height, contrary to the need for a more certain measurement.",
+              "2": "An illustration could show a known height, while the height must first be determined.",
+              "3": "An assumption could be made without additional evidence and would not give certainty."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "establish",
+              "hebrew": "לקבוע, לבסס"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-17-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The ordinary budget covers the clean-up up to two million shekels. The reserve is solely for any portion of the final bill that might ____ that figure.",
+          "options": [
+            "reflect",
+            "equal",
+            "exceed",
+            "approach"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The reserve covers only the part above what the ordinary budget can pay.",
+            "distractors": {
+              "0": "This conveys a relationship or correspondence rather than the amount above the cap.",
+              "1": "The ordinary budget can meet a bill equal to the limit, leaving no excess for the reserve to pay.",
+              "3": "A figure that merely comes close to the limit would still be covered by the ordinary budget."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "exceed",
+              "hebrew": "לחרוג מ־, לעלות על"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-17-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "Ordinarily such sudden alterations would have been excessive, but in this case the imminent loss of the collection meant that an immediate change was ____.",
+          "options": [
+            "disproportionate",
+            "warranted",
+            "inevitably delayed",
+            "unforeseen"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The risk of losing the collection provides sufficient grounds for the exceptional action.",
+            "distractors": {
+              "0": "The imminent loss makes the unusual action proportionate to the threat.",
+              "2": "The proposed action was described as immediate, not delayed.",
+              "3": "The sentence evaluates whether the response was justified rather than whether it could be predicted."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "warranted",
+              "hebrew": "מוצדק"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-17-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "After allowing for differences in age and weight, investigators found that most of the remaining variation in recovery time was ____ to the interval between injury and treatment.",
+          "options": [
+            "comparable",
+            "incidental",
+            "proportional",
+            "attributable"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The analysis associates the remaining differences with one explanatory factor.",
+            "distractors": {
+              "0": "The variation is not itself compared with the length of the interval; the interval is used to explain it.",
+              "1": "The investigators treat the interval as an explanation, rather than a coincidental accompaniment.",
+              "2": "The evidence identifies an explanatory factor but gives no numerical proportion."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "attributable",
+              "hebrew": "מיוחס ל־, נובע מ־"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-17-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The inquiry identified a previously ____ financial interest: no entry on the reviewer's declaration revealed that she held shares in the applicant company.",
+          "options": [
+            "unverified",
+            "undisclosed",
+            "unfounded",
+            "unrelated"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The shareholding had not been made known on the declaration.",
+            "distractors": {
+              "0": "The question is whether the interest had been reported, rather than whether existing information had been checked.",
+              "2": "The inquiry found a real shareholding, so the interest is not baseless.",
+              "3": "Holding shares in the applicant is relevant to a review of its application."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "undisclosed",
+              "hebrew": "שלא נחשף"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-17-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-17-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Three Ways to Display a Meeting",
+        "paragraphs": [
+          "A committee meets to allocate a small grant. A secretary writes minutes identifying the motions and the votes, a reporter writes an account for a local newspaper, and a participant sends a letter to a friend. A later reader curious about the meeting may expect the documents to complement one another: where one text is brief, another supplies detail. In practice it is often more useful to notice that the documents divide the event differently. A proposal may count as a single item in the minutes, a moment in a long dispute for the reporter, and a painful exchange between acquaintances in the private letter.",
+          "Each format brings requirements that help explain these differences. The minutes establish which decision the committee has authority to carry out. They can leave out a hesitation that had no effect on the wording of an adopted motion. The reporter answers to a readership that may need to know why several otherwise unrelated groups were represented in the room. A private correspondent can assume the reader already understands those connections and concentrate on an allusion that mattered only to the two of them. The brevity of one account thus does not necessarily indicate that the writer noticed less.",
+          "Suppose the minutes say that a motion passed without opposition. The letter remarks that a member supported the motion only after an argument about its practical consequences. These claims can coexist if nobody voted against the final text. The newspaper's emphasis on controversy could likewise be justified by the exchanges that preceded the vote. Genuine conflicts between the sources remain possible. If the letter describes a negative vote on the final motion, an investigator would want to confirm that both texts refer to the same proposal and that the letter was written close enough to the event to reduce the possibility of confusion.",
+          "Rather than extracting all factual statements and treating their sources as interchangeable, historians can ask what a statement was meant to accomplish for its first audience. Some discrepancies become easier to resolve once the relevant units of action have been identified. Others become more significant because they persist across accounts written for distinct purposes. The value of assembling such material lies partly in the prospect of checking claims and partly in the opportunity to see why different participants considered different elements of the very same meeting worth recording."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What main argument does “Three Ways to Display a Meeting” present?",
+          "options": [
+            "Documents can structure the same event differently according to their audience and function.",
+            "A discrepancy matters only when reports intended for the same audience contradict one another.",
+            "The chief value of combining records lies in using the private account to interpret the public ones.",
+            "The best account is usually the one that adds the most detail to an official record."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The three formats divide attention and define the significant action differently.",
+            "distractors": {
+              "1": "Disagreement may become more significant when it persists across records serving distinct purposes.",
+              "2": "The comparison illuminates how all three records select material; the letter does not have blanket interpretive priority.",
+              "3": "The formats may organize the action differently, not merely provide varying amounts of the same information."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "interchangeable",
+              "hebrew": "ניתן להחלפה"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-17-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "How could a newspaper accurately report a dispute over a motion that the minutes say passed without opposition?",
+          "options": [
+            "Discussion could have been contentious even if nobody voted against the final wording.",
+            "The reporter could have presented opposition to a different proposal as disagreement about the motion.",
+            "The minutes could have recorded the earliest wording, before the committee changed it after the argument.",
+            "The letter could be reporting a negative vote that carried no practical effect because the motion still passed."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The minutes summarize the vote on the final motion. Earlier disagreement, even from a person who eventually supported the motion, can coexist with an unopposed final vote.",
+            "distractors": {
+              "1": "This is a possible error to check, not a way in which both descriptions of the same motion would be accurate.",
+              "2": "The minutes' function is to establish the adopted decision, and no recording of an earlier version is necessary.",
+              "3": "A negative vote would be a genuine discrepancy with a description of the final motion as unopposed."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "adopted",
+              "hebrew": "שהתקבל"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-17-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author treat potentially contradictory reports of a final negative vote?",
+          "options": [
+            "As grounds for preferring the letter, which can include hesitations left out of the official record.",
+            "As an ordinary difference of emphasis, even if both accounts identify the same final motion and vote.",
+            "As a discrepancy that merits checking reference and timing before deciding what it establishes.",
+            "As grounds for preferring the official record if the private author spent more time describing personalities."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The text calls for confirming the proposal and asking when the letter was written.",
+            "distractors": {
+              "0": "A hesitation before voting and a negative vote on the adopted motion are different claims with different implications.",
+              "1": "The author accepts apparent conflicts over discussion, but an actual negative vote on the same final motion could contradict the minutes.",
+              "3": "The recommended checks concern the proposal referred to and the time of writing, rather than how much personal detail the letter supplies."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "persist",
+              "hebrew": "להתמיד"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-17-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “allusion” mean in the description of the letter?",
+          "options": [
+            "An indirect reference understandable to someone with relevant background knowledge.",
+            "Private information stated explicitly for a reader's benefit.",
+            "A brief explanation of why several groups attended.",
+            "An unsupported suggestion about whether a decision was lawful."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The correspondent can rely on facts or relationships the friend already knows.",
+            "distractors": {
+              "1": "A shared reference can work indirectly precisely because it does not need to be spelled out.",
+              "2": "That describes background a journalist may need to add, whereas the letter relies on its reader already knowing the connection.",
+              "3": "The passage is discussing a meaningful reference shared by correspondent and recipient, rather than questioning a motion's authority."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "allusion",
+              "hebrew": "רמיזה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-17-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What primary function of minutes does the second paragraph identify?",
+          "options": [
+            "They preserve the discussion required to explain why a member changed their position.",
+            "They explain why each group was represented.",
+            "They establish the decision the committee may implement.",
+            "They establish when a debate acquired enough public interest to be reported."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The decision's adopted wording matters for the authority conferred.",
+            "distractors": {
+              "0": "They may omit hesitation that had no effect on the adopted wording.",
+              "1": "Explaining the presence of groups is an example of contextual work done by the newspaper.",
+              "3": "The minutes establish the decision that can be implemented, not the threshold for news coverage."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "authority",
+              "hebrew": "סמכות"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-17-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-17-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "It is true that the bats occupy the tunnel in winter, yet their numbers decline during the coldest weeks.",
+          "options": [
+            "Their numbers decline during the coldest weeks only before it became clear that the bats occupy the tunnel in winter.",
+            "Because the bats occupy the tunnel in winter, their numbers decline during the coldest weeks.",
+            "Their numbers decline during the coldest weeks, which prevented anyone from finding out whether the bats occupy the tunnel in winter.",
+            "The bats occupy the tunnel in winter; nevertheless, their numbers decline during the coldest weeks."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the bats occupy the tunnel in winter” and “their numbers decline during the coldest weeks.”",
+            "distractors": {
+              "0": "It limits the second fact to an earlier time and adds a discovery that the original never mentions.",
+              "1": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast.",
+              "2": "It introduces an obstacle to discovering the first fact, which the original states directly."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-17-restatement-1-1"
+        },
+        {
+          "prompt": "Owing to the fact that the storm broke the main power cable, emergency lighting ran on batteries.",
+          "options": [
+            "Emergency lighting ran on batteries; consequently, the storm broke the main power cable.",
+            "The storm broke the main power cable; nevertheless, emergency lighting ran on batteries.",
+            "Emergency lighting ran on batteries, but it is unknown whether the storm broke the main power cable.",
+            "The storm broke the main power cable; consequently, emergency lighting ran on batteries."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the storm broke the main power cable, leading to the result that emergency lighting ran on batteries.",
+            "distractors": {
+              "0": "It reverses the direction of cause and result.",
+              "1": "It replaces the causal relationship with a concession.",
+              "2": "It casts doubt on the cause, which the original treats as an established fact."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-17-restatement-1-2"
+        },
+        {
+          "prompt": "Once the text has been translated, the editor will send it to the printer.",
+          "options": [
+            "The editor will send it to the printer, regardless of whether the text has been translated.",
+            "The editor will send it to the printer after the text has been translated.",
+            "The editor will send it to the printer before the text has been translated.",
+            "The editor will not send it to the printer even after the text has been translated."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled. The first event has to be complete.",
+            "distractors": {
+              "0": "It makes the first event irrelevant to the timing of the second.",
+              "2": "It places the scheduled action before the event that the sentence puts first.",
+              "3": "It denies the stated plan to carry out the second action."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-17-restatement-1-3"
+        },
+        {
+          "prompt": "The gardeners will extend the trial only if the plants survive the first winter.",
+          "options": [
+            "The gardeners will extend the trial only if it is impossible to establish that the plants survive the first winter.",
+            "The gardeners will extend the trial whether or not the plants survive the first winter.",
+            "The gardeners will extend the trial in every case in which the plants survive the first winter.",
+            "The gardeners will extend the trial only on condition that the plants survive the first winter."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The condition “the plants survive the first winter” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "0": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met.",
+              "1": "It removes the requirement by making the outcome independent of the condition.",
+              "2": "It treats the condition as sufficient and promises the outcome whenever it is met."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-17-restatement-1-4"
+        },
+        {
+          "prompt": "The evening exhibition seemed popular compared with the morning exhibition.",
+          "options": [
+            "The evening exhibition appeared to exceed the morning exhibition in popularity.",
+            "The evening exhibition appeared to match the morning exhibition in popularity.",
+            "The morning exhibition appeared to exceed the evening exhibition in popularity.",
+            "The difference in popularity was established when the morning exhibition drew more visitors than the evening exhibition in a formal test."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the morning exhibition, first. The comparison concerns popularity.",
+            "distractors": {
+              "0": "It reverses the relative ranking of the two items.",
+              "1": "It describes the two items as equal on the stated measure.",
+              "3": "It turns an impression into a demonstrated finding and invents a formal test."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-17-restatement-1-5"
+        },
+        {
+          "prompt": "But for a gap in the records, the historians would have been able to identify the owner.",
+          "options": [
+            "The historians would have been able to identify the owner regardless of the effect of a gap in the records.",
+            "Whether a gap in the records made any difference to the outcome is unknown.",
+            "The historians would have been able to identify the owner in the absence of a gap in the records.",
+            "The historians would have been able to identify the owner because of a gap in the records."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the historians would have been able to identify the owner” belongs to the hypothetical situation in which a gap in the records was absent.",
+            "distractors": {
+              "0": "It predicts the same result without changing whether the factor was present.",
+              "1": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs.",
+              "3": "It attributes the hypothetical result to the presence of the factor rather than its absence."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-17-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-17-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the local market recovers in spring, the cooperative will seek buyers abroad.",
+          "options": [
+            "The cooperative will seek buyers abroad only in the event that the local market recovers in spring.",
+            "The local market recovers in spring; therefore, the cooperative will seek buyers abroad.",
+            "The cooperative may or may not seek buyers abroad, depending on whether the local market recovers in spring.",
+            "The cooperative will seek buyers abroad, including in the event that the local market recovers in spring."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the local market recovers in spring. The original leaves that case hypothetical.",
+            "distractors": {
+              "0": "It turns a condition that would make no difference into a requirement.",
+              "1": "It turns an open possibility into an established fact and presents it as the cause.",
+              "2": "It makes the outcome depend on the hypothetical condition."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-17-restatement-2-1"
+        },
+        {
+          "prompt": "The technical adviser neither endorsed nor expressly rejected the proposal to build a second access road.",
+          "options": [
+            "The technical adviser withdrew an earlier endorsement of the proposal to build a second access road.",
+            "The technical adviser accepted the proposal to build a second access road in principle while withholding public support.",
+            "The technical adviser offered no endorsement of the proposal to build a second access road and issued no explicit rejection either.",
+            "The technical adviser rejected the proposal to build a second access road without giving a reason."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It invents a prior endorsement and a reversal of position.",
+              "1": "It invents an acceptance in principle, which cannot be inferred from the original.",
+              "3": "It asserts an explicit rejection, which the original rules out."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-17-restatement-2-2"
+        },
+        {
+          "prompt": "The improvement in reliability stemmed less from a change in the instrument itself than from a change in how the readings were evaluated.",
+          "options": [
+            "A change in how the readings were evaluated contributed more to the improvement in reliability than a change in the instrument itself did.",
+            "The improvement in reliability was the principal reason for both a change in the instrument itself and a change in how the readings were evaluated.",
+            "A change in the instrument itself was the greater contributor to the improvement in reliability, though a change in how the readings were evaluated also mattered.",
+            "A change in the instrument itself and a change in how the readings were evaluated played equally important roles in the improvement in reliability."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “a change in how the readings were evaluated” greater explanatory weight than “a change in the instrument itself.”",
+            "distractors": {
+              "1": "It makes the outcome cause the factors that are supposed to explain it.",
+              "2": "It reverses the relative importance of the factors.",
+              "3": "It makes the factors equally important despite the stated inequality."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-17-restatement-2-3"
+        },
+        {
+          "prompt": "The director did not agree to a public presentation until the speakers had reviewed the minutes.",
+          "options": [
+            "The director did not agree to a public presentation, although the speakers had reviewed the minutes.",
+            "The director agreed to a public presentation only after the speakers had reviewed the minutes.",
+            "The director agreed to a public presentation as evidence that the speakers had reviewed the minutes.",
+            "The director agreed to a public presentation before the speakers had reviewed the minutes."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "0": "It makes the main action fail to occur, whereas the original reports that it happened later.",
+              "2": "It turns a timing relationship into an assertion about the actor’s purpose.",
+              "3": "It reverses the sequence by placing the main action first."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-17-restatement-2-4"
+        },
+        {
+          "prompt": "Of the tiles found in the cellar, none bear the workshop seal with the sole exception of the one found beneath the steps.",
+          "options": [
+            "The one found beneath the steps bears the workshop seal; the others in the same group do not.",
+            "The one found beneath the steps bears the workshop seal, and at least one other member of the group shares that distinction.",
+            "It has not been determined whether the one found beneath the steps bears the workshop seal.",
+            "All the tiles found in the cellar bear the workshop seal except the one found beneath the steps."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the one found beneath the steps is the single item that has the stated property.",
+            "distractors": {
+              "1": "It allows a second exception even though “sole” limits the number to one.",
+              "2": "It changes an explicit exception into an uncertainty.",
+              "3": "It gives the property to the entire group except the one item that actually has it."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-17-restatement-2-5"
+        },
+        {
+          "prompt": "The panel regarded the reliability of the observations as an issue distinct from whether the experiment could be repeated at another site.",
+          "options": [
+            "The observations were considered reliable because the panel determined that they could be obtained at any site.",
+            "The panel treated the question of whether the recorded findings could be trusted separately from the question of whether the procedure could be repeated elsewhere.",
+            "The panel held that the findings could be trusted only after the procedure had been repeated successfully elsewhere.",
+            "To the panel, examining the reliability of the observations and examining repeatability were two ways of resolving a single issue."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The panel distinguishes confidence in the observations from the feasibility of repeating the procedure elsewhere",
+            "distractors": {
+              "0": "It adds a verdict of reliability and a claim about what happens at every site",
+              "2": "It makes repetition a prerequisite for trusting the results, which the original does not state",
+              "3": "It collapses the two questions into a single issue even though the panel separated them"
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "distinct from",
+              "hebrew": "נבדל מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-17-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-17-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "When Silence Is a Data Problem",
+        "paragraphs": [
+          "An autonomous recorder in a wetland can run for days without an observer nearby. Its file may contain calls from frogs, birds and insects, alongside rain, traffic and the rustle of vegetation. Software can be trained to search the recording for characteristic signals. Because the method is inexpensive to repeat, it can describe variation across nights that a few human visits would miss. Yet a marked increase in recorded calls does not necessarily mean that more animals are present. A small number of individuals calling repeatedly may account for much of the difference.",
+          "Failure to record calls is equally ambiguous. A species can be present but silent during a survey, or a signal can be masked by wind and other animals. The microphone may pick up nearby calls more reliably than distant ones. Even a perfectly calibrated recorder would be subject to variation in how loudly a species calls and how sound moves across the habitat. Investigators accordingly visit or listen to sites repeatedly, preferably under a range of conditions. Repeated absences carry more information when the species would usually call and when other circumstances made detection likely.",
+          "Automatic classification introduces a different issue. A model accurate on recordings from the region where it was trained may make more errors in a new region. Related species can produce subtly different signals, and local noise can resemble the structure of a call the software was taught to recognize. Evaluating the system solely on short excerpts taken from the original recordings would test performance under familiar conditions. To estimate performance at unvisited sites, researchers need tests based on separate locations or recording periods and should inspect a selection of uncertain identifications themselves.",
+          "These limitations change the ecological question an acoustic survey can answer. Estimating whether a species ever uses a site requires a defensible treatment of missed detections. Counting individuals generally requires additional information, since recording a sound does not automatically reveal which animal made it. Comparing the time of peak calling for a well-detected species may involve fewer assumptions. Passive recording has broadened the range of phenomena scientists can observe. Its power comes from arranging repeated measurements intelligently and making claims appropriate to the signals they collect. In that setting, silence is a potentially informative observation whose meaning depends on how well the observer could have heard a call."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What is the main idea of “When Silence Is a Data Problem”?",
+          "options": [
+            "The greatest obstacle to acoustic surveys is extending an accurate classifier from one region to another.",
+            "Acoustic recorders answer ecological questions most reliably when call totals agree across successive nights.",
+            "Acoustic monitoring supports different conclusions depending on which detection and classification limits are addressed.",
+            "With enough recording time, sound surveys can replace observations that once required observers at sites."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The text connects missed signals, recording conditions and model validation to specific ecological claims.",
+            "distractors": {
+              "0": "Classifier transfer is one constraint alongside missed calls and interpretation of presence or abundance.",
+              "1": "Agreement alone does not distinguish callers or address limitations that remain consistent across nights.",
+              "3": "More recording helps, but some conclusions still require additional evidence or manual checking."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "detection",
+              "hebrew": "זיהוי"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-17-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why should a call classifier be checked on recordings from locations separate from its training sites?",
+          "options": [
+            "Recordings from familiar sites generally contain less background sound than those from new sites.",
+            "A separate site makes it possible to distinguish repeated calls made by the same animal.",
+            "Unfamiliar species or noise may expose errors not apparent in familiar recordings.",
+            "A classifier can only be evaluated if the local signals resemble the ones it was initially trained to recognize."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Similarity among signals and background sounds can depend on location.",
+            "distractors": {
+              "0": "The problem is a change in noise type or signal similarity, not a demonstrated increase in the amount of noise.",
+              "1": "Using independent sites tests transfer; it does not identify individual callers.",
+              "3": "Testing only familiar signals would miss failures on unfamiliar recordings."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "classification",
+              "hebrew": "סיווג"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-17-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "What tone characterizes the discussion of acoustic recording?",
+          "options": [
+            "Skeptical of inferences about occupancy because calls cannot identify individual animals.",
+            "Principally concerned with using well-calibrated equipment to make detection reliable.",
+            "Confident that enough repeated observations can support the same claims for every species.",
+            "Positive about its reach while precise about what sound can establish."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The author points to broader observation and specifies the limits of detection and interpretation.",
+            "distractors": {
+              "0": "How many individuals call and whether a species uses a site are distinct questions.",
+              "1": "The text explains that detection can vary even with a perfectly calibrated recorder.",
+              "2": "Which claims are justified also depends on the species, the signal and the recording conditions."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "defensible",
+              "hebrew": "בר הצדקה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-17-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “masked” mean in the paragraph on missed calls?",
+          "options": [
+            "Made difficult to distinguish because other sounds interfere.",
+            "Recorded from too far away to establish its source.",
+            "Misclassified as a call from a related species.",
+            "Unusually quiet because the animal changes its calling behavior."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Wind or other signals can make a real call hard to distinguish.",
+            "distractors": {
+              "1": "Distance can lower detectability, but masking specifically involves competing sounds.",
+              "2": "A classification error is a separate issue; interference can prevent a signal from being detected at all.",
+              "3": "Masking concerns interference even if the strength of the call is unchanged."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "masked",
+              "hebrew": "מוסווה או מכוסה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-17-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Why might many recorded calls come from very few animals?",
+          "options": [
+            "Only nearby animals make calls that the software can distinguish from background sounds.",
+            "The same individuals can call several times.",
+            "The same species can be silent when other species are especially active.",
+            "The classifier can confuse similar calls."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "A count of calls is not necessarily a count of callers.",
+            "distractors": {
+              "0": "Nearby signals may be easier to record, but repeated calling explains why many calls need not represent many animals.",
+              "2": "Silence accounts for missed detections rather than high call totals from a few individuals.",
+              "3": "That describes possible misclassification rather than the number of calls contributed by one individual."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "repeatedly",
+              "hebrew": "שוב ושוב"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-17-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

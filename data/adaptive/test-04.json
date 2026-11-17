@@ -1,0 +1,457 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "The council postponed the vote so that supporters and opponents would have another chance to ____ the proposal in public.",
+      "options": [
+        "approve",
+        "amend",
+        "announce",
+        "debate"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The two sides are being given time to discuss and argue about the proposal.",
+        "distractors": {
+          "0": "Approval is the decision the postponed vote would determine.",
+          "1": "Discussion may lead to changes, but the purpose stated here is to hear opposing arguments.",
+          "2": "Both sides are already familiar with the proposal."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "debate",
+          "hebrew": "לדון; להתווכח"
+        }
+      ],
+      "id": "test-04-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The pool's attendance figures ____ throughout the year, rising during school breaks and falling again when lessons resumed.",
+      "options": [
+        "accumulate",
+        "stagnate",
+        "fluctuate",
+        "converge"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Repeated increases and decreases are fluctuations.",
+        "distractors": {
+          "0": "Attendance in one period can fall; a running accumulation would only grow.",
+          "1": "The alternating rises and falls are the opposite of remaining unchanged.",
+          "3": "No two sets of figures are moving toward the same value."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "fluctuate",
+          "hebrew": "להשתנות לסירוגין"
+        }
+      ],
+      "id": "test-04-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Only residents who had lived in the district for a full year were ____ to apply, so a tenant who moved in six months earlier had to wait.",
+      "options": [
+        "obliged",
+        "eligible",
+        "inclined",
+        "prepared"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The one-year rule determines who qualifies to apply.",
+        "distractors": {
+          "0": "The rule permits some people to apply; it does not make application compulsory.",
+          "2": "Inclination is a personal preference, whereas the rule sets an external requirement.",
+          "3": "The tenant's readiness would not change the one-year requirement."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "eligible",
+          "hebrew": "זכאי; עומד בתנאים"
+        }
+      ],
+      "id": "test-04-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "Although the estimate was initially based on a single excavation, results from two independent sites helped ____ confidence in it.",
+      "options": [
+        "bolster",
+        "restore",
+        "measure",
+        "temper"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Independent supporting evidence makes the estimate more credible and strengthens confidence.",
+        "distractors": {
+          "1": "The sentence does not say confidence had previously been lost.",
+          "2": "The results provided supporting evidence rather than a numerical reading of confidence.",
+          "3": "Tempering confidence would mean moderating it, while the new evidence supports it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "bolster",
+          "hebrew": "לחזק"
+        }
+      ],
+      "id": "test-04-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "When the group played a guessing game, one person would ____ a coin under a cup and the others would try to find it.",
+      "options": [
+        "return",
+        "drop",
+        "hide",
+        "trade"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The coin is put out of sight so the other players can search for it.",
+        "distractors": {
+          "0": "No earlier owner or position is mentioned.",
+          "1": "A drop could be accidental; the game involves deliberate concealment.",
+          "3": "The players do not exchange the coin for another object."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "hide",
+          "hebrew": "להחביא"
+        }
+      ],
+      "id": "test-04-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "Staff followed the pipe past each junction to ____ the leak to a cracked fitting behind a wall.",
+      "options": [
+        "measure",
+        "compare",
+        "report",
+        "trace"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "They followed a route to identify the leak's exact source.",
+        "distractors": {
+          "0": "No quantity of leaking water is specified.",
+          "1": "There is no second leak or fitting being compared with this one.",
+          "2": "Finding the source comes before notifying anyone about it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "trace",
+          "hebrew": "לאתר את המקור"
+        }
+      ],
+      "id": "test-04-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "The pump was replaced, ____ reduced the amount of energy the facility consumed.",
+      "options": [
+        "what it then",
+        "where it",
+        "that in turn",
+        "which in turn"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Which can refer to the preceding event in a supplementary relative clause.",
+        "distractors": {
+          "0": "What it then incorrectly adds a subject to this clause and does not link to the replacement.",
+          "1": "Where expresses place, but the clause comments on the replacement event.",
+          "2": "After the comma, that cannot introduce this supplementary relative clause."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "in turn",
+          "hebrew": "כתוצאה מכך"
+        }
+      ],
+      "id": "test-04-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The engineer spoke slowly so that the instructions ____ without specialized training.",
+      "options": [
+        "could be followed",
+        "could be follow",
+        "could following",
+        "could have follow"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Could be followed combines a modal with a passive infinitive.",
+        "distractors": {
+          "1": "The passive after be requires followed.",
+          "2": "A modal requires a base-form verb, not following.",
+          "3": "Have after could would require the participle followed."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "instruction",
+          "hebrew": "הוראה"
+        }
+      ],
+      "id": "test-04-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Much of the evidence ____ during the first year of the investigation.",
+      "options": [
+        "were collecting",
+        "was collected",
+        "were collected",
+        "have collecting"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Evidence is uncountable and takes singular was in the passive.",
+        "distractors": {
+          "0": "The sentence describes evidence being collected, and were also fails agreement.",
+          "2": "Were incorrectly treats evidence as plural.",
+          "3": "Have cannot agree with evidence here, and it cannot directly precede collecting in this form."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "evidence",
+          "hebrew": "ראיות"
+        }
+      ],
+      "id": "test-04-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The gardeners succeeded ____ the seedlings alive through an unusually dry summer.",
+      "options": [
+        "to keeping",
+        "at keep",
+        "in keeping",
+        "by kept"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Succeeded in is followed by the gerund keeping.",
+        "distractors": {
+          "0": "The construction requires in rather than to before this gerund.",
+          "1": "A preposition such as at cannot take the bare form keep here.",
+          "3": "The past form kept cannot serve as the object of by."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "seedling",
+          "hebrew": "שתיל"
+        }
+      ],
+      "id": "test-04-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "The unexpected discovery aroused the children's ____, and they began asking how the bridge had been built.",
+      "base": "curious",
+      "answers": [
+        "curiosity"
+      ],
+      "explanation": "Curiosity names the feeling that led the children to ask questions.",
+      "id": "test-04-word-1"
+    },
+    {
+      "prompt": "The new emergency system is more ____ to power failures and switches to a backup supply within seconds.",
+      "base": "respond",
+      "answers": [
+        "responsive"
+      ],
+      "explanation": "The adjective responsive describes how readily the system reacts.",
+      "id": "test-04-word-2"
+    },
+    {
+      "prompt": "The maps were ____ to the university for six months and then returned to their owner.",
+      "base": "lend",
+      "answers": [
+        "lent"
+      ],
+      "explanation": "Lent is the irregular past participle of lend.",
+      "id": "test-04-word-3"
+    },
+    {
+      "prompt": "Even after the letters had faded, the writer's distinctive signature remained ____ to her colleagues.",
+      "base": "recognize",
+      "answers": [
+        "recognizable",
+        "recognisable"
+      ],
+      "explanation": "Recognizable or recognisable means that the signature could still be identified.",
+      "id": "test-04-word-4"
+    }
+  ],
+  "writing": "Would you rather study a new subject through a series of lectures or through a project? Explain your choice.",
+  "listening": {
+    "type": "continuation",
+    "clips": [
+      {
+        "context": "Listen to part of a lecture on public transit.",
+        "transcript": "A map can show two stations only a few hundred meters apart. Yet passengers carrying luggage may take a long time to transfer between them, because a fence separates their entrances. The practical walking distance therefore depends on",
+        "audio": "/listening/continuation-2-1.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about stations.",
+            "options": [
+              "the route passengers can actually use",
+              "the number of trains on the next line",
+              "the age of the stations shown on the map",
+              "the fare paid by passengers with luggage"
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "A fence changes the accessible route even when the map distance is short.",
+              "distractors": {
+                "1": "Service frequency does not explain how far people must walk.",
+                "2": "The barrier, rather than the stations' age, matters.",
+                "3": "Ticket cost is unrelated to the route imposed by the fence."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "transfer",
+                "hebrew": "להחליף קו"
+              }
+            ],
+            "id": "test-04-audio-1-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on displaying photographs.",
+        "transcript": "The curator noticed that a small photograph looked faded under the gallery's brightest light. A test showed that light was reflecting from the glass and obscuring the picture. To improve visibility without altering the photograph, the gallery could",
+        "audio": "/listening/continuation-2-2.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the gallery.",
+            "options": [
+              "increase the brightness of the same lamp",
+              "retouch the pale areas on the print",
+              "change the angle of the light",
+              "replace the frame with a wider one"
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "Changing the angle can redirect reflections while preserving the photograph.",
+              "distractors": {
+                "0": "More light at the same angle could increase the distracting reflection.",
+                "1": "Retouching alters the artwork, which the proposed change should avoid.",
+                "3": "Frame width does not directly address reflected light."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "obscure",
+                "hebrew": "להסתיר"
+              }
+            ],
+            "id": "test-04-audio-2-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on testing a new library catalog.",
+        "transcript": "A library measured how quickly people could find a title in a new catalog. Search times improved, but only a few users in the trial knew the exact title of an unfamiliar book. The library should therefore also test searches when users",
+        "audio": "/listening/continuation-2-3.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about catalog users.",
+            "options": [
+              "search exclusively for books they already own",
+              "remember only part of the title",
+              "decide to stop borrowing print books",
+              "want to inspect the library's furniture"
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "The initial test leaves open how well the catalog works when people have incomplete information.",
+              "distractors": {
+                "0": "Ownership does not address how precise a search is.",
+                "2": "Format preferences are distinct from finding a title.",
+                "3": "Furniture is outside the catalog task."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "unfamiliar",
+                "hebrew": "לא מוכר"
+              }
+            ],
+            "id": "test-04-audio-3-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on cooling streets.",
+        "transcript": "A street surfaced with light paving absorbed less sunlight than a nearby dark street. On sunny afternoons, however, the reflected light could reach people walking across it. The engineers therefore assessed the effect of the new paving by considering",
+        "audio": "/listening/continuation-2-4.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about paving.",
+            "options": [
+              "the paving color alone",
+              "only the air temperature after midnight",
+              "how residents described the old street at night",
+              "both surface temperature and pedestrian exposure"
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The trade-off concerns heat absorbed by the ground and light received by pedestrians.",
+              "distractors": {
+                "0": "Color is relevant but does not measure both consequences.",
+                "1": "The stated issue occurs on sunny afternoons.",
+                "2": "Opinions about the street at night do not measure exposure to reflected daylight."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "exposure",
+                "hebrew": "חשיפה"
+              }
+            ],
+            "id": "test-04-audio-4-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      }
+    ]
+  }
+}

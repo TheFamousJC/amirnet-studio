@@ -1,0 +1,995 @@
+{
+  "id": "test-11",
+  "number": 11,
+  "title": "Reading an Absence in a Map / How Dark Should a Telescope Be?",
+  "sections": [
+    {
+      "id": "test-11-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "A narrow staircase remained ____ behind a removable panel until workers began restoring the hall.",
+          "options": [
+            "scarce",
+            "hidden",
+            "stable",
+            "fragile"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“hidden” means kept out of sight. The panel blocked the staircase from view.",
+            "distractors": {
+              "0": "“scarce” means available only in small quantities. The clue is that the panel blocked the staircase from view.",
+              "2": "“stable” means unlikely to change under existing conditions. The clue is that the panel blocked the staircase from view.",
+              "3": "“fragile” means easily broken or damaged. The clue is that the panel blocked the staircase from view."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "hidden",
+              "hebrew": "מוסתר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-11-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "The team described its sampling ____ in sufficient detail for another laboratory to follow the same steps.",
+          "options": [
+            "outcome",
+            "goal",
+            "schedule",
+            "method"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“method” means systematic way of doing something. The description lays out the team's procedure.",
+            "distractors": {
+              "0": "“outcome” means result of an event or process. The clue is that the description lays out the team's procedure.",
+              "1": "“goal” means intended result or target. The clue is that the description lays out the team's procedure.",
+              "2": "“schedule” means plan that assigns times to activities. The clue is that the description lays out the team's procedure."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "method",
+              "hebrew": "שיטה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-11-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "Only thirty study places were ____ after the renovation, although as many as sixty students often turned up.",
+          "options": [
+            "suitable",
+            "distinct",
+            "available",
+            "consistent"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“available” means obtainable or ready for use. Thirty places were ready for students to use.",
+            "distractors": {
+              "0": "“suitable” means appropriate for a specific purpose. The clue is that thirty places were ready for students to use.",
+              "1": "“distinct” means clearly separate or different. The clue is that thirty places were ready for students to use.",
+              "3": "“consistent” means uniform across occasions or cases. The clue is that thirty places were ready for students to use."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "available",
+              "hebrew": "זמין"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-11-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The timetable was deliberately ____ so that staff could reschedule outdoor sessions in response to the weather.",
+          "options": [
+            "flexible",
+            "reluctant",
+            "impartial",
+            "cautious"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“flexible” means able to adapt to changes. The timetable could be adapted to changed weather conditions.",
+            "distractors": {
+              "1": "“reluctant” means unwilling or hesitant to do something. The clue is that the timetable could be adapted to changed weather conditions.",
+              "2": "“impartial” means free from preference for one party or side. The clue is that the timetable could be adapted to changed weather conditions.",
+              "3": "“cautious” means careful to avoid unwarranted certainty or risk. The clue is that the timetable could be adapted to changed weather conditions."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "flexible",
+              "hebrew": "גמיש"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-11-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The study sought to ____ the town's heat advantage by reporting its precise temperature difference from surrounding farms.",
+          "options": [
+            "quantify",
+            "recover",
+            "regulate",
+            "attribute"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“quantify” means express the magnitude of something in numbers. The researchers aim to express the advantage as a numerical difference.",
+            "distractors": {
+              "1": "“recover” means get back something that was lost or inaccessible. The clue is that the researchers aim to express the advantage as a numerical difference.",
+              "2": "“regulate” means control an activity or process through a system or rules. The clue is that the researchers aim to express the advantage as a numerical difference.",
+              "3": "“attribute” means identify something as the cause or origin of an outcome. The clue is that the researchers aim to express the advantage as a numerical difference."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "quantify",
+              "hebrew": "לכמת"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-11-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The readings on the western bank appeared ____ because all other stations registered nearly identical values throughout the survey.",
+          "options": [
+            "arbitrary",
+            "analogous",
+            "ambiguous",
+            "anomalous"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“anomalous” means inconsistent with an otherwise regular pattern. The western bank departs from the otherwise regular pattern.",
+            "distractors": {
+              "0": "“arbitrary” means based on chance or preference rather than a defensible reason. The clue is that the western bank departs from the otherwise regular pattern.",
+              "1": "“analogous” means similar in a relevant respect despite other differences. The clue is that the western bank departs from the otherwise regular pattern.",
+              "2": "“ambiguous” means capable of being understood in more than one way. The clue is that the western bank departs from the otherwise regular pattern."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "anomalous",
+              "hebrew": "חריג מן הדפוס"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-11-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-11-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "The professional society used public lectures and newsletters to ____ its findings far beyond the university.",
+          "options": [
+            "amend",
+            "disseminate",
+            "withhold",
+            "retract"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“disseminate” means spread something widely among people or places. Lectures and newsletters distribute the findings to a broader audience.",
+            "distractors": {
+              "0": "“amend” means change or correct a formal text. The clue is that lectures and newsletters distribute the findings to a broader audience.",
+              "2": "“withhold” means keep something back instead of giving it. The clue is that lectures and newsletters distribute the findings to a broader audience.",
+              "3": "“retract” means formally withdraw a previously made statement. The clue is that lectures and newsletters distribute the findings to a broader audience."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "disseminate",
+              "hebrew": "להפיץ"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-11-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The critic warned against using a single attendance figure to ____ public curiosity with approval of the policy being debated.",
+          "options": [
+            "juxtapose",
+            "segregate",
+            "conflate",
+            "encompass"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“conflate” means treat distinct things as though they were the same. Interest and approval are mistakenly treated as equivalent.",
+            "distractors": {
+              "0": "“juxtapose” means place things side by side, especially to invite comparison. The clue is that interest and approval are mistakenly treated as equivalent.",
+              "1": "“segregate” means keep groups physically or institutionally separate. The clue is that interest and approval are mistakenly treated as equivalent.",
+              "3": "“encompass” means include within a broad area or scope. The clue is that interest and approval are mistakenly treated as equivalent."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "conflate",
+              "hebrew": "לערבב בין מושגים, לזהות בטעות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-11-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The repairs proceeded in a ____ fashion: each corridor was patched as problems arose, without an overall plan for renovating the building.",
+          "options": [
+            "piecemeal",
+            "perfunctory",
+            "systematic",
+            "scrupulous"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“piecemeal” means done in separate, uncoordinated stages. The work was fragmented and lacked an overarching plan.",
+            "distractors": {
+              "1": "“perfunctory” means done mechanically with minimal care or interest. The clue is that the work was fragmented and lacked an overarching plan.",
+              "2": "“systematic” means carried out according to an organised procedure. The clue is that the work was fragmented and lacked an overarching plan.",
+              "3": "“scrupulous” means extremely careful about details or about doing what is right. The clue is that the work was fragmented and lacked an overarching plan."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "piecemeal",
+              "hebrew": "מקוטע, בשלבים נפרדים"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-11-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The discussion was ____: participants moved from one unrelated topic to another without resolving any of them.",
+          "options": [
+            "punctilious",
+            "desultory",
+            "assiduous",
+            "judicious"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“desultory” means lacking a sustained plan, purpose, or focus. The conversation repeatedly loses focus and has no sustained direction.",
+            "distractors": {
+              "0": "“punctilious” means exacting about minor details of procedure or etiquette. The clue is that the conversation repeatedly loses focus and has no sustained direction.",
+              "2": "“assiduous” means showing persistent care and effort. The clue is that the conversation repeatedly loses focus and has no sustained direction.",
+              "3": "“judicious” means showing sound judgment and discretion. The clue is that the conversation repeatedly loses focus and has no sustained direction."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "desultory",
+              "hebrew": "חסר שיטתיות, מקוטע"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-11-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "To support the revised chronology, the historian could ____ no fewer than three newly discovered letters bearing consistent dates.",
+          "options": [
+            "gainsay",
+            "impugn",
+            "adduce",
+            "avow"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“adduce” means bring forward evidence or reasons in support of a case. The letters are brought forward as evidence for a chronology.",
+            "distractors": {
+              "0": "“gainsay” means deny or dispute the truth of a statement. The clue is that the letters are brought forward as evidence for a chronology.",
+              "1": "“impugn” means attack the honesty, validity, or integrity of something. The clue is that the letters are brought forward as evidence for a chronology.",
+              "3": "“avow” means declare one's belief, commitment, or responsibility openly. The clue is that the letters are brought forward as evidence for a chronology."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "adduce",
+              "hebrew": "להביא כראיה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-11-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The author wanted to ____ the appendix's argument into the main chapter so readers would encounter it as part of the central analysis.",
+          "options": [
+            "insulate",
+            "extricate",
+            "extrude",
+            "incorporate"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“incorporate” means include something as an integral part of a larger whole. The material becomes an integral part of a larger chapter.",
+            "distractors": {
+              "0": "“insulate” means protect from an outside influence. The clue is that the material becomes an integral part of a larger chapter.",
+              "1": "“extricate” means free from an entanglement or a difficult situation. The clue is that the material becomes an integral part of a larger chapter.",
+              "2": "“extrude” means force material out through an opening to give it shape. The clue is that the material becomes an integral part of a larger chapter."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "incorporate",
+              "hebrew": "לשלב כחלק מ־"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-11-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-11-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Reading an Absence in a Map",
+        "paragraphs": [
+          "The most striking feature of an early map may be something that the mapmaker failed to include. A footpath known to later residents might stop at a field boundary, while a larger road continues across a blank portion of the sheet. It is tempting to read the blank as evidence that nobody passed that way. Before doing so, a historian needs to know what the map was commissioned to show and how its information was gathered. A feature could have been immaterial to the commission, difficult to observe, or too familiar for the mapmaker's intended readers to require a label.",
+          "Imagine two surveys of the same agricultural valley. One was prepared after heavy rain to investigate damage to bridges. The other was made in a dry season to settle disagreements about rights of passage. In the bridge survey, paths that did not lead to a crossing drew little attention. The second survey plotted such paths in great detail but failed to distinguish temporary repairs from enduring structures. Both accounts can be accurate enough for their respective purposes. Combining them into a composite map without preserving information about those purposes would make the differences look accidental rather than informative.",
+          "One strategy is to examine the places where a survey's priorities change the detail on the page. If the bridge map suddenly becomes crowded around a tributary, the density may reflect focused observation rather than a more developed settlement. Reports sent with the survey can indicate whether an assistant walked the ground or copied the outline from an older plan. That information helps determine how strongly an omission should count as evidence. A surveyor who was asked to note every crossing in a small area and spent considerable time there left a different kind of silence from a compiler who traced the area's outline as a backdrop.",
+          "Other records provide a check. A route missing from both surveys might appear in a letter describing the distance between two farms. That letter could refer to a shortcut available in summer rather than a permanent path. The historian need not decide immediately in favour of one source. The disagreement can narrow the question to the kinds of movement each source could register. When examined this way, a blank can invite a better inquiry about the map's production and use instead of ending an inquiry about what was present on the ground."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What principle governs the passage's interpretation of cartographic omissions?",
+          "options": [
+            "A feature absent from two surveys is unlikely to have existed in any form.",
+            "The most detailed surviving map should replace all other sources.",
+            "A historical map should never be interpreted alongside personal correspondence.",
+            "An omission has evidentiary force only in light of the map’s purpose, production and other records."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The examples distinguish focused surveying from copying and use independently recorded travel as a check.",
+            "distractors": {
+              "0": "The closing example identifies a possible shortcut despite absence from both.",
+              "1": "Even detailed surveys emphasise different features.",
+              "2": "The letter provides a potentially useful check."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "cartographic",
+              "hebrew": "קרטוגרפי"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-11-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "If a small area is particularly dense with marks on the bridge survey, why might it be wrong to infer that the area was unusually settled?",
+          "options": [
+            "The marks necessarily identify errors added by later readers.",
+            "The bridge survey covered only towns fairly far from the valley.",
+            "The survey team may have devoted unusually close attention to it because of a nearby waterway.",
+            "The later survey made every bridge in the area disappear."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "A high density of marks can reflect the commission's focus rather than the area's development.",
+            "distractors": {
+              "0": "The author does not identify them as errors.",
+              "1": "The example explicitly places the survey in the valley.",
+              "3": "That survey prioritised rights of passage and did not make structures disappear."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "tributary",
+              "hebrew": "יובל"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-11-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author approach disagreement between maps and letters?",
+          "options": [
+            "As a productive opportunity to clarify what each kind of record could register.",
+            "As a reason to discard the private source in every instance.",
+            "As sufficient proof that the commission deliberately hid information.",
+            "As a purely technical problem solvable by putting the documents on one sheet."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The author uses conflict to specify questions about evidence and seasonal use.",
+            "distractors": {
+              "1": "No fixed hierarchy between the records is proposed.",
+              "2": "The causes considered include ordinary differences in purpose and opportunity.",
+              "3": "A composite can obscure meaningful differences."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "omission",
+              "hebrew": "השמטה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-11-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What is meant by “backdrop” in the example of the compiler who traced an outline?",
+          "options": [
+            "A set of notes that invalidates all observations on the ground.",
+            "Context included behind the survey's principal subject.",
+            "A temporary structure for crossing a tributary.",
+            "An instruction to conduct a second visit later in the season."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The outline supplies setting without requiring close investigation of the area.",
+            "distractors": {
+              "0": "The outline has a contextual role and does not itself invalidate other observations.",
+              "2": "The word describes the function of the drawn area, not a physical crossing.",
+              "3": "The compiler is described as tracing, with no later visit specified."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "backdrop",
+              "hebrew": "רקע"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-11-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Which difference between the two imagined surveys does the author specify?",
+          "options": [
+            "The bridge survey provided more precise records of who owned the land.",
+            "Both surveys differentiated temporary repairs from permanent structures.",
+            "The survey of access rights mapped paths that were of limited interest in the bridge survey.",
+            "The survey of access rights took place immediately after severe rain."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The access survey noted such paths closely while the bridge survey concentrated on crossings.",
+            "distractors": {
+              "0": "The passage describes damage to crossings, not land ownership.",
+              "1": "The access survey explicitly did not distinguish the two.",
+              "3": "That timing applies to the bridge survey."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "enduring",
+              "hebrew": "מתמשך"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-11-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-11-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "It is true that the debate was broadcast live, yet the public heard little about it afterward.",
+          "options": [
+            "Because the debate was broadcast live, the public heard little about it afterward.",
+            "The debate was broadcast live; nevertheless, the public heard little about it afterward.",
+            "The public heard little about it afterward only before it became clear that the debate was broadcast live.",
+            "The public heard little about it afterward, which prevented anyone from finding out whether the debate was broadcast live."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the debate was broadcast live” and “the public heard little about it afterward.”",
+            "distractors": {
+              "0": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast.",
+              "2": "It limits the second fact to an earlier time and adds a discovery that the original never mentions.",
+              "3": "It introduces an obstacle to discovering the first fact, which the original states directly."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-11-restatement-1-1"
+        },
+        {
+          "prompt": "Owing to the fact that the audience could not see the illustrations, the lecturer described each one aloud.",
+          "options": [
+            "The lecturer described each one aloud, but it is unknown whether the audience could not see the illustrations.",
+            "The lecturer described each one aloud; consequently, the audience could not see the illustrations.",
+            "The audience could not see the illustrations; nevertheless, the lecturer described each one aloud.",
+            "The audience could not see the illustrations; consequently, the lecturer described each one aloud."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the audience could not see the illustrations, leading to the result that the lecturer described each one aloud.",
+            "distractors": {
+              "0": "It casts doubt on the cause, which the original treats as an established fact.",
+              "1": "It reverses the direction of cause and result.",
+              "2": "It replaces the causal relationship with a concession."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-11-restatement-1-2"
+        },
+        {
+          "prompt": "Once the team has measured the doorway, the workshop will cut the replacement frame.",
+          "options": [
+            "The workshop will cut the replacement frame after the team has measured the doorway.",
+            "The workshop will not cut the replacement frame even after the team has measured the doorway.",
+            "The workshop will cut the replacement frame, regardless of whether the team has measured the doorway.",
+            "The workshop will cut the replacement frame before the team has measured the doorway."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled.",
+            "distractors": {
+              "1": "It denies the stated plan to carry out the second action.",
+              "2": "It makes the first event irrelevant to the timing of the second.",
+              "3": "It places the scheduled action before the event that the sentence puts first."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-11-restatement-1-3"
+        },
+        {
+          "prompt": "The operators will restart the passenger service only if the lake's water level rises.",
+          "options": [
+            "The operators will restart the passenger service only if it is impossible to establish that the lake's water level rises.",
+            "The operators will restart the passenger service in every case in which the lake's water level rises.",
+            "The operators will restart the passenger service whether or not the lake's water level rises.",
+            "The operators will restart the passenger service only on condition that the lake's water level rises."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The condition “the lake's water level rises” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "0": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met.",
+              "1": "It treats the condition as sufficient and promises the outcome whenever it is met.",
+              "2": "It removes the requirement by making the outcome independent of the condition."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-11-restatement-1-4"
+        },
+        {
+          "prompt": "The volunteer team seemed fast compared with the paid crew.",
+          "options": [
+            "The paid crew appeared to exceed the volunteer team in speed.",
+            "The volunteer team appeared to exceed the paid crew in speed.",
+            "The difference in speed was established when the paid crew worked faster than the volunteer team in a formal test.",
+            "The volunteer team appeared to match the paid crew in speed."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the paid crew, first. The comparison concerns speed.",
+            "distractors": {
+              "1": "It reverses the relative ranking of the two items.",
+              "2": "It turns an impression into a demonstrated finding and invents a formal test.",
+              "3": "It describes the two items as equal on the stated measure."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-11-restatement-1-5"
+        },
+        {
+          "prompt": "But for the volunteers' sketches, the team could not have determined the original positions of the stones.",
+          "options": [
+            "The team could not have determined the original positions of the stones because of the volunteers' sketches.",
+            "The team could not have determined the original positions of the stones in the absence of the volunteers' sketches.",
+            "Whether the volunteers' sketches made any difference to the outcome is unknown.",
+            "The team could not have determined the original positions of the stones even if the volunteers' sketches had still been a factor."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the team could not have determined the original positions of the stones” belongs to the hypothetical situation in which the volunteers' sketches was absent.",
+            "distractors": {
+              "0": "It attributes the hypothetical result to the presence of the factor rather than its absence.",
+              "2": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs.",
+              "3": "It predicts the same result without changing whether the factor was present."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-11-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-11-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the telescope meets every performance target, the observatory will retain its older instrument.",
+          "options": [
+            "The telescope meets every performance target; therefore, the observatory will retain its older instrument.",
+            "The observatory will retain its older instrument only in the event that the telescope meets every performance target.",
+            "The observatory will retain its older instrument, including in the event that the telescope meets every performance target.",
+            "The observatory may or may not retain its older instrument, depending on whether the telescope meets every performance target."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the telescope meets every performance target. The original leaves that case hypothetical.",
+            "distractors": {
+              "0": "It turns an open possibility into an established fact and presents it as the cause.",
+              "1": "It turns a condition that would make no difference into a requirement.",
+              "3": "It makes the outcome depend on the hypothetical condition."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-11-restatement-2-1"
+        },
+        {
+          "prompt": "The excavation director neither endorsed nor expressly rejected the hypothesis that the room had served as a kitchen.",
+          "options": [
+            "The excavation director accepted the hypothesis that the room had served as a kitchen in principle while withholding public support.",
+            "The excavation director initially backed the hypothesis that the room had served as a kitchen but later withdrew its endorsement.",
+            "The excavation director expressly rejected the hypothesis that the room had served as a kitchen, although it stopped short of explaining why.",
+            "The excavation director offered no endorsement of the hypothesis that the room had served as a kitchen and issued no explicit rejection either."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It invents an acceptance in principle, which cannot be inferred from the original.",
+              "1": "It invents a prior endorsement and a reversal of position.",
+              "2": "It asserts an explicit rejection, which the original rules out."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-11-restatement-2-2"
+        },
+        {
+          "prompt": "The panel's reluctance stemmed less from the cost of a second survey than from uncertainty about whether it could settle the dispute.",
+          "options": [
+            "The cost of a second survey was the greater contributor to the panel's reluctance, though uncertainty about whether it could settle the dispute also mattered.",
+            "The cost of a second survey and uncertainty about whether it could settle the dispute played equally important roles in the panel's reluctance.",
+            "Uncertainty about whether it could settle the dispute contributed more to the panel's reluctance than the cost of a second survey did.",
+            "The panel's reluctance was the principal reason for both the cost of a second survey and uncertainty about whether it could settle the dispute."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “uncertainty about whether it could settle the dispute” greater explanatory weight than “the cost of a second survey.”",
+            "distractors": {
+              "0": "It reverses the relative importance of the factors.",
+              "1": "It makes the factors equally important despite the stated inequality.",
+              "3": "It makes the outcome cause the factors that are supposed to explain it."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-11-restatement-2-3"
+        },
+        {
+          "prompt": "The panel did not award the contract until the bidder had clarified the maintenance costs.",
+          "options": [
+            "The panel awarded the contract before the bidder had clarified the maintenance costs.",
+            "The panel awarded the contract only after the bidder had clarified the maintenance costs.",
+            "The panel awarded the contract as evidence that the bidder had clarified the maintenance costs.",
+            "The panel did not award the contract, although the bidder had clarified the maintenance costs."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "0": "It reverses the sequence by placing the main action first.",
+              "2": "It turns a timing relationship into an assertion about the actor’s purpose.",
+              "3": "It makes the main action fail to occur, whereas the original reports that it happened later."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-11-restatement-2-4"
+        },
+        {
+          "prompt": "Of the routes on the original map, none cross the marsh with the sole exception of the eastern route.",
+          "options": [
+            "The eastern route crosses the marsh; the others in the same group do not.",
+            "The eastern route crosses the marsh, and at least one other member of the group shares that distinction.",
+            "It has not been determined whether the eastern route crosses the marsh.",
+            "All the routes on the original map cross the marsh except the eastern route."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the eastern route is the single item that has the stated property.",
+            "distractors": {
+              "1": "It allows a second exception even though “sole” limits the number to one.",
+              "2": "It changes an explicit exception into an uncertainty.",
+              "3": "It gives the property to the entire group except the one item that actually has it."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-11-restatement-2-5"
+        },
+        {
+          "prompt": "Supposing that the council had published a draft before the hearing, residents might have raised different concerns.",
+          "options": [
+            "Residents would certainly have raised different concerns if the council had published a draft before the hearing.",
+            "Residents might have raised different concerns only if the council had published a draft before the hearing.",
+            "Residents might have raised different concerns if the council had published a draft before the hearing.",
+            "Because the council had published a draft before the hearing, residents must have raised different concerns."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "This is a past counterfactual. The opening clause introduces an unrealized condition and “might have” presents the result as possible under that condition.",
+            "distractors": {
+              "0": "It turns a possible outcome into a guaranteed one.",
+              "1": "It adds a requirement that no other scenario could have produced the outcome.",
+              "3": "It asserts an actual outcome and treats the unrealized condition as fact."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "might have",
+              "hebrew": "ייתכן שהיה / הייתה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-11-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-11-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "How Dark Should a Telescope Be?",
+        "paragraphs": [
+          "When a city replaces streetlights, the effects may be visible far beyond the streets being illuminated. Some light travels directly upward, while some initially travels toward the ground and is subsequently reflected. When particles and molecules in the atmosphere scatter that light, the night sky becomes noticeably brighter. A telescope aimed above the horizon may have to distinguish the light of a distant galaxy from an artificial glow created by lamps many kilometres away. The glow does not usually make a galaxy disappear. Instead, it increases the uncertainty involved in separating an already weak signal from its background.",
+          "A lamp fixture designed to direct light downward can reduce the first route by which light reaches the sky. It cannot prevent a pale concrete road or a wet pavement from reflecting part of the beam. The colour of the lamp also matters, partly because short wavelengths scatter efficiently in clear air. Comparing two cities by the number of lamps they operate may therefore give the wrong impression of the effect at an observatory. The intensity, spectrum and direction of the emissions all matter, as do the materials and weather between the lamps and the telescope.",
+          "Some observers address the problem with filters that reject a narrow range of wavelengths. This works well when the irritating emission is concentrated in a few spectral lines, leaving the rest of the spectrum comparatively undisturbed. A broad source creates a more difficult problem. Rejecting the entire range of wavelengths where that source emits could also block much of the light from the star or galaxy under study. A filter is most effective when the unwanted light and the desired signal differ in spectral character. Filters selected for one problem can prove far less effective when a city changes the type of light it produces.",
+          "Darkness can thus be treated as a resource shared by the people who operate lighting and those who study the sky. An observatory's immediate surroundings are important, but managing only the nearest lamp will not restore darkness lost to a distant commercial district. The most useful improvements combine attention to where light is needed, when it is needed and what wavelengths it emits. This approach leaves room for urban lighting while acknowledging an important physical fact: light directed carelessly can travel well outside the place it was intended to serve."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What is the main claim of the passage on telescope observing conditions?",
+          "options": [
+            "Lamp count alone reliably predicts observing quality.",
+            "Reducing artificial skyglow requires accounting for routes, wavelengths and locations of emitted light.",
+            "A galaxy disappears as soon as a single nearby streetlamp turns on.",
+            "All urban lighting must be forbidden to protect observatories."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The text connects reflection, atmospheric scattering, filtering and regional lighting choices.",
+            "distractors": {
+              "0": "The passage explicitly lists factors missed by counting lamps.",
+              "2": "The glow makes a weak signal harder to distinguish, instead of automatically removing it.",
+              "3": "The proposed approach leaves room for lighting used selectively."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "emission",
+              "hebrew": "פליטה"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-11-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Which change could make an existing narrow filter less useful to an observatory?",
+          "options": [
+            "Replacing sources concentrated in a few lines with sources emitting broadly.",
+            "Tilting fixtures so more of their light reaches the intended ground surface.",
+            "Reducing the number of lamps of the same type.",
+            "Moving the telescope farther from an unchanged light source."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "A narrow filter blocks much less of a broad glow, while a broad filter sacrifices the target signal.",
+            "distractors": {
+              "1": "This can reduce direct upward emissions without changing the filter's match to wavelength.",
+              "2": "That lowers potential glow without altering the spectral match.",
+              "3": "Distance alone does not make the source broad spectrum."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "spectral line",
+              "hebrew": "קו ספקטרלי"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-11-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "What attitude does the writer take toward street lighting near dark sky sites?",
+          "options": [
+            "Hostile to any use of light after dark.",
+            "Optimistic that filters have already solved the entire problem.",
+            "Indifferent to artificial light beyond the nearest village.",
+            "Pragmatic, encouraging precise control rather than treating lighting and observation as incompatible."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The conclusion discusses where, when and at what wavelengths light is needed.",
+            "distractors": {
+              "0": "The writer explicitly sees room for urban lighting.",
+              "1": "Broad emissions make filters less useful.",
+              "2": "The passage notes the effect of a distant commercial district."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "skyglow",
+              "hebrew": "זוהר שמיים מלאכותי"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-11-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “undisturbed” mean in the filtering paragraph?",
+          "options": [
+            "No longer detectable by the telescope.",
+            "Equally bright in every wavelength.",
+            "Largely unaffected by the rejected wavelengths.",
+            "Changed into a different frequency."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "A narrow filter leaves most of the spectrum available for observation.",
+            "distractors": {
+              "0": "The unblocked spectrum remains detectable.",
+              "1": "Unchanged does not mean uniform.",
+              "3": "The description concerns blocking light, not conversion."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "undisturbed",
+              "hebrew": "ללא הפרעה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-11-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Why can a downward-pointing fixture still contribute to skyglow?",
+          "options": [
+            "Short wavelengths cease to scatter after first hitting the road.",
+            "All light emitted downward automatically changes into heat before reaching the ground.",
+            "The telescope reflects all incident light toward the city.",
+            "The surface it illuminates can send some light back upward."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The text gives pale concrete and wet pavement as reflecting surfaces.",
+            "distractors": {
+              "0": "The passage gives scattering as one reason light brightens the sky.",
+              "1": "Some remains light and can be reflected.",
+              "2": "The troublesome return starts with lit surfaces, not telescopes."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "fixture",
+              "hebrew": "גוף תאורה"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-11-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3042 @@
+[
+  [
+    {
+      "difficulty": 2,
+      "prompt": "Because the public hearing ended before everyone could speak, the chair agreed to ____ the period for written comments by two weeks.",
+      "options": [
+        "extend",
+        "shorten",
+        "divide",
+        "ignore"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Adding two weeks makes the time available for written comments longer.",
+        "distractors": {
+          "1": "Taking time away would be the opposite of adding two weeks.",
+          "2": "The announcement adds time to one period rather than separating it into parts.",
+          "3": "The chair changed the time limit rather than disregarding it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "extend",
+          "hebrew": "להאריך"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Before the meeting, the secretary will ____ the draft among all committee members so that each can propose changes.",
+      "options": [
+        "compile",
+        "circulate",
+        "retrieve",
+        "conceal"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Sending copies to everyone in the group is circulating the draft.",
+        "distractors": {
+          "0": "Compiling would mean assembling the draft or its material, a step that precedes sending it.",
+          "2": "Retrieving a copy does not get it to every member.",
+          "3": "Concealing would prevent the review the secretary wants."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "circulate",
+          "hebrew": "להפיץ"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The sign was ____ because its arrow appeared to point toward the entrance but actually directed visitors to a loading bay.",
+      "options": [
+        "outdated",
+        "legible",
+        "misleading",
+        "unfamiliar"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The arrow gave visitors a false impression about where to go.",
+        "distractors": {
+          "0": "The sentence describes the wrong impression and supplies no evidence that the sign was once correct.",
+          "1": "Legibility concerns whether the sign is easy to read, whereas the problem is where the arrow directs visitors.",
+          "3": "A new or unfamiliar sign can still point the right way."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "misleading",
+          "hebrew": "מטעה"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The researchers found that the coating did not kill the seeds, but it did ____ germination: fewer seeds sprouted, and those that did took longer.",
+      "options": [
+        "initiate",
+        "synchronize",
+        "accelerate",
+        "inhibit"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Germination was made slower or less likely while the seeds remained alive.",
+        "distractors": {
+          "0": "The coating made sprouting less frequent and slower rather than getting it started.",
+          "1": "The results concern failures and delays, with no evidence that the seeds sprouted at the same time.",
+          "2": "Faster germination would mean the seeds took less time to sprout."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "inhibit",
+          "hebrew": "לעכב; לדכא"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "Visitors formed a ____ at the only open ticket desk and waited for their turn.",
+      "options": [
+        "queue",
+        "circle",
+        "team",
+        "crowd"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The visitors arranged themselves in a line to be served one at a time.",
+        "distractors": {
+          "1": "This shape has no clear first or last place for service.",
+          "2": "Waiting in turn does not make the visitors a group working together.",
+          "3": "A crowd need not have the ordered places suggested by waiting for one's turn."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "queue",
+          "hebrew": "תור"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "Because tickets often sold out before the day of the concert, the organizer advised guests to ____ seats online ahead of time.",
+      "options": [
+        "count",
+        "reserve",
+        "check",
+        "rearrange"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "An advance booking makes particular seats available to those guests.",
+        "distractors": {
+          "0": "Counting seats does not hold any for the guests.",
+          "2": "Checking availability does not secure seats.",
+          "3": "Changing the seating arrangement is unnecessary; guests need to claim seats before sales close."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "reserve",
+          "hebrew": "להזמין מראש"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "A grant paid for installing the playground equipment, but the town still needed a yearly budget to ____ it and replace worn parts.",
+      "options": [
+        "exhibit",
+        "assemble",
+        "maintain",
+        "select"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Routine repairs and replacements keep the equipment in usable condition.",
+        "distractors": {
+          "0": "The yearly costs concern keeping the equipment usable rather than displaying it.",
+          "1": "The equipment had already been installed.",
+          "3": "The identity of the equipment has already been decided."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "maintain",
+          "hebrew": "לתחזק"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "With the room needed for another event and two agenda items still unresolved, the board voted to ____ until the following morning.",
+      "options": [
+        "postpone",
+        "deliberate",
+        "ratify",
+        "adjourn"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The board decided to stop the sitting and continue its unfinished business later.",
+        "distractors": {
+          "0": "The meeting is already under way. The vote ends its present sitting rather than delaying its start.",
+          "1": "The room was no longer available for deliberations to continue.",
+          "2": "Ratifying would give formal approval to something; the unresolved items remain open."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "adjourn",
+          "hebrew": "לנעול ישיבה; לדחות את המשכה"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The shutters were added to ____ the temperature swings inside the greenhouse, keeping the room cooler at noon and warmer overnight.",
+      "options": [
+        "moderate",
+        "document",
+        "intensify",
+        "reverse"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Both changes reduce the difference between daily highs and lows.",
+        "distractors": {
+          "1": "The shutters affect temperatures themselves rather than simply recording them.",
+          "2": "Cooling the hottest hours and warming the coldest hours makes the swings smaller.",
+          "3": "Bringing highs and lows closer together does not turn day into the cooler period."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "moderate",
+          "hebrew": "למתן"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The parallel was long ____: several writers reported the two customs separately, and no one pointed out their similarity until the latest survey.",
+      "options": [
+        "established",
+        "overlooked",
+        "exaggerated",
+        "disputed"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Earlier writers failed to notice or draw attention to the similarity.",
+        "distractors": {
+          "0": "The finding had not been identified, let alone firmly demonstrated.",
+          "2": "The comparison received too little attention; it had not been made to look more striking than it was.",
+          "3": "The similarity was unnoticed rather than the subject of published disagreement."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "overlooked",
+          "hebrew": "שלא הבחינו בו; שהתעלמו ממנו"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The caretaker used the new key to ____ the side door so the delivery could come inside.",
+      "options": [
+        "repair",
+        "close",
+        "clean",
+        "unlock"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Turning the key made it possible to open the secured door.",
+        "distractors": {
+          "0": "No fault or damage to the door is described.",
+          "1": "The delivery needed to enter rather than be shut outside.",
+          "2": "Cleaning would not explain the use of a key."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "unlock",
+          "hebrew": "לפתוח מנעול"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The crane could not be operated safely in strong winds, so workers had to ____ the lift until conditions improved.",
+      "options": [
+        "postpone",
+        "reverse",
+        "record",
+        "approach"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The lift was moved to a later time because of the wind.",
+        "distractors": {
+          "1": "The sentence does not say a lift had begun and needed undoing.",
+          "2": "A recording would not remove the safety risk.",
+          "3": "Moving nearer to the lift does not explain why the workers had to wait."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "postpone",
+          "hebrew": "לדחות"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "To make sure each booth was covered, the coordinator used a roster to ____ one volunteer to every booth.",
+      "options": [
+        "introduce",
+        "assign",
+        "attach",
+        "train"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The coordinator designated who should work at each booth.",
+        "distractors": {
+          "0": "No one is being presented to someone else; the roster distributes people across posts.",
+          "2": "The roster establishes duties rather than physically fastening volunteers to booths.",
+          "3": "The stated aim is coverage; the roster does not teach the volunteers how to do the job."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "assign",
+          "hebrew": "להקצות; להטיל"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The mural was designed to ____ life in the old harbor, with painted scenes of dock workers, rope makers, and fish sellers.",
+      "options": [
+        "depict",
+        "reform",
+        "document",
+        "commemorate"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The painted scenes represent everyday life in the harbor.",
+        "distractors": {
+          "1": "Showing the activities of harbor workers does not change the way they worked.",
+          "2": "The sentence describes visual representation and makes no claim that the mural was assembled as a factual record.",
+          "3": "The focus is on portraying everyday scenes rather than marking a specific person, event, or anniversary."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "depict",
+          "hebrew": "לתאר; להציג"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The two workshops covered the same topics and charged the same fee, but the first took three hours and the second six, so they differed in ____ alone.",
+      "options": [
+        "scope",
+        "sequence",
+        "frequency",
+        "duration"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Duration is elapsed time, the one difference the sentence identifies.",
+        "distractors": {
+          "0": "The scope is the set of topics covered, and that was the same.",
+          "1": "No difference in the order of topics is stated.",
+          "2": "Frequency would concern how often workshops take place rather than how long each takes."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "duration",
+          "hebrew": "משך"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "To see whether the striking observation was reproducible, a second team tried to ____ the experiment with the same materials and procedure.",
+      "options": [
+        "extend",
+        "summarize",
+        "replicate",
+        "reconstruct"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The team repeated the experiment in order to check whether the observation recurred.",
+        "distractors": {
+          "0": "Extending the experiment would add conditions, steps, or duration; the follow-up kept the procedure the same.",
+          "1": "A summary would describe the earlier experiment rather than conduct it again.",
+          "3": "The procedure was already known; the team reran it rather than trying to infer what the first team had done."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "replicate",
+          "hebrew": "לשחזר; לחזור על ניסוי"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The shop sent a driver to ____ a meal to a customer who could not come in person.",
+      "options": [
+        "order",
+        "cook",
+        "store",
+        "deliver"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The driver takes the meal to the customer's location.",
+        "distractors": {
+          "0": "The customer already requested the meal; the driver is taking it to them.",
+          "1": "The driver is sent out after the food is prepared.",
+          "2": "The aim is for the customer to receive the meal rather than have it put away."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "deliver",
+          "hebrew": "למסור; לספק"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "Before accepting the shipment, staff needed to ____ the cartons for signs of water damage.",
+      "options": [
+        "inspect",
+        "replace",
+        "seal",
+        "repair"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Checking the cartons closely would reveal whether water had damaged them.",
+        "distractors": {
+          "1": "Replacement would follow a finding of damage, not establish it.",
+          "2": "Closing or wrapping the cartons would not determine their condition.",
+          "3": "Repair work would follow inspection if any damage were found."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "inspect",
+          "hebrew": "לבדוק מקרוב"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "The council postponed the vote so that supporters and opponents would have another chance to ____ the proposal in public.",
+      "options": [
+        "approve",
+        "amend",
+        "announce",
+        "debate"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The two sides are being given time to discuss and argue about the proposal.",
+        "distractors": {
+          "0": "Approval is the decision the postponed vote would determine.",
+          "1": "Discussion may lead to changes, but the purpose stated here is to hear opposing arguments.",
+          "2": "Both sides are already familiar with the proposal."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "debate",
+          "hebrew": "לדון; להתווכח"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The pool's attendance figures ____ throughout the year, rising during school breaks and falling again when lessons resumed.",
+      "options": [
+        "accumulate",
+        "stagnate",
+        "fluctuate",
+        "converge"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Repeated increases and decreases are fluctuations.",
+        "distractors": {
+          "0": "Attendance in one period can fall; a running accumulation would only grow.",
+          "1": "The alternating rises and falls are the opposite of remaining unchanged.",
+          "3": "No two sets of figures are moving toward the same value."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "fluctuate",
+          "hebrew": "להשתנות לסירוגין"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Only residents who had lived in the district for a full year were ____ to apply, so a tenant who moved in six months earlier had to wait.",
+      "options": [
+        "obliged",
+        "eligible",
+        "inclined",
+        "prepared"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The one-year rule determines who qualifies to apply.",
+        "distractors": {
+          "0": "The rule permits some people to apply; it does not make application compulsory.",
+          "2": "Inclination is a personal preference, whereas the rule sets an external requirement.",
+          "3": "The tenant's readiness would not change the one-year requirement."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "eligible",
+          "hebrew": "זכאי; עומד בתנאים"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "Although the estimate was initially based on a single excavation, results from two independent sites helped ____ confidence in it.",
+      "options": [
+        "bolster",
+        "restore",
+        "measure",
+        "temper"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Independent supporting evidence makes the estimate more credible and strengthens confidence.",
+        "distractors": {
+          "1": "The sentence does not say confidence had previously been lost.",
+          "2": "The results provided supporting evidence rather than a numerical reading of confidence.",
+          "3": "Tempering confidence would mean moderating it, while the new evidence supports it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "bolster",
+          "hebrew": "לחזק"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "When the group played a guessing game, one person would ____ a coin under a cup and the others would try to find it.",
+      "options": [
+        "return",
+        "drop",
+        "hide",
+        "trade"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The coin is put out of sight so the other players can search for it.",
+        "distractors": {
+          "0": "No earlier owner or position is mentioned.",
+          "1": "A drop could be accidental; the game involves deliberate concealment.",
+          "3": "The players do not exchange the coin for another object."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "hide",
+          "hebrew": "להחביא"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "Staff followed the pipe past each junction to ____ the leak to a cracked fitting behind a wall.",
+      "options": [
+        "measure",
+        "compare",
+        "report",
+        "trace"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "They followed a route to identify the leak's exact source.",
+        "distractors": {
+          "0": "No quantity of leaking water is specified.",
+          "1": "There is no second leak or fitting being compared with this one.",
+          "2": "Finding the source comes before notifying anyone about it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "trace",
+          "hebrew": "לאתר את המקור"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "Anyone planning to attend the free lecture must ____ by Thursday so the staff can reserve the right number of seats.",
+      "options": [
+        "register",
+        "renew",
+        "rehearse",
+        "arrive"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Signing up tells the staff how many people plan to come.",
+        "distractors": {
+          "1": "There is no existing subscription or prior reservation to extend.",
+          "2": "The people addressed are audience members rather than performers preparing for the lecture.",
+          "3": "Thursday is the deadline for reporting plans rather than necessarily the day of the event."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "register",
+          "hebrew": "להירשם"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Previous departments had followed different rules for naming files, so the office adopted a ____ naming system for the entire organization.",
+      "options": [
+        "customary",
+        "modular",
+        "selective",
+        "uniform"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The new system applies the same rules across departments.",
+        "distractors": {
+          "0": "The system was newly adopted; its chief feature is common application, not longstanding use.",
+          "1": "The sentence does not describe a system made of interchangeable parts.",
+          "2": "A selective system would be limited to certain files or groups, whereas this one applies throughout the office."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "uniform",
+          "hebrew": "אחיד"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The grant required the project director to ____ the renovation, review progress each week, and resolve problems raised by contractors.",
+      "options": [
+        "undertake",
+        "survey",
+        "oversee",
+        "outline"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Reviewing progress and dealing with problems are responsibilities of someone supervising the work.",
+        "distractors": {
+          "0": "The contractors perform the renovation; the director is described as supervising it.",
+          "1": "A survey would inspect or measure the site rather than manage the work week by week.",
+          "3": "Drawing up a general plan would not cover ongoing monitoring or problem-solving."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "oversee",
+          "hebrew": "לפקח על"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "A vague instruction to keep records for a reasonable period was replaced with a rule that will ____ exactly how many years they must be kept.",
+      "options": [
+        "propose",
+        "specify",
+        "approximate",
+        "question"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The revised wording gives a definite retention period.",
+        "distractors": {
+          "0": "The new duration is a binding requirement rather than a suggestion.",
+          "2": "An approximation would conflict with the precise number called for by the sentence.",
+          "3": "The new rule states the duration instead of expressing doubt about it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "specify",
+          "hebrew": "לציין במפורש"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "Before filling the jar with fresh water, Elena had to ____ the cloudy water that was already in it.",
+      "options": [
+        "mix",
+        "heat",
+        "empty",
+        "color"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "She needed to remove what the jar already contained.",
+        "distractors": {
+          "0": "Mixing the cloudy and fresh water would leave the old water in place.",
+          "1": "Heating would not make space for the new water.",
+          "3": "The problem was existing water in the jar rather than its color."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "empty",
+          "hebrew": "לרוקן"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "Whether the road through the pass reopens tomorrow will ____ on how quickly crews can clear the snow.",
+      "options": [
+        "dwell",
+        "agree",
+        "comment",
+        "depend"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The time needed to clear the snow determines whether the road can reopen.",
+        "distractors": {
+          "0": "To dwell on a topic is to keep thinking or talking about it; a reopening cannot do that.",
+          "1": "The decision is controlled by road conditions rather than consensus with those conditions.",
+          "2": "Reopening is an event rather than a speaker's response."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "depend",
+          "hebrew": "להיות תלוי (בביטוי depend on)"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "The weather station needed a ____ power supply because even a brief interruption could erase measurements waiting to be transferred.",
+      "options": [
+        "portable",
+        "dependable",
+        "compact",
+        "economical"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "A dependable supply is one that can be counted on to stay available.",
+        "distractors": {
+          "0": "The sentence highlights continuous service rather than ease of moving the equipment.",
+          "2": "The size of the equipment does not establish whether power will be interrupted.",
+          "3": "Running costs are secondary to the stated need for uninterrupted operation."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "dependable",
+          "hebrew": "אמין"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "To reduce differences between examiners, the handbook will ____ a fixed order in which they are to read the instructions.",
+      "options": [
+        "interpret",
+        "test",
+        "prescribe",
+        "describe"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "A prescribed order is formally laid down and must be followed.",
+        "distractors": {
+          "0": "The handbook sets the order rather than explaining the meaning of an existing order.",
+          "1": "No trial or comparison of orders is described.",
+          "3": "A description could report any order; the handbook establishes the one examiners must use."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "prescribe",
+          "hebrew": "לקבוע; להורות"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The original index was ____ in one important respect: it listed personal names but omitted every place name.",
+      "options": [
+        "inconsistent",
+        "redundant",
+        "misclassified",
+        "deficient"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The index lacked one entire category that it was expected to cover.",
+        "distractors": {
+          "0": "The omission was systematic, not an irregular treatment of individual place names.",
+          "1": "An index is redundant when it repeats information unnecessarily; the problem here is missing coverage.",
+          "2": "No place names were assigned to the wrong category; they were omitted."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "deficient",
+          "hebrew": "לקוי; חסר"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "To satisfy the reviewer, the authors had to show a ____ improvement in accuracy with test results that anyone could check.",
+      "options": [
+        "demonstrable",
+        "considerable",
+        "anticipated",
+        "relative"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The requested improvement had to be established with verifiable evidence.",
+        "distractors": {
+          "1": "A large gain would not meet the reviewer's requirement unless it was supported by evidence.",
+          "2": "An expected improvement would not substitute for actual test results.",
+          "3": "A comparison may be part of evaluating improvement, but verifiability is the stated requirement."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "demonstrable",
+          "hebrew": "ניתן להוכחה"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The timetable offered a ____ between an early coach and a later train, either of which would arrive before the match.",
+      "options": [
+        "route",
+        "choice",
+        "ticket",
+        "fare"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The traveler can choose one of two workable options.",
+        "distractors": {
+          "0": "The sentence provides alternative services rather than specifying a path through particular places.",
+          "2": "A ticket is bought after selecting a service; the timetable does not offer one ticket shared by both.",
+          "3": "The prices of the services are not given."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "choice",
+          "hebrew": "בחירה"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The tenant association decided to ____ a public explanation after the council raised fees without stating a reason.",
+      "options": [
+        "invent",
+        "repeat",
+        "demand",
+        "withdraw"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The association wanted the council to provide information it had withheld.",
+        "distractors": {
+          "0": "Making up an explanation would not obtain the council's real reasons.",
+          "1": "The council had not yet stated a reason for the increase.",
+          "3": "The association is seeking an explanation rather than taking back one it gave."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "demand",
+          "hebrew": "לדרוש"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "Several retired teachers offered to ____ their personal copies of the textbook to the school, asking nothing in return.",
+      "options": [
+        "rent",
+        "recommend",
+        "lend",
+        "donate"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Giving the books freely to the school is donating them.",
+        "distractors": {
+          "0": "A rental is temporary and usually involves payment.",
+          "1": "A recommendation would advise the school to use the book rather than give it the physical copies.",
+          "2": "A loan implies the books must be returned."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "donate",
+          "hebrew": "לתרום"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Because the two exhibition rooms were directly ____ to each other, visitors could pass from one to the other through a door in the shared wall.",
+      "options": [
+        "equivalent",
+        "adjacent",
+        "opposed",
+        "peripheral"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Adjacent rooms are directly next to each other.",
+        "distractors": {
+          "0": "The fact that they share a wall does not tell us that the rooms are equal in size or function.",
+          "2": "Rooms facing each other across a corridor would not share the wall described here.",
+          "3": "The rooms' position relative to the edge of the building is not given."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "adjacent",
+          "hebrew": "סמוך; צמוד"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The surveyors were asked to ____ interviews in person so they could explain any questions that participants found confusing.",
+      "options": [
+        "compile",
+        "screen",
+        "conduct",
+        "quote"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "To conduct interviews is to carry them out.",
+        "distractors": {
+          "0": "Compiling interview material would happen after it was collected.",
+          "1": "Screening would assess existing interviews or potential interviewees rather than carry out the conversations.",
+          "3": "Quoting interviews would reproduce words from completed conversations."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "conduct",
+          "hebrew": "לערוך; לבצע"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The new review process was deliberately ____, requiring two independent checks of every calculation and a written account of any disagreement.",
+      "options": [
+        "rigorous",
+        "expedited",
+        "selective",
+        "discretionary"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Independent checks and formal documentation make the process careful and demanding.",
+        "distractors": {
+          "1": "The new requirements make the review more thorough; nothing says it is intended to be faster.",
+          "2": "The policy covers every calculation rather than choosing a subset.",
+          "3": "The checks are required, so reviewers cannot decide freely whether to perform them."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "rigorous",
+          "hebrew": "קפדני; שיטתי"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "Instead of throwing the envelopes away, the staff decided to ____ them for internal mail.",
+      "options": [
+        "address",
+        "reuse",
+        "print",
+        "shred"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The envelopes will be used again for another purpose.",
+        "distractors": {
+          "0": "Writing addresses would be one step in mailing them but would not express the decision to keep using them.",
+          "2": "The decision concerns using existing envelopes rather than printing new ones.",
+          "3": "Shredding would destroy the envelopes instead of keeping them usable."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "reuse",
+          "hebrew": "להשתמש שוב"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The journal will ____ any submission it has already published, since the rules require all work to be new.",
+      "options": [
+        "revise",
+        "reserve",
+        "reject",
+        "register"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The journal will refuse to accept work that breaks the stated rule.",
+        "distractors": {
+          "0": "Making edits would not satisfy the requirement for new work.",
+          "1": "Setting the submission aside would leave open the possibility of publication.",
+          "3": "Recording receipt of a submission does not decide whether it is acceptable."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "reject",
+          "hebrew": "לדחות; לא לקבל"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "Hikers waited under a rock ledge that offered ____ from the sudden hailstorm.",
+      "options": [
+        "insight",
+        "permission",
+        "shelter",
+        "evidence"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The ledge gave them a protected place to wait.",
+        "distractors": {
+          "0": "The ledge provided physical protection, not improved understanding.",
+          "1": "The ledge did not authorize anyone to do anything.",
+          "3": "The ledge is described as useful for protection rather than as proof of a claim."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "shelter",
+          "hebrew": "מחסה"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The researcher invited other scientists to suggest factors that might ____ for the unexplained differences between the two sets of results.",
+      "options": [
+        "account",
+        "compensate",
+        "substitute",
+        "qualify"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "To account for a difference is to explain what caused it.",
+        "distractors": {
+          "1": "Compensating for differences would counterbalance their effects rather than explain their origin.",
+          "2": "Substituting for something means taking its place, while the observed differences remain the subject of inquiry.",
+          "3": "The scientists are being asked to explain the discrepancy rather than meet requirements."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "account",
+          "hebrew": "להסביר (בביטוי account for)"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The team issued a ____ conclusion, warning that it might change once measurements from the final site became available.",
+      "options": [
+        "collective",
+        "tentative",
+        "categorical",
+        "retrospective"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "A tentative conclusion is open to revision when more evidence arrives.",
+        "distractors": {
+          "0": "Nothing indicates how many people agreed to the conclusion; the warning concerns its certainty.",
+          "2": "A categorical conclusion is stated firmly without qualifications, unlike the conclusion here.",
+          "3": "The key feature is that more evidence is pending, not that the statement looks back on past events."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "tentative",
+          "hebrew": "ראשוני; לא סופי"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The reviewers decided to ____ their inquiry to records written before the boundary changed, excluding documents from every later year.",
+      "options": [
+        "extend",
+        "align",
+        "adapt",
+        "confine"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The reviewers limited the inquiry to a particular time range.",
+        "distractors": {
+          "0": "The decision excludes later records rather than adding them.",
+          "1": "Bringing the inquiry into agreement with other work is separate from restricting which records it includes.",
+          "2": "Adjusting the inquiry is a broad description; the sentence specifically says the reviewers set an exclusive limit."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "confine",
+          "hebrew": "להגביל לתחום"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "At dusk the park staff ____ the gates and lock them so that no one enters overnight.",
+      "options": [
+        "close",
+        "paint",
+        "remove",
+        "inspect"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The gates must be shut before they can block entry for the night.",
+        "distractors": {
+          "1": "Painting would not secure an entrance.",
+          "2": "Without the gates, there would be nothing to lock across the entrance.",
+          "3": "Looking at the gates does not make them a barrier to entry."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "close",
+          "hebrew": "לסגור"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "After the laptop failed, the technician managed to ____ most of the files from an external backup.",
+      "options": [
+        "erase",
+        "recover",
+        "translate",
+        "upload"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The backup allowed the technician to get the lost files back.",
+        "distractors": {
+          "0": "The goal was to retrieve copies rather than delete them.",
+          "2": "There is no change of language involved in taking files from a backup.",
+          "3": "The backup is the source from which the technician obtains the files, not a destination for uploading them."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "recover",
+          "hebrew": "להשיב; לחלץ"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "Before choosing where to put the new footpath, staff walked the entire site to ____ the terrain and mark slopes and obstacles on a map.",
+      "options": [
+        "cultivate",
+        "vacate",
+        "occupy",
+        "survey"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "They examined the land systematically and recorded its features.",
+        "distractors": {
+          "0": "The team examined the land rather than preparing it for crops.",
+          "1": "Leaving the site would not produce the information needed to choose the route.",
+          "2": "Being present on the land is not the stated task; collecting information about it is."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "survey",
+          "hebrew": "לסקר; לבדוק באופן שיטתי"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The trial protocol required samples to be frozen immediately, so leaving them at room temperature overnight would ____ the protocol.",
+      "options": [
+        "violate",
+        "confirm",
+        "amend",
+        "clarify"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Leaving samples out breaks an explicit requirement.",
+        "distractors": {
+          "1": "Compliance might confirm that the procedure was followed; leaving the samples out is noncompliance.",
+          "2": "Disregarding a requirement does not officially change it.",
+          "3": "The requirement is already explicit, and failing to follow it does not make it clearer."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "violate",
+          "hebrew": "להפר"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The wide-angle photograph made the corridor seem much longer than it actually was, showing how lens choice can ____ apparent proportions.",
+      "options": [
+        "preserve",
+        "standardize",
+        "distort",
+        "emphasize"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The lens gave a misleading impression of the relation between the corridor's dimensions.",
+        "distractors": {
+          "0": "The impression of greater length shows the proportions were not kept faithfully.",
+          "1": "The photograph does not bring dimensions into agreement with a standard.",
+          "3": "Emphasis would draw attention to a true characteristic; here the image alters the apparent proportion itself."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "distort",
+          "hebrew": "לעוות"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The appeal deadline had passed, leaving the tenant no ____ except to ask the board to reopen the case.",
+      "options": [
+        "incentive",
+        "recourse",
+        "mandate",
+        "obligation"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The tenant had only one remaining means of seeking a remedy.",
+        "distractors": {
+          "0": "The issue is what means of obtaining a review remained, not what motivation the tenant had.",
+          "2": "The tenant had no official authorization or order to act.",
+          "3": "The tenant was free not to pursue the matter; asking the board was simply the only way left to seek a review."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "recourse",
+          "hebrew": "אפשרות לפנות לקבלת סעד"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The baker decided to ____ the loaves a little longer because the dough in the middle was still raw.",
+      "options": [
+        "bake",
+        "slice",
+        "weigh",
+        "wrap"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "More time in the oven would finish cooking the bread.",
+        "distractors": {
+          "1": "Cutting the loaves would not cook their raw centers.",
+          "2": "The baker is addressing the raw dough rather than measuring weight.",
+          "3": "Wrapping would not finish cooking bread that is still raw."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "bake",
+          "hebrew": "לאפות"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "Before the water enters the drinking supply, plant staff ____ it to remove harmful organisms.",
+      "options": [
+        "sample",
+        "treat",
+        "measure",
+        "store"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The staff process the water to make it safe for drinking.",
+        "distractors": {
+          "0": "A sample can be tested but does not make the entire supply safer.",
+          "2": "Measuring the organisms would reveal how many are present, not remove them.",
+          "3": "Putting water aside is different from processing it to remove organisms."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "treat",
+          "hebrew": "לטפל ב־"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "To collect a library key, each visitor had to ____ a passport at reception and get it back when the key was returned.",
+      "options": [
+        "deposit",
+        "rent",
+        "inherit",
+        "renew"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The visitor left an item in another person's care for a limited time.",
+        "distractors": {
+          "1": "Reception did not pay to use the passport.",
+          "2": "The visitor already had the passport and was not acquiring it through inheritance.",
+          "3": "The passport was being held temporarily, not extended beyond its expiry date."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "deposit",
+          "hebrew": "להפקיד; להניח"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The first report only raised the possibility of contamination, but the second offered ____ evidence: the same contaminant was identified in every duplicate sample.",
+      "options": [
+        "peripheral",
+        "provisional",
+        "definite",
+        "conditional"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Repeated identification gives conclusive evidence that the contaminant was present.",
+        "distractors": {
+          "0": "The results address the central question directly.",
+          "1": "The sentence contrasts the first report's uncertainty with the second report's confirmation.",
+          "3": "The second report's conclusion is based on observed results, not contingent on an additional event."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "definite",
+          "hebrew": "חד משמעי; ברור"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Every branch must ____ to the agreed procedure for handling returns even if staff think a local variation would be faster.",
+      "options": [
+        "refer",
+        "adhere",
+        "defer",
+        "contribute"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The branches must follow the existing rules exactly.",
+        "distractors": {
+          "0": "Consulting the procedure is insufficient if the branch does not actually follow it.",
+          "2": "Putting a decision off does not explain the instruction to use the rule even when a local option seems faster.",
+          "3": "The procedure is already agreed; the branches are being asked to follow it, not help write it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "adhere",
+          "hebrew": "לדבוק; להקפיד על (בביטוי adhere to)"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The new casing is designed to ____ vibration before it reaches the sensors. Minor movement may still occur, but it should be much weaker.",
+      "options": [
+        "amplify",
+        "displace",
+        "replicate",
+        "attenuate"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The casing reduces the strength of the vibration without necessarily eliminating it.",
+        "distractors": {
+          "0": "Increasing the strength would conflict with the goal of weaker movement.",
+          "1": "Moving the vibration elsewhere is not what the stated reduction in strength describes.",
+          "2": "Producing another vibration would not be the described reduction."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "attenuate",
+          "hebrew": "להחליש"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The package was too heavy for Amir to ____ from the floor to the shelf without help.",
+      "options": [
+        "open",
+        "pack",
+        "drag",
+        "lift"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "He cannot raise the heavy item to the higher position by himself.",
+        "distractors": {
+          "0": "Moving the package upward does not require opening it.",
+          "1": "The package is already prepared; the difficulty is moving it vertically.",
+          "2": "Dragging keeps the item on a surface and would not get it onto the shelf."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "lift",
+          "hebrew": "להרים"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The survey found ____ errors in the records: nearly every entry contained at least one mistake.",
+      "options": [
+        "numerous",
+        "isolated",
+        "identical",
+        "minor"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Errors were found throughout the records, so there were many of them.",
+        "distractors": {
+          "1": "The errors were widespread rather than limited to a few entries.",
+          "2": "The sentence says how often mistakes occurred without saying they were all alike.",
+          "3": "Their frequency is specified but their seriousness is not."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "numerous",
+          "hebrew": "רבים"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "Before sending a technician, the office called the customer to ____ that someone would be home at the scheduled time.",
+      "options": [
+        "announce",
+        "promise",
+        "confirm",
+        "deny"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The office wanted to make sure that someone would be there.",
+        "distractors": {
+          "0": "The call was an inquiry about attendance rather than a public announcement.",
+          "1": "Whether anyone would be at home depended on the customer, not on a promise from the office.",
+          "3": "The office sought confirmation rather than asserting that no one would be home."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "confirm",
+          "hebrew": "לאשר; לאמת"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The field station occupied such a ____ location that the nearest village was two days away on foot.",
+      "options": [
+        "rugged",
+        "remote",
+        "exposed",
+        "restricted"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The distance from the nearest settlement shows the station was isolated and far away.",
+        "distractors": {
+          "0": "The travel time establishes remoteness without specifying whether the terrain is rough.",
+          "2": "The passage supplies no evidence about protection from the weather.",
+          "3": "Access may be difficult because of the distance, but no rule limits entry."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "remote",
+          "hebrew": "מרוחק"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "A thermostat was added to ____ the temperature, switching the heater off when the room warmed and back on when it cooled.",
+      "options": [
+        "record",
+        "equalize",
+        "raise",
+        "regulate"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The thermostat controls temperature by responding to changes as they occur.",
+        "distractors": {
+          "0": "The instrument changes the operation of the heater instead of just storing measurements.",
+          "1": "Only one room's temperature is mentioned, so several temperatures are not being brought into agreement.",
+          "2": "The thermostat can switch heating off as well as on; its goal is ongoing control."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "regulate",
+          "hebrew": "לווסת"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The handbook says that warnings are mandatory but that fines are ____: the inspector may decide whether to impose one.",
+      "options": [
+        "discretionary",
+        "compulsory",
+        "conditional",
+        "prohibitive"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The inspector has the freedom to decide whether a fine is appropriate.",
+        "distractors": {
+          "1": "A compulsory fine would have to be imposed rather than left to the inspector's choice.",
+          "2": "A conditional fine depends on specified requirements; the handbook gives the inspector judgment rather than a fixed trigger.",
+          "3": "A prohibitive fine would be so large as to deter an action. No amount is stated."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "discretionary",
+          "hebrew": "נתון לשיקול דעת"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The instructions say to ____ the water until it bubbles strongly before adding the pasta.",
+      "options": [
+        "freeze",
+        "strain",
+        "pour",
+        "boil"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Water bubbling strongly after heating has reached a boil.",
+        "distractors": {
+          "0": "Frozen water would be solid rather than bubbling.",
+          "1": "Separating water from something in a sieve would not make it bubble.",
+          "2": "Moving water between containers does not heat it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "boil",
+          "hebrew": "להרתיח"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "To ____ disturbing birds near their nests, the researchers observed them through binoculars from the far side of the field.",
+      "options": [
+        "avoid",
+        "tolerate",
+        "repeat",
+        "notice"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Keeping a distance was meant to prevent the researchers from disturbing the birds.",
+        "distractors": {
+          "1": "Tolerating a disturbance would mean putting up with it rather than preventing it.",
+          "2": "The researchers took steps not to cause disturbance.",
+          "3": "The aim was to leave the birds undisturbed rather than merely detect their reaction."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "avoid",
+          "hebrew": "להימנע מ־"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "Before drawing a conclusion about the park's busiest entrance, staff spent a week counting visitors at every gate to ____ comparable information.",
+      "options": [
+        "exchange",
+        "gather",
+        "broadcast",
+        "summarize"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The staff collected information by taking counts at all the gates.",
+        "distractors": {
+          "0": "The sentence describes obtaining new counts rather than swapping information already held.",
+          "2": "The counts are being made for an analysis; no public transmission is described.",
+          "3": "Summarizing would compress information after the counts had already been collected."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "gather",
+          "hebrew": "לאסוף"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "An official who requested an exception had to ____ it by explaining why following the normal rule would cause avoidable harm.",
+      "options": [
+        "publish",
+        "reverse",
+        "anticipate",
+        "justify"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The official had to give a reason showing that the exception was warranted.",
+        "distractors": {
+          "0": "The requirement concerns providing reasons rather than making a decision public.",
+          "1": "The exception is being requested, not withdrawn after approval.",
+          "2": "The official must explain the request rather than predict it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "justify",
+          "hebrew": "להצדיק; לנמק"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The note defined a negative balance explicitly so that readers would not ____ the minus signs in the table as printing errors.",
+      "options": [
+        "misinterpret",
+        "reclassify",
+        "dismiss",
+        "transpose"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Readers might otherwise assign the wrong meaning to the minus signs.",
+        "distractors": {
+          "1": "The warning concerns understanding notation, not formally moving numbers between categories.",
+          "2": "The risk is that readers will identify the signs as errors, not simply ignore them.",
+          "3": "Transposing would move characters to different positions; their location is not the problem."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "misinterpret",
+          "hebrew": "לפרש באופן שגוי"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "A leak was a ____ explanation for the falling water level, since the tank had an old seam, but the crew still needed to rule out a faulty gauge.",
+      "options": [
+        "definitive",
+        "negligible",
+        "plausible",
+        "conventional"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The old seam makes a leak possible and credible without proving that it occurred.",
+        "distractors": {
+          "0": "The need to rule out another explanation shows that the cause was not settled.",
+          "1": "A small effect could be negligible, but the adjective here describes whether an explanation is credible.",
+          "3": "The sentence supplies a reason to consider a leak possible rather than identifying it as the explanation customarily given."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "plausible",
+          "hebrew": "מתקבל על הדעת"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The map was too large for the pocket, so Maya had to ____ it along the marked lines before putting it away.",
+      "options": [
+        "tear",
+        "copy",
+        "fold",
+        "erase"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Bending the map along the lines makes it small enough to fit.",
+        "distractors": {
+          "0": "The lines guide how the map should be reduced in size without damage.",
+          "1": "Making a copy would leave the original map too large for the pocket.",
+          "3": "Erasing the lines would not make the map smaller."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "fold",
+          "hebrew": "לקפל"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The professor chose to ____ the invitation because she had already agreed to speak at another conference that day.",
+      "options": [
+        "extend",
+        "repeat",
+        "announce",
+        "decline"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "She turned the invitation down because she was unavailable.",
+        "distractors": {
+          "0": "Extending an invitation means sending it to someone; she is the recipient.",
+          "1": "The professor needs to respond to the invitation rather than issue it again.",
+          "2": "The scheduling conflict explains why she cannot accept rather than why she would publicize it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "decline",
+          "hebrew": "לסרב"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "When a street closed unexpectedly, the transit agency sent text messages to ____ passengers that their bus would stop a block away.",
+      "options": [
+        "survey",
+        "notify",
+        "direct",
+        "reassure"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The messages informed passengers about the changed stop.",
+        "distractors": {
+          "0": "The messages provided information instead of requesting passengers' views.",
+          "2": "The blank calls for a verb that introduces the information passengers received, not an instruction to carry out an action.",
+          "3": "The stated purpose was to inform passengers of the change; no concern is being addressed."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "notify",
+          "hebrew": "להודיע"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Before changing the pickup points, the planners agreed to ____ regular passengers and ask which locations they could reach safely.",
+      "options": [
+        "consult",
+        "brief",
+        "enlist",
+        "appoint"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The planners sought advice from passengers before deciding.",
+        "distractors": {
+          "1": "A briefing mainly gives information, while the planners want information and advice from passengers.",
+          "2": "Passengers are being asked for their views, not recruited to implement the change.",
+          "3": "No role or position is being assigned to passengers."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "consult",
+          "hebrew": "להיוועץ ב־"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "An unexpected power cut can ____ the conveyor's normal operation; even after power returns, the queued items must be sorted by hand.",
+      "options": [
+        "sustain",
+        "limit",
+        "disrupt",
+        "modify"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The interruption breaks the ordinary flow of work.",
+        "distractors": {
+          "0": "The power cut prevents the conveyor from operating normally rather than maintaining it.",
+          "1": "The conveyor stops and items are left in disorder; the sentence describes a disruption rather than an imposed limit on output.",
+          "3": "No intentional change to the machinery or operating procedure is made."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "disrupt",
+          "hebrew": "לשבש"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The laboratory kept spare lamps because the light source was ____ to the experiment: if it failed, no measurement could be taken.",
+      "options": [
+        "beneficial",
+        "subsidiary",
+        "convenient",
+        "indispensable"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The experiment could not produce measurements without the light source.",
+        "distractors": {
+          "0": "A beneficial tool may improve results but could still be optional.",
+          "1": "A secondary component is less central than the experiment's dependence on this source suggests.",
+          "2": "Convenience would make a task easier, while the source is necessary to perform it at all."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "indispensable",
+          "hebrew": "הכרחי; שאי אפשר בלעדיו"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "After the children tracked sand inside, a volunteer used a broom to ____ it off the floor.",
+      "options": [
+        "wipe",
+        "spread",
+        "sweep",
+        "spill"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The broom moves the sand away from the floor by sweeping.",
+        "distractors": {
+          "0": "Wiping generally uses a cloth to remove liquid or dirt rather than a broom to move grains.",
+          "1": "The goal is to move sand off the floor, not distribute it over a larger area.",
+          "3": "The sand was already on the floor; the volunteer removed it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "sweep",
+          "hebrew": "לטאטא"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The usual ____ to the station was blocked by construction, so the cyclists followed another path.",
+      "options": [
+        "pace",
+        "direction",
+        "departure",
+        "route"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "A route is the path taken to get somewhere.",
+        "distractors": {
+          "0": "The sentence concerns which path they took rather than how fast they traveled.",
+          "1": "Their destination did not change, and the clue concerns alternative paths to it.",
+          "2": "The blockage affected their path rather than when they set out."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "route",
+          "hebrew": "מסלול"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "Before the renovation, visitors could see the courtyard only through a window. A new gate will ____ them to enter it directly.",
+      "options": [
+        "require",
+        "encourage",
+        "persuade",
+        "permit"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The gate makes direct entry possible.",
+        "distractors": {
+          "0": "The gate creates an option and does not force visitors to enter.",
+          "1": "A gate can make entry inviting, but the contrast concerns whether physical access is possible.",
+          "2": "The change concerns a route into the courtyard, not an argument aimed at changing anyone's mind."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "permit",
+          "hebrew": "להתיר; לאפשר"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The footpaths follow the same ridge for a kilometre before they ____: one turns toward the river and the other continues uphill.",
+      "options": [
+        "converge",
+        "diverge",
+        "intersect",
+        "terminate"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "After sharing a route, the two paths separate in different directions.",
+        "distractors": {
+          "0": "Convergence would bring two separate routes together.",
+          "2": "The paths do not merely cross at one point; they split after following the ridge together.",
+          "3": "Both paths continue beyond the point at which they separate."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "diverge",
+          "hebrew": "להתפצל; להתרחק זה מזה"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The new apple variety can ____ a short freeze without lasting damage to its buds.",
+      "options": [
+        "tolerate",
+        "anticipate",
+        "prevent",
+        "offset"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Remaining healthy after the freeze shows that the variety can withstand it.",
+        "distractors": {
+          "1": "The issue is survival through freezing conditions rather than predicting their onset.",
+          "2": "The variety survives the freeze; it does not stop one from happening.",
+          "3": "The sentence describes enduring cold, not counterbalancing something with an opposing effect."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "tolerate",
+          "hebrew": "לסבול; לעמוד בתנאים"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "Several years of design revisions and small trial installations will ____ in a public demonstration of the completed system.",
+      "options": [
+        "originate",
+        "persist",
+        "culminate",
+        "participate"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The public demonstration is the final event toward which the earlier work leads.",
+        "distractors": {
+          "0": "The completed demonstration comes after the revisions and trials, so it is not their origin.",
+          "1": "Persistence is continuing despite difficulties, whereas the sentence identifies the outcome that concludes the work.",
+          "3": "The revisions and installations are earlier stages of work rather than participants in the event."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "culminate",
+          "hebrew": "להגיע לשיא או לנקודת סיום (בביטוי culminate in)"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The photographer hung the wet prints up to ____ before putting them in a box.",
+      "options": [
+        "frame",
+        "dry",
+        "sort",
+        "trim"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Hanging the prints allows moisture to leave them.",
+        "distractors": {
+          "0": "Framing would require other materials and would not remove the moisture.",
+          "2": "Sorting would put the prints in order rather than remove moisture.",
+          "3": "Cutting the edges does not make a wet print dry."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "dry",
+          "hebrew": "לייבש"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "With the bill for labor still unknown, the builders could only ____ the total cost rather than give a final figure.",
+      "options": [
+        "limit",
+        "reduce",
+        "estimate",
+        "verify"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The builders could give an approximate amount using incomplete information.",
+        "distractors": {
+          "0": "Putting a ceiling on cost is different from working out an approximate amount.",
+          "1": "They are trying to determine a possible total rather than make the work cheaper.",
+          "3": "There is not yet enough confirmed information to check an exact total."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "estimate",
+          "hebrew": "לאמוד"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "The tenants began to ____ the new parking fees, organizing a petition and asking the council to cancel the change.",
+      "options": [
+        "levy",
+        "justify",
+        "resist",
+        "accept"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The petition and request for cancellation are active opposition.",
+        "distractors": {
+          "0": "Levying a fee is charging it, which the tenants oppose rather than do themselves.",
+          "1": "The tenants argue for cancellation, not for the fee's legitimacy.",
+          "3": "Acceptance is inconsistent with organizing against the fee."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "resist",
+          "hebrew": "להתנגד"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The new exemption is ____ only to purchases made after July 1, so receipts dated in June cannot be used to claim it.",
+      "options": [
+        "available",
+        "sensitive",
+        "comparable",
+        "applicable"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The date determines which purchases fall under the exemption.",
+        "distractors": {
+          "0": "The sentence sets the rule's scope across purchases, rather than describing whether people can obtain an exemption.",
+          "1": "The exemption follows a defined date rule rather than reacting sensitively to changes.",
+          "2": "The category of purchases is being specified, not compared with the exemption."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "applicable",
+          "hebrew": "ישים; חל"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The case cracked when it fell, but the instrument inside remained ____: the technician could find no broken or missing parts.",
+      "options": [
+        "unaffected",
+        "intact",
+        "immobile",
+        "assembled"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The instrument stayed whole despite the damage to its case.",
+        "distractors": {
+          "0": "The inspection establishes that the components stayed physically whole; it does not establish that the fall had no effect on calibration or performance.",
+          "2": "Nothing indicates that the instrument stayed motionless during the fall.",
+          "3": "An object can stay assembled and still have damaged or missing parts."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "intact",
+          "hebrew": "שלם; ללא פגע"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "A larger batch would be cheaper to produce, but it could have ____ effects on quality because the oven heats unevenly when completely full.",
+      "options": [
+        "adverse",
+        "incidental",
+        "observable",
+        "beneficial"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Uneven heating could harm the quality of the products.",
+        "distractors": {
+          "1": "The sentence identifies the direction of the effect as harmful, regardless of whether it was intended.",
+          "2": "Uneven heating gives reason to expect poorer quality; the fact that an effect can be observed does not express that concern.",
+          "3": "Improved quality would not explain the contrast with the lower production cost."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "adverse",
+          "hebrew": "שלילי; מזיק"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "A single glove remained on the bench, but the other glove from the same ____ was missing.",
+      "options": [
+        "set",
+        "pair",
+        "row",
+        "layer"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The two matching gloves make a pair.",
+        "distractors": {
+          "0": "A set can contain any number of objects, whereas two matching gloves are ordinarily treated as one pair.",
+          "2": "The gloves are matching objects rather than items arranged in a line.",
+          "3": "The sentence does not describe gloves worn one over another."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "pair",
+          "hebrew": "זוג"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The final question was ____: participants could skip it and still submit a complete questionnaire.",
+      "options": [
+        "compulsory",
+        "introductory",
+        "optional",
+        "irrelevant"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "A question that may be left blank without penalty is optional.",
+        "distractors": {
+          "0": "A compulsory question could not be skipped when completing the questionnaire.",
+          "1": "The question is at the end, and its position does not explain whether it can be skipped.",
+          "3": "A question can be useful even when respondents are free not to answer it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "optional",
+          "hebrew": "רשות; לא חובה"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "The workers planned to ____ the apples before a storm, picking the ripe fruit and packing it in crates.",
+      "options": [
+        "harvest",
+        "cultivate",
+        "supply",
+        "sample"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Removing ripe fruit from trees is harvesting it.",
+        "distractors": {
+          "1": "Cultivation covers preparing for and tending growth rather than collecting ripe fruit.",
+          "2": "Supplying the fruit would involve providing it to a recipient, which the sentence does not mention.",
+          "3": "The aim is to gather the crop before the storm rather than take a few apples for testing."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "harvest",
+          "hebrew": "לקצור; לאסוף יבול"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "____ to the organizers' prediction that a later start would attract more participants, attendance actually fell after the schedule changed.",
+      "options": [
+        "subsequent",
+        "conducive",
+        "contrary",
+        "comparable"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The outcome ran opposite to the predicted increase.",
+        "distractors": {
+          "0": "The events are in chronological order, but that alone misses the explicit contrast between more participants and a decline.",
+          "1": "The outcome would have to help bring about the prediction or its result, which a decline did not do.",
+          "3": "The sentence says the result and forecast point in opposite directions; mere comparability does not express that contrast."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "contrary",
+          "hebrew": "מנוגד (בביטוי contrary to)"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Low ceilings ____ the design: every proposed display had to fit beneath a beam that could not be moved.",
+      "options": [
+        "diversify",
+        "justify",
+        "resolve",
+        "constrain"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The fixed clearance restricts which designs are possible.",
+        "distractors": {
+          "0": "The ceiling limits options rather than making more varied designs possible.",
+          "1": "A low ceiling is a limit on design, not proof that one proposal deserves approval.",
+          "2": "The fixed beam creates a requirement; it does not by itself settle the design."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "constrain",
+          "hebrew": "להגביל"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The records placed the vessel hundreds of kilometres away on the date given, so the witness's account of seeing it enter the harbor was no longer ____.",
+      "options": [
+        "detailed",
+        "credible",
+        "coherent",
+        "available"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The contradiction makes the account difficult to believe.",
+        "distractors": {
+          "0": "An account can remain detailed even if one of those details conflicts with the records.",
+          "2": "The account can make sense as a narrative even if the external records give reason to doubt it.",
+          "3": "The account is still available for evaluation; the problem is that it appears unreliable."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "credible",
+          "hebrew": "אמין; מתקבל על הדעת"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "Yara offered to ____ Omar her spare charger until he could buy one of his own.",
+      "options": [
+        "lend",
+        "sell",
+        "share",
+        "send"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Omar can use the charger temporarily before giving it back.",
+        "distractors": {
+          "1": "The arrangement is temporary rather than a purchase.",
+          "2": "He will borrow a spare charger rather than use one jointly with Yara.",
+          "3": "Sending describes transport but does not express the temporary transfer of use."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "lend",
+          "hebrew": "להשאיל"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "To ____ water use during the drought, the gardeners watered the plants less often.",
+      "options": [
+        "record",
+        "reduce",
+        "sustain",
+        "shift"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Watering less frequently is meant to lower consumption.",
+        "distractors": {
+          "0": "The change in frequency is a way of using less water; no measurements are being entered.",
+          "2": "The goal is to lower consumption rather than maintain its current level.",
+          "3": "The gardeners cut how often they watered rather than moving the same amount of watering to different times."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "reduce",
+          "hebrew": "להפחית"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "Few copies of the map ____ from the original printing because most were destroyed in a warehouse fire.",
+      "options": [
+        "emerge",
+        "descend",
+        "recover",
+        "survive"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The sentence concerns copies that continued to exist after the others burned.",
+        "distractors": {
+          "0": "The copies were already printed before the fire, and the issue is their continued existence.",
+          "1": "Copies do not pass down from one edition to another in the sense described here.",
+          "2": "The maps did not retrieve anything or return to a prior condition; some escaped destruction altogether."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "survive",
+          "hebrew": "לשרוד"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The instructions use symbols as well as colors so that readers who cannot see a difference in hue can still ____ between the two warning levels.",
+      "options": [
+        "alternate",
+        "mediate",
+        "differentiate",
+        "negotiate"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The symbols allow readers to tell the two levels apart.",
+        "distractors": {
+          "0": "Readers must distinguish the meanings rather than switch back and forth between the levels.",
+          "1": "No conflict between people or parties needs mediation.",
+          "3": "The warning levels were set in advance and are not being bargained over."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "differentiate",
+          "hebrew": "להבחין (בביטוי differentiate between)"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The gravel surface made the exact distance hard to measure, but the surveyors could give an ____ figure based on several paces.",
+      "options": [
+        "approximate",
+        "absolute",
+        "exhaustive",
+        "identical"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Pacing gives an estimate close to, but short of, an exact measurement.",
+        "distractors": {
+          "1": "An absolute figure is not the rough estimate the surveyors can provide.",
+          "2": "The limitation is measurement precision rather than completeness of a list.",
+          "3": "The passage does not specify another figure for their result to equal."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "approximate",
+          "hebrew": "מקורב; משוער"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The application rules begin with the ____ that applicants can cover their own travel expenses, although anyone may submit evidence that this is impossible.",
+      "options": [
+        "finding",
+        "presumption",
+        "stipulation",
+        "guarantee"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The ability to pay is treated as an assumption that later evidence can overturn.",
+        "distractors": {
+          "0": "A finding would be reached after examining evidence, whereas the rule starts with the claim before evidence is submitted.",
+          "2": "A stipulation would make ability to pay a stated requirement; these rules allow an applicant to disprove the initial assumption.",
+          "3": "The rules do not promise that every applicant can pay."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "presumption",
+          "hebrew": "הנחה מוקדמת"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "A large sign above the ____ showed visitors which door to use to go inside.",
+      "options": [
+        "entrance",
+        "counter",
+        "stairs",
+        "roof"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The correct door for going inside is an entrance.",
+        "distractors": {
+          "1": "A counter is a surface people may approach after entering.",
+          "2": "Stairs allow travel between levels and are not indicated by the clue about a door.",
+          "3": "The roof is above the building rather than the way in."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "entrance",
+          "hebrew": "כניסה"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The museum could exhibit the family letters only after the owners gave written ____ allowing it to do so.",
+      "options": [
+        "notice",
+        "consent",
+        "advice",
+        "evidence"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The owners had to give permission in writing.",
+        "distractors": {
+          "0": "A notice can share information without granting permission.",
+          "2": "Advice suggests what to do, whereas the owners were giving the museum a legal choice.",
+          "3": "Evidence would support a claim; it would not itself authorize display."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "consent",
+          "hebrew": "הסכמה"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "Staff kept the recovered bird indoors until it could fly normally and then decided to ____ it back into the wild.",
+      "options": [
+        "transfer",
+        "release",
+        "recruit",
+        "shelter"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Letting the recovered bird leave captivity is releasing it.",
+        "distractors": {
+          "0": "A transfer typically moves someone or something into another place or custody; the bird is allowed to return to freedom.",
+          "2": "The bird is not being signed up or brought into a group.",
+          "3": "The staff had been protecting the bird indoors; the decision ends that stay."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "release",
+          "hebrew": "לשחרר"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The lecture was planned to ____ with the annual fair, so both events opened on the same afternoon.",
+      "options": [
+        "alternate",
+        "compete",
+        "coincide",
+        "interfere"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The lecture and the fair occur at the same time.",
+        "distractors": {
+          "0": "Alternating would put the events at different times in turn.",
+          "1": "The shared starting time establishes coincidence, and the sentence says nothing about competition.",
+          "3": "The simultaneous start was planned, and no disruption of either event is mentioned."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "coincide",
+          "hebrew": "לחול באותו מועד (בביטוי coincide with)"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Short bursts of assistance helped individual growers, but the district's long-term effort required ____ support that would continue for several seasons.",
+      "options": [
+        "sustained",
+        "periodic",
+        "immediate",
+        "sporadic"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The aid needs to be maintained over an extended period.",
+        "distractors": {
+          "1": "Periodic support would arrive at intervals, whereas the statement calls for aid that continues across seasons.",
+          "2": "The emphasis is how long support lasts rather than how quickly it begins.",
+          "3": "Occasional bursts of assistance are precisely what the district says are insufficient."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "sustained",
+          "hebrew": "ממושך; רציף"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "When instructions conflict, the latest safety notice takes ____ over the older handbook, so staff must follow the notice.",
+      "options": [
+        "exception",
+        "obligation",
+        "authority",
+        "precedence"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Taking precedence means having priority when both instructions cannot be followed.",
+        "distractors": {
+          "0": "The notice outranks the handbook; no particular case is being exempted.",
+          "1": "An obligation is a duty imposed on someone; the sentence concerns the ranking of the documents.",
+          "2": "Authority is power or legitimacy; the established expression for priority in this context is takes precedence over."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "precedence",
+          "hebrew": "קדימות; עדיפות"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The waiter carried four glasses across the room on a flat ____ with raised edges.",
+      "options": [
+        "lid",
+        "shelf",
+        "cloth",
+        "tray"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "A tray provides a flat surface for carrying several items together.",
+        "distractors": {
+          "0": "A lid covers an opening and is not normally used to carry drinks.",
+          "1": "A shelf stores items in a fixed place rather than being held while crossing a room.",
+          "2": "A cloth does not have rigid raised edges to keep glasses on it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "tray",
+          "hebrew": "מגש"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The competition required artists to ____ their designs before midnight so the judges could review them the next day.",
+      "options": [
+        "submit",
+        "review",
+        "exhibit",
+        "announce"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Artists had to send in their designs by the deadline.",
+        "distractors": {
+          "1": "The judges would examine the designs later; the artists first had to send them in.",
+          "2": "A public display is different from sending entries for judging.",
+          "3": "Mentioning a design would not give judges the entry itself to review."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "submit",
+          "hebrew": "להגיש"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "To ____ the bridge repairs, residents raised enough money to cover the cost of materials and labor.",
+      "options": [
+        "fund",
+        "estimate",
+        "negotiate",
+        "commission"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Providing money to cover the work is funding it.",
+        "distractors": {
+          "1": "An estimate calculates the likely costs but does not pay them.",
+          "2": "The money pays for the repairs; the sentence does not describe bargaining over them.",
+          "3": "Commissioning means authorizing someone to do the work, which is distinct from raising the money to pay for it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "fund",
+          "hebrew": "לממן"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The architect removed the tall hedges because their branches would ____ the lower windows from anyone standing on the path.",
+      "options": [
+        "outline",
+        "obscure",
+        "surround",
+        "imitate"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The branches would hide the windows from view.",
+        "distractors": {
+          "0": "Bringing out the edges of the windows would not explain the obstruction.",
+          "2": "The branches interfere with a line of sight; a hedge need not enclose a window to do that.",
+          "3": "The branches would not reproduce the shape or appearance of the windows."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "obscure",
+          "hebrew": "להסתיר; לטשטש"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The claim was declared ____ because the rule it relied on had expired before the contract was signed.",
+      "options": [
+        "premature",
+        "ambiguous",
+        "incomplete",
+        "invalid"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The expired rule could no longer provide a valid basis for the claim.",
+        "distractors": {
+          "0": "The problem is that the contract came after expiration, not that the claim was made too early.",
+          "1": "The problem is the loss of a legal basis rather than the meaning of the claim being unclear.",
+          "2": "The issue is the timing of the rule's expiration rather than a missing part of the claim."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "invalid",
+          "hebrew": "לא תקף"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The researcher described the link between the two events as ____: it rested on a single unverified report and disappeared when that report was excluded.",
+      "options": [
+        "coincidental",
+        "inconsistent",
+        "tenuous",
+        "negligible"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "A connection based on such limited and uncertain evidence is weak.",
+        "distractors": {
+          "0": "A coincidence would explain why events appeared connected; the evidence only shows that the claimed link is poorly supported.",
+          "1": "The sentence does not give a series of conflicting reports; it gives one weak basis for a conclusion.",
+          "3": "Negligible suggests the effect is empirically tiny, but the evidence here does not establish the size of any real effect."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "tenuous",
+          "hebrew": "רעוע; חלש"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "Nadia used a sharp ____ to slice the loaf while it was still warm.",
+      "options": [
+        "fork",
+        "plate",
+        "spoon",
+        "knife"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "A knife has a blade that can divide bread into slices.",
+        "distractors": {
+          "0": "A fork can hold food in place but does not slice a loaf cleanly.",
+          "1": "A plate holds food rather than cuts it.",
+          "2": "A spoon can scoop food but is not suited to making slices."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "knife",
+          "hebrew": "סכין"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The observer used a notebook to ____ the exact time of each bird sighting so the information would be available later.",
+      "options": [
+        "record",
+        "predict",
+        "recall",
+        "arrange"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The observer wrote the times down to preserve the information.",
+        "distractors": {
+          "1": "The observer noted times when the sightings occurred rather than forecasting future sightings.",
+          "2": "Recollection is remembering times; the notebook preserves a written record.",
+          "3": "The times are noted as they occur rather than scheduled by the observer."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "record",
+          "hebrew": "לתעד"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "difficulty": 2,
+      "prompt": "A crack that began at the corner continued to ____ across the glass until it reached the opposite edge.",
+      "options": [
+        "gather",
+        "linger",
+        "spread",
+        "reflect"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The crack progressively extended across the pane.",
+        "distractors": {
+          "0": "The crack did not collect several things together; it increased in reach.",
+          "1": "Lingering means staying where one is, whereas the crack reached a different part of the pane.",
+          "3": "The crack did not send light back; the text describes its movement."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "spread",
+          "hebrew": "להתפשט"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The fence was an ____ measure: it blocked entry only until the concrete had hardened and was then removed.",
+      "options": [
+        "interim",
+        "customary",
+        "portable",
+        "enduring"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The fence was used for a limited period and was never intended to remain in place.",
+        "distractors": {
+          "1": "The sentence does not establish that fencing is routinely used this way.",
+          "2": "Being removable does not itself identify a device as portable; the period of use is the relevant clue.",
+          "3": "The fence was removed as soon as the concrete hardened rather than continuing to serve afterward."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "interim",
+          "hebrew": "זמני; לשלב הביניים"
+        }
+      ]
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Only the duty manager could ____ staff to enter the sealed room, and a written approval was needed before they unlocked the door.",
+      "options": [
+        "compel",
+        "certify",
+        "instruct",
+        "authorize"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The duty manager is the person who can give formal permission to enter.",
+        "distractors": {
+          "0": "The approval makes entry possible; it does not force staff to go in.",
+          "1": "A certification attests to a fact or qualification rather than granting this specific permission.",
+          "2": "Giving directions is not enough when written permission is required."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "authorize",
+          "hebrew": "להסמיך; לאשר"
+        }
+      ]
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The award carries no cash payment, but it does ____ on the winner the right to use the society's emblem.",
+      "options": [
+        "concede",
+        "confer",
+        "impose",
+        "reserve"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The award grants a formally specified right.",
+        "distractors": {
+          "0": "Conceding a right can suggest reluctantly admitting it; the award formally grants a right to the winner.",
+          "2": "Imposition would make the emblem's use a requirement, whereas the award gives the winner a right.",
+          "3": "Reserving a right involves keeping it or setting it aside; the award actively grants it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "confer",
+          "hebrew": "להעניק (זכות או מעמד)"
+        }
+      ]
+    },
+    {
+      "difficulty": 1,
+      "prompt": "After washing the plate, Leila put it under running water to ____ away the soap.",
+      "options": [
+        "pour",
+        "scrape",
+        "rinse",
+        "soak"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Running water washes harmless residue off the plate.",
+        "distractors": {
+          "0": "She did not lift and pour the soap off; the running water washed it away.",
+          "1": "The action described uses water without scraping the surface.",
+          "3": "Soaking would keep the plate under water for a period, not wash residue off under a stream."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "rinse",
+          "hebrew": "לשטוף בקצרה"
+        }
+      ]
+    },
+    {
+      "difficulty": 2,
+      "prompt": "To make the workshop accessible to younger students, the instructors had to ____ the materials by shortening the readings and adding illustrations.",
+      "options": [
+        "catalog",
+        "copy",
+        "distribute",
+        "adapt"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The changes tailor existing materials to suit a different group.",
+        "distractors": {
+          "0": "Making a list would leave the readings and illustrations as they were.",
+          "1": "Copying would reproduce the old materials without modifying them for a younger audience.",
+          "2": "Handing out the materials is separate from changing their length and presentation."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "adapt",
+          "hebrew": "להתאים; להסתגל"
+        }
+      ]
+    }
+  ]
+]

@@ -1,0 +1,456 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "Few copies of the map ____ from the original printing because most were destroyed in a warehouse fire.",
+      "options": [
+        "emerge",
+        "descend",
+        "recover",
+        "survive"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The sentence concerns copies that continued to exist after the others burned.",
+        "distractors": {
+          "0": "The copies were already printed before the fire, and the issue is their continued existence.",
+          "1": "Copies do not pass down from one edition to another in the sense described here.",
+          "2": "The maps did not retrieve anything or return to a prior condition; some escaped destruction altogether."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "survive",
+          "hebrew": "לשרוד"
+        }
+      ],
+      "id": "test-17-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The instructions use symbols as well as colors so that readers who cannot see a difference in hue can still ____ between the two warning levels.",
+      "options": [
+        "alternate",
+        "mediate",
+        "differentiate",
+        "negotiate"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The symbols allow readers to tell the two levels apart.",
+        "distractors": {
+          "0": "Readers must distinguish the meanings rather than switch back and forth between the levels.",
+          "1": "No conflict between people or parties needs mediation.",
+          "3": "The warning levels were set in advance and are not being bargained over."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "differentiate",
+          "hebrew": "להבחין (בביטוי differentiate between)"
+        }
+      ],
+      "id": "test-17-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The gravel surface made the exact distance hard to measure, but the surveyors could give an ____ figure based on several paces.",
+      "options": [
+        "approximate",
+        "absolute",
+        "exhaustive",
+        "identical"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Pacing gives an estimate close to, but short of, an exact measurement.",
+        "distractors": {
+          "1": "An absolute figure is not the rough estimate the surveyors can provide.",
+          "2": "The limitation is measurement precision rather than completeness of a list.",
+          "3": "The passage does not specify another figure for their result to equal."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "approximate",
+          "hebrew": "מקורב; משוער"
+        }
+      ],
+      "id": "test-17-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The application rules begin with the ____ that applicants can cover their own travel expenses, although anyone may submit evidence that this is impossible.",
+      "options": [
+        "finding",
+        "presumption",
+        "stipulation",
+        "guarantee"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The ability to pay is treated as an assumption that later evidence can overturn.",
+        "distractors": {
+          "0": "A finding would be reached after examining evidence, whereas the rule starts with the claim before evidence is submitted.",
+          "2": "A stipulation would make ability to pay a stated requirement; these rules allow an applicant to disprove the initial assumption.",
+          "3": "The rules do not promise that every applicant can pay."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "presumption",
+          "hebrew": "הנחה מוקדמת"
+        }
+      ],
+      "id": "test-17-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "A large sign above the ____ showed visitors which door to use to go inside.",
+      "options": [
+        "entrance",
+        "counter",
+        "stairs",
+        "roof"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The correct door for going inside is an entrance.",
+        "distractors": {
+          "1": "A counter is a surface people may approach after entering.",
+          "2": "Stairs allow travel between levels and are not indicated by the clue about a door.",
+          "3": "The roof is above the building rather than the way in."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "entrance",
+          "hebrew": "כניסה"
+        }
+      ],
+      "id": "test-17-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The museum could exhibit the family letters only after the owners gave written ____ allowing it to do so.",
+      "options": [
+        "notice",
+        "consent",
+        "advice",
+        "evidence"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The owners had to give permission in writing.",
+        "distractors": {
+          "0": "A notice can share information without granting permission.",
+          "2": "Advice suggests what to do, whereas the owners were giving the museum a legal choice.",
+          "3": "Evidence would support a claim; it would not itself authorize display."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "consent",
+          "hebrew": "הסכמה"
+        }
+      ],
+      "id": "test-17-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "The two witnesses disagreed about what ____ to the documents after the hearing.",
+      "options": [
+        "have happen",
+        "has happening",
+        "was happen",
+        "had happened"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Had happened forms an indirect question about a past event before the disagreement.",
+        "distractors": {
+          "0": "Have needs a participle and does not fit after the singular subject what here.",
+          "1": "Has needs a past participle, not happening.",
+          "2": "Was does not take the bare verb happen."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "hearing",
+          "hebrew": "דיון"
+        }
+      ],
+      "id": "test-17-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The museum promised ____ visitors in advance if the exhibition dates changed.",
+      "options": [
+        "notify for",
+        "that notify",
+        "notifying to",
+        "to notify"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Promise can be followed by a to-infinitive expressing the promised action.",
+        "distractors": {
+          "0": "The bare verb does not complete promised, and notify does not take for before its object.",
+          "1": "A that clause needs a subject before notify.",
+          "2": "Notifying to is not a complement of promised, and notify takes visitors directly."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "notify",
+          "hebrew": "להודיע"
+        }
+      ],
+      "id": "test-17-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Only one of the proposed designs ____ the new accessibility requirements as currently written.",
+      "options": [
+        "meets",
+        "have met",
+        "conforming",
+        "meet"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The head of the subject is one, so the present simple verb is meets.",
+        "distractors": {
+          "1": "Have does not agree with one in this sentence.",
+          "2": "Conforming is not a finite main verb and would take to before its object.",
+          "3": "Meet would agree with a plural subject, not only one."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "requirement",
+          "hebrew": "דרישה"
+        }
+      ],
+      "id": "test-17-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The second platform serves substantially more passengers ____ was originally expected.",
+      "options": [
+        "in order that",
+        "than",
+        "as",
+        "unless"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "More sets up a comparison and takes than to introduce the reference amount.",
+        "distractors": {
+          "0": "In order that introduces purpose, which does not fit the comparison.",
+          "2": "As does not complete a more-than comparison.",
+          "3": "Unless would require a condition and does not complete this comparison."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "substantially",
+          "hebrew": "במידה ניכרת"
+        }
+      ],
+      "id": "test-17-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "Because the only bridge had collapsed, a long detour was ____ for anyone traveling by road.",
+      "base": "avoid",
+      "answers": [
+        "unavoidable"
+      ],
+      "explanation": "Unavoidable describes a detour that could not be avoided.",
+      "id": "test-17-word-1"
+    },
+    {
+      "prompt": "A shallow channel was ____ beside the path to stop rainwater pooling at its lowest point.",
+      "base": "dig",
+      "answers": [
+        "dug"
+      ],
+      "explanation": "Dug is the irregular past participle of dig.",
+      "id": "test-17-word-2"
+    },
+    {
+      "prompt": "The team obtained ____ from the building's owner before setting up equipment on the roof.",
+      "base": "permit",
+      "answers": [
+        "permission"
+      ],
+      "explanation": "Permission is the noun for authorization in this context.",
+      "id": "test-17-word-3"
+    },
+    {
+      "prompt": "The supply of drinking water was divided ____ among all six field teams, so each received the same amount.",
+      "base": "equal",
+      "answers": [
+        "equally"
+      ],
+      "explanation": "Equally is the adverb indicating that the teams received identical shares.",
+      "id": "test-17-word-4"
+    }
+  ],
+  "writing": "Should students be able to revise a completed assignment after receiving feedback? Explain your position.",
+  "listening": {
+    "type": "continuation",
+    "clips": [
+      {
+        "context": "Listen to part of a lecture on recording plant growth.",
+        "transcript": "Student gardeners recorded the height of a plant every Monday. Near the end of term, the stem began to bend, so its tip was lower even though a measurement along the stem showed continued growth. The apparent decrease reflected",
+        "audio": "/listening/continuation-7-1.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the plant.",
+            "options": [
+              "a decline in the supply of water to the roots",
+              "an earlier error in identifying the species",
+              "a difference in the day on which readings were taken",
+              "a change in shape rather than a loss of stem length"
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "A bent but longer stem can reach a lower height above the soil.",
+              "distractors": {
+                "0": "The account gives a geometrical explanation, not a shortage of water.",
+                "1": "Species identification is not in question.",
+                "2": "Measurements were consistently taken on Mondays."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "apparent",
+                "hebrew": "לכאורה"
+              }
+            ],
+            "id": "test-17-audio-1-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on improving a sign.",
+        "transcript": "A new sign said that the exhibition opened at ten, but visitors regularly asked whether the doors also opened at ten. The staff realized that the sign answered a question about the exhibition without answering one about",
+        "audio": "/listening/continuation-7-2.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the sign.",
+            "options": [
+              "when visitors could enter the building",
+              "the display title shown over the doors",
+              "whether the exhibition would move next year",
+              "how many staff were assigned to the entrance"
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "The opening time of the exhibition does not resolve when people may come through the doors.",
+              "distractors": {
+                "1": "A missing title would prompt a different question.",
+                "2": "There is no uncertainty about relocation in the recording.",
+                "3": "The sign does not address staffing, but that is not what visitors asked about."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "entrance",
+                "hebrew": "כניסה"
+              }
+            ],
+            "id": "test-17-audio-2-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on organizing repair tools.",
+        "transcript": "Technicians initially stored tools by the material from which each was made. Workers completing a routine repair often had to open several drawers. The workshop considered a new arrangement in which tools often needed for one job would be",
+        "audio": "/listening/continuation-7-3.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the workshop.",
+            "options": [
+              "moved farther from the repair areas",
+              "listed only by the year they were bought",
+              "stored together even if made of different materials",
+              "separated according to their handles"
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "The problem arose because one task crossed the existing categories, so grouping by task helps.",
+              "distractors": {
+                "0": "More distance would not solve the need to find several tools.",
+                "1": "Purchase year is another arrangement unrelated to the task.",
+                "3": "Sorting handles would retain the core problem of splitting tools used together."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "routine",
+                "hebrew": "שגרתי"
+              }
+            ],
+            "id": "test-17-audio-3-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on a market shelter.",
+        "transcript": "The council wanted a permanent roof over a temporary market. Stallholders agreed shade would help at noon, but they warned that a low roof might obstruct tall delivery vehicles. The eventual proposal needed to balance",
+        "audio": "/listening/continuation-7-4.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the market roof.",
+            "options": [
+              "the amount of sunlight in summer and in winter",
+              "protection from the sun and access for deliveries",
+              "the competing prices at neighboring stalls",
+              "building costs and the number of shoppers at dawn"
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "Shade and vehicle clearance are the two considerations raised by the stallholders.",
+              "distractors": {
+                "0": "The conflict is between shade and access, not seasons.",
+                "2": "Stall prices are unrelated to roof height.",
+                "3": "No early shopper count is described as a design objective."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "obstruct",
+                "hebrew": "לחסום"
+              }
+            ],
+            "id": "test-17-audio-4-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      }
+    ]
+  }
+}

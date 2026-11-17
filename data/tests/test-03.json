@@ -1,0 +1,996 @@
+{
+  "id": "test-03",
+  "number": 3,
+  "bankVersion": 2,
+  "title": "The Many Editions of a Single Song / Dunes with a Pulse",
+  "sections": [
+    {
+      "id": "test-03-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "The addition of weekend trains led to a noticeable ____ in passenger numbers, from eight thousand to nearly twelve thousand a month.",
+          "options": [
+            "rise",
+            "decline",
+            "gap",
+            "delay"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“rise” means increase in amount or level. The later count was higher than the earlier one.",
+            "distractors": {
+              "1": "“decline” means decrease in amount or level. The clue is that the later count was higher than the earlier one.",
+              "2": "“gap” means difference or separation between two things. The clue is that the later count was higher than the earlier one.",
+              "3": "“delay” means additional waiting time before an event. The clue is that the later count was higher than the earlier one."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "rise",
+              "hebrew": "עלייה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-03-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "They hired a ____ guide who had lived in the valley all her life and could walk to the site from her home.",
+          "options": [
+            "temporary",
+            "local",
+            "public",
+            "annual"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“local” means relating to the nearby area. The guide lives in the immediate area.",
+            "distractors": {
+              "0": "“temporary” means lasting for a limited time. The clue is that the guide lives in the immediate area.",
+              "2": "“public” means open or available to anyone. The clue is that the guide lives in the immediate area.",
+              "3": "“annual” means occurring once a year. The clue is that the guide lives in the immediate area."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "local",
+              "hebrew": "מקומי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-03-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The mark became ____ under a brighter lamp, revealing two initials that had previously escaped notice.",
+          "options": [
+            "reliable",
+            "accessible",
+            "affordable",
+            "visible"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“visible” means able to be seen. Better lighting made the mark possible to see.",
+            "distractors": {
+              "0": "“reliable” means consistently trustworthy or dependable. The clue is that better lighting made the mark possible to see.",
+              "1": "“accessible” means possible to reach or use. The clue is that better lighting made the mark possible to see.",
+              "2": "“affordable” means possible to buy without excessive expense. The clue is that better lighting made the mark possible to see."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "visible",
+              "hebrew": "נראה לעין"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-03-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The two estimates ____ by nearly a third, partly because one study omitted houses outside the town walls.",
+          "options": [
+            "differ",
+            "correspond",
+            "cooperate",
+            "compete"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“differ” means be unlike or distinct in some respect. The estimates are numerically unlike by almost a third.",
+            "distractors": {
+              "1": "“correspond” means match or be equivalent. The clue is that the estimates are numerically unlike by almost a third.",
+              "2": "“cooperate” means work together to reach a shared goal. The clue is that the estimates are numerically unlike by almost a third.",
+              "3": "“compete” means seek the same goal or resource as others. The clue is that the estimates are numerically unlike by almost a third."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "differ",
+              "hebrew": "להיות שונה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-03-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The university offered a travel grant as a direct ____ for students to present their research at conferences.",
+          "options": [
+            "incentive",
+            "transition",
+            "consensus",
+            "restriction"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“incentive” means anything that encourages someone to take an action. The grant encourages students to present.",
+            "distractors": {
+              "1": "“transition” means process of changing from one state to another. The clue is that the grant encourages students to present.",
+              "2": "“consensus” means general agreement among members of a group. The clue is that the grant encourages students to present.",
+              "3": "“restriction” means rule or condition that limits behaviour. The clue is that the grant encourages students to present."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "incentive",
+              "hebrew": "תמריץ"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-03-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The loss of the delivery list is a ____ explanation for the delay, given that a list went missing that morning and no contradictory evidence has emerged.",
+          "options": [
+            "inadvertent",
+            "concurrent",
+            "plausible",
+            "salient"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“plausible” means reasonable enough to be believed. The available facts make the explanation believable.",
+            "distractors": {
+              "0": "“inadvertent” means unintentional, usually resulting from an oversight. The clue is that the available facts make the explanation believable.",
+              "1": "“concurrent” means taking place at the same time. The clue is that the available facts make the explanation believable.",
+              "3": "“salient” means particularly noticeable or important. The clue is that the available facts make the explanation believable."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "plausible",
+              "hebrew": "מתקבל על הדעת"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-03-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-03-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "Some forms had been sent in twice, so the analysts decided to ____ the extra copies before counting the responses.",
+          "options": [
+            "register",
+            "classify",
+            "exclude",
+            "compile"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Removing duplicates keeps each respondent represented once.",
+            "distractors": {
+              "0": "Registering the copies would risk including the same response twice.",
+              "1": "Sorting the copies into a category would not itself remove them from the count.",
+              "3": "Compiling copies would gather them instead of keeping them out of the total."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "exclude",
+              "hebrew": "להוציא מן הכלל, לא לכלול"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-03-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The observatory lost its signal on Monday, Tuesday, and Wednesday nights. Staff had never before logged three ____ nights of failed reception.",
+          "options": [
+            "alternate",
+            "overlapping",
+            "consecutive",
+            "irregular"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The three nights immediately followed one another.",
+            "distractors": {
+              "0": "Alternate nights would have an intervening night between failures.",
+              "1": "Each night occurred separately, so the failures did not occupy overlapping periods.",
+              "3": "This would describe failures at inconsistent intervals, whereas these intervals were uniform."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "consecutive",
+              "hebrew": "רצופים"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-03-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "Instead of arranging repairs itself, the university agreed to ____ residents for any property damage caused by the excavation, even if the damage became apparent months later.",
+          "options": [
+            "consult",
+            "reprimand",
+            "assess",
+            "compensate"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The university undertakes to make good a financial loss caused by its work.",
+            "distractors": {
+              "0": "Consulting residents could inform an assessment, but it would not cover their losses.",
+              "1": "A reprimand is criticism for wrongdoing, but residents are the injured parties.",
+              "2": "Assessment would evaluate the damage, not reimburse the people affected."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "compensate",
+              "hebrew": "לפצות, לשפות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-03-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The editor found that the missing pages had not been lost in transit. An official had ordered staff to ____ the findings because publication could jeopardize the negotiations.",
+          "options": [
+            "retrieve",
+            "abridge",
+            "suppress",
+            "annotate"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The official deliberately kept the findings from reaching the public.",
+            "distractors": {
+              "0": "This would recover existing material, contradicting the purpose of the order.",
+              "1": "This would shorten a publishable version, whereas the findings were kept out.",
+              "3": "This would add commentary to the findings without accounting for their absence."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "suppress",
+              "hebrew": "לדכא, להסתיר במכוון"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-03-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The panel rejected the boundary as ____ because the planner could give no reason for placing it on one side of the valley rather than the other.",
+          "options": [
+            "approximate",
+            "provisional",
+            "arbitrary",
+            "disputed"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The selected boundary lacked a reasoned basis for the choice between alternatives.",
+            "distractors": {
+              "0": "A boundary could be approximate while still serving a clear purpose; lack of precision is not the objection.",
+              "1": "A temporary boundary may be well justified, and the planner gave no justification for this location.",
+              "3": "The panel's rejection shows a dispute exists, but the blank identifies the specific defect that prompted it."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "arbitrary",
+              "hebrew": "שרירותי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-03-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The census placed the family in the city that year, whereas a tax register placed it in a rural district. A later discovery that there were two families with the same name allowed historians to ____ the records.",
+          "options": [
+            "reconcile",
+            "combine",
+            "authenticate",
+            "prioritize"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The discovery explains how apparently conflicting records can both be accurate.",
+            "distractors": {
+              "1": "Simply joining the records would leave the apparent conflict unresolved.",
+              "2": "It identifies why the documents conflict on the surface, rather than proving that the documents themselves are genuine.",
+              "3": "There is no need to rank one record above the other once the families are distinguished."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "reconcile",
+              "hebrew": "ליישב, להתאים"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-03-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-03-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "The Many Editions of a Single Song",
+        "paragraphs": [
+          "A folk song recorded in two neighboring villages may share a melody while telling noticeably different stories. One singer supplies a village name where another mentions a river; one ends with a reunion where another describes a departure. For an editor preparing a collection, these differences pose a practical problem. A reader expects to see a song printed in one place and may assume that whatever appears beneath the title is the song itself. Yet selecting a single rendition as authoritative gives unusual power to a decision that may have depended on access, timing or the recording equipment an editor happened to bring.",
+          "Older collections sometimes resolved this difficulty by combining verses from several performances. The resulting song could seem exceptionally coherent because repeated lines were removed and gaps filled with material from a different singer. Later readers, unaware of those interventions, might confidently use the printed version as evidence of how the song was performed. The edition's fluency thus helped disguise the sequence of editorial choices that produced it. This does not mean the resulting text was useless. It may have been ideal for stage performance or for teaching a tune to children. Its suitability simply depended on a purpose that needed to be stated.",
+          "A small archive has experimented with a format that retains several performances under the same title. Instead of putting variations in a separate appendix, the archive places short recordings and their transcriptions next to one another. A brief note explains which recordings were made for a visiting collector and which came from an occasion where the audience already knew the refrain. That distinction can help account for a difference in tempo or the length of a pause. It also underscores that even a recording preserves an event arranged under particular circumstances rather than a song removed from time.",
+          "This solution introduces another editorial difficulty. Presenting three accessible performances can suggest that those three exhaust the tradition, while dozens of undocumented occasions remain unavailable. An archive also needs a searchable title, even when singers use different names or none at all. The modern editor therefore still exercises discretion. What changes is the visibility of some decisions and the reader's opportunity to hear the material on which those decisions rest. In that respect the archive resembles an edition of a historical document: its task includes making the evidence easier to inspect without implying that the act of arranging it has left the evidence untouched."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What principle regarding folk songs underlies the passage as a whole?",
+          "options": [
+            "An edition should make the relationship between its presentation and the performance evidence visible.",
+            "A useful folk-song edition should select the version most likely to have preceded the others.",
+            "Recordings made before familiar audiences are a more accurate record of a song than those made for visiting collectors.",
+            "Editing inevitably alters performance evidence, so searchability should be subordinate to faithful transcription."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The problems with composite texts and the new archive both concern inspectable choices.",
+            "distractors": {
+              "1": "No attempt to identify an ancestral version is advocated; the archive places different evidence side by side.",
+              "2": "The different circumstances help explain performance differences, with no general hierarchy of accuracy.",
+              "3": "The author accepts searchable titles as necessary and stresses showing editorial decisions, rather than ranking searchability below transcription."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "authoritative",
+              "hebrew": "סמכותי"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-03-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why could the combined versions in older collections mislead future scholars?",
+          "options": [
+            "Stage suitability led readers to assume a theatrical origin.",
+            "Their readability concealed that lines recorded separately had been assembled by an editor.",
+            "Their removal of repeated lines led scholars to conclude that distinct singers shared an identical refrain.",
+            "Their fluency persuaded scholars that the separately recorded versions of each song had been equally coherent."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The polished sequence could be mistaken for a documented performance.",
+            "distractors": {
+              "0": "Stage performance is a possible later use, and the mistaken inference concerns origin in any single performance.",
+              "2": "The general danger is mistaking assembled text for performance evidence; no specific mistaken belief about a shared refrain is described.",
+              "3": "The deceptive impression is that the composite itself was performed, not that its sources had equal coherence."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "intervention",
+              "hebrew": "התערבות"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-03-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author evaluate the archive’s side-by-side format?",
+          "options": [
+            "As a solution that makes earlier distinctions between performance settings unnecessary.",
+            "As an improvement that keeps performance evidence separate from editorial commentary.",
+            "As useful principally because it eliminates the need for a searchable title.",
+            "As a useful improvement that leaves substantive decisions in the editor’s hands."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The format increases transparency but still requires selection and naming.",
+            "distractors": {
+              "0": "The added information about collectors and familiar audiences is an important virtue of the format.",
+              "1": "The format adds a contextual note and makes some editorial choices more visible.",
+              "2": "Searchable titles remain necessary even when there is no single traditional title."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "evaluate",
+              "hebrew": "להעריך"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-03-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “exhaust” mean when applied to three performances and a tradition?",
+          "options": [
+            "Cover completely.",
+            "Sample from several settings.",
+            "Document in consistent form.",
+            "Establish the origin of."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The writer warns against interpreting three selections as the entire range.",
+            "distractors": {
+              "1": "Three contrasting performances could sample the tradition without representing it in full.",
+              "2": "A uniform archival format does not mean that every variant is documented.",
+              "3": "The paragraph concerns the extent of coverage, not when or where a tradition arose."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "exhaust",
+              "hebrew": "למצות"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-03-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Where did the experimental archive present the different renditions of a song?",
+          "options": [
+            "It presented complete transcripts together and put short recordings in a separate appendix.",
+            "It paired a single composite transcript with recordings illustrating particular variations.",
+            "It grouped the performances by audience and entered each version under its own title.",
+            "It displayed recordings and transcripts side by side under one title."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "That arrangement is contrasted with moving variants to an appendix.",
+            "distractors": {
+              "0": "The archive abandoned the separate-appendix approach for variants and kept the recordings with transcriptions.",
+              "1": "The transcriptions are placed alongside recordings of different performances, rather than merged into one reconstruction.",
+              "2": "Audience is noted for context, but the renditions are organized under a common title."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "appendix",
+              "hebrew": "נספח"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-03-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-03-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Several inscriptions could still be read, even though the tablets were badly damaged.",
+          "options": [
+            "Several inscriptions could still be read, which prevented anyone from finding out whether the tablets were badly damaged.",
+            "The tablets were badly damaged; nevertheless, several inscriptions could still be read.",
+            "Because the tablets were badly damaged, several inscriptions could still be read.",
+            "Several inscriptions could still be read only before it became clear that the tablets were badly damaged."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the tablets were badly damaged” and “several inscriptions could still be read.”",
+            "distractors": {
+              "0": "It introduces an obstacle to discovering the first fact, which the original states directly.",
+              "2": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast.",
+              "3": "It limits the second fact to an earlier time and adds a discovery that the original never mentions."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-03-restatement-1-1"
+        },
+        {
+          "prompt": "Barges crossed one at a time because the canal narrowed near the bridge.",
+          "options": [
+            "Barges crossed one at a time; consequently, the canal narrowed near the bridge.",
+            "The canal narrowed near the bridge; consequently, barges crossed one at a time.",
+            "Barges crossed one at a time, but it is unknown whether the canal narrowed near the bridge.",
+            "The canal narrowed near the bridge; nevertheless, barges crossed one at a time."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the canal narrowed near the bridge, leading to the result that barges crossed one at a time.",
+            "distractors": {
+              "0": "It reverses the direction of cause and result.",
+              "2": "It casts doubt on the cause, which the original treats as an established fact.",
+              "3": "It replaces the causal relationship with a concession."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-03-restatement-1-2"
+        },
+        {
+          "prompt": "Once the microphones have been tested, the broadcaster will begin accepting calls.",
+          "options": [
+            "The broadcaster will not begin accepting calls even after the microphones have been tested.",
+            "The broadcaster will begin accepting calls before the microphones have been tested.",
+            "The broadcaster will begin accepting calls, regardless of whether the microphones have been tested.",
+            "The broadcaster will begin accepting calls after the microphones have been tested."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled. The first event has to be complete.",
+            "distractors": {
+              "0": "It denies the stated plan to carry out the second action.",
+              "1": "It places the scheduled action before the event that the sentence puts first.",
+              "2": "It makes the first event irrelevant to the timing of the second."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-03-restatement-1-3"
+        },
+        {
+          "prompt": "The basement will reopen only if the ventilation system meets the new standard.",
+          "options": [
+            "The basement will reopen whether or not the ventilation system meets the new standard.",
+            "The basement will reopen only on condition that the ventilation system meets the new standard.",
+            "The basement will reopen in every case in which the ventilation system meets the new standard.",
+            "The basement will reopen only if it is impossible to establish that the ventilation system meets the new standard."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The condition “the ventilation system meets the new standard” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "0": "It removes the requirement by making the outcome independent of the condition.",
+              "2": "It treats the condition as sufficient and promises the outcome whenever it is met.",
+              "3": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-03-restatement-1-4"
+        },
+        {
+          "prompt": "The summer survey seemed limited in scope compared with the winter survey.",
+          "options": [
+            "The difference in scope was established when the winter survey covered more than the summer survey in a formal test.",
+            "The winter survey appeared to exceed the summer survey in scope.",
+            "The summer survey appeared to match the winter survey in scope.",
+            "The summer survey appeared to exceed the winter survey in scope."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the winter survey, first. The comparison concerns scope.",
+            "distractors": {
+              "0": "It turns an impression into a demonstrated finding and invents a formal test.",
+              "2": "It describes the two items as equal on the stated measure.",
+              "3": "It reverses the relative ranking of the two items."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-03-restatement-1-5"
+        },
+        {
+          "prompt": "But for the shelter on the ridge, the climbers would have had to turn back.",
+          "options": [
+            "The climbers would have had to turn back because of the shelter on the ridge.",
+            "The climbers would have had to turn back in the absence of the shelter on the ridge.",
+            "The climbers would have had to turn back regardless of the effect of the shelter on the ridge.",
+            "Whether the shelter on the ridge made any difference to the outcome is unknown."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the climbers would have had to turn back” belongs to the hypothetical situation in which the shelter on the ridge was absent.",
+            "distractors": {
+              "0": "It attributes the hypothetical result to the presence of the factor rather than its absence.",
+              "2": "It predicts the same result without changing whether the factor was present.",
+              "3": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-03-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-03-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the recordings are fully restored, permission to publish them will still be required.",
+          "options": [
+            "Permission to publish them will still be required, including in the event that the recordings are fully restored.",
+            "The recordings are fully restored; therefore, permission to publish them will still be required.",
+            "Permission to publish them may or may not be required, depending on whether the recordings are fully restored.",
+            "Permission to publish them will still be required only in the event that the recordings are fully restored."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the recordings are fully restored. The original leaves that case hypothetical.",
+            "distractors": {
+              "1": "It turns an open possibility into an established fact and presents it as the cause.",
+              "2": "It makes the outcome depend on the hypothetical condition.",
+              "3": "It turns a condition that would make no difference into a requirement."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-03-restatement-2-1"
+        },
+        {
+          "prompt": "The rail authority neither endorsed nor expressly rejected the proposal to replace the evening train with a bus.",
+          "options": [
+            "The rail authority accepted the proposal to replace the evening train with a bus in principle while withholding public support.",
+            "The rail authority rejected the proposal to replace the evening train with a bus without giving a reason.",
+            "The rail authority withdrew an earlier endorsement of the proposal to replace the evening train with a bus.",
+            "The rail authority offered no endorsement of the proposal to replace the evening train with a bus and issued no explicit rejection either."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It invents an acceptance in principle, which cannot be inferred from the original.",
+              "1": "It asserts an explicit rejection, which the original rules out.",
+              "2": "It invents a prior endorsement and a reversal of position."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-03-restatement-2-2"
+        },
+        {
+          "prompt": "The settlement's decline stemmed less from the exhaustion of its fields than from the diversion of trade to a new road.",
+          "options": [
+            "The exhaustion of its fields was the greater contributor to the settlement's decline, though the diversion of trade to a new road also mattered.",
+            "The exhaustion of its fields and the diversion of trade to a new road played equally important roles in the settlement's decline.",
+            "The diversion of trade to a new road contributed more to the settlement's decline than the exhaustion of its fields did.",
+            "The settlement's decline was the principal reason for both the exhaustion of its fields and the diversion of trade to a new road."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “the diversion of trade to a new road” greater explanatory weight than “the exhaustion of its fields.”",
+            "distractors": {
+              "0": "It reverses the relative importance of the factors.",
+              "1": "It makes the factors equally important despite the stated inequality.",
+              "3": "It makes the outcome cause the factors that are supposed to explain it."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-03-restatement-2-3"
+        },
+        {
+          "prompt": "The editors did not circulate the appendix until the journal had checked its sources.",
+          "options": [
+            "The editors circulated the appendix before the journal had checked its sources.",
+            "The editors did not circulate the appendix, although the journal had checked its sources.",
+            "The editors circulated the appendix as evidence that the journal had checked its sources.",
+            "The editors circulated the appendix only after the journal had checked its sources."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "0": "It reverses the sequence by placing the main action first.",
+              "1": "It makes the main action fail to occur, whereas the original reports that it happened later.",
+              "2": "It turns a timing relationship into an assertion about the actor’s purpose."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-03-restatement-2-4"
+        },
+        {
+          "prompt": "Of the maps from that expedition, none show the winter route with the sole exception of the geologist's sketch.",
+          "options": [
+            "The geologist's sketch shows the winter route; the others in the same group do not.",
+            "The geologist's sketch shows the winter route, and at least one other member of the group shares that distinction.",
+            "It has not been determined whether the geologist's sketch shows the winter route.",
+            "All the maps from that expedition show the winter route except the geologist's sketch."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the geologist's sketch is the single item that has the stated property.",
+            "distractors": {
+              "1": "It allows a second exception even though “sole” limits the number to one.",
+              "2": "It changes an explicit exception into an uncertainty.",
+              "3": "It gives the property to the entire group except the one item that actually has it."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-03-restatement-2-5"
+        },
+        {
+          "prompt": "Short of dismantling the instrument, there is little the museum can do to determine whether its internal parts were replaced.",
+          "options": [
+            "The museum should leave the instrument assembled because the few signs of replacement are visible from outside.",
+            "If the museum leaves the instrument assembled, its options for finding out whether any internal parts were exchanged are very limited.",
+            "The museum can tell that the internal parts were replaced, although it cannot identify them without opening the instrument.",
+            "Taking the instrument apart would establish that all of its internal parts had previously been replaced."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The original addresses the limited options available without disassembly and leaves the replacement question open",
+            "distractors": {
+              "0": "It turns a statement about investigative limits into a preservation recommendation",
+              "2": "It claims the replacement has already been established",
+              "3": "It guarantees a result from disassembly and changes a question about replacement into a finding that all parts were replaced"
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "short of",
+              "hebrew": "פרט ל־ / ללא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-03-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-03-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Dunes with a Pulse",
+        "paragraphs": [
+          "People who visit a desert once may remember its dunes as permanent features, as much a part of the landscape as a ridge of rock. Surveyors who return repeatedly find something less stable. Sand advances up the shallow face of a dune as wind drives grains in short hops. At the crest, some of the grains fall down a steep sheltered slope. The dune can thus migrate without carrying the same grains along for its whole journey. In a moving dune, the shape persists through the circulation of material. From an unmoving viewpoint, by contrast, the dune seems to be a single object sliding across the ground.",
+          "This circulation does not proceed at a steady rate. A wind too gentle to lift resting grains may sustain movement after other grains are already hopping, because incoming grains knock additional ones loose. Gusts that cross the initial threshold matter disproportionately. Rain temporarily binds grains together, so even windy hours may yield little transport on a recently wetted surface. The annual average wind speed, when considered alone, conceals these interruptions and bursts. Two locations with similar annual averages may therefore have very different patterns of sand movement.",
+          "A further complication is that dunes affect the airflow that moves them. A growing ridge diverts the wind, and the distortion can influence the transport of sand on a neighbouring ridge. When researchers observe a row of regularly spaced dunes, they do not necessarily need to invoke evenly spaced obstacles beneath the sand. The spacing can emerge while wind and dune shapes adjust to each other. Looking for buried obstacles may still be useful at a particular site, but regularity alone provides little warrant for assuming they exist.",
+          "This is why cautious reconstruction of desert history draws on more than the surface outline. The angles of layers exposed in sand pits may reveal former slip faces, and layers of different grain sizes can record changes in transport. Even these clues have limits. A new shift in prevailing winds can erode part of the record before depositing another set of layers. The evidence is therefore selective. A striking dune is both a present structure assembled by the latest winds and an imperfect archive of earlier conditions. Its interpretation requires thinking about which episodes preserved evidence and which erased it, as well as about the conditions that produced the shape visible today."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "How does the discussion of migrating dunes connect their present appearance with their past?",
+          "options": [
+            "Spacing and shape supply stronger evidence of former winds than layers in sand pits.",
+            "Since surface profiles conceal the past, sand layers provide a reliable record of earlier conditions.",
+            "Dunes are maintained by moving grains, and both ongoing transport and partial preservation shape what their current forms reveal.",
+            "Present dune shapes survive migration because the same grains circulate within each dune and preserve the old layers."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The passage explains changing airflow and the selective record created by deposition and erosion.",
+            "distractors": {
+              "0": "The author treats surface appearance as insufficient and analyzes the origin and limits of layering.",
+              "1": "The passage explicitly qualifies what layers preserve.",
+              "3": "Sand is exchanged as the dune moves, and erosion can erase layers."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "migration",
+              "hebrew": "נדידה"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-03-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why might a brief storm move more sand than many hours of moderately windy weather at the same dry site?",
+          "options": [
+            "Once a gust has passed, the same wind speed will be needed to keep grains moving as to start them.",
+            "A long spell of moderate wind has more opportunity to clear the dune crest than a brief gust.",
+            "A gust can initiate hopping, after which collisions dislodge grains at speeds too low to start transport unaided.",
+            "The strongest gusts remove the need for grains to strike one another during later movement."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The passage describes separate thresholds for starting and sustaining grain movement.",
+            "distractors": {
+              "0": "The distinction is precisely that sustaining movement can take less wind.",
+              "1": "Duration alone tells little if the wind remains below the threshold for starting motion.",
+              "3": "The passage uses later collisions to explain why transport can persist at lower wind speeds."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "threshold",
+              "hebrew": "סף"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-03-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "What attitude does the author take toward deductions drawn from regularly spaced dunes?",
+          "options": [
+            "Convinced that regular spacing is sufficient evidence of an adjustment between dunes and airflow.",
+            "Inclined to attribute the pattern to buried obstacles unless they can be ruled out.",
+            "Reluctant to test for obstacles after considering airflow.",
+            "Cautious, proposing an alternative mechanism and allowing site-specific tests."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Regular spacing could emerge from interacting dunes or have another cause at a given site.",
+            "distractors": {
+              "0": "That mechanism is possible, but spacing alone does not settle the issue.",
+              "1": "The author argues there is little reason to infer obstacles from regular spacing alone.",
+              "2": "The author explicitly allows that searching for obstacles may be useful at particular sites."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "invoke",
+              "hebrew": "להסתמך על הסבר"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-03-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "In the sentence on buried obstacles, “warrant” is closest in meaning to what?",
+          "options": [
+            "A reasonable basis.",
+            "A practical incentive.",
+            "A definitive demonstration.",
+            "A reliable prediction."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The visual pattern alone gives too little grounds for that conclusion.",
+            "distractors": {
+              "1": "The paragraph is about justification for a belief, rather than motivation to look.",
+              "2": "The author needs an adequate reason to infer obstacles, not proof beyond doubt.",
+              "3": "A warrant here supports a conclusion about what exists; it makes no prediction."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "warrant",
+              "hebrew": "הצדקה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-03-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What can make sand layers an incomplete record of previous winds?",
+          "options": [
+            "When the same active wind adds a new layer, it makes the earlier wind appear to have lasted longer.",
+            "Grains falling down slip faces destroy the evidence left by each previous crest.",
+            "Sand transported in gusts forms layers that record only the annual average wind speed.",
+            "A new wind regime can remove old layers before adding new ones."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Later erosion can destroy earlier evidence prior to renewed deposition.",
+            "distractors": {
+              "0": "The author describes erasure of earlier evidence, not a systematic overestimate of its duration.",
+              "1": "Slip-face deposits can preserve clues; the specified loss mechanism is later erosion.",
+              "2": "The annual mean is an inadequate summary; distinct grain-size layers can reflect changes in transport."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "deposit",
+              "hebrew": "להשקיע חומר"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-03-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

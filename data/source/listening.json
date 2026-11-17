@@ -1,0 +1,2102 @@
+{
+  "lecture": [
+    [
+      {
+        "context": "Listen to part of a lecture on urban water management.",
+        "script": "When rain falls on a paved schoolyard, it travels rapidly into drains. One school replaced a strip of paving with a shallow garden. During storms, water pooled among the plants and then entered the soil gradually. The garden did not reduce the amount of rain that fell. Its benefit was to delay the arrival of water at the drains, especially during the heaviest minutes of a storm.",
+        "questions": [
+          {
+            "prompt": "What benefit of the garden does the lecturer emphasize?",
+            "options": [
+              "It reduced the amount of rain falling nearby.",
+              "It slowed the flow of rainwater into drains.",
+              "It diverted water from the garden onto the paving.",
+              "It made the soil dry rapidly after storms."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "The garden held rainwater temporarily, delaying its arrival at drains.",
+              "distractors": {
+                "0": "The lecturer explicitly says the project did not change rainfall.",
+                "2": "Water flowed toward the planted strip rather than away from it.",
+                "3": "Water entered the soil gradually, and fast drying is not described as a goal."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "gradually",
+                "hebrew": "בהדרגה"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on musical manuscript collections.",
+        "script": "Before mechanical recording, families preserved songs by writing down the words and sometimes the melody. A local archive has three manuscripts of the same song, all copied within twenty years. The tune is almost identical in all three, but one manuscript ends with a different verse. At first, the editors planned to treat that verse as a copying error. They changed their minds when they found a letter in which the copyist described hearing the verse at a wedding. The letter does not prove which version is oldest. It does show that someone sang the uncommon verse in a particular setting. The printed edition therefore includes all three texts. Readers can see how the differences circulated without assuming that any surviving copy is necessarily the original.",
+        "questions": [
+          {
+            "prompt": "What made the editors reconsider their interpretation of the unusual verse?",
+            "options": [
+              "An older manuscript with the same verse.",
+              "A note in the manuscript correcting the tune.",
+              "A recording of its copyist singing the verse.",
+              "A letter about a performance of it at a wedding."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The wedding account showed the verse was performed, so it need not have been accidental.",
+              "distractors": {
+                "0": "No older manuscript with the verse was discovered.",
+                "1": "The tunes are similar, and the new evidence was a separate letter.",
+                "2": "The examples are from before mechanical recording and no recording is mentioned."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "verse",
+                "hebrew": "בית בשיר"
+              }
+            ]
+          },
+          {
+            "prompt": "What does the lecturer say the letter leaves unresolved?",
+            "options": [
+              "Where the unusual verse was heard.",
+              "Who wrote down the unusual verse.",
+              "Which version came first.",
+              "Whether the printed edition includes that verse."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "The letter documents one performance but cannot establish priority.",
+              "distractors": {
+                "0": "The setting was a wedding.",
+                "1": "The letter was written by the copyist whose manuscript contained the verse.",
+                "3": "The edition contains all three versions."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "unresolved",
+                "hebrew": "בלתי פתור"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on daytime animal surveys.",
+        "script": "Suppose you want to compare the number of butterflies in two fields. You walk a fixed route at noon and record every butterfly you notice. The first field is open to the sun, while the second is shaded by trees. You see twice as many butterflies in the open field. Is the population there twice as large? Possibly, but your count does not establish that. Butterflies are more likely to fly at higher temperatures, and a flying insect is easier to see than one resting under a leaf. Repeating the walk at noon for a week would help if the first day were unusual. It would not remove the difference in visibility if the shaded field remained cooler on every visit. To investigate that problem, a team could record the temperature and visit each field under several comparable temperature conditions. The resulting counts would still depend on how well observers detect butterflies. But they would give researchers a better basis for deciding whether the initial gap reflects a population difference or simply a difference in activity at the time of observation.",
+        "questions": [
+          {
+            "prompt": "Why might the initial count exaggerate a difference between the two populations?",
+            "options": [
+              "Butterflies in the warmer field may be easier to see.",
+              "The route through the warmer field may be longer.",
+              "The shaded field may attract more visiting observers.",
+              "Butterflies in both fields may leave at noon."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "Butterflies are more active in warmth, making more of them visible in the open field.",
+              "distractors": {
+                "1": "The lecturer presents a fixed route and focuses on visibility.",
+                "2": "The number of observers is not the explanation under discussion.",
+                "3": "No midday departure is presented; the issue is flight activity and detection."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "visibility",
+                "hebrew": "נראות"
+              }
+            ]
+          },
+          {
+            "prompt": "What limitation remains if both fields are surveyed at noon every day?",
+            "options": [
+              "An unusual first day necessarily determines the final results.",
+              "The survey design makes it impossible to measure field temperatures.",
+              "The same temperature difference can persist.",
+              "The observer cannot use a consistent walking route."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "Repeating the timing can preserve the systematic shade and temperature difference.",
+              "distractors": {
+                "0": "Additional visits make the study less dependent on any one unusual day.",
+                "1": "Measuring temperature is a proposed improvement.",
+                "3": "The lecturer begins with a fixed walking route, which can be repeated."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "persist",
+                "hebrew": "להימשך"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "context": "Listen to part of a lecture on furniture conservation.",
+        "script": "One antique chair in our collection has a faded rectangular patch on its seat. That looks like damage, but the museum will keep it. The patch shows where a cushion protected the material while the exposed fabric changed color. A new covering would make the seat look more uniform. It would also hide evidence of how the chair was used before it reached the museum.",
+        "questions": [
+          {
+            "prompt": "Why do the conservators keep the faded area visible?",
+            "options": [
+              "The contrast provides information about past use.",
+              "Replacing the fabric would make it fade faster.",
+              "The protected area shows where new fabric was added.",
+              "The seat would look less uniform if restored."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "The differing colors indicate where a cushion once protected the seat.",
+              "distractors": {
+                "1": "The talk makes no claim about how quickly replacement material would fade.",
+                "2": "The patch came from uneven exposure of existing fabric.",
+                "3": "The lecturer says replacement would make the surface more uniform."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "uniform",
+                "hebrew": "אחיד"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on teaching with historical maps.",
+        "script": "A reproduction enables students to examine a large historical map without exposing fragile paper to repeated handling. But a reproduction can unintentionally change what students notice. In one workshop, we showed half the class an old route map as a high-resolution scan. Other students saw a print in its original dimensions, slightly larger than a notebook. The first group enlarged the settlement names and discussed spelling. The second group commented more often on how several routes surrounded one large blank area. Neither group was mistaken. A scan makes close inspection convenient, while a print of the whole sheet makes the relative positions easier to take in at once. The instructor now supplies both views, with separate questions tailored to the kinds of observation each supports.",
+        "questions": [
+          {
+            "prompt": "Why does the instructor now provide both views of the map?",
+            "options": [
+              "Neither view alone shows the complete route map.",
+              "The print is needed to correct errors introduced by scanning.",
+              "Students can use the scan to identify damage to the original.",
+              "Each view makes a different feature easier to study."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "One view facilitates magnifying names, and the other makes overall spatial relationships easier to see.",
+              "distractors": {
+                "0": "The difference is in how students inspect the map, not missing content.",
+                "1": "The discussion concerns attention and scale rather than inaccuracies in digitization.",
+                "2": "Protecting original paper is mentioned, but identifying damage is not the workshop goal."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "relative positions",
+                "hebrew": "מיקומים יחסיים"
+              }
+            ]
+          },
+          {
+            "prompt": "Which observation was reported more often by students who saw the original-size print?",
+            "options": [
+              "Some names used unusual spellings.",
+              "Several lines enclosed a relatively empty region.",
+              "The page had already been damaged by handling.",
+              "The print reproduced fewer names than the scan."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "The print group more often noticed routes enclosing a blank area.",
+              "distractors": {
+                "0": "The scan group discussed the spelling of names.",
+                "2": "No observation of original damage was reported.",
+                "3": "The two presentation formats emphasize different features, not different sets of names."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "enclose",
+                "hebrew": "להקיף"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on pedestrian wayfinding.",
+        "script": "In a railway terminal, signs are often placed where a designer sees a long, uninterrupted line of sight on a plan. Passengers do not look at the plan. They read signs while pulling luggage, checking a ticket, or following a crowd. A station tested two designs for signs directing passengers to its exit. The first put large lettering near the entrance to the main hall. The second repeated a smaller arrow just before each point where someone had to turn. People using the first design took less time to find the sign. However, more of them made a wrong turn afterward. The station might have chosen the larger sign if its only measure had been how quickly test participants first looked up. Instead, the researchers accompanied each participant until that person reached the street. They chose the repeated arrows because the goal was successful navigation. This example does not establish that smaller lettering is generally better. A sign can fail because travelers cannot read it, but it can also fail because the instruction arrives too early to help them make the decision it describes.",
+        "questions": [
+          {
+            "prompt": "Why did the station choose the design with repeated arrows?",
+            "options": [
+              "Its first arrow was identified sooner.",
+              "It helped more passengers avoid wrong turns.",
+              "Its lettering could be read from a greater distance.",
+              "It better matched the designers’ terminal plan."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "The station used successful navigation as its criterion, and wrong turns were less common with repeated arrows.",
+              "distractors": {
+                "0": "Passengers found the larger initial sign sooner.",
+                "2": "The arrows had smaller lettering and their range was not the deciding factor.",
+                "3": "The test followed what passengers actually did rather than comparing designs on a plan."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "navigation",
+                "hebrew": "ניווט"
+              }
+            ]
+          },
+          {
+            "prompt": "What distinction does the example illustrate?",
+            "options": [
+              "Passengers who read tickets move more slowly than those who follow others.",
+              "Terminal exits require clearer designs than railway platforms.",
+              "Reading a station plan is easier than reading a sign.",
+              "Noticing an instruction and acting on it accurately are different outcomes."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The first sign drew attention quickly but did not guide passengers as successfully to the street.",
+              "distractors": {
+                "0": "Those activities are examples of divided attention, with no measured comparison.",
+                "1": "No comparison with signs for platforms is provided.",
+                "2": "Plans describe the designers' point of view; relative reading difficulty was not measured."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "outcome",
+                "hebrew": "תוצאה"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "context": "Listen to part of a lecture on seeds kept in collections.",
+        "script": "A seed bank keeps plants available for future research by drying and cooling their seeds. But counting envelopes tells you little about whether the collection is still useful. At intervals, staff take a few seeds from each batch and try to grow them. A sample that once sprouted readily may perform poorly years later, even when the envelope and the seeds inside look unchanged.",
+        "questions": [
+          {
+            "prompt": "Why do staff try to grow some stored seeds?",
+            "options": [
+              "To find out which envelopes were opened before.",
+              "To compare the appearance of seeds from different plants.",
+              "To determine whether seeds in the batch remain viable.",
+              "To develop a new method of cooling stored material."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "The test checks an ability that cannot always be inferred from appearance.",
+              "distractors": {
+                "0": "The checks address whether seeds sprout rather than whether their envelopes were opened.",
+                "1": "Appearance can remain the same even as germination declines.",
+                "3": "Cooling is a storage practice, not the purpose of these trials."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "viable",
+                "hebrew": "בעל יכולת לנבוט"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on naming features on maps.",
+        "script": "An archive recently digitized street plans produced during a period when the city often renamed streets. The archive team considered searchable text a priority, but it faced a problem. A reader who knows a modern name might never find a plan labeled with an earlier name. Automatically replacing every old name with the current one would make the plans easier to search, but it would also hide part of what the documents record. The team kept the names exactly as they appear and added searchable links to modern equivalents when a match could be confirmed. Some names are still unresolved. The website marks uncertain identifications explicitly rather than guessing. Users can therefore distinguish between original wording, a confirmed cross-reference, and a possible match.",
+        "questions": [
+          {
+            "prompt": "How did the archive help readers search using a newer name?",
+            "options": [
+              "It added links when the old and new names could be matched.",
+              "It replaced obsolete labels before scanning each plan.",
+              "It removed plans that contained unidentified street names.",
+              "It allowed users to rename streets in the archive."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "Confirmed links help users locate plans while retaining their original wording.",
+              "distractors": {
+                "1": "The original labels were kept as evidence.",
+                "2": "Uncertain identifications are marked, not discarded.",
+                "3": "The solution is editorial cross-referencing, not user editing."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "cross-reference",
+                "hebrew": "הפניה צולבת"
+              }
+            ]
+          },
+          {
+            "prompt": "Why did the team refuse to replace historical labels automatically?",
+            "options": [
+              "The newer names are generally harder to search.",
+              "The old names were less likely to refer to more than one street.",
+              "Their wording is part of the information the plans preserve.",
+              "The scanned labels could not be read by most visitors."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "Replacing labels would preserve geography but hide a historical record of naming.",
+              "distractors": {
+                "0": "Modern names are precisely what some readers know.",
+                "1": "The lecture does not compare ambiguity in the two naming systems.",
+                "3": "Legibility was not the reason for preserving original names."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "identification",
+                "hebrew": "זיהוי"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on the design of playgrounds.",
+        "script": "Public parks often contain seats at the edge of a playground. A landscape architect wanted to understand why some benches were occupied even on quiet mornings, while others were rarely used. Three benches had the best views of the entire play area, and she expected them to be the most popular. Instead, the busiest bench faced only one corner of the playground. When asked about their choice, caregivers said that the path behind this bench let them stand up, walk around it, and reach the playground quickly. People sitting in the benches with better views had to follow a longer path around a fence. The architect had assumed a bench was a stationary viewing point. Her visitors treated it as part of a short route. The study did not show that sightlines were unimportant; caregivers rejected places from which they could not see the equipment at all. It suggested that a design should consider visibility together with the speed of access. The architect later tested layouts in which benches had useful views and more than one way to reach the children.",
+        "questions": [
+          {
+            "prompt": "Why was the bench facing a single corner widely used?",
+            "options": [
+              "Its position made it quick to reach the children.",
+              "The other benches gave a poorer view of the equipment.",
+              "It was easier to find from outside the park.",
+              "Its users could sit farther from the playground."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "The path behind the bench allowed direct, quick access.",
+              "distractors": {
+                "1": "Several less popular benches actually provided wider views.",
+                "2": "Approaching from outside the park was not the preference being explained.",
+                "3": "Visitors valued rapid access, not greater separation."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "access",
+                "hebrew": "גישה"
+              }
+            ]
+          },
+          {
+            "prompt": "What implication did the architect draw from the study?",
+            "options": [
+              "Designers should place every bench at the edge of one corner.",
+              "Designers should prefer the shortest path even when visibility is poor.",
+              "Designers should remove benches from the edges of playgrounds.",
+              "Designers should consider both views and how people move from seats."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The example shows that sitting and moving are related uses that should be designed together.",
+              "distractors": {
+                "0": "One bench illustrated the issue; no universal corner rule was proposed.",
+                "1": "Caregivers also rejected seating without a usable view.",
+                "2": "The improved layouts still include nearby seating."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "sightline",
+                "hebrew": "קו ראייה"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "context": "Listen to part of a lecture on evaluating old photographs.",
+        "script": "The first photographs in an archive seem to show a city with nearly empty streets. This does not mean the streets were actually quiet. The earliest camera equipment needed time to record enough light. People passing by often moved out of the frame too quickly to leave a clear image. Buildings and parked vehicles remained in place, so those objects are easier to identify.",
+        "questions": [
+          {
+            "prompt": "What is the lecturer explaining about the early photographs?",
+            "options": [
+              "The photographers deliberately chose streets without traffic.",
+              "The equipment made moving people less likely to appear clearly.",
+              "The buildings are more visible because they were painted in lighter colors.",
+              "Most people stayed indoors while photographs were taken."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "Moving people did not stay visible long enough for the early equipment.",
+              "distractors": {
+                "0": "The pictures that look empty may actually have been taken in busy places.",
+                "2": "The explanation given is that buildings remained still.",
+                "3": "The lecturer questions that inference from a nearly empty image."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "frame",
+                "hebrew": "מסגרת התמונה"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on supermarket packaging.",
+        "script": "A retailer introduced a clear window into the packaging of a dry food after customers said they disliked buying products they could not see. In a small pilot, customers picked up the packages with the window much more often. Sales, however, barely changed. Researchers then looked at what shoppers did after picking up a package. Many put it down and chose the same brand in a larger size, which was sold in the old packaging. The window appeared to attract attention to the brand, but it did not necessarily persuade people to buy the package they had inspected. Before judging the redesign, the retailer should check whether it increased sales of the brand across all sizes rather than counting only purchases of the one redesigned package.",
+        "questions": [
+          {
+            "prompt": "Why does the lecturer suggest analyzing sales across package sizes?",
+            "options": [
+              "The two package sizes were available in different stores.",
+              "Interest in one package may have led to purchases of a different size.",
+              "The window was introduced on both package sizes at the same time.",
+              "The researchers were unable to observe what shoppers picked up."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "People sometimes inspected the window package and bought the larger version of the same brand.",
+              "distractors": {
+                "0": "Both versions were available to the observed shoppers.",
+                "2": "The larger size still used the old packaging.",
+                "3": "The researchers observed inspection as well as subsequent purchases."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "redesign",
+                "hebrew": "עיצוב מחדש"
+              }
+            ]
+          },
+          {
+            "prompt": "What did the pilot show about the packages with windows?",
+            "options": [
+              "Their sales rose sharply.",
+              "They were bought mainly by customers seeking a large size.",
+              "Shoppers complained that the windows obscured the food.",
+              "Shoppers handled them more often than before."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The window drew people to inspect the package more often.",
+              "distractors": {
+                "0": "Sales barely changed.",
+                "1": "Shoppers who wanted the larger size often selected a different package.",
+                "2": "The initial concern was that the original package concealed the product."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "inspect",
+                "hebrew": "לבחון"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on an experiment with bus schedules.",
+        "script": "A regional bus operator wanted to improve service along a route where passengers frequently waited longer than expected. Its first proposal was to add another bus. Before committing to that expense, planners compared the gaps between vehicles arriving at the busiest stops. The timetable promised a bus every twelve minutes, but actual gaps varied widely. A driver arriving a few minutes late found more people waiting and needed longer to board them. The next bus, arriving not long afterward, picked up fewer people and moved faster. Under those conditions two buses sometimes reached the same stop almost together, leaving a much longer gap behind them. The planners tried a holding rule. A bus that was too close to the one ahead waited briefly at a designated point before continuing. This delayed some people already on board, so the operator measured door-to-door journey times as well as waiting times. On average the reduction in long waits outweighed the small delays during the journey. The service became more reliable without another vehicle, though the operator kept the possibility of adding capacity if total demand later rose.",
+        "questions": [
+          {
+            "prompt": "What caused a following bus to gain on a bus that was already late?",
+            "options": [
+              "It skipped stops where nobody had requested a ride.",
+              "It traveled on a shorter route during the experiment.",
+              "It collected fewer passengers, so boarding took less time.",
+              "It was given priority at all major intersections."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "The late bus accumulated more boarders while the next bus had fewer to pick up.",
+              "distractors": {
+                "0": "The buses followed the same stops; skipping is not part of the explanation.",
+                "1": "The problem happened between buses on one route.",
+                "3": "The lecture discusses boarding time, not signals or priority."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "accumulate",
+                "hebrew": "להצטבר"
+              }
+            ]
+          },
+          {
+            "prompt": "Why did the operator measure entire journeys as well as time at the stop?",
+            "options": [
+              "The new rule could lengthen the time that some passengers spent on board.",
+              "Waiting times were impossible to record accurately.",
+              "A change in ticket prices might affect passengers’ choices.",
+              "The experiment required some passengers to change vehicles."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "A holding stop could delay people already on the bus, so both effects had to be considered.",
+              "distractors": {
+                "1": "The operator had already measured the gaps at the stops.",
+                "2": "Ticket prices were not changed or measured in the example.",
+                "3": "There was no new change-of-bus requirement."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "outweigh",
+                "hebrew": "לגבור על"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "context": "Listen to part of a lecture on library attendance.",
+        "script": "A library once reported that its summer exhibits were growing in popularity because the entrance counter recorded more visits. Then staff discovered that some visitors stepped outside to make phone calls and returned through the same doorway. Each return counted as another visit. The figures were still useful for estimating traffic through the door, but they were a poor measure of the number of individuals who attended.",
+        "questions": [
+          {
+            "prompt": "Why did the library reconsider its claim about attendance?",
+            "options": [
+              "People attending exhibitions normally used a different doorway.",
+              "The figures included fewer visits than staff had expected.",
+              "The counter could count the same person several times.",
+              "The number of exhibitions had increased that summer."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "The device counts entries, and some entries were repeated trips by one visitor.",
+              "distractors": {
+                "0": "The returns occurred at the doorway where the device was installed.",
+                "1": "Records showed higher entries, but their interpretation was the problem.",
+                "3": "No change in the number of exhibits is given as the explanation."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "attendance",
+                "hebrew": "נוכחות"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on sound in a renovated hall.",
+        "script": "A committee renovating a lecture hall asked an engineer to make speech clearer. The back wall was hard and smooth, and a clap near the stage produced a distinct delayed reflection. The engineer proposed hanging thick fabric over that wall. Before approving it, the committee tried the proposal using temporary curtains. The echo was reduced, but listeners near the rear of the hall said quiet speakers were now harder to hear. The existing sound system could not compensate uniformly because its loudspeakers all faced the front rows. The committee therefore shifted from a one-part solution to a combination: some fabric, plus additional speakers directed toward the rear seats. The trial mattered because fixing a measurable acoustic problem did not by itself guarantee a better listening experience everywhere in the room.",
+        "questions": [
+          {
+            "prompt": "What unexpected drawback did the temporary curtains reveal?",
+            "options": [
+              "Quiet voices became harder to hear in some seats.",
+              "The curtains amplified the echo from the back wall.",
+              "Listeners in the front rows heard the speakers too loudly.",
+              "The new loudspeakers were too costly to install."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "People toward the rear heard quieter speech less well even though the echo was reduced.",
+              "distractors": {
+                "1": "The fabric reduced the delayed reflection.",
+                "2": "The complaint came from the rear and concerned insufficient sound.",
+                "3": "Additional speakers were part of the eventual plan, not a drawback of the trial."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "reflection",
+                "hebrew": "החזרה"
+              }
+            ]
+          },
+          {
+            "prompt": "Why was the old sound system insufficient for the revised design?",
+            "options": [
+              "It had only temporary fabric coverings.",
+              "It produced the distinct reflection studied at the beginning.",
+              "Its amplifiers had been removed before the test.",
+              "Its speakers were aimed at the front of the room."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The placement and direction of its speakers limited how evenly they helped listeners.",
+              "distractors": {
+                "0": "The curtains were placed on the wall, not over equipment.",
+                "1": "The hard wall reflected sound; the loudspeakers did not cause the original reflection.",
+                "2": "The old system's direction is identified, not missing amplifiers."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "compensate",
+                "hebrew": "לפצות"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on collecting oral histories.",
+        "script": "A historian interviewing retired railway staff often asked everyone to describe a particular strike. At first, she held the interviews in the former station, a building many participants had known throughout their careers. They told detailed stories about station activity but said little about what happened in their homes. Later interviews took place in participants' kitchens because the station was being renovated. Several people suddenly mentioned arranging childcare, sharing food with neighbors, or discussing whether to join the strike with a family member. The historian could have interpreted the later answers as evidence that those interviewees had experienced the strike differently. However, some of these people had already spoken with her at the station and were simply adding memories. She concluded that the setting may cue different parts of a person's experience. To investigate, she invited others to bring a personal object or a work object to an interview, then compared the kinds of stories associated with each. She stresses that neither setting yields a complete account. Each may make some details salient and leave others easier to overlook.",
+        "questions": [
+          {
+            "prompt": "What evidence suggested that the interview location might influence the answers?",
+            "options": [
+              "The later participants had worked at a different station.",
+              "Some of the same people recalled additional domestic details in a new location.",
+              "Participants gave less detailed answers after the station closed.",
+              "Some stories contradicted dates in official strike records."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "Repeat interviews with some individuals reduce the likelihood that a change of participants fully explains the change.",
+              "distractors": {
+                "0": "The passage discusses a shared former station.",
+                "2": "The later interviews added memories rather than generally reducing detail.",
+                "3": "The issue concerns which details are remembered, not errors against written dates."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "recall",
+                "hebrew": "להיזכר"
+              }
+            ]
+          },
+          {
+            "prompt": "What was the purpose of inviting people to bring an object?",
+            "options": [
+              "To establish which participants had joined the strike.",
+              "To explore whether different cues encouraged different kinds of memories.",
+              "To collect objects for an exhibition about railway work.",
+              "To confirm whether the domestic stories were factually correct."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "The historian compared stories associated with work or personal objects.",
+              "distractors": {
+                "0": "Participation in the strike was not the aim of comparing cues.",
+                "2": "Objects were brought into interviews, with no plan to collect them.",
+                "3": "The comparison tested what prompts memories rather than verifying them independently."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "salient",
+                "hebrew": "בולט"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "context": "Listen to part of a lecture on displaying typeset books.",
+        "script": "Printers once kept metal letters in cases divided into compartments. The most frequently needed letters were stored where the printer could reach them easily. The arrangement therefore differed from alphabetical order. A visitor looking only at rows of compartments might assume that some letters were missing. In fact, the order is evidence of working habits, much as the layout of a modern keyboard is.",
+        "questions": [
+          {
+            "prompt": "What does the arrangement of the old letter cases reveal?",
+            "options": [
+              "Why printers stopped using the alphabet.",
+              "Which printers had lost parts of their type.",
+              "What size letters a printer could print.",
+              "How printers made often-used letters easy to reach."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "Placement depended on frequency and convenience rather than the alphabet.",
+              "distractors": {
+                "0": "The order of the cases was different from alphabetical order, but typeset books still used the alphabet.",
+                "1": "A visitor may think letters are missing, yet their seeming absence is attributed to layout.",
+                "2": "Compartment order is presented as evidence about usage and reach."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "compartment",
+                "hebrew": "תא"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on measuring home energy use.",
+        "script": "An energy adviser asked residents to read their electricity meters each evening for a month. A household reported one day with extraordinarily low use and attributed it to replacing a kitchen appliance. When staff checked the records, they found that Tuesday's meter reading had been taken shortly after breakfast. Wednesday's was taken at the usual evening hour. The low figure labeled Tuesday therefore covered fewer hours than normal, while the figure labeled Wednesday covered more. Rather than treating one day's number as proof that the appliance saved energy, the adviser combined the two figures and compared electricity use over the full interval. The example shows why the timing of a measurement can matter just as much as the accuracy with which the number is recorded.",
+        "questions": [
+          {
+            "prompt": "Why did the adviser combine Tuesday's and Wednesday's figures?",
+            "options": [
+              "The meter gave the same reading on both evenings.",
+              "The old appliance was used only on Wednesday.",
+              "Together they covered the normal span for two days.",
+              "Electricity use was higher than expected on both days."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "Adding the periods offsets the shortened Tuesday interval and lengthened Wednesday interval.",
+              "distractors": {
+                "0": "Tuesday's reading was made in the morning, not at the standard evening time.",
+                "1": "The talk supplies no such comparison between appliances across the two days.",
+                "3": "The two daily figures varied in opposite directions because reading times differed."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "interval",
+                "hebrew": "פרק זמן"
+              }
+            ]
+          },
+          {
+            "prompt": "What general point is illustrated by the example?",
+            "options": [
+              "An accurate number can mislead when its measurement period is unusual.",
+              "Residents usually misread meters after changing an appliance.",
+              "Two days of figures are enough to establish annual savings.",
+              "New appliances save more electricity early in the day."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "The problem was how much time the number covered, not how accurately it was read.",
+              "distractors": {
+                "1": "There is no reported reading error.",
+                "2": "The example does not justify projecting savings over a year.",
+                "3": "The savings claim was precisely what the timing issue made uncertain."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "measurement period",
+                "hebrew": "תקופת מדידה"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on evaluating public information campaigns.",
+        "script": "A city launched a series of posters encouraging readers to bring books back to the library by their due dates. The staff hoped for a simple measure of success: a decline in the number of overdue books. Over the first month that number did fall, but the change coincided with a reduction in the total number of books borrowed. Even if borrowers behaved exactly as before, fewer loans would usually mean fewer returns occurring late. Staff recalculated the figures as the proportion of all loans that became overdue. This time the change was much smaller. There was another complication. Two elementary schools had paused their regular visits, and books borrowed during school trips were usually brought back together by a teacher. The kind of borrower represented in the figures had also changed. The staff compared loan records within borrower groups and checked whether the remaining groups returned books earlier than comparable groups had before the posters went up. The comparisons could not rule out every outside influence, but they helped separate changes in borrowing patterns from a change in return habits.",
+        "questions": [
+          {
+            "prompt": "Why might the total number of overdue books fall even if return habits did not change?",
+            "options": [
+              "Teachers returned fewer books together that month.",
+              "The library shortened the borrowing period for each book.",
+              "There were fewer borrowed books that could become overdue.",
+              "The staff changed the definition of an overdue book."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "With fewer total loans, the same rate of late returns yields a lower count.",
+              "distractors": {
+                "0": "That concerns borrower composition, while the question asks why the total could drop with the same behavior.",
+                "1": "The length of the permitted borrowing period is not said to have changed.",
+                "3": "No redefinition of an overdue loan is described."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "proportion",
+                "hebrew": "שיעור יחסי"
+              }
+            ]
+          },
+          {
+            "prompt": "What was the purpose of comparing records within borrower groups?",
+            "options": [
+              "To account for a change in who was borrowing books.",
+              "To determine how many people had seen the posters.",
+              "To explain why the schools stopped visiting.",
+              "To identify the books most often returned late."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "People in different groups could have different return habits, so a change in the mix might affect the overall figure.",
+              "distractors": {
+                "1": "Loan records did not measure whether a borrower saw an advertisement.",
+                "2": "The pause in school visits is treated as a source of bias rather than a finding to explain.",
+                "3": "The analysis compared groups of borrowers, not titles."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "composition",
+                "hebrew": "הרכב"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "context": "Listen to part of a lecture on making public clocks easier to read.",
+        "script": "A municipal clock has a dark face and thin brass hands. On cloudy days the hands stand out. On bright days, a patch of sunlight reflected by the face can make them difficult to see. The maintenance team first considered painting the hands a lighter color, but a trial showed that shading the clock face solved the problem without changing its original materials.",
+        "questions": [
+          {
+            "prompt": "What did the maintenance team discover in its trial?",
+            "options": [
+              "A lighter paint stopped the brass from reflecting light.",
+              "The hands were hard to read on cloudy days.",
+              "The clock could be improved only by replacing its face.",
+              "Shading the face made the hands easier to see."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "Shade reduced the glare while preserving the original materials.",
+              "distractors": {
+                "0": "Painting was considered, but the successful trial used shade.",
+                "1": "The hands already stood out on cloudy days.",
+                "2": "The trial worked without replacing original components."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "glare",
+                "hebrew": "סנוור"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on measuring snow in mountains.",
+        "script": "A snow gauge near a mountain road can provide a consistent series of measurements at a fixed point. For a water manager, however, that point may represent only a small fraction of the surrounding basin. Wind moves snow across ridges into sheltered hollows, so two sites less than a kilometer apart can have very different depths. An aerial survey can show where the snow lies across a broad area, but a photograph does not reveal exactly how much water the snow contains. To estimate the total more accurately, mountain teams combine aerial maps with samples taken from several kinds of terrain. The maps put each sample into spatial context, and the samples reveal properties the image alone cannot show.",
+        "questions": [
+          {
+            "prompt": "Why can a single snow gauge give an incomplete picture of the basin?",
+            "options": [
+              "Its records cover too many changes of season.",
+              "Nearby sites can hold very different amounts of snow.",
+              "It usually measures the deepest hollow in the area.",
+              "Its measurements cannot be repeated at one location."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "Wind redistribution means the reading at one spot may be unrepresentative.",
+              "distractors": {
+                "0": "A consistent series is an advantage, not the limitation described.",
+                "2": "The example places the gauge near a road, with no claim about the deepest spot.",
+                "3": "The point is precisely that readings can be repeated there."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "basin",
+                "hebrew": "אגן ניקוז"
+              }
+            ]
+          },
+          {
+            "prompt": "What information do ground samples contribute that an aerial image alone cannot provide?",
+            "options": [
+              "Where the basin lies in relation to nearby roads.",
+              "How much water is contained in sampled snow.",
+              "Where wide areas are covered by visible snow.",
+              "How often the survey aircraft changed its route."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "Ground samples help estimate water content rather than just the visible distribution.",
+              "distractors": {
+                "0": "Road siting describes the gauge, not a property supplied by samples.",
+                "2": "Broad coverage is an advantage of aerial surveying.",
+                "3": "No flight route data are presented as a purpose for taking samples."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "terrain",
+                "hebrew": "תוואי שטח"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on a translation project.",
+        "script": "A publisher was preparing an English edition of essays in which one word appeared repeatedly. In some passages it referred to a promise between friends. In others it referred to a public obligation. The translators first chose a different English expression in each setting, trying to make every sentence sound natural. A reader who knew the original then pointed out a consequence. The essays revisit the same word to encourage readers to notice a connection between private promises and public obligations. Because the English phrases differed, the pattern was difficult to detect. Simply using one English word everywhere would retain the repetition but could sound strange or misleading in some passages. The team decided to use a recurring English expression in passages where the connection mattered most, adjusting the nearby wording so it made sense. Elsewhere, it used a more natural local equivalent and explained the choice in an introduction. The project illustrates why a translator may need to make a decision at the level of a whole book, as well as at the level of individual sentences.",
+        "questions": [
+          {
+            "prompt": "What was a drawback of the translators' initial approach?",
+            "options": [
+              "A repeated English expression sounded unnatural throughout the book.",
+              "The private meaning became difficult to distinguish from the public meaning.",
+              "Readers had to use an introduction to understand every sentence.",
+              "The repeated word's role in linking ideas was less visible."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "Different local translations hid a pattern spanning the essays.",
+              "distractors": {
+                "0": "Reusing exactly one translation was discussed later as a different approach.",
+                "1": "The initial translations preserved local meanings; the relationship between them was harder to notice.",
+                "2": "The introduction was part of the later compromise, not a consequence of the initial choices."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "recurring",
+                "hebrew": "חוזר ונשנה"
+              }
+            ]
+          },
+          {
+            "prompt": "How did the team make a repeated English expression work in selected passages?",
+            "options": [
+              "It rewrote the essays as a single narrative.",
+              "It removed passages about private promises.",
+              "It adapted the surrounding wording.",
+              "It put the original word beside each English phrase."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "The team adjusted nearby language so the recurring choice remained natural.",
+              "distractors": {
+                "0": "The essays retained their separate contexts.",
+                "1": "The link between private and public obligations was important to preserve.",
+                "3": "The talk mentions an introduction rather than parallel text beside each phrase."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "equivalent",
+                "hebrew": "מקבילה"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "context": "Listen to part of a lecture on keeping artifacts stable during transport.",
+        "script": "A museum moved delicate ceramic bowls between buildings. The initial plan used stiff packing so the bowls could not shift. A trial with a damaged replica showed that vibrations traveled through the stiff material into the bowl. The final packing kept each bowl in place but introduced a softer layer between it and the crate. This reduced vibration without letting the object move freely.",
+        "questions": [
+          {
+            "prompt": "Why was a softer layer added?",
+            "options": [
+              "To reduce the vibrations reaching each bowl.",
+              "To give each bowl room to slide inside the crate.",
+              "To make the crates easier to lift.",
+              "To hold fragments of the damaged replica together."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "The soft layer interrupted the transmission of vibration while preserving support.",
+              "distractors": {
+                "1": "The packing still prevented the bowls from shifting freely.",
+                "2": "Transport weight was not the concern described.",
+                "3": "The replica was used in a trial, not repaired by the new packing."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "vibration",
+                "hebrew": "רטט"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on comparing water use.",
+        "script": "Two apartment buildings use similar amounts of water, but a manager wanted to know which used it more efficiently. She initially planned to divide the total in each building by the number of apartments. One building, however, included many empty apartments under renovation, while most apartments in the other were occupied. Dividing by all apartments would make the partly empty building look efficient even if its residents used more water per person. The manager collected occupancy figures and reported water use per resident as well. That made the comparison more meaningful, although the figures still could not distinguish indoor consumption from watering a shared garden. She therefore treated the new calculation as an improvement in the measure rather than a complete explanation of how the water was used.",
+        "questions": [
+          {
+            "prompt": "Why might dividing by all apartments give a misleading result?",
+            "options": [
+              "Neither building had separate water meters.",
+              "The total use differed too greatly to compare.",
+              "One building had a higher proportion of empty units.",
+              "One building counted garden water but the other did not."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "Empty apartments inflate the denominator without adding normal resident use.",
+              "distractors": {
+                "0": "Consumption totals were available; the issue is the comparison unit.",
+                "1": "The buildings used similar amounts overall.",
+                "3": "Garden water remained an unresolved component, with no claim that one building omitted it."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "occupancy",
+                "hebrew": "תפוסה"
+              }
+            ]
+          },
+          {
+            "prompt": "What can the manager still not tell from the revised figures?",
+            "options": [
+              "How much of the water was used indoors rather than outside.",
+              "How many people live in each building.",
+              "Whether the original apartment counts included vacant units.",
+              "Whether the revised calculation uses residents as its basis."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "Water use per resident still combines indoor and garden use.",
+              "distractors": {
+                "1": "Occupancy information was collected.",
+                "2": "The problem was that all apartments, including empty ones, could be included.",
+                "3": "Using residents is explicitly part of the revised measure."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "consumption",
+                "hebrew": "צריכה"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on reconstructing local history from advertisements.",
+        "script": "A historian studying a town's bakeries kept finding the phrase freshly baked in its old newspapers. She initially treated each advertisement as evidence that a shop was producing bread on its premises. Then she noticed that several shops used precisely the same illustration and wording. The similarity did not by itself show those shops lacked ovens. A printing company could have supplied a shared design to independent businesses. However, the historian obtained delivery books from one bakery and found that it supplied bread every morning to several of the advertising shops. The publicity therefore recorded where fresh bread was sold, but at least some notices did not identify where it had been baked. To extend her study, the historian compared advertisements with building plans that showed ovens and with leases that gave tenants permission to bake. These sources also had limits. An oven installed in a building might not be used, and permission does not establish that a tenant exercised it. By comparing sources, she developed a map that marked firm identifications separately from plausible ones. Her goal was to make the degree of uncertainty visible.",
+        "questions": [
+          {
+            "prompt": "Which source showed that at least some shops sold bread made elsewhere?",
+            "options": [
+              "The printing company's shared design.",
+              "Building layouts with ovens drawn on them.",
+              "Leases permitting tenants to bake.",
+              "The delivery records of one bakery."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The records documented that a bakery supplied bread to advertising shops.",
+              "distractors": {
+                "0": "A common layout raised a question but did not establish how the shops obtained bread.",
+                "1": "Plans indicate physical capacity rather than delivery arrangements.",
+                "2": "Permission to bake does not show what products a shop actually sold."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "premises",
+                "hebrew": "מתחם בית עסק"
+              }
+            ]
+          },
+          {
+            "prompt": "Why did the historian distinguish firm identifications from plausible ones on her map?",
+            "options": [
+              "The location of every shop changed during the period.",
+              "Each source supports some conclusions more strongly than others.",
+              "Permission to bake is better evidence than any delivery record.",
+              "Newspaper advertisements were useful solely for identifying printers."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "Plans and leases can indicate possible baking without proving it took place, so the records justify different claims with different strength.",
+              "distractors": {
+                "0": "Changing addresses were not the reason given for marking uncertainty.",
+                "2": "The sources answer different questions; a lease still cannot establish actual baking.",
+                "3": "The notices suggest where bread was sold even if they do not establish where it was made."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "plausible",
+                "hebrew": "סביר"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ],
+  "continuation": [
+    [
+      {
+        "context": "Listen to part of a lecture on shade trees.",
+        "script": "A tree in a narrow street may provide deep shade at noon. In the morning, however, the shadow often falls on the opposite sidewalk. To decide where a new bench will be coolest, planners need to consider",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about shade trees.",
+            "options": [
+              "which trees are oldest in the district",
+              "why the paving was recently replaced",
+              "how many benches the district owns",
+              "how the shade moves during the day"
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The contrast between noon and morning makes the position of shade over time decisive.",
+              "distractors": {
+                "0": "Tree age does not directly resolve where shade falls at different hours.",
+                "1": "Paving is unrelated to the shift in the tree's shadow.",
+                "2": "The issue is the location of one bench, not the total stock."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "shade",
+                "hebrew": "צל"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on preparing historical editions.",
+        "script": "An editor found a letter with an illegible name. Two other letters sent the same week named different people in similar circumstances. Since neither identification fitted the unclear passage any better than the other, the editor decided to",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the editor.",
+            "options": [
+              "mark the name as uncertain",
+              "select the name that appeared first",
+              "change the date of the letter",
+              "remove the other letters from the collection"
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "The available evidence favors neither name, so acknowledging the uncertainty follows.",
+              "distractors": {
+                "1": "Order of mention does not make one reading better.",
+                "2": "The issue is identification rather than the date.",
+                "3": "Weak identification is no reason to discard the other letters."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "illegible",
+                "hebrew": "בלתי קריא"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on bird counts.",
+        "script": "In some forests, observers count birds by recognizing their calls. A microphone placed near a busy road might record fewer recognizable calls than one deep in the forest, even when the same birds are present. This is because traffic noise can",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about microphones.",
+            "options": [
+              "identify species by their songs",
+              "hold the microphone in position",
+              "mask quieter bird calls",
+              "make deep forest recordings louder"
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "Noise can make a call harder to distinguish without changing the number of birds.",
+              "distractors": {
+                "0": "Species recognition is the observer's task, not a function of road noise.",
+                "1": "No physical displacement is described.",
+                "3": "The interference concerns recordings made near the road."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "mask",
+                "hebrew": "להסתיר"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on book restoration.",
+        "script": "When a conservator washes a sheet of old paper, a brown stain may become less visible. If the writing ink also dissolves, however, the sheet will lose important information. Before treating a manuscript, the conservator therefore needs to",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about cleaning.",
+            "options": [
+              "remove the writing from a larger area",
+              "test whether its ink is affected by water",
+              "reproduce the stain on another page",
+              "decide how many people wrote the manuscript"
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "A preliminary test can reveal whether washing would risk losing the written content.",
+              "distractors": {
+                "0": "Removing writing is the harm to avoid.",
+                "2": "Reproducing a stain offers no evidence about ink solubility.",
+                "3": "The number of writers does not determine how the ink responds to washing."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "conservator",
+                "hebrew": "משמר"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "context": "Listen to part of a lecture on public transit.",
+        "script": "A map can show two stations only a few hundred meters apart. Yet passengers carrying luggage may take a long time to transfer between them, because a fence separates their entrances. The practical walking distance therefore depends on",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about stations.",
+            "options": [
+              "the route passengers can actually use",
+              "the number of trains on the next line",
+              "the age of the stations shown on the map",
+              "the fare paid by passengers with luggage"
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "A fence changes the accessible route even when the map distance is short.",
+              "distractors": {
+                "1": "Service frequency does not explain how far people must walk.",
+                "2": "The barrier, rather than the stations' age, matters.",
+                "3": "Ticket cost is unrelated to the route imposed by the fence."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "transfer",
+                "hebrew": "להחליף קו"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on displaying photographs.",
+        "script": "The curator noticed that a small photograph looked faded under the gallery's brightest light. A test showed that light was reflecting from the glass and obscuring the picture. To improve visibility without altering the photograph, the gallery could",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the gallery.",
+            "options": [
+              "increase the brightness of the same lamp",
+              "retouch the pale areas on the print",
+              "change the angle of the light",
+              "replace the frame with a wider one"
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "Changing the angle can redirect reflections while preserving the photograph.",
+              "distractors": {
+                "0": "More light at the same angle could increase the distracting reflection.",
+                "1": "Retouching alters the artwork, which the proposed change should avoid.",
+                "3": "Frame width does not directly address reflected light."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "obscure",
+                "hebrew": "להסתיר"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on testing a new library catalog.",
+        "script": "A library measured how quickly people could find a title in a new catalog. Search times improved, but only a few users in the trial knew the exact title of an unfamiliar book. The library should therefore also test searches when users",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about catalog users.",
+            "options": [
+              "search exclusively for books they already own",
+              "remember only part of the title",
+              "decide to stop borrowing print books",
+              "want to inspect the library's furniture"
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "The initial test leaves open how well the catalog works when people have incomplete information.",
+              "distractors": {
+                "0": "Ownership does not address how precise a search is.",
+                "2": "Format preferences are distinct from finding a title.",
+                "3": "Furniture is outside the catalog task."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "unfamiliar",
+                "hebrew": "לא מוכר"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on cooling streets.",
+        "script": "A street surfaced with light paving absorbed less sunlight than a nearby dark street. On sunny afternoons, however, the reflected light could reach people walking across it. The engineers therefore assessed the effect of the new paving by considering",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about paving.",
+            "options": [
+              "the paving color alone",
+              "only the air temperature after midnight",
+              "how residents described the old street at night",
+              "both surface temperature and pedestrian exposure"
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The trade-off concerns heat absorbed by the ground and light received by pedestrians.",
+              "distractors": {
+                "0": "Color is relevant but does not measure both consequences.",
+                "1": "The stated issue occurs on sunny afternoons.",
+                "2": "Opinions about the street at night do not measure exposure to reflected daylight."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "exposure",
+                "hebrew": "חשיפה"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "context": "Listen to part of a lecture on estimating foot traffic.",
+        "script": "A counter at the library entrance recorded two thousand passages on Saturday. Staff learned that a side room was closed, so workshop participants repeatedly passed the entrance on their way to another room. The total therefore should not be interpreted as",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the entrance count.",
+            "options": [
+              "a record of movement through the entrance",
+              "evidence that participants moved between rooms",
+              "an approximate count of trips past the sensor",
+              "the number of different people who visited"
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "Repeated crossings prevent the count from identifying the number of distinct visitors.",
+              "distractors": {
+                "0": "The device did measure movements through its doorway.",
+                "1": "Repeated movement is the explanation, not an interpretation the example rules out.",
+                "2": "Trips past the device are exactly the kind of activity recorded."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "distinct",
+                "hebrew": "נבדל"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on learning a musical phrase.",
+        "script": "A piano student could play an entire passage quickly but stumbled at the same transition each time. Playing the whole piece again provided little time to examine the hand movement at that point. Her teacher suggested concentrating on",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about practice.",
+            "options": [
+              "the few notes surrounding the difficult change",
+              "playing the whole piece at a faster pace",
+              "finding another edition with different page numbers",
+              "keeping the first notes louder than the last"
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "Practicing around the transition gives focused attention to the recurring difficulty.",
+              "distractors": {
+                "1": "Repeating the full piece is the approach that failed to isolate the issue.",
+                "2": "Pagination does not address a hand movement.",
+                "3": "The problem concerns changing positions, not dynamics."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "transition",
+                "hebrew": "מעבר"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on comparing water samples.",
+        "script": "Field staff take water samples upstream and downstream of a reserve. After a storm, the downstream sample held more sediment, but heavy rain fell only in the hills just above that site. The result might therefore reflect",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the samples.",
+            "options": [
+              "a uniform change throughout the river",
+              "a difference in the labels used on bottles",
+              "a difference in local rainfall",
+              "a permanent decline in precipitation"
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "The storm affected one sampling area especially, so it could explain the higher sediment there.",
+              "distractors": {
+                "0": "The description points to a local rather than basin-wide event.",
+                "1": "No labeling problem is suggested.",
+                "3": "The example describes a recent storm, not a permanent rainfall trend."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "sediment",
+                "hebrew": "משקע"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on a restored footpath.",
+        "script": "A village restored a stone footpath after winter runoff carried soil away on the slope. The new surface survived the first storm, but water began cutting a channel immediately beside it. The next repair must address not only the path itself but also",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the footpath.",
+            "options": [
+              "the length of the path on a printed map",
+              "the route taken by water around it",
+              "the age of stones left in storage",
+              "the distance to the nearest village"
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "The erosion moved to the path's edge, so the flow around the surface needs attention.",
+              "distractors": {
+                "0": "Fixing the length shown on a map does not solve erosion.",
+                "2": "The source of the replacement material is incidental.",
+                "3": "The effect is local runoff, not access from another village."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "runoff",
+                "hebrew": "נגר עילי"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "context": "Listen to part of a lecture on interpreting a market survey.",
+        "script": "People surveyed outside a bakery said they rarely bought bread elsewhere. Interviewers had picked that location because it was convenient. But visitors stopping there were more likely to favor that bakery than residents who never went near it. A broader survey should",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about surveying shoppers.",
+            "options": [
+              "include people recruited at other locations",
+              "use the same interviews to estimate the habits of all residents",
+              "ask more customers beside the same door",
+              "omit people who buy bread elsewhere"
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "Recruiting at other locations reduces the selection bias created by interviewing at the bakery.",
+              "distractors": {
+                "1": "The original group is unlikely to represent all residents.",
+                "2": "Increasing the sample at the same location does not fix the recruitment bias.",
+                "3": "People who shop elsewhere are needed to broaden the sample."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "recruit",
+                "hebrew": "לגייס"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on conserving paper.",
+        "script": "An archive used transparent folders to let visitors view fragile notes without removing them. Inspectors later found that the folder surface created glare under ceiling lights. The notes themselves remained safe, but the new system made them harder to",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about archive folders.",
+            "options": [
+              "store without damaging the paper",
+              "identify by their original dates",
+              "read in the existing lighting",
+              "place in transparent folders"
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "Reflections make the written material harder to see even though it remains protected.",
+              "distractors": {
+                "0": "The notes stayed safe, so storage protection was successful.",
+                "1": "No dates or catalog details were lost.",
+                "3": "Fitting the notes in folders was not the difficulty described."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "glare",
+                "hebrew": "סנוור"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on designing an outdoor map.",
+        "script": "The designer placed a town map beside an intersection. Visitors could easily locate the dot marked You Are Here, but many walked the wrong way because north on the board pointed toward the street behind them. The designer could reduce confusion by",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the town map.",
+            "options": [
+              "making the location dot smaller",
+              "turning the map to align with the view ahead",
+              "listing destinations alphabetically",
+              "showing the same map at a smaller scale"
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "Aligning the map with what viewers see makes directions easier to translate into movement.",
+              "distractors": {
+                "0": "People already locate the dot successfully.",
+                "2": "Alphabetical order does not correct orientation.",
+                "3": "Changing scale would not address the direction mismatch."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "align",
+                "hebrew": "ליישר"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on comparing museum visits.",
+        "script": "A gallery introduced free evening admission and saw visitor numbers rise. At the same time, a popular artist gave several talks to promote a new show. Before attributing the rise to cheaper tickets, it would help to compare",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about gallery attendance.",
+            "options": [
+              "the topics chosen for the artist's talks",
+              "the age of visitors seated at each talk",
+              "ticket prices charged by galleries on another continent",
+              "attendance on evenings with and without talks"
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The talks are a competing explanation; comparing evenings with and without them helps separate the effects.",
+              "distractors": {
+                "0": "Talk content alone does not show how much the talks affected attendance.",
+                "1": "Age does not distinguish the promotions from the free admission policy.",
+                "2": "Distant gallery prices do not resolve the two simultaneous local changes."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "attribute",
+                "hebrew": "לייחס"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "context": "Listen to part of a lecture on estimating room occupancy.",
+        "script": "A sensor in a lecture hall recorded movement whenever someone walked past it. Its signal stayed quiet for much of a presentation, even though every seat was occupied. This sort of device can indicate activity, but it cannot reliably",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the sensor.",
+            "options": [
+              "register people entering the hall",
+              "detect movement near the doorway",
+              "record changes in the level of activity",
+              "count people who remain still"
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "People can be present without generating movement for the sensor to register.",
+              "distractors": {
+                "0": "Walking past the sensor is what makes it respond.",
+                "1": "Movement is the signal the device detects.",
+                "2": "Changes in recorded activity are measurable, unlike stationary attendance."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "occupancy",
+                "hebrew": "תפוסה"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on classroom experiments.",
+        "script": "Two groups watered identical plants at different times of day. One group also kept its plants closer to a window. If those plants grew taller, the teacher explained, the class could not tell whether the difference was caused by",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the experiment.",
+            "options": [
+              "watering time or exposure to light",
+              "the variety of plant selected for the class",
+              "differences in the height of the windows",
+              "weather conditions outside both classrooms"
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "The groups differed in both timing and position relative to the light, so either could matter.",
+              "distractors": {
+                "1": "The plants were identical in the experimental setup.",
+                "2": "Window height is not a described difference, unlike distance from the window.",
+                "3": "The groups were compared on two specified factors, not weather."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "exposure",
+                "hebrew": "חשיפה"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on historical recipes.",
+        "script": "A handwritten recipe describes adding enough flour to stiffen the mixture. Modern readers wanted a number in grams, but the amount depends on how wet the other ingredients are. The original instruction is useful because it tells the cook",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the recipe.",
+            "options": [
+              "how to calculate the exact weight in advance",
+              "where the flour was bought",
+              "which consistency to aim for",
+              "why this manuscript lacks punctuation"
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "The instruction describes the desired texture, which is useful when the required quantity varies.",
+              "distractors": {
+                "0": "The description gives no exact weight.",
+                "1": "The source of the flour is not given or needed.",
+                "3": "Punctuation is unrelated to the value of the instruction."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "consistency",
+                "hebrew": "מרקם"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on comparing two walking routes.",
+        "script": "The northern route to the station is shorter on paper. During a trial, pedestrians using it often waited several minutes at a busy crossing. A city planner deciding which route is faster needs to measure not just distance but also",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about walking time.",
+            "options": [
+              "the direction each street is named after",
+              "the delays experienced along the way",
+              "the height of buildings near the station",
+              "the length of the route a second time"
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "The shorter path can take longer if people must wait to cross.",
+              "distractors": {
+                "0": "Street name origins do not affect waiting time.",
+                "2": "Building height was not relevant to the difference.",
+                "3": "Distance alone is precisely what the trial shows to be insufficient."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "delay",
+                "hebrew": "עיכוב"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "context": "Listen to part of a lecture on finding an unfamiliar word.",
+        "script": "A dictionary survey asked readers whether a definition helped them understand a rare term. Several could repeat the definition immediately but still chose the wrong meaning in a real paragraph. The researcher realized that recalling a definition is different from",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about word meanings.",
+            "options": [
+              "recognizing how a word is used in context",
+              "saying a memorized sentence aloud",
+              "finding a term on the correct dictionary page",
+              "asking a researcher to repeat a question"
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "The scenario contrasts repetition of a definition and application of that knowledge in a paragraph.",
+              "distractors": {
+                "1": "Repeating a memorized sentence is similar to recalling the definition.",
+                "2": "Finding a page is not the skill compared with recall.",
+                "3": "The result concerns the reader's interpretation of a word."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "in context",
+                "hebrew": "בהקשר"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on a pottery exhibition.",
+        "script": "A museum displayed bowls ordered from smallest to largest. Visitors quickly noticed differences in size but overlooked patterns in the decoration. Reordering the display might draw more attention to those patterns if the museum puts together bowls that",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the bowls.",
+            "options": [
+              "are exactly the same size",
+              "come from storage shelves of equal height",
+              "share similar decorative features",
+              "are made from the most fragile material"
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "Grouping decoration types makes the intended visual patterns easier to compare.",
+              "distractors": {
+                "0": "The display already emphasized size and failed to draw enough attention to patterns.",
+                "1": "Shelf height is incidental to the objects' appearance.",
+                "3": "Fragility might affect display cases, but it is not the learning goal."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "decoration",
+                "hebrew": "עיטור"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on reading temperature records.",
+        "script": "A town's hottest days appear more frequent in recent records. Before drawing a conclusion, a researcher discovers that the old thermometer was shaded by a wall, while its replacement stood in direct sunlight. A reliable comparison must account for",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about temperature records.",
+            "options": [
+              "the age of the wall near the new thermometer",
+              "the different conditions at the measuring sites",
+              "the number of inhabitants on the hottest days",
+              "the order in which the records were filed"
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "The instrument's placement can influence the comparison regardless of an underlying trend.",
+              "distractors": {
+                "0": "The wall shaded the old thermometer, and wall age is immaterial to the described difference.",
+                "2": "Population was not identified as a measurement issue.",
+                "3": "File order does not explain a difference between shade and sunlight."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "account for",
+                "hebrew": "להביא בחשבון"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on recovering scraps of an old map.",
+        "script": "The printed map survived in two damaged copies. A route missing from one copy appears clearly in the other, but parts of the coastline are missing from both. Comparing the copies allows the researcher to reconstruct some features while leaving",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the damaged map.",
+            "options": [
+              "every island clearly identified",
+              "only the paper color unchanged",
+              "both copies readable in full",
+              "other features uncertain"
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The two copies complement each other for some features, but shared gaps remain.",
+              "distractors": {
+                "0": "Shared damage leaves some features unknown.",
+                "1": "The issue is recoverable information, not paper color.",
+                "2": "Comparison does not repair the damage or supply the missing parts of both copies."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "reconstruct",
+                "hebrew": "לשחזר"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "context": "Listen to part of a lecture on recording plant growth.",
+        "script": "Student gardeners recorded the height of a plant every Monday. Near the end of term, the stem began to bend, so its tip was lower even though a measurement along the stem showed continued growth. The apparent decrease reflected",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the plant.",
+            "options": [
+              "a decline in the supply of water to the roots",
+              "an earlier error in identifying the species",
+              "a difference in the day on which readings were taken",
+              "a change in shape rather than a loss of stem length"
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "A bent but longer stem can reach a lower height above the soil.",
+              "distractors": {
+                "0": "The account gives a geometrical explanation, not a shortage of water.",
+                "1": "Species identification is not in question.",
+                "2": "Measurements were consistently taken on Mondays."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "apparent",
+                "hebrew": "לכאורה"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on improving a sign.",
+        "script": "A new sign said that the exhibition opened at ten, but visitors regularly asked whether the doors also opened at ten. The staff realized that the sign answered a question about the exhibition without answering one about",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the sign.",
+            "options": [
+              "when visitors could enter the building",
+              "the display title shown over the doors",
+              "whether the exhibition would move next year",
+              "how many staff were assigned to the entrance"
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "The opening time of the exhibition does not resolve when people may come through the doors.",
+              "distractors": {
+                "1": "A missing title would prompt a different question.",
+                "2": "There is no uncertainty about relocation in the recording.",
+                "3": "The sign does not address staffing, but that is not what visitors asked about."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "entrance",
+                "hebrew": "כניסה"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on organizing repair tools.",
+        "script": "Technicians initially stored tools by the material from which each was made. Workers completing a routine repair often had to open several drawers. The workshop considered a new arrangement in which tools often needed for one job would be",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the workshop.",
+            "options": [
+              "moved farther from the repair areas",
+              "listed only by the year they were bought",
+              "stored together even if made of different materials",
+              "separated according to their handles"
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "The problem arose because one task crossed the existing categories, so grouping by task helps.",
+              "distractors": {
+                "0": "More distance would not solve the need to find several tools.",
+                "1": "Purchase year is another arrangement unrelated to the task.",
+                "3": "Sorting handles would retain the core problem of splitting tools used together."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "routine",
+                "hebrew": "שגרתי"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on a market shelter.",
+        "script": "The council wanted a permanent roof over a temporary market. Stallholders agreed shade would help at noon, but they warned that a low roof might obstruct tall delivery vehicles. The eventual proposal needed to balance",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the market roof.",
+            "options": [
+              "the amount of sunlight in summer and in winter",
+              "protection from the sun and access for deliveries",
+              "the competing prices at neighboring stalls",
+              "building costs and the number of shoppers at dawn"
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "Shade and vehicle clearance are the two considerations raised by the stallholders.",
+              "distractors": {
+                "0": "The conflict is between shade and access, not seasons.",
+                "2": "Stall prices are unrelated to roof height.",
+                "3": "No early shopper count is described as a design objective."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "obstruct",
+                "hebrew": "לחסום"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "context": "Listen to part of a lecture on planning a footbridge.",
+        "script": "A steel footbridge was inexpensive to build but required frequent repainting in damp weather. An alternative design cost more initially and needed less upkeep. A planner looking for the cheaper option over twenty years needs to compare",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about bridge costs.",
+            "options": [
+              "construction and maintenance costs together",
+              "only the two original construction prices",
+              "the amount of steel left after building",
+              "the number of visitors in the first month"
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "Initial and recurring expenses both contribute to a long-term comparison.",
+              "distractors": {
+                "1": "Upfront prices would ignore repainting and other maintenance.",
+                "2": "Unused material does not answer the total cost question.",
+                "3": "Visitor counts are not the costs being weighed."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "upkeep",
+                "hebrew": "תחזוקה"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on reading a graph.",
+        "script": "A report showed that the number of journeys by bicycle had increased. It also reported a much larger increase in journeys by all forms of transport. It is possible, therefore, that the proportion made by bicycle actually",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about transport.",
+            "options": [
+              "matched the total number of journeys",
+              "proved that travel was generally declining",
+              "decreased",
+              "excluded other modes from the study"
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "If the total grew faster than the bicycle count, bicycles may account for a smaller share.",
+              "distractors": {
+                "0": "A proportion is a share of the total rather than the entire count.",
+                "1": "The report says total journeys increased.",
+                "3": "The wider total includes other forms of transport."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "proportion",
+                "hebrew": "שיעור יחסי"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on using letters as evidence.",
+        "script": "Three letters from the same week describe empty shops in the town center. All three were addressed to one supplier and asked for more deliveries. A historian should consider whether the writers emphasized shortages because they wanted to",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the letters.",
+            "options": [
+              "keep suppliers out of the town center",
+              "persuade the supplier to send goods",
+              "explain why demand had already collapsed",
+              "prevent the supplier from learning about shortages"
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "Requests for more deliveries give the authors a motive to stress the shortage.",
+              "distractors": {
+                "0": "The letters invite more supply rather than asking the recipient to stay away.",
+                "2": "A shortage does not establish collapsing demand.",
+                "3": "The authors explicitly discussed empty shops and did not try to conceal them."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "emphasize",
+                "hebrew": "להדגיש"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on comparing microscope images.",
+        "script": "The first microscope image showed several grains with sharp edges. In the second image, taken at a lower magnification, the edges looked smooth. Before concluding that the grains themselves had changed, a researcher should photograph them",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the images.",
+            "options": [
+              "at an even lower magnification",
+              "with their edges removed",
+              "only after changing their composition",
+              "under comparable viewing conditions"
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "A comparison should control the imaging conditions before attributing an appearance change to the object.",
+              "distractors": {
+                "0": "Further lowering magnification preserves rather than resolves the mismatch.",
+                "1": "Removing edges would change what the researcher wants to compare.",
+                "2": "Changing the composition would create exactly the physical difference under investigation."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "magnification",
+                "hebrew": "הגדלה"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ]
+}

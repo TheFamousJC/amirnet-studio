@@ -1,0 +1,995 @@
+{
+  "id": "test-14",
+  "number": 14,
+  "title": "The Perils of a Uniform Clock / The Shape of a Wave Farm",
+  "sections": [
+    {
+      "id": "test-14-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "To obtain a larger sample, the two departments agreed to ____ the results of their surveys in a single database.",
+          "options": [
+            "compare",
+            "repeat",
+            "combine",
+            "exclude"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“combine” means bring separate things together. Results from both departments go into one database.",
+            "distractors": {
+              "0": "“compare” means examine similarities and differences. The clue is that results from both departments go into one database.",
+              "1": "“repeat” means carry out the same action again. The clue is that results from both departments go into one database.",
+              "3": "“exclude” means leave out of a group or calculation. The clue is that results from both departments go into one database."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "combine",
+              "hebrew": "לשלב"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-14-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "The objects recovered were ____ kitchen utensils of a kind found in most neighbouring houses.",
+          "options": [
+            "formal",
+            "ordinary",
+            "precise",
+            "original"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“ordinary” means common and unremarkable. Similar utensils were commonplace in nearby homes.",
+            "distractors": {
+              "0": "“formal” means following recognised official conventions. The clue is that similar utensils were commonplace in nearby homes.",
+              "2": "“precise” means exact and free of unnecessary ambiguity. The clue is that similar utensils were commonplace in nearby homes.",
+              "3": "“original” means first version from which later versions are derived. The clue is that similar utensils were commonplace in nearby homes."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "ordinary",
+              "hebrew": "רגיל"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-14-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The survey revealed two ____ patterns of travel, one almost entirely by train and the other mainly by bicycle.",
+          "options": [
+            "distinct",
+            "suitable",
+            "available",
+            "consistent"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“distinct” means clearly separate or different. The modes of travel separate the observations into two different patterns.",
+            "distractors": {
+              "1": "“suitable” means appropriate for a specific purpose. The clue is that the modes of travel separate the observations into two different patterns.",
+              "2": "“available” means obtainable or ready for use. The clue is that the modes of travel separate the observations into two different patterns.",
+              "3": "“consistent” means uniform across occasions or cases. The clue is that the modes of travel separate the observations into two different patterns."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "distinct",
+              "hebrew": "מובחן, נפרד"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-14-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The discovery of earlier inscriptions prompted several historians to ____ the accepted claim that the custom began in the eighteenth century.",
+          "options": [
+            "assess",
+            "justify",
+            "convey",
+            "challenge"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“challenge” means dispute the validity or authority of something. Older evidence calls the accepted historical claim into question.",
+            "distractors": {
+              "0": "“assess” means judge the quality or significance of something. The clue is that older evidence calls the accepted historical claim into question.",
+              "1": "“justify” means give sufficient reasons supporting a choice or claim. The clue is that older evidence calls the accepted historical claim into question.",
+              "2": "“convey” means communicate an idea or feeling. The clue is that older evidence calls the accepted historical claim into question."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "challenge",
+              "hebrew": "לערער על"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-14-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "Although the change was measurable, its effect on the total was ____: the estimated cost fell by less than one tenth of one percent.",
+          "options": [
+            "comparable",
+            "dominant",
+            "random",
+            "marginal"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“marginal” means small enough to be of limited significance. The reduction was numerically very small.",
+            "distractors": {
+              "0": "“comparable” means similar enough to allow meaningful comparison. The clue is that the reduction was numerically very small.",
+              "1": "“dominant” means more influential or widespread than others. The clue is that the reduction was numerically very small.",
+              "2": "“random” means not following a deliberate pattern or selection rule. The clue is that the reduction was numerically very small."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "marginal",
+              "hebrew": "שולי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-14-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The auditors investigated the ____ between the amount entered in the ledger and the smaller sum deposited that morning.",
+          "options": [
+            "constraint",
+            "precedent",
+            "discrepancy",
+            "correlation"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“discrepancy” means lack of agreement between accounts or values expected to match. Two amounts that should agree are different.",
+            "distractors": {
+              "0": "“constraint” means limit that restricts available choices. The clue is that two amounts that should agree are different.",
+              "1": "“precedent” means earlier instance used as a guide in later similar cases. The clue is that two amounts that should agree are different.",
+              "3": "“correlation” means statistical association between variables. The clue is that two amounts that should agree are different."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "discrepancy",
+              "hebrew": "אי-התאמה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-14-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-14-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "When the date on the authenticated document was found to have been altered, the journal agreed to ____ its published assertion about the document's age.",
+          "options": [
+            "retract",
+            "disseminate",
+            "withhold",
+            "amend"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“retract” means formally withdraw a previously made statement. The journal withdraws a statement it has already published.",
+            "distractors": {
+              "1": "“disseminate” means spread something widely among people or places. The clue is that the journal withdraws a statement it has already published.",
+              "2": "“withhold” means keep something back instead of giving it. The clue is that the journal withdraws a statement it has already published.",
+              "3": "“amend” means change or correct a formal text. The clue is that the journal withdraws a statement it has already published."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "retract",
+              "hebrew": "לחזור בו מ־"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-14-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "A highly ____ irrigation system changes its watering intervals automatically when soil moisture differs from the previous week's levels.",
+          "options": [
+            "susceptible",
+            "adaptive",
+            "inert",
+            "resilient"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“adaptive” means able to change in response to new conditions. The system changes behaviour in response to current soil conditions.",
+            "distractors": {
+              "0": "“susceptible” means particularly vulnerable or prone to being affected. The clue is that the system changes behaviour in response to current soil conditions.",
+              "2": "“inert” means showing little or no tendency to react. The clue is that the system changes behaviour in response to current soil conditions.",
+              "3": "“resilient” means able to recover after disruption or damage. The clue is that the system changes behaviour in response to current soil conditions."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "adaptive",
+              "hebrew": "סתגלני"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-14-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The revised appendix eliminated ____ by deleting three tables that repeated figures already available in the main text.",
+          "options": [
+            "versatility",
+            "rigour",
+            "parsimony",
+            "redundancy"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“redundancy” means unnecessary repetition or duplication. The extra tables duplicated information.",
+            "distractors": {
+              "0": "“versatility” means ability to perform a range of functions or adapt to different uses. The clue is that the extra tables duplicated information.",
+              "1": "“rigour” means thoroughness and strict adherence to analytical standards. The clue is that the extra tables duplicated information.",
+              "2": "“parsimony” means preference for simplicity or economy of assumptions. The clue is that the extra tables duplicated information."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "redundancy",
+              "hebrew": "יתירות, כפילות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-14-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The padded lining was designed to ____ the vibrations without preventing the instrument from detecting larger movements.",
+          "options": [
+            "synchronise",
+            "modulate",
+            "attenuate",
+            "amplify"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“attenuate” means reduce the strength or intensity of a signal or effect. The lining reduces the intensity of vibrations.",
+            "distractors": {
+              "0": "“synchronise” means cause actions to take place at the same time. The clue is that the lining reduces the intensity of vibrations.",
+              "1": "“modulate” means vary a property in a controlled way. The clue is that the lining reduces the intensity of vibrations.",
+              "3": "“amplify” means increase the strength, volume, or effect of something. The clue is that the lining reduces the intensity of vibrations."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "attenuate",
+              "hebrew": "להחליש"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-14-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The anonymous donors declined to ____ their involvement in the purchase, preferring never to acknowledge it publicly.",
+          "options": [
+            "avow",
+            "impugn",
+            "adduce",
+            "gainsay"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“avow” means declare one's belief, commitment, or responsibility openly. Public acknowledgment of involvement is the action they decline.",
+            "distractors": {
+              "1": "“impugn” means attack the honesty, validity, or integrity of something. The clue is that public acknowledgment of involvement is the action they decline.",
+              "2": "“adduce” means bring forward evidence or reasons in support of a case. The clue is that public acknowledgment of involvement is the action they decline.",
+              "3": "“gainsay” means deny or dispute the truth of a statement. The clue is that public acknowledgment of involvement is the action they decline."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "avow",
+              "hebrew": "להצהיר בגלוי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-14-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "After every independent replication confirmed the result and the raw measurements were verified, the team regarded its narrow factual claim as virtually ____.",
+          "options": [
+            "unprecedented",
+            "unassailable",
+            "unwarranted",
+            "incommensurate"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“unassailable” means so strong that it cannot reasonably be challenged. Independent replications and verified measurements leave little basis for a challenge.",
+            "distractors": {
+              "0": "“unprecedented” means having no previous example of its kind. The clue is that independent replications and verified measurements leave little basis for a challenge.",
+              "2": "“unwarranted” means not sufficiently justified by the facts or circumstances. The clue is that independent replications and verified measurements leave little basis for a challenge.",
+              "3": "“incommensurate” means out of proportion or lacking a suitable correspondence in magnitude. The clue is that independent replications and verified measurements leave little basis for a challenge."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "unassailable",
+              "hebrew": "מוצק מכדי להפריכו"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-14-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-14-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "The Perils of a Uniform Clock",
+        "paragraphs": [
+          "When a factory historian finds a record showing that machines were switched off at five in the afternoon, it seems reasonable to compare that time with a timetable showing a workers' train at ten past five. The apparent ten-minute interval might indicate whether workers could normally catch the train. The comparison is safe only if the sources use the same clock or share a stable time convention. In an industrial district undergoing a change in timekeeping, the two places might set their clocks by different signals. A ten-minute difference on paper could describe a shorter or much longer walk in practice.",
+          "The historical problem is subtler than converting one established time standard to another. A factory clock set by a foreman each week might drift between settings. The shift bell could sound whenever one operation ended, even though payroll always credited a fixed number of hours. A railway station might announce departures using the station clock while its public timetable rounded certain journey times. One setting did not necessarily have a single time for every purpose. Employees could know quite well how to coordinate their movements even where the surviving documents appear incompatible.",
+          "An investigator can seek occasions when both systems recorded the same event. If a delivery arrived at the gate just as a scheduled train left the siding, the corresponding entries might supply a point of comparison. Several such points are needed, because the difference between clocks need not be constant and an individual entry could have been written after the event. The comparison also requires evidence that the observations refer to the same event: a regular delivery could be mistaken for its predecessor if the date or contents were recorded carelessly.",
+          "Attention to timekeeping can lead to questions that were invisible when the times were taken at face value. A group of workers might negotiate a few extra minutes at the end of a shift by tying its closing bell to the afternoon train rather than asking the employer to shorten paid time. Such an arrangement, if independently documented, would show that a clock served as a social agreement as well as a measuring instrument. The task of the historian is to reconstruct enough of that agreement to understand what the recorded times meant to the people using them and which apparent differences in the record corresponded to differences in lived experience."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What warning about historical time records is developed throughout the passage?",
+          "options": [
+            "Workers could never coordinate travel if they consulted more than one clock.",
+            "A shift bell always reflected the same fixed amount of credited time.",
+            "Recorded times need to be interpreted within the conventions and practices that produced them.",
+            "The train timetable is more authoritative than every other source about time."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Clock settings, payroll practices and coordination all affect the meaning of an entry.",
+            "distractors": {
+              "0": "The text says employees might coordinate quite well despite apparent inconsistency.",
+              "1": "Payroll credits can stay fixed when the timing of a bell varies.",
+              "3": "Scheduled times may be rounded and need comparison."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "timekeeping",
+              "hebrew": "מדידת זמן"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-14-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why would several paired observations be better than a single pair when comparing the factory and station clocks?",
+          "options": [
+            "The same single delivery was necessarily written about in every available register.",
+            "Repeated comparisons would automatically show which foreman set the clock.",
+            "The station's public clock measured time only on certain days of the week.",
+            "An offset could vary and an individual observation might have been entered late."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Both possibilities limit the evidentiary value of one apparent match.",
+            "distractors": {
+              "0": "An investigator needs to verify that possible pairs correspond.",
+              "1": "A pattern of readings does not necessarily identify who set it.",
+              "2": "The passage does not restrict its operation to certain days."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "drift",
+              "hebrew": "לסטות בהדרגה"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-14-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author view apparently incompatible times in the surviving factory records?",
+          "options": [
+            "As sufficient reason to treat every recorded time as fictional.",
+            "As grounds for investigating local coordination and recording practices.",
+            "As irrelevant to the historical study of employment relations.",
+            "As proof that factory workers could not manage their commutes."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The conflict yields questions about how time was used and how people organised activity.",
+            "distractors": {
+              "0": "The proposed comparison uses records as evidence while assessing their context.",
+              "2": "The closing example ties timekeeping to negotiations about the working day.",
+              "3": "Practical coordination could exist even where the documents conflict."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "incompatible",
+              "hebrew": "בלתי תואם"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-14-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "In this context, what does taking a time “at face value” mean?",
+          "options": [
+            "Accepting the stated time without examining the conventions behind it.",
+            "Converting a station clock to a different numerical display.",
+            "Recording the exact moment that a timepiece was made.",
+            "Testing whether the clock face could be read from a moving train."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "This reading is contrasted with reconstructing how the entry came to be used.",
+            "distractors": {
+              "1": "The phrase refers to accepting appearances rather than performing a conversion.",
+              "2": "No date of clock manufacture is involved.",
+              "3": "Physical visibility is unrelated to the phrase."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "at face value",
+              "hebrew": "כפשוטו"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-14-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What does the passage propose as a possible synchronising event?",
+          "options": [
+            "Two workers asking for more pay after the evening train departed.",
+            "A foreman receiving a payroll statement on the first day of the year.",
+            "Publication of the first timetable after the factory closed permanently.",
+            "A delivery reaching the factory gate as a train left the siding."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "That event is explicitly proposed as one that could leave entries in both systems.",
+            "distractors": {
+              "0": "Negotiation is a separate illustrative possibility.",
+              "1": "That event is not proposed and supplies no station observation.",
+              "2": "The comparison requires events recorded by both operating institutions."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "siding",
+              "hebrew": "מסילת צד"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-14-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-14-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "It is true that the river looked clear at the surface, yet samples revealed a high concentration of sediment.",
+          "options": [
+            "Samples revealed a high concentration of sediment, which prevented anyone from finding out whether the river looked clear at the surface.",
+            "The river looked clear at the surface; nevertheless, samples revealed a high concentration of sediment.",
+            "Samples revealed a high concentration of sediment only before it became clear that the river looked clear at the surface.",
+            "Because the river looked clear at the surface, samples revealed a high concentration of sediment."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the river looked clear at the surface” and “samples revealed a high concentration of sediment.”",
+            "distractors": {
+              "0": "It introduces an obstacle to discovering the first fact, which the original states directly.",
+              "2": "It limits the second fact to an earlier time and adds a discovery that the original never mentions.",
+              "3": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-14-restatement-1-1"
+        },
+        {
+          "prompt": "Owing to the fact that the coast offered few natural harbors, settlements grew near the mouths of rivers.",
+          "options": [
+            "The coast offered few natural harbors; nevertheless, settlements grew near the mouths of rivers.",
+            "Settlements grew near the mouths of rivers, but it is unknown whether the coast offered few natural harbors.",
+            "The coast offered few natural harbors; consequently, settlements grew near the mouths of rivers.",
+            "Settlements grew near the mouths of rivers; consequently, the coast offered few natural harbors."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the coast offered few natural harbors, leading to the result that settlements grew near the mouths of rivers.",
+            "distractors": {
+              "0": "It replaces the causal relationship with a concession.",
+              "1": "It casts doubt on the cause, which the original treats as an established fact.",
+              "3": "It reverses the direction of cause and result."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-14-restatement-1-2"
+        },
+        {
+          "prompt": "Once the clay has cooled, the potter will test the glaze.",
+          "options": [
+            "The potter will test the glaze after the clay has cooled.",
+            "The potter will test the glaze before the clay has cooled.",
+            "The potter will test the glaze, regardless of whether the clay has cooled.",
+            "The potter will not test the glaze even after the clay has cooled."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled.",
+            "distractors": {
+              "1": "It places the scheduled action before the event that the sentence puts first.",
+              "2": "It makes the first event irrelevant to the timing of the second.",
+              "3": "It denies the stated plan to carry out the second action."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-14-restatement-1-3"
+        },
+        {
+          "prompt": "The jeweler will issue a certificate only if the laboratory confirms the mineral content.",
+          "options": [
+            "The jeweler will issue a certificate only if it is impossible to establish that the laboratory confirms the mineral content.",
+            "The jeweler will issue a certificate only on condition that the laboratory confirms the mineral content.",
+            "The jeweler will issue a certificate in every case in which the laboratory confirms the mineral content.",
+            "The jeweler will issue a certificate whether or not the laboratory confirms the mineral content."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The condition “the laboratory confirms the mineral content” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "0": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met.",
+              "2": "It treats the condition as sufficient and promises the outcome whenever it is met.",
+              "3": "It removes the requirement by making the outcome independent of the condition."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-14-restatement-1-4"
+        },
+        {
+          "prompt": "The varnished panel seemed reflective compared with the bare panel.",
+          "options": [
+            "The difference in reflectivity was established when the bare panel reflected more light than the varnished panel in a formal test.",
+            "The varnished panel appeared to match the bare panel in reflectivity.",
+            "The varnished panel appeared to exceed the bare panel in reflectivity.",
+            "The bare panel appeared to exceed the varnished panel in reflectivity."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the bare panel, first. The comparison concerns reflectivity.",
+            "distractors": {
+              "0": "It turns an impression into a demonstrated finding and invents a formal test.",
+              "1": "It describes the two items as equal on the stated measure.",
+              "2": "It reverses the relative ranking of the two items."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-14-restatement-1-5"
+        },
+        {
+          "prompt": "But for the temporary roof, the newly exposed floor would have been damaged.",
+          "options": [
+            "The newly exposed floor would have been damaged even if the temporary roof had still been a factor.",
+            "The newly exposed floor would have been damaged because of the temporary roof.",
+            "The newly exposed floor would have been damaged in the absence of the temporary roof.",
+            "Whether the temporary roof made any difference to the outcome is unknown."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the newly exposed floor would have been damaged” belongs to the hypothetical situation in which the temporary roof was absent.",
+            "distractors": {
+              "0": "It predicts the same result without changing whether the factor was present.",
+              "1": "It attributes the hypothetical result to the presence of the factor rather than its absence.",
+              "3": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-14-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-14-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the current disappears overnight, the diving team will wait for the support vessel.",
+          "options": [
+            "The diving team will wait for the support vessel, including in the event that the current disappears overnight.",
+            "The diving team will wait for the support vessel only in the event that the current disappears overnight.",
+            "The diving team may or may not wait for the support vessel, depending on whether the current disappears overnight.",
+            "The current disappears overnight; therefore, the diving team will wait for the support vessel."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the current disappears overnight. The original leaves that case hypothetical.",
+            "distractors": {
+              "1": "It turns a condition that would make no difference into a requirement.",
+              "2": "It makes the outcome depend on the hypothetical condition.",
+              "3": "It turns an open possibility into an established fact and presents it as the cause."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-14-restatement-2-1"
+        },
+        {
+          "prompt": "The gallery trustees neither endorsed nor expressly rejected the artist's request to display the studies together.",
+          "options": [
+            "The gallery trustees accepted the artist's request to display the studies together in principle while withholding public support.",
+            "The gallery trustees offered no endorsement of the artist's request to display the studies together and issued no explicit rejection either.",
+            "The gallery trustees expressly rejected the artist's request to display the studies together, although it stopped short of explaining why.",
+            "The gallery trustees initially backed the artist's request to display the studies together but later withdrew its endorsement."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It invents an acceptance in principle, which cannot be inferred from the original.",
+              "2": "It asserts an explicit rejection, which the original rules out.",
+              "3": "It invents a prior endorsement and a reversal of position."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-14-restatement-2-2"
+        },
+        {
+          "prompt": "The ruin's survival stemmed less from the strength of the original mortar than from layers of soil that covered it for centuries.",
+          "options": [
+            "The ruin's survival was the principal reason for both the strength of the original mortar and layers of soil that covered it for centuries.",
+            "The strength of the original mortar and layers of soil that covered it for centuries played equally important roles in the ruin's survival.",
+            "The strength of the original mortar was the greater contributor to the ruin's survival, though layers of soil that covered it for centuries also mattered.",
+            "Layers of soil that covered it for centuries contributed more to the ruin's survival than the strength of the original mortar did."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “layers of soil that covered it for centuries” greater explanatory weight than “the strength of the original mortar.”",
+            "distractors": {
+              "0": "It makes the outcome cause the factors that are supposed to explain it.",
+              "1": "It makes the factors equally important despite the stated inequality.",
+              "2": "It reverses the relative importance of the factors."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-14-restatement-2-3"
+        },
+        {
+          "prompt": "The researchers did not compare observations across sites until the equipment had been calibrated.",
+          "options": [
+            "The researchers compared observations across sites only after the equipment had been calibrated.",
+            "The researchers compared observations across sites before the equipment had been calibrated.",
+            "The researchers did not compare observations across sites, although the equipment had been calibrated.",
+            "The researchers compared observations across sites as evidence that the equipment had been calibrated."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "1": "It reverses the sequence by placing the main action first.",
+              "2": "It makes the main action fail to occur, whereas the original reports that it happened later.",
+              "3": "It turns a timing relationship into an assertion about the actor’s purpose."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-14-restatement-2-4"
+        },
+        {
+          "prompt": "Of the rooms on the ground floor, none have exterior doors with the sole exception of the former kitchen.",
+          "options": [
+            "All the rooms on the ground floor have exterior doors except the former kitchen.",
+            "It has not been determined whether the former kitchen has exterior doors.",
+            "The former kitchen has exterior doors; the others in the same group do not.",
+            "The former kitchen has exterior doors, and at least one other member of the group shares that distinction."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the former kitchen is the single item that has the stated property.",
+            "distractors": {
+              "0": "It gives the property to the entire group except the one item that actually has it.",
+              "1": "It changes an explicit exception into an uncertainty.",
+              "3": "It allows a second exception even though “sole” limits the number to one."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-14-restatement-2-5"
+        },
+        {
+          "prompt": "Supposing that the curator had displayed the manuscript open, visitors might have noticed the change of handwriting.",
+          "options": [
+            "Visitors would certainly have noticed the change of handwriting if the curator had displayed the manuscript open.",
+            "Visitors might have noticed the change of handwriting only if the curator had displayed the manuscript open.",
+            "Because the curator had displayed the manuscript open, visitors must have noticed the change of handwriting.",
+            "Visitors might have noticed the change of handwriting if the curator had displayed the manuscript open."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "This is a past counterfactual. The opening clause introduces an unrealized condition and “might have” presents the result as possible under that condition.",
+            "distractors": {
+              "0": "It turns a possible outcome into a guaranteed one.",
+              "1": "It adds a requirement that no other scenario could have produced the outcome.",
+              "2": "It asserts an actual outcome and treats the unrealized condition as fact."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "might have",
+              "hebrew": "ייתכן שהיה / הייתה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-14-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-14-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "The Shape of a Wave Farm",
+        "paragraphs": [
+          "A device that extracts energy from an ocean wave has an influence beyond the electricity it delivers to shore. By taking energy out of the motion of the water, it changes the wave field around it. It can also reflect waves and scatter them in new directions. When engineers place several devices together, each operates in a field partly produced by the others. This means a group of converters cannot always be studied by measuring one unit on its own and multiplying the result. Arrangement can change both the average output and the regularity of production.",
+          "The spacing problem is sometimes explained with a simpler example. If two sources produce waves that arrive at a point with crests coinciding, the resulting motion there may be larger. If a crest reaches the point together with a trough, their motions can partly cancel. The interaction depends on distances and wavelengths. In an operating farm, wave directions and wavelengths change as weather systems move. An arrangement aligned for an impressive result in one particular test can offer a poor compromise when the full range of conditions is considered. Engineers care about the annual pattern as well as the performance during peak waves.",
+          "Survival in storms leads to a separate class of trade-offs. A converter that captures motion efficiently in moderate conditions may need to adopt a less responsive setting when extreme waves could damage its mechanisms. Connecting every device to one convenient cable can simplify installation but creates other considerations, including access for repairs. Practical choices balance expected energy, reliability and the amount of time a broken unit will be inaccessible. A projection that assumes every wave can be captured and every device remains connected will overstate what the project can supply.",
+          "There are also reasons to study the water beyond the installation. A large array could alter the waves that approach a shore or pass into nearby sheltered water. Whether such an effect is important depends on the size and location of the farm and on the existing variability of waves. The issue calls for measurement rather than a presumption that the effect will always be helpful or harmful. An energy-producing installation is a participant in a changing marine environment. Its performance is most informative when specified for that environment, over timescales that include ordinary operations, storms and maintenance."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "Which argument best summarizes the passage on arrays of ocean wave converters?",
+          "options": [
+            "A farm always yields its isolated unit's output multiplied by its size.",
+            "A project's output and impacts depend on device interactions, environmental variability and practical reliability.",
+            "Storm resilience should be assessed solely by observing effects on nearby beaches.",
+            "The ideal layout is the one that produces the most power during one successful wave trial."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The article develops interactions, shifting conditions, storm limits and downstream effects.",
+            "distractors": {
+              "0": "Converters change the wave field experienced by others.",
+              "2": "It also involves equipment settings, repair and downtime.",
+              "3": "Peak trial conditions represent only one portion of actual operation."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "array",
+              "hebrew": "מערך"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-14-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why might the best arrangement in a test tank be suboptimal at sea?",
+          "options": [
+            "At sea, two crests can never arrive at the same position together.",
+            "A test tank necessarily measures only electricity transmitted through cables.",
+            "The range of wave directions and lengths at sea could change interference among units.",
+            "A wave can travel without a wavelength once it crosses the shore."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Fixed spacing produces different combinations under different wave conditions.",
+            "distractors": {
+              "0": "Coincidence is possible but depends on conditions.",
+              "1": "The setting may test interactions but have narrower conditions.",
+              "3": "The changing wavelength is one element of the real environment."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "trough",
+              "hebrew": "שפל הגל"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-14-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "What is the author's stance on possible changes to waves near shore?",
+          "options": [
+            "Open to differing outcomes, with importance to be evaluated in context.",
+            "Certain that every farm benefits nearby habitats.",
+            "Dismissive because array effects inevitably end at the outermost device.",
+            "Certain that changes near shore will always harm people or ecosystems."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The closing paragraph explicitly calls for measurement in local conditions.",
+            "distractors": {
+              "1": "The article says effects must be measured.",
+              "2": "Waves can be changed beyond the array.",
+              "3": "No blanket judgment is supported."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "presumption",
+              "hebrew": "הנחה מוקדמת"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-14-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “responsive” mean in the sentence about settings for extreme waves?",
+          "options": [
+            "Able to keep a perfect record of wave height.",
+            "Able to react readily to water movement.",
+            "Able to withstand damage because it reacts as strongly as possible.",
+            "Able to transmit maintenance requests."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "A less responsive setting reacts less to storms and may protect mechanisms.",
+            "distractors": {
+              "0": "Measurement is not the setting's purpose in this example.",
+              "2": "The passage says reduced response may be protective.",
+              "3": "The context concerns mechanical reaction to waves."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "responsive",
+              "hebrew": "מגיב"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-14-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What could make a projection of annual output overly high?",
+          "options": [
+            "Allowing converters to adopt a protective setting in storms.",
+            "Taking time spent disconnected into account.",
+            "Examining the full weather range before fixing spacing.",
+            "Assuming every unit stays in service through storms and repairs."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Extreme conditions and outages can reduce actual energy supply.",
+            "distractors": {
+              "0": "A model that accounts for reduced response is less likely to overstate output.",
+              "1": "Including downtime improves realism.",
+              "2": "That reduces the bias of a single favourable trial."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "inaccessible",
+              "hebrew": "בלתי נגיש"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-14-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

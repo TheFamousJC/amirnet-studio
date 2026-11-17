@@ -1,0 +1,476 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "The workers planned to ____ the apples before a storm, picking the ripe fruit and packing it in crates.",
+      "options": [
+        "harvest",
+        "cultivate",
+        "supply",
+        "sample"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Removing ripe fruit from trees is harvesting it.",
+        "distractors": {
+          "1": "Cultivation covers preparing for and tending growth rather than collecting ripe fruit.",
+          "2": "Supplying the fruit would involve providing it to a recipient, which the sentence does not mention.",
+          "3": "The aim is to gather the crop before the storm rather than take a few apples for testing."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "harvest",
+          "hebrew": "לקצור; לאסוף יבול"
+        }
+      ],
+      "id": "test-16-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "____ to the organizers' prediction that a later start would attract more participants, attendance actually fell after the schedule changed.",
+      "options": [
+        "subsequent",
+        "conducive",
+        "contrary",
+        "comparable"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The outcome ran opposite to the predicted increase.",
+        "distractors": {
+          "0": "The events are in chronological order, but that alone misses the explicit contrast between more participants and a decline.",
+          "1": "The outcome would have to help bring about the prediction or its result, which a decline did not do.",
+          "3": "The sentence says the result and forecast point in opposite directions; mere comparability does not express that contrast."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "contrary",
+          "hebrew": "מנוגד (בביטוי contrary to)"
+        }
+      ],
+      "id": "test-16-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Low ceilings ____ the design: every proposed display had to fit beneath a beam that could not be moved.",
+      "options": [
+        "diversify",
+        "justify",
+        "resolve",
+        "constrain"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The fixed clearance restricts which designs are possible.",
+        "distractors": {
+          "0": "The ceiling limits options rather than making more varied designs possible.",
+          "1": "A low ceiling is a limit on design, not proof that one proposal deserves approval.",
+          "2": "The fixed beam creates a requirement; it does not by itself settle the design."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "constrain",
+          "hebrew": "להגביל"
+        }
+      ],
+      "id": "test-16-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The records placed the vessel hundreds of kilometres away on the date given, so the witness's account of seeing it enter the harbor was no longer ____.",
+      "options": [
+        "detailed",
+        "credible",
+        "coherent",
+        "available"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The contradiction makes the account difficult to believe.",
+        "distractors": {
+          "0": "An account can remain detailed even if one of those details conflicts with the records.",
+          "2": "The account can make sense as a narrative even if the external records give reason to doubt it.",
+          "3": "The account is still available for evaluation; the problem is that it appears unreliable."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "credible",
+          "hebrew": "אמין; מתקבל על הדעת"
+        }
+      ],
+      "id": "test-16-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "Yara offered to ____ Omar her spare charger until he could buy one of his own.",
+      "options": [
+        "lend",
+        "sell",
+        "share",
+        "send"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Omar can use the charger temporarily before giving it back.",
+        "distractors": {
+          "1": "The arrangement is temporary rather than a purchase.",
+          "2": "He will borrow a spare charger rather than use one jointly with Yara.",
+          "3": "Sending describes transport but does not express the temporary transfer of use."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "lend",
+          "hebrew": "להשאיל"
+        }
+      ],
+      "id": "test-16-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "To ____ water use during the drought, the gardeners watered the plants less often.",
+      "options": [
+        "record",
+        "reduce",
+        "sustain",
+        "shift"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Watering less frequently is meant to lower consumption.",
+        "distractors": {
+          "0": "The change in frequency is a way of using less water; no measurements are being entered.",
+          "2": "The goal is to lower consumption rather than maintain its current level.",
+          "3": "The gardeners cut how often they watered rather than moving the same amount of watering to different times."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "reduce",
+          "hebrew": "להפחית"
+        }
+      ],
+      "id": "test-16-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "Several new species ____ during a survey of the river basin last summer.",
+      "options": [
+        "have identify",
+        "identifying",
+        "were identified",
+        "was identified"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Were identified supplies a plural past passive matching the subject and time reference.",
+        "distractors": {
+          "0": "Have needs the past participle, and present perfect does not suit last summer.",
+          "1": "Identifying alone cannot form a finite verb here.",
+          "3": "Was cannot agree with species in this plural context."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "species",
+          "hebrew": "מינים"
+        }
+      ],
+      "id": "test-16-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The lecturer paused every few minutes ____ students could review their notes.",
+      "options": [
+        "in order for",
+        "as a means of",
+        "with a view to",
+        "so that"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "So that introduces a full finite purpose clause.",
+        "distractors": {
+          "0": "In order for would require students to review rather than students could review.",
+          "1": "As a means of requires a nominal or gerund complement.",
+          "2": "With a view to would require a noun or gerund, not a finite clause."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "pause",
+          "hebrew": "לעצור לרגע"
+        }
+      ],
+      "id": "test-16-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "If the housing survey ____ out today, the results would probably be different.",
+      "options": [
+        "were carrying",
+        "could have carry",
+        "would have been carried",
+        "were carried"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Were carried out gives the hypothetical passive condition leading to the stated result.",
+        "distractors": {
+          "0": "Were carrying would make the survey conduct something and leaves no object.",
+          "1": "Have must take a past participle, not carry.",
+          "2": "Would have been carried introduces a past modal result rather than a present condition in the if-clause."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "survey",
+          "hebrew": "סקר"
+        }
+      ],
+      "id": "test-16-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The editor insisted on ____ the quotations against the original recordings.",
+      "options": [
+        "checking",
+        "checked before",
+        "to check",
+        "check"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Insist on can take a gerund to name the required action.",
+        "distractors": {
+          "1": "Checked before does not form the required gerund phrase and places before before the wrong object.",
+          "2": "On takes a gerund here, not a to-infinitive.",
+          "3": "The preposition on cannot directly take the bare verb check."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "quotation",
+          "hebrew": "ציטוט"
+        }
+      ],
+      "id": "test-16-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "The bridge was closed for routine ____ even though no structural damage had been reported.",
+      "base": "maintain",
+      "answers": [
+        "maintenance"
+      ],
+      "explanation": "Maintenance refers to the ongoing work that keeps the bridge in good condition.",
+      "id": "test-16-word-1"
+    },
+    {
+      "prompt": "The smaller hall was ____ because it offered better acoustics for spoken presentations.",
+      "base": "choose",
+      "answers": [
+        "chosen"
+      ],
+      "explanation": "Chosen is the irregular past participle of choose.",
+      "id": "test-16-word-2"
+    },
+    {
+      "prompt": "The conservator handled the brittle pages ____ to avoid tearing them.",
+      "base": "cautious",
+      "answers": [
+        "cautiously"
+      ],
+      "explanation": "Cautiously is the adverb describing careful handling.",
+      "id": "test-16-word-3"
+    },
+    {
+      "prompt": "Most of the note was ____ after rain blurred the ink and soaked the paper.",
+      "base": "read",
+      "answers": [
+        "unreadable"
+      ],
+      "explanation": "Unreadable means that the writing cannot be read.",
+      "id": "test-16-word-4"
+    }
+  ],
+  "writing": "Choose one way an organization could make it easier for new volunteers to participate. Explain why you think it would help.",
+  "listening": {
+    "type": "lecture",
+    "clips": [
+      {
+        "context": "Listen to part of a lecture on making public clocks easier to read.",
+        "transcript": "A municipal clock has a dark face and thin brass hands. On cloudy days the hands stand out. On bright days, a patch of sunlight reflected by the face can make them difficult to see. The maintenance team first considered painting the hands a lighter color, but a trial showed that shading the clock face solved the problem without changing its original materials.",
+        "audio": "/listening/lecture-7-1.wav",
+        "questions": [
+          {
+            "prompt": "What did the maintenance team discover in its trial?",
+            "options": [
+              "A lighter paint stopped the brass from reflecting light.",
+              "The hands were hard to read on cloudy days.",
+              "The clock could be improved only by replacing its face.",
+              "Shading the face made the hands easier to see."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "Shade reduced the glare while preserving the original materials.",
+              "distractors": {
+                "0": "Painting was considered, but the successful trial used shade.",
+                "1": "The hands already stood out on cloudy days.",
+                "2": "The trial worked without replacing original components."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "glare",
+                "hebrew": "סנוור"
+              }
+            ],
+            "id": "test-16-audio-1-1",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on measuring snow in mountains.",
+        "transcript": "A snow gauge near a mountain road can provide a consistent series of measurements at a fixed point. For a water manager, however, that point may represent only a small fraction of the surrounding basin. Wind moves snow across ridges into sheltered hollows, so two sites less than a kilometer apart can have very different depths. An aerial survey can show where the snow lies across a broad area, but a photograph does not reveal exactly how much water the snow contains. To estimate the total more accurately, mountain teams combine aerial maps with samples taken from several kinds of terrain. The maps put each sample into spatial context, and the samples reveal properties the image alone cannot show.",
+        "audio": "/listening/lecture-7-2.wav",
+        "questions": [
+          {
+            "prompt": "Why can a single snow gauge give an incomplete picture of the basin?",
+            "options": [
+              "Its records cover too many changes of season.",
+              "Nearby sites can hold very different amounts of snow.",
+              "It usually measures the deepest hollow in the area.",
+              "Its measurements cannot be repeated at one location."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "Wind redistribution means the reading at one spot may be unrepresentative.",
+              "distractors": {
+                "0": "A consistent series is an advantage, not the limitation described.",
+                "2": "The example places the gauge near a road, with no claim about the deepest spot.",
+                "3": "The point is precisely that readings can be repeated there."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "basin",
+                "hebrew": "אגן ניקוז"
+              }
+            ],
+            "id": "test-16-audio-2-1",
+            "type": "lecture",
+            "difficulty": 3
+          },
+          {
+            "prompt": "What information do ground samples contribute that an aerial image alone cannot provide?",
+            "options": [
+              "Where the basin lies in relation to nearby roads.",
+              "How much water is contained in sampled snow.",
+              "Where wide areas are covered by visible snow.",
+              "How often the survey aircraft changed its route."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "Ground samples help estimate water content rather than just the visible distribution.",
+              "distractors": {
+                "0": "Road siting describes the gauge, not a property supplied by samples.",
+                "2": "Broad coverage is an advantage of aerial surveying.",
+                "3": "No flight route data are presented as a purpose for taking samples."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "terrain",
+                "hebrew": "תוואי שטח"
+              }
+            ],
+            "id": "test-16-audio-2-2",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on a translation project.",
+        "transcript": "A publisher was preparing an English edition of essays in which one word appeared repeatedly. In some passages it referred to a promise between friends. In others it referred to a public obligation. The translators first chose a different English expression in each setting, trying to make every sentence sound natural. A reader who knew the original then pointed out a consequence. The essays revisit the same word to encourage readers to notice a connection between private promises and public obligations. Because the English phrases differed, the pattern was difficult to detect. Simply using one English word everywhere would retain the repetition but could sound strange or misleading in some passages. The team decided to use a recurring English expression in passages where the connection mattered most, adjusting the nearby wording so it made sense. Elsewhere, it used a more natural local equivalent and explained the choice in an introduction. The project illustrates why a translator may need to make a decision at the level of a whole book, as well as at the level of individual sentences.",
+        "audio": "/listening/lecture-7-3.wav",
+        "questions": [
+          {
+            "prompt": "What was a drawback of the translators' initial approach?",
+            "options": [
+              "A repeated English expression sounded unnatural throughout the book.",
+              "The private meaning became difficult to distinguish from the public meaning.",
+              "Readers had to use an introduction to understand every sentence.",
+              "The repeated word's role in linking ideas was less visible."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "Different local translations hid a pattern spanning the essays.",
+              "distractors": {
+                "0": "Reusing exactly one translation was discussed later as a different approach.",
+                "1": "The initial translations preserved local meanings; the relationship between them was harder to notice.",
+                "2": "The introduction was part of the later compromise, not a consequence of the initial choices."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "recurring",
+                "hebrew": "חוזר ונשנה"
+              }
+            ],
+            "id": "test-16-audio-3-1",
+            "type": "lecture",
+            "difficulty": 3
+          },
+          {
+            "prompt": "How did the team make a repeated English expression work in selected passages?",
+            "options": [
+              "It rewrote the essays as a single narrative.",
+              "It removed passages about private promises.",
+              "It adapted the surrounding wording.",
+              "It put the original word beside each English phrase."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "The team adjusted nearby language so the recurring choice remained natural.",
+              "distractors": {
+                "0": "The essays retained their separate contexts.",
+                "1": "The link between private and public obligations was important to preserve.",
+                "3": "The talk mentions an introduction rather than parallel text beside each phrase."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "equivalent",
+                "hebrew": "מקבילה"
+              }
+            ],
+            "id": "test-16-audio-3-2",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      }
+    ]
+  }
+}

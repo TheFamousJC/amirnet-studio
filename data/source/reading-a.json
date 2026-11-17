@@ -1,0 +1,2722 @@
+[
+  {
+    "title": "The Ledger Beneath the Street",
+    "paragraphs": [
+      "A row of houses is usually dated by looking upward. An architectural historian examines the shapes of windows, the bonding of bricks, or the style of an iron railing. In some industrial towns, however, the most revealing chronology lies underfoot. Engineers laid water pipes at different times, and the paperwork they left behind can show when a seemingly uniform street became habitable. The documents often reveal a considerable interval between the completion of facades and the arrival of basic services. A finished appearance was therefore an unreliable indication that all houses on a street could accommodate residents on equal terms.",
+      "The records are easily misread. A payment for a length of pipe might signify delivery to a depot rather than installation beneath a particular road. Even an entry recording installation might refer to a trial run that was subsequently abandoned. The historian needs to compare the engineer's ledger with inspection reports, household bills and, occasionally, photographs of excavated trenches. If these documents disagree, the discrepancy is a clue. A family billed for water before official connection might have shared a supply with a neighboring business or paid an advance that would later be refunded.",
+      "Reconstructing the network also changes how we understand a town's expansion. Municipal maps give the impression that one district followed another in neat sequence. Pipe records instead show short extensions that bypassed inconvenient terrain or served influential property owners ahead of more populous streets. This irregularity matters because it helps account for differences in rent between houses of similar size and design. For a household paying by the week, a reliable tap could be worth more than an ornamental entryway. Yet that advantage might disappear as soon as the infrastructure reached the next row.",
+      "The method does have limits. People who collected rainwater or arranged informal connections are often invisible in official records. Such omissions make precise comparisons risky, especially when a district was surveyed only after several years of occupation. The point of looking at the pipes is not to replace architectural history with a more exact science. It is to use an independent set of traces to ask how the usefulness of a building changed after its walls had already taken shape. Sometimes the most consequential event in the history of a house occurred without altering its appearance at all."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What argument about housing chronology organizes “The Ledger Beneath the Street”?",
+        "options": [
+          "Service records reveal changes in habitability that the built exterior may conceal.",
+          "Tracing the arrival of water mains establishes when households first occupied a street.",
+          "Building design and water supply contributed equally to differences in weekly rent.",
+          "Pipe construction followed a more regular sequence than the appearance of new housing would suggest."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The argument moves from deceptive facades to changing services and their consequences.",
+          "distractors": {
+            "1": "Occupation could precede the official connection through shared supplies, rainwater or other means.",
+            "2": "The rent example contrasts a tap with ornament but does not quantify their relative contribution.",
+            "3": "The maps seem regular, whereas the pipes reveal irregular extensions."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "underfoot",
+            "hebrew": "מתחת לרגליים"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why might two physically similar houses command different rents for a limited period?",
+        "options": [
+          "One might receive a dependable water connection before the other.",
+          "The rent difference may have reflected which row was more recently shown on a municipal map.",
+          "One might attract tenants with a rare ornamental entrance.",
+          "One may have had more favorable access because it was surveyed after years of occupation."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The rent premium can reflect a service that later reaches the second row too.",
+          "distractors": {
+            "1": "Maps represent expansion but do not themselves improve a dwelling's usefulness.",
+            "2": "The passage makes a practical service, rather than a design difference between similar houses, the source of the temporary advantage.",
+            "3": "Late surveying obscures comparisons rather than causing preferential service."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "command",
+            "hebrew": "להשיג מחיר"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the writer approach the evidentiary value of engineers’ ledgers?",
+        "options": [
+          "With qualified appreciation for what comparison can reveal.",
+          "With particular trust in entries reporting installation rather than payment.",
+          "With interest chiefly in what they reveal about gaps in architectural surveys.",
+          "With a preference for the ledger’s account whenever other sources disagree."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The writer values the ledgers while specifying how other evidence and omissions constrain them.",
+          "distractors": {
+            "1": "Installation entries may also mislead if they describe an abandoned trial.",
+            "2": "The practical history of habitation is the aim; gaps in records are only part of the method.",
+            "3": "The disagreement prompts further investigation, with no automatic priority for the ledger."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "evidentiary",
+            "hebrew": "ראייתי"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “discrepancy” denote when the historian compares water records?",
+        "options": [
+          "An inconsistency between sources.",
+          "An omission from a single register.",
+          "An unusual interval between events.",
+          "A departure from the original works plan."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Disagreement between records produces the clue in this paragraph.",
+          "distractors": {
+            "1": "A missing entry is possible, but the word points to sources that conflict.",
+            "2": "The interval between development and service may be real, even when records agree.",
+            "3": "A deviation from a proposed route is different from incompatible documentary accounts."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "discrepancy",
+            "hebrew": "אי־התאמה"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Which explanation does the passage expressly offer for a household bill dated before official connection?",
+        "options": [
+          "The family could have paid in advance and expected a later refund.",
+          "The household could have bought water through the municipality's temporary pipe trial.",
+          "An engineer may have entered the payment after placing a pipe order.",
+          "The inspector might have charged the family for excavating a trench."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The author names a refundable advance alongside sharing a nearby supply.",
+          "distractors": {
+            "1": "An abandoned trial is mentioned separately as a possible reading of an installation entry, not as an explanation for the earlier bill.",
+            "2": "An order or delivery to a depot may account for a ledger entry about pipes, not a household water bill.",
+            "3": "Trench photographs serve as evidence of works, but the text gives no example of excavation being billed to the family."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "advance",
+            "hebrew": "מקדמה"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Difficulty of Counting Silence",
+    "paragraphs": [
+      "In a classroom discussion, researchers can readily record who speaks, when turns begin, and how long each intervention lasts. Silence seems equally easy to identify. Yet counting seconds without audible speech yields a measure whose meaning is anything but straightforward. A quiet interval may be a sign that an invitation to speak has failed; it may also be the very interval that makes a considered answer possible. The difference is often visible only when the interval is treated as part of a sequence rather than classified in isolation.",
+      "Consider a teacher who asks a question and immediately answers it. The absence of a student reply may reflect the short opportunity available, especially if a second student begins to speak just as the teacher resumes. Now consider a teacher who remains quiet while turning toward a student's open notebook. The wait may put pressure on one person, even when the question was originally addressed to the room. In each example, a transcript divided into words and blank spaces would omit the movements that help show to whom a turn was available. Video permits a more discriminating account, but interpretation still requires caution: a glance can signal encouragement, impatience or simple distraction.",
+      "One small classroom project used a practice with a public explanation. Students were told they could ask for thinking time by setting a pencil across the top of a notebook. The researcher compared silences for which the convention was used with otherwise similar pauses. Students who asked for time sometimes returned with longer answers, although longer responses did not necessarily contain more relevant evidence. More importantly, some students used the convention only after several classmates had done so. This suggests that the announcement of a practice and its social acceptance are separate developments.",
+      "Treating silence as an achievement in its own right would nevertheless be a mistake. Some quiet intervals stem from exclusion, unfamiliar vocabulary or uncertainty about whether disagreement will be welcomed. The analytical gain is more modest. Researchers can look for an observable event immediately before or after the silence and then test their reading against what the participants do next. This procedure cannot guarantee access to what each student intended. It can, however, prevent a measure of time from doing the work of an explanation. A stopwatch can register a pause, but understanding the pause requires evidence about the interaction in which it occurred."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "Which overall claim does “The Difficulty of Counting Silence” advance?",
+        "options": [
+          "Understanding a quiet interval requires examining how it functions within the interaction.",
+          "Longer pauses improve students' answers when they openly request the time.",
+          "A transcript becomes a dependable guide to participation once gestures are recorded along with words.",
+          "A convention for claiming thinking time is the most effective way to broaden participation."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Both the examples and the conclusion argue that duration alone cannot explain silence.",
+          "distractors": {
+            "1": "Some answers grew longer, but the study does not establish that their evidence improved.",
+            "2": "Video adds information, but even a visible glance can have several plausible meanings.",
+            "3": "The convention illustrates how pauses can be studied, and no comparison ranks it against other methods."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "interval",
+            "hebrew": "פרק זמן"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "What might a researcher infer from the delayed adoption of the pencil signal?",
+        "options": [
+          "Some students may have needed to see peers use the convention before regarding it as acceptable.",
+          "Students needed several tries to understand how the signal affected the timing of the lesson.",
+          "Some students may have chosen the signal once they saw classmates receive longer speaking turns.",
+          "The delayed students may have been responding to a second explanation by the teacher."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The writer distinguishes a public announcement from the emergence of social acceptance.",
+          "distractors": {
+            "1": "The text describes observing classmates, not initial attempts or problems understanding the timing.",
+            "2": "Trust in a practice is suggested, but the described effect is on some answers' length, not on time allocated to speak.",
+            "3": "The only explanation specified is the initial announcement; classmates provide the observed intervening example."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "adoption",
+            "hebrew": "אימוץ"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "Which description fits the writer’s attitude toward interpreting pauses?",
+        "options": [
+          "Experimentally minded, with explicit limits on what observations can establish.",
+          "Drawn to the simplest explanation when verbal and visual cues diverge.",
+          "Concerned with showing that silence has been unfairly discouraged.",
+          "Confident that sufficiently detailed visual evidence reveals students’ intentions."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The writer compares examples, examines participant behavior, and limits inference about intention.",
+          "distractors": {
+            "1": "The writer advises testing interpretations against what follows, rather than resolving conflicting cues by simplicity.",
+            "2": "The passage acknowledges productive pauses and also pauses caused by exclusion or uncertainty.",
+            "3": "The writer expressly limits what observation can establish about intention."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "modest",
+            "hebrew": "צנוע"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "In the discussion of video, what does “discriminating” mean?",
+        "options": [
+          "Able to distinguish between situations that initially look alike.",
+          "More apt to select the pauses that deserve study.",
+          "More exact in measuring elapsed time.",
+          "More responsive to the preferences of individual participants."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The additional record helps separate pauses with different interactional functions.",
+          "distractors": {
+            "1": "The video helps distinguish interpretations of a given pause, not select which intervals to study.",
+            "2": "The advance is interpretive rather than an improvement in the stopwatch's precision.",
+            "3": "The description concerns the researcher's evidence, not how the classroom procedure is adapted to preferences."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "discriminating",
+            "hebrew": "בעל יכולת הבחנה"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What act publicly indicated that a student wanted more time to think?",
+        "options": [
+          "Placing a pencil across the top of a notebook.",
+          "Turning an open notebook toward the teacher.",
+          "Keeping a pencil raised until the teacher looked over.",
+          "Leaving the notebook open at an unfinished answer."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "This was the procedure explained to the class.",
+          "distractors": {
+            "1": "The open notebook belongs to an earlier illustration about gaze and pressure, where it is the teacher who turns.",
+            "2": "The convention used a pencil at rest across the notebook rather than a raised signal.",
+            "3": "Keeping a notebook open was not the specified signal."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "convention",
+            "hebrew": "מוסכמה"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Many Editions of a Single Song",
+    "paragraphs": [
+      "A folk song recorded in two neighboring villages may share a melody while telling noticeably different stories. One singer supplies a village name where another mentions a river; one ends with a reunion where another describes a departure. For an editor preparing a collection, these differences pose a practical problem. A reader expects to see a song printed in one place and may assume that whatever appears beneath the title is the song itself. Yet selecting a single rendition as authoritative gives unusual power to a decision that may have depended on access, timing or the recording equipment an editor happened to bring.",
+      "Older collections sometimes resolved this difficulty by combining verses from several performances. The resulting song could seem exceptionally coherent because repeated lines were removed and gaps filled with material from a different singer. Later readers, unaware of those interventions, might confidently use the printed version as evidence of how the song was performed. The edition's fluency thus helped disguise the sequence of editorial choices that produced it. This does not mean the resulting text was useless. It may have been ideal for stage performance or for teaching a tune to children. Its suitability simply depended on a purpose that needed to be stated.",
+      "A small archive has experimented with a format that retains several performances under the same title. Instead of putting variations in a separate appendix, the archive places short recordings and their transcriptions next to one another. A brief note explains which recordings were made for a visiting collector and which came from an occasion where the audience already knew the refrain. That distinction can help account for a difference in tempo or the length of a pause. It also underscores that even a recording preserves an event arranged under particular circumstances rather than a song removed from time.",
+      "This solution introduces another editorial difficulty. Presenting three accessible performances can suggest that those three exhaust the tradition, while dozens of undocumented occasions remain unavailable. An archive also needs a searchable title, even when singers use different names or none at all. The modern editor therefore still exercises discretion. What changes is the visibility of some decisions and the reader's opportunity to hear the material on which those decisions rest. In that respect the archive resembles an edition of a historical document: its task includes making the evidence easier to inspect without implying that the act of arranging it has left the evidence untouched."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What principle regarding folk songs underlies the passage as a whole?",
+        "options": [
+          "An edition should make the relationship between its presentation and the performance evidence visible.",
+          "A useful folk-song edition should select the version most likely to have preceded the others.",
+          "Recordings made before familiar audiences are a more accurate record of a song than those made for visiting collectors.",
+          "Editing inevitably alters performance evidence, so searchability should be subordinate to faithful transcription."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The problems with composite texts and the new archive both concern inspectable choices.",
+          "distractors": {
+            "1": "No attempt to identify an ancestral version is advocated; the archive places different evidence side by side.",
+            "2": "The different circumstances help explain performance differences, with no general hierarchy of accuracy.",
+            "3": "The author accepts searchable titles as necessary and stresses showing editorial decisions, rather than ranking searchability below transcription."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "authoritative",
+            "hebrew": "סמכותי"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why could the combined versions in older collections mislead future scholars?",
+        "options": [
+          "Their readability concealed that lines recorded separately had been assembled by an editor.",
+          "Stage suitability led readers to assume a theatrical origin.",
+          "Their removal of repeated lines led scholars to conclude that distinct singers shared an identical refrain.",
+          "Their fluency persuaded scholars that the separately recorded versions of each song had been equally coherent."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The polished sequence could be mistaken for a documented performance.",
+          "distractors": {
+            "1": "Stage performance is a possible later use, and the mistaken inference concerns origin in any single performance.",
+            "2": "The general danger is mistaking assembled text for performance evidence; no specific mistaken belief about a shared refrain is described.",
+            "3": "The deceptive impression is that the composite itself was performed, not that its sources had equal coherence."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "intervention",
+            "hebrew": "התערבות"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author evaluate the archive’s side-by-side format?",
+        "options": [
+          "As a useful improvement that leaves substantive decisions in the editor’s hands.",
+          "As useful principally because it eliminates the need for a searchable title.",
+          "As an improvement that keeps performance evidence separate from editorial commentary.",
+          "As a solution that makes earlier distinctions between performance settings unnecessary."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The format increases transparency but still requires selection and naming.",
+          "distractors": {
+            "1": "Searchable titles remain necessary even when there is no single traditional title.",
+            "2": "The format adds a contextual note and makes some editorial choices more visible.",
+            "3": "The added information about collectors and familiar audiences is an important virtue of the format."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "evaluate",
+            "hebrew": "להעריך"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “exhaust” mean when applied to three performances and a tradition?",
+        "options": [
+          "Cover completely.",
+          "Sample from several settings.",
+          "Establish the origin of.",
+          "Document in consistent form."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The writer warns against interpreting three selections as the entire range.",
+          "distractors": {
+            "1": "Three contrasting performances could sample the tradition without representing it in full.",
+            "2": "The paragraph concerns the extent of coverage, not when or where a tradition arose.",
+            "3": "A uniform archival format does not mean that every variant is documented."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "exhaust",
+            "hebrew": "למצות"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Where did the experimental archive present the different renditions of a song?",
+        "options": [
+          "It displayed recordings and transcripts side by side under one title.",
+          "It presented complete transcripts together and put short recordings in a separate appendix.",
+          "It grouped the performances by audience and entered each version under its own title.",
+          "It paired a single composite transcript with recordings illustrating particular variations."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "That arrangement is contrasted with moving variants to an appendix.",
+          "distractors": {
+            "1": "The archive abandoned the separate-appendix approach for variants and kept the recordings with transcriptions.",
+            "2": "Audience is noted for context, but the renditions are organized under a common title.",
+            "3": "The transcriptions are placed alongside recordings of different performances, rather than merged into one reconstruction."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "appendix",
+            "hebrew": "נספח"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "An Address That Outlived Its Building",
+    "paragraphs": [
+      "In a town with frequent redevelopment, postal addresses can seem more durable than buildings. A business can operate at the same numbered address before and after reconstruction, and people often continue to identify a busy intersection by the name of a structure that no longer exists. These are familiar examples of how an address can remain useful after the particular arrangement of stone or timber once associated with it has disappeared. The inverse, however, also occurs. A house can survive successive street renumbering schemes and appear to vanish from documentary records every time its address changes.",
+      "The distinction matters to researchers tracing who lived in a district. If they rely on the apparent stability of a number, they may mistake changes in numbering for sudden changes in occupancy. In one local history exercise, researchers found that half a line of cottages appeared to have exchanged its residents within a year. The apparent turnover shrank after they compared household lists with a new plan of the road. Between the records, the authority had inserted numbers for houses built on previously vacant plots. Several longstanding residents remained in the same front rooms but now occupied places with different numbers in the directories.",
+      "Researchers sometimes resolve such problems by aligning landmarks that are independently documented: a school boundary, a bend in the road, a culvert or the rear entrance of a workshop. As anchors, these features need not be unusually prominent. Their usefulness depends on whether there is evidence that they stayed in place while something else changed. Even then, one anchor is seldom enough. A widened road can preserve its characteristic bend while shifting the alignment of entrances, and a remembered landmark can migrate in the speech of residents to the opposite side of a junction.",
+      "This uncertainty highlights a crucial feature of addresses: they belong to systems of reference maintained for particular purposes. One numbering convention helps a delivery worker identify the sequence of houses, while a cadastral map used to administer property may assign its own identifiers to plots and outbuildings. The householder's version may refer to a gate opening onto another street entirely. Multiple descriptions can therefore be true at the same time. To establish continuity, a researcher must ask which part of the property each source had reason to distinguish and how the reference can be checked with other evidence. Under such scrutiny an address is best understood as one piece of evidence about a place, and a place as something that may have been described in several valid ways."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "How does the passage advise researchers to interpret a street address?",
+        "options": [
+          "As evidence whose significance depends on the reference system and independent corroboration.",
+          "As a sign of continuity unless a district-wide numbering change is independently documented.",
+          "As a property marker best reconciled by privileging official lot numbers.",
+          "As a reference whose meaning rests chiefly on local memories of landmarks."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The examples show both stable and changing labels and stress checking their referents.",
+          "distractors": {
+            "1": "A stable number may survive a change in the building even without renumbering, and several systems can coexist.",
+            "2": "Lot numbers identify features for particular administrative purposes rather than settling every description.",
+            "3": "Local recollections may contribute, but even a remembered landmark can shift in speech."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "continuity",
+            "hebrew": "רציפות"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "If a grocery’s advertised number stays fixed over a period, what inference about the premises does the passage specifically caution against?",
+        "options": [
+          "Assuming that its premises must be physically unchanged throughout that period.",
+          "Assuming that its street number identifies the same sequence of shops in every municipal record.",
+          "Assuming that its advertised number could continue to be useful after alterations.",
+          "Assuming that a delivery worker would use the number to locate it."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "A number can survive rebuilding, so label continuity is insufficient.",
+          "distractors": {
+            "1": "Different official schemes are possible, but the example asks what the stable number can establish about the grocery premises themselves.",
+            "2": "The opening paragraph specifically allows an address to remain useful after reconstruction.",
+            "3": "This is a normal purpose of an address and does not imply continuity in the building."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "durable",
+            "hebrew": "עמיד"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "Which attitude characterizes the treatment of local records in “An Address That Outlived Its Building”?",
+        "options": [
+          "Confidence in triangulation paired with caution about individual references.",
+          "Optimism that independent landmarks can settle every disagreement between references.",
+          "A preference for cadastral maps when physical clues conflict with numbering.",
+          "A suspicion that changes in official numbering typically conceal changes in occupancy."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The author explains why records mislead alone and how they can be combined.",
+          "distractors": {
+            "1": "The examples show how a bend can survive while entrances shift and why one landmark is seldom sufficient.",
+            "2": "The author treats cadastral maps as one purpose-specific system among several.",
+            "3": "The cottage example goes the other way: changes in numbering made stable occupancy appear unstable."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "scrutiny",
+            "hebrew": "בחינה מדוקדקת"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What is meant by an “anchor” in the paragraph about aligning landmarks?",
+        "options": [
+          "A sufficiently documented feature used as a reference point.",
+          "A feature that is prominent enough to be remembered by most residents.",
+          "An entry used to order houses in a local directory.",
+          "A detail that marks a property for administrative purposes."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "A bend or boundary can help align records if its position is independently established.",
+          "distractors": {
+            "1": "An anchor need not be prominent; its continuity needs documentary support.",
+            "2": "Such entries are among the changing references that a landmark can help align.",
+            "3": "Administrative identifiers reflect a record's purpose and are not necessarily stable physical points of comparison."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "anchor",
+            "hebrew": "נקודת ייחוס"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What action accounted for much of the cottages’ apparent turnover in the directories?",
+        "options": [
+          "The authority inserted house numbers for newly developed plots.",
+          "The authority reassigned cottages using an older property map.",
+          "The authority added directory entries for families previously recorded at another street.",
+          "The authority numbered the workshops independently of the cottages for the first time."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "That insertion reassigned numbers to several established homes.",
+          "distractors": {
+            "1": "The cottages did not move between plots, and the comparison used a new road plan.",
+            "2": "The added numbers were for new houses on vacant plots, rather than newly listed families at old cottages.",
+            "3": "A workshop is an example of a possible landmark; it does not explain the cottages' shifted numbers."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "turnover",
+            "hebrew": "תחלופה"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Measuring the Value of an Empty Seat",
+    "paragraphs": [
+      "A bus is often evaluated by the proportion of its seats that are occupied. The number seems to answer a reasonable question about the use of scarce resources: should a public agency continue to pay for vehicles that frequently travel with room to spare? Yet the average occupancy of a route aggregates journeys made for different reasons and at different times. Some unoccupied seats represent excess capacity; others make the timetable usable by passengers who cannot predict exactly when they will be able to depart. Distinguishing the cases requires attention to what passengers give up when the service disappears.",
+      "Suppose an agency reduces evening departures from every twenty minutes to once an hour. A person finishing work at a fixed time might simply learn the revised timetable. A colleague routinely asked to handle the final customer, by contrast, may face a choice between leaving a task unfinished and waiting nearly an hour for the next bus. If this second passenger switches to a costly ride home or changes jobs, the shorter timetable may still look efficient in occupancy figures. The remaining buses are fuller, while the losses to riders who withdrew are absent from the measurement.",
+      "In one hypothetical evaluation, analysts compare two periods with identical operating costs. During the first, service is concentrated around the busiest hour. During the second, the same number of buses is spread over a longer period. They measure occupancy in both cases, but they also count the workplaces an employee could leave at several specified times while reaching home within a reasonable interval. The extended schedule may increase this second measure even if it reduces average occupancy. Which result should guide the decision depends on the objective: accommodating the greatest number of trips in a short window and extending reliable access are related but distinct goals.",
+      "This approach should not make empty seats immune from scrutiny. Some low-use departures duplicate a reliable alternative, and retaining them can prevent investment where a different schedule would make a marked difference. It does, however, turn an intuition about waste into a question that can be investigated. An agency can identify where a departure is redundant and where it makes a network tolerant of ordinary variation in working hours. If transportation is partly valuable because it allows people to make plans despite uncertainty, capacity that remains unused on a given day can contribute to a service they are able to rely on."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What is the central distinction in “Measuring the Value of an Empty Seat”?",
+        "options": [
+          "Unused capacity can be wasteful or can support dependable access under uncertain schedules.",
+          "An increase in occupancy is worthwhile whenever an agency can hold operating costs constant.",
+          "Scheduling more departures outside peak hours improves access without significantly changing occupancy.",
+          "Unused seats should be retained when they already serve many commuters during the busiest hour."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The passage weighs redundancy against the option of traveling when a person is delayed.",
+          "distractors": {
+            "1": "The comparison holds costs constant precisely so that the competing value of dependable access can be considered.",
+            "2": "The text allows improved access to coincide with lower average occupancy and does not quantify the change.",
+            "3": "The focus is capacity that may be sparsely used but valuable to people with uncertain departure times."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "capacity",
+            "hebrew": "קיבולת"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why could shifting to an hourly evening schedule improve recorded occupancy while harming access?",
+        "options": [
+          "Some riders who need flexible departure times might stop taking the bus and disappear from the metric.",
+          "Riders with predictable shifts might change jobs rather than learn a longer timetable.",
+          "Fewer departures could create demand from workplaces previously too far from the route.",
+          "The concentration of passengers on fewer buses might make the occupancy estimate less accurate."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The remaining trips can be fuller even if people unable to use them suffer a loss.",
+          "distractors": {
+            "1": "The predictable worker can adjust; the example attributes the more consequential trade-off to the worker with variable hours.",
+            "2": "The schedule changes when the bus runs, not which workplaces the route is near.",
+            "3": "The measure can accurately describe fuller buses while overlooking riders who stopped using them."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "withdraw",
+            "hebrew": "לפרוש"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author regard occupancy figures?",
+        "options": [
+          "As relevant observations that need to be considered with other measures.",
+          "As a direct measure of access at equal costs.",
+          "As a rough substitute for counting the total number of passenger trips.",
+          "As most useful when the analyst has already decided that lightly used departures are inefficient."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The evaluation retains occupancy while adding an access measure.",
+          "distractors": {
+            "1": "Comparable costs do not make occupancy a measure of available departure opportunities.",
+            "2": "The argument concerns how full buses are and what that misses, rather than using occupancy to estimate total trips.",
+            "3": "Identifying true inefficiency is an outcome of the wider investigation, not the required starting assumption."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "aggregate",
+            "hebrew": "לאגד"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “redundant” identify near the end of the passage?",
+        "options": [
+          "A departure that adds little because a reliable substitute exists.",
+          "A departure too lightly used to pay its share of operating costs.",
+          "A departure shifted from the busiest hour to an off-peak period.",
+          "A departure capable of absorbing passengers when their shifts end late."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The preceding sentence introduces departures that duplicate another option.",
+          "distractors": {
+            "1": "Revenue is not the criterion; the key is whether there is a reliable substitute.",
+            "2": "Changing its place on the timetable does not establish duplication.",
+            "3": "Availability in that situation is a reason a low-use departure may add value."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "redundant",
+            "hebrew": "מיותר בשל כפילות"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Which outcome did the analysts add to occupancy in their hypothetical evaluation?",
+        "options": [
+          "The number of workplaces permitting a timely return home at several departure times.",
+          "The number of workplaces from which commuters could reach a bus within a fixed walking time.",
+          "The number of passengers reaching home within the target interval during the busiest hour.",
+          "The range of departure times offered at the same operating cost."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "This measures access under multiple possibilities for when work ends.",
+          "distractors": {
+            "1": "The evaluation measures the time it takes to reach home when leaving work at specified times, not merely to reach a stop.",
+            "2": "The new measure counts qualifying workplaces at multiple departure times rather than passengers at one peak hour.",
+            "3": "That describes how the schedules were designed, not the added measure of feasible journeys."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "specified",
+            "hebrew": "מוגדר מראש"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Unfinished Inventory",
+    "paragraphs": [
+      "A museum's public catalogue often appears to be the polished counterpart of a storeroom. Each object has a name, a number, and a place in an intelligible classification. Yet an inventory is frequently most informative where it deviates from that ideal. An uncertain attribution, an obsolete material label, or a blank line where an object should have been described may bear witness to successive changes in the identity and practices of the institution itself. The challenge is distinguishing meaningful absences from ordinary clerical errors without treating every surviving mark as equally significant.",
+      "One curator confronted this problem while comparing descriptions of painted wooden objects collected at different times. Older cards concentrated on the objects' visual qualities while newer records emphasized how they had been acquired. At first glance the older records seemed merely incomplete. A closer look showed that some acquisition information had in fact been kept in a payment register rather than written on individual cards. The gap mattered nonetheless because objects acquired by exchange or gift were documented less consistently in the payment register. A filing arrangement that seemed technically reasonable had made some sorts of transaction easier to recover than others.",
+      "Replacing every earlier category with a current one would improve many present-day searches. The replacement would also erase evidence of how those categories changed. An object recorded first as a toy and later as a model may prompt questions about the collectors' assumptions rather than about the object's intrinsic properties. One strategy is to retain historical labels in a field explicitly marked as such while supplying separate terms for modern retrieval. The earlier description then remains accessible without having to govern how the object is identified in an exhibition.",
+      "There is a difficulty of proportion. A catalogue built for a general audience cannot turn every entry into a treatise on the history of record keeping. Nor should a conspicuous blank invite speculation where business routines explain it adequately. The point is to retain enough information for a later user to tell whether a label reflects current judgment, a historical convention, or persistent uncertainty. A well-made catalogue can look orderly and still make room for this distinction. Its order is then a means of navigating evidence whose unevenness is itself occasionally worth investigating, rather than merely an appearance of completeness."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What claim about organising museum records runs through the passage?",
+        "options": [
+          "A catalogue can support modern research while preserving relevant traces of its earlier organisation.",
+          "An inventory becomes more useful as each earlier label is translated into a current category.",
+          "The completeness of an inventory depends on transferring payment records to individual object cards.",
+          "The best way to preserve a museum's practices is to reproduce old catalogue entries in the public exhibition."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The proposed parallel historical and current fields exemplify this balance.",
+          "distractors": {
+            "1": "Modern search benefits from current terms, but replacing every earlier label would erase useful evidence.",
+            "2": "Payment registers illustrate selective gaps, but the catalogue aims to preserve multiple kinds of evidence, not merely to centralize acquisition data.",
+            "3": "A separate field preserves old categories without dictating how the object is identified to the public."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "attribution",
+            "hebrew": "ייחוס"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "What can be inferred about a wooden piece that entered the museum as a gift?",
+        "options": [
+          "The payment register alone might supply less evidence about it than about a purchased piece.",
+          "Its acquisition is more likely than a purchase to have been documented on its object card.",
+          "Its visual qualities could be reconstructed only if the payment register identifies a donor.",
+          "Its description is more likely to have moved from an older historical field to a modern acquisition category."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Gift transactions were documented less consistently in that register.",
+          "distractors": {
+            "1": "The cards emphasized visual qualities, and the register's omissions do not establish that card coverage was better for gifts.",
+            "2": "The old cards recorded visual qualities independently of the register entries.",
+            "3": "Changes in classification are discussed separately and are not tied to gifts."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "acquire",
+            "hebrew": "לרכוש"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author respond to the possibilities opened by incomplete inventories?",
+        "options": [
+          "With curiosity tempered by concern about unsupported conclusions.",
+          "With a preference for reconstructing gaps using modern categories.",
+          "With the view that only gaps unexplained by clerical routines can tell us anything about an institution.",
+          "With interest in expanding each conspicuous omission into a detailed account of past practice."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The author's examples develop reasons to investigate while warning against overinterpreting blanks.",
+          "distractors": {
+            "1": "The author's proposal keeps current terms distinct from older labels and continuing uncertainty.",
+            "2": "Even an understandable filing routine can make some transactions systematically easier to recover than others.",
+            "3": "The author argues for proportion and cautions against turning every entry into a long historical account."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "conspicuous",
+            "hebrew": "בולט"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “intrinsic” mean in relation to the wooden object’s properties?",
+        "options": [
+          "Inherent in the object itself.",
+          "Original to the earliest recorded description.",
+          "Stable across changes in the institution's filing system.",
+          "Especially important for modern researchers to identify."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The text contrasts the object’s properties with categories supplied by curators.",
+          "distractors": {
+            "1": "The term concerns properties of the object, rather than the age of a catalogue label.",
+            "2": "Being unaffected by filing changes is not sufficient if the feature is externally assigned.",
+            "3": "The term points to where a property inheres, not to its current importance."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "intrinsic",
+            "hebrew": "טבוע במהות"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Where was some of the provenance information absent from older cards kept?",
+        "options": [
+          "In a register of payments.",
+          "A separate set of cards describing visual features.",
+          "A historical-label field created alongside current search terms.",
+          "A register recording exchanges and gifts more fully than purchases."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The author explicitly identifies that alternative filing location.",
+          "distractors": {
+            "1": "Visual features were emphasized on the old object cards themselves, from which the acquisition data were absent.",
+            "2": "This is a later strategy for keeping old identifications, not the earlier place where acquisition information was filed.",
+            "3": "The payment register kept some acquisition data, but exchanges and gifts were less consistently documented in it."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "provenance",
+            "hebrew": "מקור ותולדות בעלות"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Handwriting of the Index",
+    "paragraphs": [
+      "A book's index often looks like a neutral directory. Its headings are arranged alphabetically and followed by numbers, an appearance so spare that readers may forget how much judgment it embodies. An indexer chooses how to name recurring ideas, which passages are substantial enough to list, and whether multiple expressions should be grouped under a shared heading. The resulting choices affect how the book can be consulted without reading it from beginning to end. They can also tell a historian something about which connections an indexer thought likely to matter to the book's first readers.",
+      "Compare two editions of a fictional treatise on the upkeep of public squares. In one index, references to the removal of refuse appear under cleanliness, along with rules about dust and smoke. In another, the same passages appear under labour, beside information about the hours and duties of workers. Neither heading is inaccurate. Each suggests a different unit of inquiry. A reader tracing working conditions would find the second index especially useful, while someone concerned with the management of the physical environment might benefit more from the first. A dense cross-reference system can serve both interests, although it can also become difficult to navigate if every related heading directs the reader to several others.",
+      "For researchers, these decisions raise an evidentiary problem. A change between indexes might reflect growing interest in a subject, but it might also result from the use of a new publisher's house style or a tight limit on page count. Copies marked by earlier readers offer one way to investigate. Marginal notes and inserted slips can show how a person actually used an index, perhaps pursuing a heading the compiler considered minor. Such items cannot supply the intentions of every reader, but they help separate the design of a reference system from its use in practice.",
+      "Today a searchable text makes it possible to locate every occurrence of a chosen expression. That capacity saves time, but it still presupposes that the searcher can anticipate the words the author used or recognize results referring to the same idea in different language. A carefully made index provides additional intellectual work: it offers a selection of connections and signals which passages the compiler regarded as substantial. Its value lies partly in those judgments, even when a later reader takes an interest in how they could have been made differently."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What is the central claim about indexing in the passage?",
+        "options": [
+          "An index incorporates interpretations that shape how readers navigate a text.",
+          "A book's usefulness increases in proportion to the number of links its index supplies.",
+          "Changes in headings offer a more reliable guide to readers' interests than the notes left in their books.",
+          "Digital searches preserve the advantages of an index while avoiding its editorial assumptions."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Naming, grouping, and selecting passages make particular routes through a book easier.",
+          "distractors": {
+            "1": "The author notes that a dense network of references may make the index harder to use.",
+            "2": "Several production choices can account for changed headings; reader traces supply a separate check.",
+            "3": "Digital search has its own assumptions about language and does not supply the compiler's selected relationships."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "indexer",
+            "hebrew": "מכין מפתח עניינים"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "What inference about a changed index would go beyond the evidence of the change alone?",
+        "options": [
+          "That a change in readers' interests must have caused the new headings.",
+          "That a publisher's page limit could be one explanation for the revision.",
+          "That the subject of refuse could be relevant under either of two headings.",
+          "That locating a passage may become easier for an inquiry suited to the new heading."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Publisher conventions and page limits could also explain the change.",
+          "distractors": {
+            "1": "The text expressly permits this as a possibility; it does not claim that such a limit operated in this case.",
+            "2": "The example directly shows how two accurate headings support different inquiries.",
+            "3": "The different usefulness of headings for different readers follows from the comparison in the second paragraph."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "evidentiary",
+            "hebrew": "ראייתי"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author regard searchable electronic texts?",
+        "options": [
+          "As efficient tools with constraints that leave a role for carefully designed indexes.",
+          "As tools that let readers search without anticipating the author’s wording.",
+          "As preferable to indexes when the reader investigates a recurring idea.",
+          "As primarily valuable when users search only for headings the indexer selected."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Their speed is acknowledged alongside dependence on the searcher's choice of terms.",
+          "distractors": {
+            "1": "Users still need to predict expressions or recognize the same idea under different wording.",
+            "2": "Recurrence can be found by search, but indexing adds judgment about related wording and substantive passages.",
+            "3": "The author values the ability to find every instance of an expression, rather than limiting search to the indexer's choices."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "presuppose",
+            "hebrew": "להניח מראש"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What do the separate headings suggest when each supplies a different “unit of inquiry”?",
+        "options": [
+          "A different organising concern for investigating the material.",
+          "A set of equivalent terms to be used in an electronic search.",
+          "A subdivision under the same main subject.",
+          "A fixed amount of material that a compiler assigns to a heading."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "One groups refuse with environmental issues, the other with working conditions.",
+          "distractors": {
+            "1": "Equivalent wording is raised later as a challenge for search, whereas this phrase concerns what the enquiry has as its object.",
+            "2": "The examples assign the same content to genuinely different organising concerns, not to subdivisions of a single heading.",
+            "3": "The issue is the kind of inquiry supported, rather than the quantity referenced."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "inquiry",
+            "hebrew": "חקירה"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Which source is proposed to investigate how particular people actually sought material in an older edition?",
+        "options": [
+          "Annotations or loose slips left in readers’ copies.",
+          "Notices explaining a publisher's style for index headings.",
+          "A count of the references grouped under labour in the newer edition.",
+          "Cross-references added to give cleaning and labour equal treatment."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The third paragraph says these can show an individual's use of the index.",
+          "distractors": {
+            "1": "A style guide may explain how a compiler designed an index but does not reveal how specific readers consulted it.",
+            "2": "This shows what a compiler grouped together, rather than which references an earlier reader followed.",
+            "3": "Cross-references describe possible navigation supplied by the compiler, not actual past use."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "marginal",
+            "hebrew": "בשוליים"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Temporary Plaza",
+    "paragraphs": [
+      "When a town closes a short street and brings in tables for a few weekends, observers often treat the result as a preview of a permanent public plaza. If the tables fill, there appears to be demand; if they remain empty, plans to convert the street may look premature. This interpretation uses the short experiment to answer a sensible question, but it can make a pilot carry more weight than it deserves. Visitors respond to the novelty of a temporary arrangement and to the knowledge that the space will revert to its earlier use. A permanent closure changes both those expectations and the behaviour built around them.",
+      "A planning team tested a closure near a cluster of workshops. It counted pedestrians before the intervention and on three successive weekends, separating people who passed through the area from those who stayed. Attendance rose sharply on the first weekend, when a local association put on a concert, and fell on the next. The team could have treated the concert as interference and excluded its figures. Instead, it asked whether an enduring plaza would be able to attract occasional events and whether the unusual crowd was compatible with continuing access to the workshops. The concert thus became evidence about one possible use of the space while remaining a poor measure of typical activity.",
+      "Businesses along the street responded in ways the counts could not capture. Some were pleased to receive visitors who had time to examine displays. Others worried that their suppliers could not deliver conveniently. That disadvantage was partly hidden because several deliveries had been rescheduled specifically for the pilot. A permanent scheme would need a way for commercial traffic to operate reliably under its own rules. The team's interviews therefore tested adaptations that the occupancy figures, however accurate, would have missed.",
+      "An experiment of this kind can help a town revise a proposal before committing substantial funds. Its contribution is greatest when the designers specify which responses plausibly carry over and which depend on the event's temporary conditions. They might learn where visitors need shade, which crossing remains awkward, or which opening hours are difficult for nearby businesses. Those lessons do not require the first weekend's crowd to predict annual attendance. A pilot can be valuable because it reveals what must be changed before another step is taken, even when it offers only fragmentary evidence of how a finished plaza would function."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What does the author see as the strongest use of a temporary street closure?",
+        "options": [
+          "Identifying operational and design issues while separating temporary effects from transferable observations.",
+          "Judging the permanent proposal by attendance after unusual events have been removed from the figures.",
+          "Finding a stable demand estimate by combining several weekend counts with interviews.",
+          "Testing whether planned events could generate enough custom to overcome delivery costs."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The examples of deliveries and the concert support a diagnostic use of the pilot.",
+          "distractors": {
+            "1": "The concert can reveal a possible use even though its attendance is unusual; exclusion would lose that information.",
+            "2": "Interviews expose adaptations and access issues the counts miss; the central value is learning what to improve, with limited forecasting.",
+            "3": "Events and deliveries are both discussed, but the pilot does not weigh revenues against costs."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "pilot",
+            "hebrew": "ניסוי מקדים"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why might workshop delivery problems have been underestimated during the closure?",
+        "options": [
+          "Several suppliers had already altered deliveries to avoid the pilot conditions.",
+          "The interviews took place before wholesalers knew that delivery arrangements would change.",
+          "Most deliveries apparently occurred when the plaza was under the heaviest use.",
+          "The pedestrian observations showed that workshops could depend on people passing through for deliveries."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Those adjustments hid a burden that would matter under a lasting scheme.",
+          "distractors": {
+            "1": "The passage attributes the hidden problem to arrangements already changed for the trial, rather than interviews held too early.",
+            "2": "The temporary changes make delivery difficulty less visible, rather than exposing suppliers to the concert crowd.",
+            "3": "Pedestrian patterns do not establish that commercial traffic operated under normal conditions."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "reschedule",
+            "hebrew": "לשנות מועד"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "Which phrase best describes the writer’s attitude toward the prospect of permanent conversion?",
+        "options": [
+          "Open to it while asking for evidence about how specific challenges would be addressed.",
+          "Receptive chiefly if the site can sustain the unusually strong demand seen at the concert.",
+          "Favorable because adaptations made by businesses during the trial show that a permanent closure would be workable.",
+          "Reluctant to proceed until pilot data give a dependable prediction of typical visitor numbers."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The author treats conversion as a possibility and scrutinizes the evidence needed to inform it.",
+          "distractors": {
+            "1": "The author treats that event as a use case, with weak value as a demand forecast.",
+            "2": "The special rescheduling can hide difficulties that a lasting conversion would need to solve independently.",
+            "3": "The pilot can guide a decision by uncovering design issues even when it cannot reliably predict attendance."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "conversion",
+            "hebrew": "הסבה"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "How is “interference” used in the discussion of the concert figures?",
+        "options": [
+          "An event that can distort an estimate of ordinary visitation.",
+          "An unplanned use of the plaza incompatible with workshop access.",
+          "A fluctuation in ordinary visitor use across successive weekends.",
+          "A deliberate adaptation that conceals how suppliers would behave after conversion."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The concert could impede measurement of a normal weekend even while illustrating one use.",
+          "distractors": {
+            "1": "Compatibility with ongoing workshop access is a question the team asks, rather than the meaning of the term.",
+            "2": "The concern is an unusual event changing what the count represents, rather than routine variation itself.",
+            "3": "That describes rescheduled deliveries, a separate way the pilot can obscure permanent conditions."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "interference",
+            "hebrew": "גורם מפריע"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Which distinction did the pedestrian count make near the workshops?",
+        "options": [
+          "It distinguished those who went through from those who lingered.",
+          "It distinguished people already present before the concert from those arriving for it.",
+          "It distinguished shoppers at displays from workers seeking access.",
+          "It distinguished pedestrians present on several weekends from those counted only once."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The team separately counted people passing and people staying.",
+          "distractors": {
+            "1": "There was a before-and-after plan, but it did not classify individual visitors by connection to the concert.",
+            "2": "Business interviews report those experiences, whereas the count classified people by movement and duration.",
+            "3": "The counts were repeated, but visitors were not tracked individually across weekends."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "successive",
+            "hebrew": "רצוף"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Second Life of a Caption",
+    "paragraphs": [
+      "An exhibition photograph may outlast the information originally attached to it. Prints are moved between folders, identification slips become detached, and captions written for one publication are copied into another without their qualifications. The image can appear stable through these transitions although its published significance has changed. A caption that once offered a tentative guess may become a statement of fact simply because a later editor copied the main clause and dropped words such as probably or believed to be. What looks like multiple confirmation may then be one identification repeated through several channels.",
+      "This happened in an imagined collection of photographs of railway workers. A caption in a commemorative booklet identified three people as the night maintenance crew. Later publications used nearly identical wording, making the identification familiar. An archivist then found an earlier print labelled in weak pencil with a question mark after the word maintenance. A register of uniform allowances showed that the jackets in the photograph could have been worn by employees with several duties. It did not establish who the people were, but it removed the apparent certainty of the later wording. The strongest surviving evidence supported describing them as employees whose duties remained unidentified.",
+      "Uncertainty about the workers did not make the picture unusable. Researchers could still inspect the construction of the platform, compare the relation of the roof and stairs to dated plans, or study how the photographer had arranged the people. Some observations may themselves depend on camera angle and cropping. Yet the photograph's capacity to answer questions varies by question, and doubts about one caption need not be transferred wholesale to everything visible in the image.",
+      "An archive can help users by displaying an amended caption alongside an account of where its wording came from. An older assertion might remain searchable, since researchers could otherwise fail to connect familiar references with the corrected record. Marking that assertion as a previous identification also lets a reader see why several reputable publications once appeared to agree. This practice asks for more than substituting a cautious phrase for a confident one. It treats the circulation of an image and its descriptions as additional historical evidence. The recorded journey of a caption can explain not only what became associated with a picture, but also how a small uncertainty was progressively erased without any corresponding discovery about the people depicted."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What does “The Second Life of a Caption” chiefly recommend?",
+        "options": [
+          "Documenting how an identification evolved so repeated wording can be assessed with its source.",
+          "An uncertain caption should be corrected by finding the oldest version and reproducing it as written.",
+          "An image's value depends mainly on how accurately museums can identify the people it depicts.",
+          "Archives should keep once-common identifications out of searches after contrary evidence emerges."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The recommendation is to preserve both a qualified current account and the history of the older one.",
+          "distractors": {
+            "1": "The oldest caption is relevant evidence, but the passage advocates a revised description that shows how wording evolved.",
+            "2": "The platform and composition illustrate independent uses of the image even when the identification fails.",
+            "3": "Keeping a marked prior caption searchable can help users trace familiar references."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "amended",
+            "hebrew": "מתוקן"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why are the multiple publications insufficient to establish that the workers were a maintenance crew?",
+        "options": [
+          "Their wording may trace back to the same qualified identification.",
+          "They may have copied an independently verified employee register.",
+          "They may rely on a jacket style that workers in several duties were known to avoid.",
+          "Their agreement matters only if later research confirms that the photo shows the original railway platform."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Repetition through several channels can give a false impression of independent confirmation.",
+          "distractors": {
+            "1": "The sources appear to repeat an identification, and the register speaks to clothing allowances rather than identifying the workers.",
+            "2": "The evidence shows the jackets could be worn in several roles, with no stated exclusions.",
+            "3": "Dating the platform remains possible but cannot independently corroborate the workers' roles."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "establish",
+            "hebrew": "לבסס"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "What is the writer’s attitude toward interpreting the railway photograph after the caption is revised?",
+        "options": [
+          "Cautious about individual conclusions and receptive to other uses of the image.",
+          "Reluctant to draw any historical conclusions until the workers can be identified.",
+          "More interested in the dated plans than in how the caption was revised.",
+          "Equally doubtful about the platform information and the workers’ identification."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The author lists new inquiries while noting dependence on features such as cropping.",
+          "distractors": {
+            "1": "The reliability of inferences can be assessed separately, and some physical observations are still possible.",
+            "2": "The author values both a transparent caption history and observations about the picture, without giving one blanket priority.",
+            "3": "Those features can influence some observations, but no equivalent doubt is established about every conclusion."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "wholesale",
+            "hebrew": "באופן גורף"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What are the “qualifications” that can be lost as a caption is copied?",
+        "options": [
+          "Words or marks that limit how confidently an identification is asserted.",
+          "Evidence supplied by several independent sources.",
+          "Details that distinguish one type of railway work from another.",
+          "Changes made to improve the accuracy of the later identification."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The introduction gives examples such as probably and a later question mark.",
+          "distractors": {
+            "1": "Such corroboration could increase confidence; the lost wording limits the original claim.",
+            "2": "The original question mark qualifies the identification without describing distinct duties.",
+            "3": "The qualifications were already present in tentative wording and could vanish in later reproductions."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "qualification",
+            "hebrew": "הסתייגות"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What did the register of allowances contribute to the reassessment?",
+        "options": [
+          "It showed that several types of workers could wear the same kind of jacket.",
+          "It showed how many of the railway's maintenance workers had been issued jackets.",
+          "It established that maintenance workers and other employees were issued visibly distinct jackets.",
+          "It dated a change in the uniform that narrowed the period in which the scene could have been photographed."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The clothing therefore could not isolate the crew’s occupation.",
+          "distractors": {
+            "1": "The register establishes that jackets were possible across duties, without giving a count for that particular crew.",
+            "2": "The allowance evidence undermines the identification because a jacket style could be shared across duties.",
+            "3": "The register is cited for the range of possible wearers rather than a dating result."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "allowance",
+            "hebrew": "הקצבה"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Listening for the Missing Caller",
+    "paragraphs": [
+      "A community organisation seeking advice on public services may schedule evening calls instead of asking residents to attend a meeting. A telephone consultation saves travel and lets the organisers hear from people living far from the meeting hall. It still demands access to a handset, a reasonable interval of privacy, and confidence that an unfamiliar call should be answered. These conditions help determine whose opinions enter the record. An organiser who knows how many invited residents participated possesses a valuable count, but the count can hide marked inequalities in who was available to take part.",
+      "Consider a consultation about common laundry rooms in apartment buildings. The organisers leave a message with every sampled household and invite a resident to call back between six and eight. People already home when the period begins are more likely to respond. Those who work in the evening may be regular users of the laundry room on quiet afternoons, and their experiences could be particularly relevant to the proposal. If the analysis divides answers by age and district, the lost perspectives might still remain invisible. Age and place are easier to record than daily availability, and matching the population on those dimensions does not correct a selection process driven by a different factor.",
+      "In a revised effort, the organisers call some of the previously unreachable residents at other hours and allow a short written response. They use the same prompts and learn that daytime users are particularly concerned about unpredictable maintenance closures. That observation is sufficient to justify examining the issue. It does not establish how common the concern is across the population because the extra contacts were designed to recover missing perspectives rather than construct a second representative sample. Such evidence can expand the range of known experiences without supporting a precise numerical estimate.",
+      "A defensible report would distinguish between these aims. It can state how many people answered under the original protocol, describe the later attempts, and explain what the new material adds to an understanding of the problem. Understating the limitations of the original call period obscures a choice the organisers made. Treating the later interviews as conclusive risks turning a correction into another source of distortion. A consultation becomes more informative when its account of who spoke includes a serious examination of the opportunities people had to speak. Then a reader can tell whether a distribution of answers reflects a wide range of experiences or a narrow range of routes through which those experiences could be recorded."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "Which principle about public consultation does the author develop?",
+        "options": [
+          "The conditions for responding influence what the result can establish and should be made visible in the report.",
+          "Consultation reports should correct differences in participation by matching respondents to the population on easily measured dimensions.",
+          "Written follow-up should become the primary source for measuring how widespread neglected concerns are.",
+          "The number of replies is the best guide to whether a consultation gathered a wide range of experience."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The call window and revised contact efforts show the need to document opportunities for response.",
+          "distractors": {
+            "1": "Age and district can match while an unmeasured condition, such as availability, still skews the results.",
+            "2": "Written follow-up can uncover concerns, but its recruitment supplies no prevalence estimate.",
+            "3": "A total can be accurate even when one method makes some experiences harder to record."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "protocol",
+            "hebrew": "נוהל"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why might a sample that matches the population on age still fail to represent an important viewpoint?",
+        "options": [
+          "Participation can still depend on working hours, which affect use of the laundry room.",
+          "Participants of similar ages may live in districts whose laundries face different maintenance budgets.",
+          "Age matching may hide disproportionately high participation by people who frequently use the laundry in the afternoon.",
+          "People of a given age may use a telephone more readily than a written reply."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Matching age does not resolve selection along a separate scheduling dimension.",
+          "distractors": {
+            "1": "District is relevant to the reported analysis but the example ties the missing perspective to availability, and introduces no budget variation.",
+            "2": "The scenario makes these daytime users more likely to be working and unreachable in the evening.",
+            "3": "Both modes occurred in the program, but the example provides no age-specific effect of response format."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "selection",
+            "hebrew": "ברירה"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the writer assess the later interviews and written responses?",
+        "options": [
+          "As useful evidence about a concern whose prevalence remains uncertain.",
+          "As data that correct the distribution of evening responses.",
+          "As valuable mainly because they repeat the same prompts with a second representative sample.",
+          "As useful to document why the first sample was biased, but insufficient to justify any further investigation."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The author accepts their role in discovering perspectives and limits their inferential scope.",
+          "distractors": {
+            "1": "They recover some viewpoints rather than provide a representative supplement for adjusting the numbers.",
+            "2": "The prompts are the same, but the follow-up deliberately targets missing perspectives rather than another representative sample.",
+            "3": "The newly raised issue is explicitly said to be worth examining even without an estimate of prevalence."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "defensible",
+            "hebrew": "בר־הגנה"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “distortion” refer to when the author considers treating the later interviews as conclusive?",
+        "options": [
+          "A misleading presentation of what the contact evidence can support.",
+          "A difference in concern between respondents contacted at different hours.",
+          "The concealment of a choice in the original telephone schedule.",
+          "An inconsistency in the wording of questions across responses."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Overinterpretation could bias the resulting account despite the corrective intention.",
+          "distractors": {
+            "1": "Such a difference may be real; the distortion is an unsupported conclusion drawn from it.",
+            "2": "That is a separate reporting risk; the term in context points to treating the added interviews as conclusive.",
+            "3": "The same prompts were used, and the problem is overclaiming what the responses establish."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "distortion",
+            "hebrew": "עיוות"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What specific concern emerged from residents reached through the revised procedure?",
+        "options": [
+          "Maintenance closures that were hard to anticipate.",
+          "That maintenance was routinely scheduled during the evening consultation hours.",
+          "That the evening users could not predict which rooms would be cleaned first.",
+          "That the room was rarely available at peak hours because demand was high."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The additional answers highlighted this among daytime users.",
+          "distractors": {
+            "1": "The call period is specified, but no usual closure hour is identified.",
+            "2": "The newly reached residents are daytime users concerned with closures, not evening users tracking cleaning order.",
+            "3": "The problem named concerns unpredictable interruptions for maintenance, rather than crowding."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "unpredictable",
+            "hebrew": "בלתי צפוי"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Reading an Absence in a Map",
+    "paragraphs": [
+      "The most striking feature of an early map may be something that the mapmaker failed to include. A footpath known to later residents might stop at a field boundary, while a larger road continues across a blank portion of the sheet. It is tempting to read the blank as evidence that nobody passed that way. Before doing so, a historian needs to know what the map was commissioned to show and how its information was gathered. A feature could have been immaterial to the commission, difficult to observe, or too familiar for the mapmaker's intended readers to require a label.",
+      "Imagine two surveys of the same agricultural valley. One was prepared after heavy rain to investigate damage to bridges. The other was made in a dry season to settle disagreements about rights of passage. In the bridge survey, paths that did not lead to a crossing drew little attention. The second survey plotted such paths in great detail but failed to distinguish temporary repairs from enduring structures. Both accounts can be accurate enough for their respective purposes. Combining them into a composite map without preserving information about those purposes would make the differences look accidental rather than informative.",
+      "One strategy is to examine the places where a survey's priorities change the detail on the page. If the bridge map suddenly becomes crowded around a tributary, the density may reflect focused observation rather than a more developed settlement. Reports sent with the survey can indicate whether an assistant walked the ground or copied the outline from an older plan. That information helps determine how strongly an omission should count as evidence. A surveyor who was asked to note every crossing in a small area and spent considerable time there left a different kind of silence from a compiler who traced the area's outline as a backdrop.",
+      "Other records provide a check. A route missing from both surveys might appear in a letter describing the distance between two farms. That letter could refer to a shortcut available in summer rather than a permanent path. The historian need not decide immediately in favour of one source. The disagreement can narrow the question to the kinds of movement each source could register. When examined this way, a blank can invite a better inquiry about the map's production and use instead of ending an inquiry about what was present on the ground."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What principle governs the passage's interpretation of cartographic omissions?",
+        "options": [
+          "An omission has evidentiary force only in light of the map’s purpose, production and other records.",
+          "The most reliable conclusion comes from combining both surveys into a single detailed map.",
+          "An omitted feature usually points to a physical change between the dates of two surveys.",
+          "A written description of a route should override a map when the map does not depict it."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The examples distinguish focused surveying from copying and use independently recorded travel as a check.",
+          "distractors": {
+            "1": "A composite can hide why specific features were selected unless it keeps the maps' purposes visible.",
+            "2": "An omission can reflect what was requested, observed, or taken for granted rather than change on the ground.",
+            "3": "A letter might describe a seasonal shortcut; the records help refine the inquiry rather than automatically overruling one another."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "cartographic",
+            "hebrew": "קרטוגרפי"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "If a small area is particularly dense with marks on the bridge survey, why might it be wrong to infer that the area was unusually settled?",
+        "options": [
+          "The survey team may have devoted unusually close attention to it because of a nearby waterway.",
+          "The bridge survey may have transferred more details about the smallest settlements from an earlier plan.",
+          "A tributary might have required several teams to survey single crossings from different directions.",
+          "The survey near the tributary may include minor paths because of a dispute about rights of passage."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "A high density of marks can reflect the commission's focus rather than the area's development.",
+          "distractors": {
+            "1": "Copying older outlines appears as a separate example, not the stated explanation for concentrated symbols near a tributary.",
+            "2": "The passage connects the density of marks to the bridge team's focus around a tributary. It does not describe overlapping teams or viewpoints.",
+            "3": "Mapping minor access routes was the responsibility of the other survey."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "tributary",
+            "hebrew": "יובל"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author approach disagreement between maps and letters?",
+        "options": [
+          "As a productive opportunity to clarify what each kind of record could register.",
+          "As a sign that both maps are incomplete and that the letter can supply their missing facts.",
+          "As a problem best resolved by establishing which document is closest in time to the route's first use.",
+          "As evidence that an intended reader already knew the route and needed no label."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The author uses conflict to specify questions about evidence and seasonal use.",
+          "distractors": {
+            "1": "The letter's passage may be seasonal, so the difference cannot simply be filled in as a permanent route.",
+            "2": "Different purposes and kinds of movement matter alongside chronology, and the passage does not seek a date of first use.",
+            "3": "A familiar route can go unlabelled, but the disagreement by itself does not establish that explanation."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "omission",
+            "hebrew": "השמטה"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What is meant by “backdrop” in the example of the compiler who traced an outline?",
+        "options": [
+          "Context included behind the survey's principal subject.",
+          "An old plan supplying the main evidence.",
+          "The outer limit beyond which a surveyor was commissioned to record crossings.",
+          "A blank in the map indicating the absence of a feature."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The outline supplies setting without requiring close investigation of the area.",
+          "distractors": {
+            "1": "The author describes copying only the outline to supply secondary context, not relying on the old plan for the central evidence.",
+            "2": "The copied outline provides a setting and need not mark the limits of the actual commission.",
+            "3": "A background outline has content, even where it does not reflect detailed observation."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "backdrop",
+            "hebrew": "רקע"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Which difference between the two imagined surveys does the author specify?",
+        "options": [
+          "The survey of access rights mapped paths that were of limited interest in the bridge survey.",
+          "The bridge survey distinguished permanent crossings from seasonal paths in much greater detail than the access survey.",
+          "The access survey examined the valley immediately after rain had damaged crossings.",
+          "The bridge survey plotted crossings regardless of whether they served the disputed rights of passage."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The access survey noted such paths closely while the bridge survey concentrated on crossings.",
+          "distractors": {
+            "1": "The passage says the latter overlooked the difference between temporary repairs and enduring structures, but does not attribute that broader distinction to the bridge survey.",
+            "2": "The post-rain investigation was the bridge survey, while the rights survey took place in a dry season.",
+            "3": "The bridge survey's interest in crossings is given, but the text makes no specific comparison with where disputes occurred."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "enduring",
+            "hebrew": "מתמשך"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "What a Repair Preserves",
+    "paragraphs": [
+      "At a textile workshop attached to a small museum, a worn ceremonial banner presents a familiar conservation problem. One section has lost enough thread to make the picture difficult to read, and earlier repairs have introduced cloth of several different colours. An observer might expect the goal to be simply to make the picture whole again. But “whole” could refer to the banner as it left the workshop that first made it, as it appeared at the last procession, or as it bears visible traces of many years of use. Depending on the answer, an intervention that preserves one identity could damage another.",
+      "One conservator proposes supporting the weakened area from behind with a finely woven cloth. The support makes the surviving threads easier to handle without supplying an invented part of the picture. A colleague suggests printing a reconstruction on the support so visitors can follow the design across the gaps. This would make the image more legible but could make conjecture appear continuous with surviving work. The team considers a display that places a separate drawing nearby instead. The drawing can explain how the motifs might once have connected while the banner remains available for a different kind of scrutiny.",
+      "Even the policy of retaining visible repairs needs discrimination. Some patches were carefully added by people who carried the banner during ceremonies; their different fabric records practical decisions made in use. Another patch was added as temporary backing during a photographic session and was never intended to remain attached. If it is actively damaging the older material, removing it could preserve more evidence than keeping it. The age of an addition may be one consideration, but the role it played and the effects it now has need independent attention.",
+      "A good conservation record acknowledges these conflicts. It describes how materials were handled and why a particular balance was chosen among physical support, legibility and historical evidence. It can also make a future revision easier, particularly if a treatment is reversible and its materials are known. The conservator's expertise therefore lies partly in deciding where to act and partly in making the implications of that act available to others. By recording the alternatives that were considered, the museum can preserve evidence about its own intervention alongside the evidence it hopes to carry into the next exhibition."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What dilemma about restoring the banner is central to the passage?",
+        "options": [
+          "Different treatments preserve different aspects of the object’s appearance and history.",
+          "Stabilizing fragile objects should take precedence over recovering their ceremonial use.",
+          "Recording a treatment preserves more evidence than keeping any later additions.",
+          "A separate reconstruction makes a damaged object intelligible without the need to intervene physically."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The competing proposals balance support, legibility and evidence of use.",
+          "distractors": {
+            "1": "Physical stability is one consideration, but no universal priority is set above a competing interpretation.",
+            "2": "Documentation and physical preservation can both contribute; later patches may themselves be evidence.",
+            "3": "The drawing addresses legibility, while support can still be necessary to handle weakened material."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "intervention",
+            "hebrew": "התערבות"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why might a drawing beside the banner be preferable to printing a reconstructed motif on its backing?",
+        "options": [
+          "It makes an interpretation available while keeping it visibly separate from surviving material.",
+          "It would allow conservators to test reconstruction theories independently of the supporting cloth.",
+          "It would make the original colors easier to distinguish from fabric added during past ceremonies.",
+          "It would give later visitors more detailed access to the original motif than a reconstruction printed on cloth."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "An adjacent drawing reduces the risk of confusing speculation with the original textile.",
+          "distractors": {
+            "1": "A drawing presents a hypothesis clearly but is not described as a method for testing which design is correct.",
+            "2": "The problem cited is the separation of conjectural design from genuine surviving work, including any genuine historic repairs.",
+            "3": "The proposal is about showing uncertainty clearly, not demonstrating that a separate drawing is more detailed."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "conjecture",
+            "hebrew": "השערה"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the writer regard the tendency to preserve every earlier repair?",
+        "options": [
+          "As understandable but requiring judgment about the repair's role and present effects.",
+          "As a sound policy when the earliest version is the primary conservation target.",
+          "As beneficial provided that previous repairs were intended to last.",
+          "As a choice best settled by dating the pieces of fabric individually."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The author distinguishes ceremonial patches from damaging temporary backing.",
+          "distractors": {
+            "1": "Keeping all later repairs may interfere with the aim of showing an earliest appearance.",
+            "2": "Intended duration is relevant, but role and current effects still need to be evaluated.",
+            "3": "Age alone is insufficient to establish which intervention best preserves evidence."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "retain",
+            "hebrew": "לשמר"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “legibility” refer to in the decisions about display?",
+        "options": [
+          "The ease with which a viewer can make sense of the design.",
+          "The clarity with which earlier repairs can be dated.",
+          "The ease with which the reconstructed section can be distinguished from surviving threads.",
+          "The extent to which a future treatment can be undone."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The printed reconstruction would let visitors follow the motifs across gaps.",
+          "distractors": {
+            "1": "Dating historical additions concerns their origins, whereas legibility concerns the viewer's ability to follow the design.",
+            "2": "Distinguishing conjecture is a related display concern but differs from understanding the image itself.",
+            "3": "That is reversibility, a different goal in the treatment record."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "legibility",
+            "hebrew": "קריאות"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Which earlier addition does the passage say was attached during a photography session?",
+        "options": [
+          "A patch intended to provide temporary backing.",
+          "One of the pieces added by the people who used the banner in ceremonies.",
+          "A new support proposed for weak fabric.",
+          "The printed reconstruction proposed for display across missing threads."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The author distinguishes it from repairs added by banner bearers.",
+          "distractors": {
+            "1": "Those patches record practical choices made by banner carriers, whereas the photographic addition served as temporary backing.",
+            "2": "That new support is a present conservation proposal, not an earlier addition already attached for photography.",
+            "3": "Printing an image on the backing is another present proposal and is not part of the past photographic work."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "backing",
+            "hebrew": "שכבת תמיכה אחורית"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Beyond the Last Recorded Sale",
+    "paragraphs": [
+      "Economic historians often learn about local markets through recorded transactions. A merchant sold a set of tools for a named sum, or a customer promised payment after the harvest. The detail of such exchanges allows an investigator to compare prices, track credit, and estimate how a business changed. Transactions that people considered only briefly usually left less precise evidence. Yet without some account of offers that were declined or negotiations that failed, the historian can mistake the limits of a surviving ledger for the limits of what people imagined possible.",
+      "A small dealer in a fictitious port kept sales in a formal account and used an informal notebook to list requests that the shop could not immediately satisfy. The two sources suggest different pictures of the dealer's trade. Most completed transactions involved repairing compact instruments. The requests show that customers repeatedly asked the shop to repair larger machines, sometimes offering to pay a premium for prompt service. The dealer declined many of those jobs because the workshop doorway was narrow, not because local customers lacked interest or were unwilling to pay.",
+      "The informal evidence has complications. The dealer sometimes used a single mark for a returning customer's second inquiry without recording the customer's name. Counting each mark as a fresh customer would overstate the number of distinct people involved. In other places the only evidence is a request forwarded by a colleague, whose own understanding of the job might have been imperfect. The notes supply a qualitative correction to a conclusion drawn from sales, but they cannot automatically be given the numerical precision of the formal record.",
+      "This distinction has consequences beyond the history of one shop. If several workshops faced comparable physical constraints, low recorded sales of some service might coexist with considerable unmet demand. Conversely, if one dealer became known for discouraging certain inquiries, even the informal notebook could understate potential business. These possibilities cannot be settled by renaming every unsuccessful conversation a lost sale. They can inform a more careful account of the choices available at the time. For an economic historian, a number is often most illuminating when the processes that produced it are understood. The final set of recorded sales describes an outcome reached through both opportunity and constraint, with other possible outcomes surviving only as uneven traces."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What problem with using sales records does “Beyond the Last Recorded Sale” emphasise?",
+        "options": [
+          "Completed trades alone can underrepresent demand blocked by practical limitations.",
+          "Recorded requests should count as purchases when estimating demand.",
+          "Comparing the repair of compact and large machines explains why prices differed across the port.",
+          "Informal notes are most useful when they confirm a pattern already visible in a sales ledger."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The larger-machine example establishes an interest that was invisible in successful sales.",
+          "distractors": {
+            "1": "The notebook offers a qualitative correction, but individual marks do not reliably represent either distinct customers or realized sales.",
+            "2": "The passage does not compare port prices; repairs exemplify the gap between possible business and recorded outcomes.",
+            "3": "The notes are most revealing here because they disclose a type of demand scarcely visible in completed sales."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "unmet demand",
+            "hebrew": "ביקוש שלא נענה"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why could counting the marks in the dealer’s notebook give an inaccurate estimate of how many different customers made requests?",
+        "options": [
+          "Some marks may refer to repeated inquiries from the same person.",
+          "Some marks connect separate requests from customers willing to pay extra for the same work.",
+          "Some requests were conveyed by colleagues who might not have understood exactly what work was wanted.",
+          "The dealer may have counted larger requests as instrument sales before later turning them down."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The dealer sometimes recorded a second inquiry with no accompanying name.",
+          "distractors": {
+            "1": "The text cannot tell which marks refer to those customers or their offered prices.",
+            "2": "That affects how accurately a request's nature can be inferred, whereas the specific counting risk is repeated inquiries from one person.",
+            "3": "Sales and requests went into separate records, with no suggestion that prospective large jobs were first treated as sales."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "overstate",
+            "hebrew": "להפריז"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author treat evidence of unsuccessful negotiations?",
+        "options": [
+          "As revealing about possible business while subject to a different standard of numerical confidence.",
+          "As a basis for assigning an approximate sale price to every refused request.",
+          "As more informative than the formal records for comparing how many individual customers sought different services.",
+          "As worth considering chiefly where more than one workshop reports the same refused requests."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The author highlights its corrective value and counting limitations.",
+          "distractors": {
+            "1": "The notes can show an interest in certain repairs, but the author distinguishes exploratory offers from sales evidence.",
+            "2": "The register and notebook cover different populations, and the lack of customer identifiers makes such a count uncertain.",
+            "3": "The single shop's evidence is useful even before comparable workshops are examined."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "constraint",
+            "hebrew": "מגבלה"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What is the closest meaning of “premium” in the requests for prompt work?",
+        "options": [
+          "An additional amount above the usual payment.",
+          "A price agreed before the work began.",
+          "The ordinary charge for repairing a larger machine.",
+          "The expected profit from taking a large assignment."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The customers offered more for timely service.",
+          "distractors": {
+            "1": "The offered premium describes paying extra, which does not imply the dealer accepted or set a final price.",
+            "2": "The word refers to an increment over the expected charge, in exchange for quicker work.",
+            "3": "It describes what a customer offered to pay, rather than what remained after workshop costs."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "premium",
+            "hebrew": "תוספת תשלום"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What concrete bottleneck kept the dealer from accepting certain larger jobs?",
+        "options": [
+          "The entrance to the repair space was too narrow.",
+          "The dealer lacked an account system for recording quotations on longer jobs.",
+          "The proposed payment was too low to justify interrupting the repair of compact instruments.",
+          "The available working area was too small to operate the larger machines once installed."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The author identifies the doorway as the constraint.",
+          "distractors": {
+            "1": "The dealer had a record for requests and a separate record for sales; the constraint cited is physical.",
+            "2": "Some callers offered extra, and limited access rather than unwillingness to pay is the cause stated.",
+            "3": "The passage specifies the workshop doorway, rather than the size of the working space inside."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "bottleneck",
+            "hebrew": "צוואר בקבוק"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Perils of a Uniform Clock",
+    "paragraphs": [
+      "When a factory historian finds a record showing that machines were switched off at five in the afternoon, it seems reasonable to compare that time with a timetable showing a workers' train at ten past five. The apparent ten-minute interval might indicate whether workers could normally catch the train. The comparison is safe only if the sources use the same clock or share a stable time convention. In an industrial district undergoing a change in timekeeping, the two places might set their clocks by different signals. A ten-minute difference on paper could describe a shorter or much longer walk in practice.",
+      "The historical problem is subtler than converting one established time standard to another. A factory clock set by a foreman each week might drift between settings. The shift bell could sound whenever one operation ended, even though payroll always credited a fixed number of hours. A railway station might announce departures using the station clock while its public timetable rounded certain journey times. One setting did not necessarily have a single time for every purpose. Employees could know quite well how to coordinate their movements even where the surviving documents appear incompatible.",
+      "An investigator can seek occasions when both systems recorded the same event. If a delivery arrived at the gate just as a scheduled train left the siding, the corresponding entries might supply a point of comparison. Several such points are needed, because the difference between clocks need not be constant and an individual entry could have been written after the event. The comparison also requires evidence that the observations refer to the same event: a regular delivery could be mistaken for its predecessor if the date or contents were recorded carelessly.",
+      "Attention to timekeeping can lead to questions that were invisible when the times were taken at face value. A group of workers might negotiate a few extra minutes at the end of a shift by tying its closing bell to the afternoon train rather than asking the employer to shorten paid time. Such an arrangement, if independently documented, would show that a clock served as a social agreement as well as a measuring instrument. The task of the historian is to reconstruct enough of that agreement to understand what the recorded times meant to the people using them and which apparent differences in the record corresponded to differences in lived experience."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What warning about historical time records is developed throughout the passage?",
+        "options": [
+          "Recorded times need to be interpreted within the conventions and practices that produced them.",
+          "The recorded departure and closure times reveal how much paid work employees were able to negotiate.",
+          "Interpreting factory times requires converting every record to the railway's standard.",
+          "Disagreement between factory and station records is chiefly due to errors when recording similar deliveries."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Clock settings, payroll practices and coordination all affect the meaning of an entry.",
+          "distractors": {
+            "1": "That would require evidence of a particular arrangement, with the example offered conditionally.",
+            "2": "Both workplaces may use different clocks or conventions for different purposes, and neither supplies an automatic reference.",
+            "3": "Mistaken pairings are one risk in a method of comparison, not the central explanation of what recorded times mean."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "timekeeping",
+            "hebrew": "מדידת זמן"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why would several paired observations be better than a single pair when comparing the factory and station clocks?",
+        "options": [
+          "An offset could vary and an individual observation might have been entered late.",
+          "Repeated pairings could establish that deliveries and trains were normally arranged under a shared timetable.",
+          "They would show whether the time credited by payroll agreed with time measured at the station.",
+          "They might make it easier to estimate whether public timetables had rounded the length of particular journeys."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Both possibilities limit the evidentiary value of one apparent match.",
+          "distractors": {
+            "1": "A paired event can help estimate a difference without proving deliberate coordination.",
+            "2": "Credit in payroll is a distinct convention and comparing paired delivery and train entries does not directly test it.",
+            "3": "Rounding is a separate issue and the direct methodological advantage is accounting for drift or a late entry."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "drift",
+            "hebrew": "לסטות בהדרגה"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author view apparently incompatible times in the surviving factory records?",
+        "options": [
+          "As grounds for investigating local coordination and recording practices.",
+          "As discrepancies the published railway timetable can resolve.",
+          "As likely to reflect recording errors even when people coordinated successfully in practice.",
+          "As useful only after establishing that the recorded times can all be reduced to one fixed offset."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The conflict yields questions about how time was used and how people organised activity.",
+          "distractors": {
+            "1": "The timetable may round journey times, while factory and station practices differ by purpose.",
+            "2": "Different conventions can be accurately recorded, so a disagreement need not mean that someone made an error.",
+            "3": "The possibility of a drifting offset is itself meaningful and motivates additional comparisons."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "incompatible",
+            "hebrew": "בלתי תואם"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "In this context, what does taking a time “at face value” mean?",
+        "options": [
+          "Accepting the stated time without examining the conventions behind it.",
+          "Assuming one workplace's clock supplied a stable offset from another's.",
+          "Taking the time displayed on a physical clock rather than that given in a timetable.",
+          "Assuming the recorded value was rounded to the nearest minute."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "This reading is contrasted with reconstructing how the entry came to be used.",
+          "distractors": {
+            "1": "That is one possible mistake following a closer comparison; at face value refers more generally to relying on the number as written.",
+            "2": "The phrase concerns accepting a record uncritically, whatever its form.",
+            "3": "Rounding is something one might investigate rather than what it means to accept the time as stated."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "at face value",
+            "hebrew": "כפשוטו"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What does the passage propose as a possible synchronising event?",
+        "options": [
+          "A delivery reaching the factory gate as a train left the siding.",
+          "A delivery being recorded at the gate at the same moment that the foreman set the clock.",
+          "The station's scheduled departure occurring just as the factory bell sounded at the end of a shift.",
+          "A regularly scheduled train reaching the siding just as a delivery left the factory gate."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "That event is explicitly proposed as one that could leave entries in both systems.",
+          "distractors": {
+            "1": "The foreman might set a clock weekly, but the proposed pair links an arriving delivery with a departing train.",
+            "2": "A negotiated linkage of the bell and train is a separate hypothetical arrangement, rather than the concrete pairing suggested for comparing records.",
+            "3": "The directions of both movements are switched: the delivery arrives and the train leaves."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "siding",
+            "hebrew": "מסילת צד"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "A Wall That Moved on Paper",
+    "paragraphs": [
+      "The edge of an archaeological site is often drawn as a line around the area from which objects or structural remains have been recovered. That line may have a legal or administrative use, but it cannot always be read as a boundary that mattered to the inhabitants of the place. Artefacts can move through the action of flooding, animal burrows or later ploughing. A survey can also stop at the edge of a property, even though the structures it was detecting probably continue on the other side. The map records both previous activity and conditions under which modern work could proceed.",
+      "Imagine investigators examining a low wall beside an old track. In the first season they map six visible stones and suggest the wall marked the outer side of a yard. In the next season a landowner grants access beyond a fence. Newly surveyed stones make it possible to trace the wall farther than expected and show that it turns through an opening. The wall has not moved, but the tentative line around the yard now encloses a different space. The original plan is useful because it shows the evidence on which the earlier proposal rested and where the researchers had ceased looking.",
+      "The newer plan also needs an account of why the extension is interpreted as part of the same structure. Similar stone alone could be insufficient if the material is common across the area. Alignment, a related foundation depth and continuities in tool marks might jointly make a stronger case. Even then, the places where stones are absent need not be former entrances: they may reflect removal for later reuse. The difference between an observed stretch of masonry and a line inferred across a gap should be visible in the published drawing.",
+      "This approach does not prevent an agency from assigning a boundary for protection. It does make it possible to explain that the boundary refers to the scope of current knowledge or administration and could change as access improves. A more transparent plan can use different markings for survey limits, observed features, and lines that connect them provisionally. Such a map describes evidence at more than one level of certainty. A reader may then ask whether a discovery extends the known site, modifies the interpretation of a structure within it, or exposes limits of earlier fieldwork. Those are distinct changes, even if each one involves redrawing a line."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What main distinction does the author make about site maps?",
+        "options": [
+          "Survey limits and inferred features require separate treatment from directly observed remains.",
+          "Expanded access usually reveals that past residents used larger areas than protection agencies recognize.",
+          "Researchers should trace structural connections only where stones share material, alignment and depth.",
+          "A site's protective boundary should reflect the latest interpretation of the yard's original extent."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The passage concludes with a proposal to mark these three sources of lines distinctly.",
+          "distractors": {
+            "1": "The example shows why interpretations can change, with no general claim about a larger area of occupation.",
+            "2": "The factors can jointly strengthen a hypothesis, but the argument concerns how to represent several kinds of evidence and uncertainty.",
+            "3": "An administrative boundary can be assigned separately from a hypothesis about a historical yard."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "scope",
+            "hebrew": "היקף"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why would similarity of stone be weak evidence by itself that the newly surveyed section belonged to the wall?",
+        "options": [
+          "Separate structures in the area could have been made from the same commonly available material.",
+          "Different foundation depths would show that the stones were made from different types of material.",
+          "The stones may lack signs distinguishing a former doorway from a place where stone was reused.",
+          "Differences in working marks would prove that the visible stones had been removed from the wall for reuse."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Common stone alone does not establish a shared construction; other features can corroborate it.",
+          "distractors": {
+            "1": "Depth and material are independent clues, and a difference in one does not establish a difference in the other.",
+            "2": "That problem applies to interpreting a gap, rather than evaluating whether comparable stone indicates one structure.",
+            "3": "Working marks help judge continuity but do not themselves establish removal or reuse."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "alignment",
+            "hebrew": "יישור באותו קו"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author regard the first plan after the additional stones are found?",
+        "options": [
+          "As a record valuable for showing the earlier evidence and its limits.",
+          "As useful primarily because its inferred yard boundary still has priority over the second plan.",
+          "As a reliable description of the whole wall that is missing only a few newly surveyed stones.",
+          "As especially valuable for confirming that the first opening marked an entrance."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "It remains useful even when the proposed extent of the yard changes.",
+          "distractors": {
+            "1": "The older shape explains the initial hypothesis but no longer controls the current interpretation.",
+            "2": "The new line changes the inferred yard itself, so the original is not a complete account of the structure.",
+            "3": "The additional stones revealed a turn through an opening, and the text separately cautions that absent stone does not always mean an entrance."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "tentative",
+            "hebrew": "ראשוני ולא ודאי"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What is meant by connecting features “provisionally” in a published plan?",
+        "options": [
+          "Showing a plausible connection subject to revision when more evidence appears.",
+          "Using a connection just until a permanent boundary for protection is assigned.",
+          "Showing the most direct possible line between stones whose alignment has been verified.",
+          "Connecting only those remains observed in the most recent survey."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Inference across a gap is useful when its status remains clear.",
+          "distractors": {
+            "1": "The uncertainty concerns an inferred physical relationship and can persist even after an administrative boundary is fixed.",
+            "2": "A temporary inference may cross a gap, but provisional describes confidence, rather than straightness or confirmed alignment.",
+            "3": "The timing of observations is independent of whether the line connecting them is tentative."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "provisionally",
+            "hebrew": "באופן זמני הנתון לשינוי"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What changed between the two seasons in the hypothetical investigation?",
+        "options": [
+          "Researchers obtained permission to survey past a fence.",
+          "The team obtained permission to redraw the fence on a published site plan.",
+          "The landowner removed the fence, revealing six stones.",
+          "The researchers located the turn by undertaking a second survey of the original area beside the track."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Access beyond the former limit made an extension visible.",
+          "distractors": {
+            "1": "Access to land was granted; the fence itself was not the feature newly mapped for a permission change.",
+            "2": "The first six were already mapped, and access beyond the fence, rather than its removal, is the recorded change.",
+            "3": "The breakthrough came from surveying farther afield, beyond the former limit of access."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "landowner",
+            "hebrew": "בעל קרקע"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Work Done by a Refrain",
+    "paragraphs": [
+      "A recurring line in a poem can give a reader the impression that the poem regularly returns to a fixed point. The line may occupy the same position in each stanza and have exactly the same words on each appearance. Yet recurrence need not produce a repeated meaning. The clause may refer to a different person after a new speaker has entered the poem, or a word that sounded literal on first reading may acquire a figurative force. A refrain can therefore show how far the reader has travelled while appearing to repeat where the poem began.",
+      "Consider an invented poem in which the line “The gate is still open” ends three stanzas. The first describes a porter arriving to begin work and seeing a gate someone has neglected to shut. The second concerns a traveller who has almost given up hope of reaching the town before night. The same words now report a welcome opportunity. The final stanza is spoken years later by a person remembering an invitation they never accepted. There is little reason to suppose a physical gate remains open indefinitely. The line has become a way of voicing a wish about a lost opportunity. Its force depends on the physical gate the reader has already encountered without requiring that gate to exist in the final scene.",
+      "This example also explains why a refrain can be difficult to translate. A translator might find different target-language expressions for a careless opening, a fortunate opening and an imagined opportunity. Choosing those expressions could give each stanza an idiomatic line but weaken the comparison produced by repeating it. Using one line throughout may preserve the formal device only if the new phrasing is flexible enough to acquire several functions. Translators sometimes adapt a nearby phrase to create the necessary context rather than making each occurrence of the refrain independently exact.",
+      "The difficulty is not confined to translations. Critics who treat a line as a compact statement of the poem's theme can overlook its changes in function. By following the pronouns, scenes, and expectations around each appearance, they can recover part of the movement the repetition was designed to make audible. An adequate account of the device must therefore describe both what persists and what changes. Without a stable element to compare, the shifts might pass unnoticed; without the shifting frames, the stability would have much less to show."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What central idea about refrains does the author develop?",
+        "options": [
+          "Repeated wording can reveal changing significance as its context develops.",
+          "A refrain gains figurative force only after each previous occurrence has been read in a literal sense.",
+          "The chief challenge of a refrain is finding target-language equivalents for each occurrence.",
+          "A repeated line reveals the theme chiefly by giving the same meaning to scenes with different speakers."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The gate example shows one line acquiring different functions through the surrounding scenes.",
+          "distractors": {
+            "1": "Earlier and later uses can interact, but the argument makes no rule that all preceding uses must be literal.",
+            "2": "The translation problem illustrates a broader claim about the changing force of a stable line in any language.",
+            "3": "Changing scenes can shift the line's meaning rather than simply reapplying one settled idea."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "refrain",
+            "hebrew": "פזמון חוזר"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "What might be lost if a translator replaces the refrain with three independently idiomatic lines?",
+        "options": [
+          "The reader may no longer perceive the meaningful shifts through comparison of identical language.",
+          "The first two stanzas may no longer be understood as describing a literal gate.",
+          "The final stanza could lose its distinction between hope and regret even if the translated line clearly expresses regret.",
+          "The translator would have to give up using nearby phrases to clarify the meaning of each stanza."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Choosing local expressions could weaken the formal linkage of the scenes.",
+          "distractors": {
+            "1": "The separate equivalents could be idiomatic in each stanza while still accurately indicating a gate where appropriate.",
+            "2": "An independent translation could preserve each local meaning; what becomes harder to see is the relationship created by repeating the wording.",
+            "3": "Context can still be adapted; it is the stable shared line that would disappear."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "idiomatic",
+            "hebrew": "טבעי בשפה"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author portray the translator’s task?",
+        "options": [
+          "As a negotiation between local naturalness and the effect of recurrence.",
+          "As a choice between rewriting context and retaining exact wording.",
+          "As mainly a choice between the literal gate in the first two scenes and the figurative gate in the last.",
+          "As chiefly a search for wording that seems equally idiomatic in each stanza, even if the phrasing must vary."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The example compares several fluent wordings with a flexible shared one and allows contextual adjustment.",
+          "distractors": {
+            "1": "The translator can adapt nearby wording, and can preserve the device through a flexible equivalent rather than exact original words.",
+            "2": "The writer discusses three distinct local effects and the comparison produced by retaining one line across all of them.",
+            "3": "Local idiom matters, but independent phrasing risks weakening the formal comparison."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "acquire",
+            "hebrew": "לקבל או לרכוש"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “force” mean in the description of the last stanza’s line?",
+        "options": [
+          "Its expressive effect in the context of the poem.",
+          "The degree to which the final line dominates all the poem's other images.",
+          "The emphasis with which the last speaker pronounces the line.",
+          "The literal sense the refrain borrows from its earlier uses."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The word concerns what the repeated statement does for the reader.",
+          "distractors": {
+            "1": "The term concerns what the line conveys in that stanza, rather than its relative importance to other images.",
+            "2": "The expression of a wish comes from context and need not involve anything about vocal stress.",
+            "3": "The earlier physical gate informs the final effect without determining its literal meaning."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "force",
+            "hebrew": "עוצמה או תוקף"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Who benefits immediately from the open gate in the poem’s second stanza?",
+        "options": [
+          "A traveller who doubts they will reach the town in time.",
+          "The porter, whose work begins when they discover that the gate was not shut.",
+          "The person who recalls being asked to come through years earlier.",
+          "The person whose failure to close the gate is revealed at the beginning of the workday."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "For the traveller the open gate means a welcome opportunity.",
+          "distractors": {
+            "1": "The porter belongs to the first scene and the line there signals neglect, rather than an opportunity for the traveller.",
+            "2": "The remembered invitation is in the third scene, where the opening is figurative.",
+            "3": "That omission sets up the first scene, and the second focuses on a different person who welcomes the opening."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "traveller",
+            "hebrew": "נוסע"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Three Ways to Display a Meeting",
+    "paragraphs": [
+      "A committee meets to allocate a small grant. A secretary writes minutes identifying the motions and the votes, a reporter writes an account for a local newspaper, and a participant sends a letter to a friend. A later reader curious about the meeting may expect the documents to complement one another: where one text is brief, another supplies detail. In practice it is often more useful to notice that the documents divide the event differently. A proposal may count as a single item in the minutes, a moment in a long dispute for the reporter, and a painful exchange between acquaintances in the private letter.",
+      "Each format brings requirements that help explain these differences. The minutes establish which decision the committee has authority to carry out. They can leave out a hesitation that had no effect on the wording of an adopted motion. The reporter answers to a readership that may need to know why several otherwise unrelated groups were represented in the room. A private correspondent can assume the reader already understands those connections and concentrate on an allusion that mattered only to the two of them. The brevity of one account thus does not necessarily indicate that the writer noticed less.",
+      "Suppose the minutes say that a motion passed without opposition. The letter remarks that a member supported the motion only after an argument about its practical consequences. These claims can coexist if nobody voted against the final text. The newspaper's emphasis on controversy could likewise be justified by the exchanges that preceded the vote. Genuine conflicts between the sources remain possible. If the letter describes a negative vote on the final motion, an investigator would want to confirm that both texts refer to the same proposal and that the letter was written close enough to the event to reduce the possibility of confusion.",
+      "Rather than extracting all factual statements and treating their sources as interchangeable, historians can ask what a statement was meant to accomplish for its first audience. Some discrepancies become easier to resolve once the relevant units of action have been identified. Others become more significant because they persist across accounts written for distinct purposes. The value of assembling such material lies partly in the prospect of checking claims and partly in the opportunity to see why different participants considered different elements of the very same meeting worth recording."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What main argument does “Three Ways to Display a Meeting” present?",
+        "options": [
+          "Documents can structure the same event differently according to their audience and function.",
+          "The best account is usually the one that adds the most detail to an official record.",
+          "A discrepancy matters only when reports intended for the same audience contradict one another.",
+          "The chief value of combining records lies in using the private account to interpret the public ones."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The three formats divide attention and define the significant action differently.",
+          "distractors": {
+            "1": "The formats may organize the action differently, not merely provide varying amounts of the same information.",
+            "2": "Disagreement may become more significant when it persists across records serving distinct purposes.",
+            "3": "The comparison illuminates how all three records select material; the letter does not have blanket interpretive priority."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "interchangeable",
+            "hebrew": "ניתן להחלפה"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "How could a newspaper accurately report a dispute over a motion that the minutes say passed without opposition?",
+        "options": [
+          "Discussion could have been contentious even if nobody voted against the final wording.",
+          "The reporter could have presented opposition to a different proposal as disagreement about the motion.",
+          "The minutes could have recorded the earliest wording, before the committee changed it after the argument.",
+          "The letter could be reporting a negative vote that carried no practical effect because the motion still passed."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The minutes summarize the vote on the final motion. Earlier disagreement, even from a person who eventually supported the motion, can coexist with an unopposed final vote.",
+          "distractors": {
+            "1": "This is a possible error to check, not a way in which both descriptions of the same motion would be accurate.",
+            "2": "The minutes' function is to establish the adopted decision, and no recording of an earlier version is necessary.",
+            "3": "A negative vote would be a genuine discrepancy with a description of the final motion as unopposed."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "adopted",
+            "hebrew": "שהתקבל"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author treat potentially contradictory reports of a final negative vote?",
+        "options": [
+          "As a discrepancy that merits checking reference and timing before deciding what it establishes.",
+          "As an ordinary difference of emphasis, even if both accounts identify the same final motion and vote.",
+          "As grounds for preferring the letter, which can include hesitations left out of the official record.",
+          "As grounds for preferring the official record if the private author spent more time describing personalities."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The text calls for confirming the proposal and asking when the letter was written.",
+          "distractors": {
+            "1": "The author accepts apparent conflicts over discussion, but an actual negative vote on the same final motion could contradict the minutes.",
+            "2": "A hesitation before voting and a negative vote on the adopted motion are different claims with different implications.",
+            "3": "The recommended checks concern the proposal referred to and the time of writing, rather than how much personal detail the letter supplies."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "persist",
+            "hebrew": "להתמיד"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “allusion” mean in the description of the letter?",
+        "options": [
+          "An indirect reference understandable to someone with relevant background knowledge.",
+          "Private information stated explicitly for a reader's benefit.",
+          "An unsupported suggestion about whether a decision was lawful.",
+          "A brief explanation of why several groups attended."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The correspondent can rely on facts or relationships the friend already knows.",
+          "distractors": {
+            "1": "A shared reference can work indirectly precisely because it does not need to be spelled out.",
+            "2": "The passage is discussing a meaningful reference shared by correspondent and recipient, rather than questioning a motion's authority.",
+            "3": "That describes background a journalist may need to add, whereas the letter relies on its reader already knowing the connection."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "allusion",
+            "hebrew": "רמיזה"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What primary function of minutes does the second paragraph identify?",
+        "options": [
+          "They establish the decision the committee may implement.",
+          "They explain why each group was represented.",
+          "They preserve the discussion required to explain why a member changed their position.",
+          "They establish when a debate acquired enough public interest to be reported."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The decision's adopted wording matters for the authority conferred.",
+          "distractors": {
+            "1": "Explaining the presence of groups is an example of contextual work done by the newspaper.",
+            "2": "They may omit hesitation that had no effect on the adopted wording.",
+            "3": "The minutes establish the decision that can be implemented, not the threshold for news coverage."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "authority",
+            "hebrew": "סמכות"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Sound of Another Occupant",
+    "paragraphs": [
+      "An acoustic survey of a housing block might begin by measuring levels in corridors, kitchens, and bedrooms. Numerical readings reveal where the sound of conversation travels or where a lift motor interrupts sleep. By themselves, however, they are an incomplete record of what residents experience. Sound can announce the presence of another person before it causes substantial discomfort as measured by volume. A set of keys at the end of a corridor may be insignificant to an engineer taking a short reading and quite useful to someone who recognises the arrival of a neighbour.",
+      "The interpretation of such sounds changes with routine. A resident who can identify a familiar set of footsteps might regard those footsteps as evidence that someone is available to help. The same resident could hear a different sequence at an unusual hour and go to the door to investigate. This distinction does not require either sound to have changed in intensity. Its significance depends on the sequence, the hour, and whether the listener has reason to expect the person it seems to announce. An inquiry that combines meters with residents' descriptions can identify situations where a device registers little change while social experience changes markedly.",
+      "A designer might be tempted to preserve all the minor sounds that residents reportedly value. The interviews need to be read more closely than that. Some residents regard hearing the corridor as reassuring because it is the only way to tell whether anyone is nearby. Others find the same transmissions intrusive because they make it hard to speak privately. Improving one feature, such as the clarity of a doorbell or the availability of a shared room, may supply reassurance without requiring a wall to transmit ordinary conversation. The relevant trade-off concerns ways of obtaining useful information rather than a choice between total silence and total exposure.",
+      "An adequate survey can therefore ask residents to distinguish sounds they need, sounds they tolerate, and sounds whose effect depends on when they occur. It can compare these descriptions with measurements and investigate where they diverge. The resulting plan will still need reliable acoustic standards, particularly where sustained noise poses a measurable burden. But it will also describe conditions under which a faint sound does work that the numerical record cannot reveal. What matters in such cases is not merely the energy reaching an ear; it is the listener's ability to make sense of the event that produced it."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What is the passage’s principal claim about housing acoustics?",
+        "options": [
+          "A useful account of residential sound considers what listeners learn from it as well as its measured intensity.",
+          "Residents' reports can be used to estimate sound levels in places where instruments take only short readings.",
+          "Sounds indicating a neighbor's presence should normally be prioritized over sounds that threaten privacy.",
+          "Variation in apparently similar corridor sounds usually means the acoustic survey missed a measurable difference."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The examples link faint cues to interpretation, while acoustic standards remain relevant.",
+          "distractors": {
+            "1": "The author combines measurements and descriptions to learn what sound conveys, rather than using descriptions merely as estimates of intensity.",
+            "2": "The passage discusses ways to provide useful cues that respect privacy without ranking one interest above the other in every situation.",
+            "3": "The same intensity can hold different significance because of timing and a listener's expectations."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "acoustics",
+            "hebrew": "אקוסטיקה"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why might the author favour improving a doorbell before accepting transmission of ordinary conversation?",
+        "options": [
+          "It can make presence perceptible while reducing the privacy cost of hearing neighbours’ speech.",
+          "The doorbell can record the hours in which sustained sound is most likely to interrupt sleep.",
+          "A more distinct doorbell can convey conversation more clearly without raising readings elsewhere in the building.",
+          "The improved signal may make a shared room unnecessary for people who want to speak privately."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The doorbell is offered as another way to provide reassuring information.",
+          "distractors": {
+            "1": "It may signal presence, but the passage does not propose using it to track long noise exposures.",
+            "2": "The point is supplying useful information by an alternative to transmitting conversation.",
+            "3": "Both improvements are offered as possibilities for conveying reassurance; no claim establishes that one makes the other unnecessary."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "transmission",
+            "hebrew": "העברה"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the writer regard subjective reports about corridor sounds?",
+        "options": [
+          "As context-sensitive evidence whose differences can suggest better design questions.",
+          "As most useful when listeners agree on the source.",
+          "As a way of determining which existing corridor sounds designers should preserve as they are.",
+          "As reports that matter chiefly if a meter confirms a corresponding increase in level."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The author distinguishes reassurance from intrusion and asks how useful cues might be preserved.",
+          "distractors": {
+            "1": "Disagreement can itself reveal how different routines and expectations change the sound's significance.",
+            "2": "The author warns that hearing the same sounds can reassure some residents and intrude on others, and considers replacement cues.",
+            "3": "Differences in meaning can matter even when a device registers little change."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "intrusive",
+            "hebrew": "פולשני"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “sustained” imply about noise in the conclusion?",
+        "options": [
+          "Continuing for a substantial period.",
+          "Recurring at intervals associated with a regular routine.",
+          "Prominent enough to obscure quieter sounds nearby.",
+          "Constant in intensity regardless of when it occurs."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Duration can contribute to a measurable burden.",
+          "distractors": {
+            "1": "A repeated pattern can be intermittent; the term in the conclusion is about duration.",
+            "2": "Sound can mask another sound without continuing for long, and masking is not at issue here.",
+            "3": "The duration of noise and whether its level stays constant are separate issues."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "sustained",
+            "hebrew": "ממושך"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "Which two cues illustrate how residents recognize someone’s presence in the first half of the passage?",
+        "options": [
+          "Keys and footsteps.",
+          "Footsteps and the sound of a lift motor.",
+          "Keys and a clearly audible doorbell.",
+          "The sound of conversation and the opening of a shared room."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The first two paragraphs contrast the social meaning of those cues with meter readings.",
+          "distractors": {
+            "1": "Footsteps signal someone's presence, while the lift motor illustrates a disturbance measured by instruments.",
+            "2": "Keys are an observed cue. The clearer doorbell is a suggested design alternative, not the second cue illustrated in the first half.",
+            "3": "Conversation is an example of transmitted sound and a shared room is a design feature, but neither supplies the second illustrated clue of footsteps."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "footsteps",
+            "hebrew": "צעדים"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Stage Directions for an Empty Room",
+    "paragraphs": [
+      "Readers of a printed play often treat stage directions as instructions from the playwright. Italic lines indicate that a door closes, that somebody crosses the room, or that a speaker waits before answering. For actors and designers these directions can provide practical guidance. For historians an additional question arises: who put the directions in that form, and what did that person expect them to do? A direction may preserve an authorial intention, record a decision made in rehearsal, or have been written after a production to help other companies stage the work.",
+      "Consider a comedy preserved in two fictitious documents. A manuscript used in rehearsal marks the point where a character becomes aware of a listener behind a screen. The first printed edition places that recognition earlier and supplies a direction for the character to move away from the screen. Moving away can lead an audience to infer knowledge before the manuscript’s preferred moment. The difference is small on the page but can alter which subsequent remarks seem accidental and which appear calculated. An editor who combines both versions without comment might unintentionally produce a third dramatic sequence in which the character's knowledge changes more than once.",
+      "Physical evidence can help explain one change without settling its authority. A plan of the original theatre may show that the screen could not cover a full-sized actor from some seats. A performer might therefore have moved in a direction that kept the fiction plausible for the audience. A later company, acting in a different room, could have no need for the same adjustment. The note is valuable evidence of one performance problem even if its usefulness as an instruction depends on architecture. Dating the direction may require a comparison of type, paper and annotations rather than a judgment about which wording seems dramatically better.",
+      "An edition prepared for readers can make these distinctions visible by explaining where a direction appears and what dramatic effect its placement might produce. If the main text gives only one version, the alternatives can remain accessible in the notes. Such an account cannot recover every movement made on a particular evening, and it need not forbid a modern performer from devising a new solution. It invites a reader to consider the surviving material as traces of decisions taken at several stages. A script can offer directions for an imagined stage while bearing marks left by the very particular rooms in which it has already worked."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What distinction about stage directions drives the author’s argument?",
+        "options": [
+          "A direction’s significance can depend on who added it, when, and for what production conditions.",
+          "The placement that produces the clearest dramatic effect is the best guide to whether a direction originated with the playwright.",
+          "Notes taken after a performance are primarily valuable as fixed instructions for future productions.",
+          "Editors can reconstruct a play's intended staging by resolving the disagreements between its earliest versions."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The text distinguishes intentions, rehearsal decisions and publication guidance and traces the effects of those origins.",
+          "distractors": {
+            "1": "The passage separates artistic judgment from evidence used to attribute or date an instruction.",
+            "2": "A note can document a specific earlier problem without binding another company in a different space.",
+            "3": "One version can be printed while alternatives remain available; the text does not promise a single recoverable intended staging."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "authorial",
+            "hebrew": "של המחבר"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "What would be a risk of silently combining both versions of the screen scene?",
+        "options": [
+          "The character might appear to acquire the same knowledge at incompatible points in the resulting sequence.",
+          "The movement away could make the audience overlook whether the screen conceals the listener from every seat.",
+          "The printed instruction could make the character's calculated remarks seem accidental throughout the scene.",
+          "The final version might imply a deliberate change in staging by the playwright before rehearsals began."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The author warns that unmarked combination can create a third, internally problematic sequence.",
+          "distractors": {
+            "1": "The visibility issue is plausible staging context, but the textual risk is conflicting points of recognition rather than the audience overlooking architecture.",
+            "2": "An earlier awareness can have the opposite effect, making some later remarks appear knowing sooner.",
+            "3": "Conflicting documents do not establish who made the change or when; their combination can create a sequence absent from either text."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "calculated",
+            "hebrew": "מחושב"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the author assess the theatre plan as evidence?",
+        "options": [
+          "As useful for explaining a choice in one production, with limited bearing on its authority elsewhere.",
+          "As enough to show that the manuscript version was initially devised for a different room.",
+          "As a way to determine whether the printed movement should be kept in productions that use the same kind of screen.",
+          "As a way of dating the printed instruction more precisely than a study of the documents themselves."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Sight lines motivate an adjustment whose relevance depends on the architecture.",
+          "distractors": {
+            "1": "A theatre plan can show an optical constraint but does not establish the manuscript's setting or origins.",
+            "2": "The rest of the room and its sightlines matter, so a visually similar prop alone is insufficient.",
+            "3": "An account of sightlines can explain a movement; dating may require examining type, paper, or annotations."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "authority",
+            "hebrew": "סמכות"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “placement” refer to in an editor’s explanation of a direction?",
+        "options": [
+          "The point in the script’s unfolding action where the instruction appears.",
+          "The position to which the performer is directed to move.",
+          "The document or edition in which the instruction is found.",
+          "The surface where a handwritten note was added to a manuscript."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Its relation to nearby dialogue affects when a character seems to know something.",
+          "distractors": {
+            "1": "A character's position is part of the instruction itself, but placement here asks where the direction occurs in the dramatic sequence.",
+            "2": "The source and the point in the action are distinct features an editor can describe.",
+            "3": "The discussion concerns the dramatic effect of timing, not which part of a physical document carries the note."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "placement",
+            "hebrew": "מיקום"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What architectural constraint does the theatre plan suggest in the example?",
+        "options": [
+          "People in some seats might still see a person behind the screen.",
+          "The actor moving away could appear to recognize the listener too late from the seats nearest the stage.",
+          "From several seats, the screen blocked views of the character's approach.",
+          "The screen was too close to the actor for their movement to be seen clearly from the rear of the room."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The screen was not enough to conceal a full-sized actor from every angle.",
+          "distractors": {
+            "1": "The plan suggests a visibility problem for an actor supposedly hidden by the screen, not a delay in recognition associated with specific seats.",
+            "2": "The possible problem was insufficient concealment behind the screen, not an obstructed view of the approaching character.",
+            "3": "No distance from the screen or particular seating area is specified; the cited problem is that concealment could fail for some spectators."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "screen",
+            "hebrew": "מחיצה או פרגוד"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Returning a Name to Public Use",
+    "paragraphs": [
+      "A place name can seem like a simple label until a public body proposes changing one. Supporters may speak of recovering a neglected history; opponents may say that the familiar wording makes the place easier to find. Even when the proposal involves restoring an older name, recovery is seldom a single act. A sign can be replaced overnight while business addresses, timetables, and the habits of speakers continue to change at different speeds. The name exists in many practical settings, and people update those settings according to differing concerns.",
+      "A small coastal town in a hypothetical study restored an earlier name to a public landing. The first new sign gave only the restored wording. Some residents were pleased to see it in an official place but found that visitors looking for the landing under the familiar name could not match the sign to printed directions. The council then displayed both names for an interim period and asked local institutions to use the paired wording in guides. The goal of pairing was to keep references usable while people encountered the restored name through ordinary travel and communication, rather than to settle whose preferred label was correct.",
+      "A researcher following the change compared printed guides, public announcements, and casual directions exchanged at the landing. The sources tracked different kinds of uptake. A timetable could adopt the new wording after one editorial decision, while a person's active vocabulary might change gradually after repeated encounters with the sign. Conversely, some speakers could begin using the older name before an institution renewed any printed information. Counting appearances in guides alone would therefore tell a researcher more about publication decisions than about how familiar the restored name had become in everyday conversation.",
+      "The difficulties suggest possible criteria for judging the transition. If the objective is to make a historical name publicly visible, a stable sign and consistent guide wording may achieve much of it. If the objective also includes routine spoken use, another kind of evidence will be needed. Continued use of the former label need not show that the change has failed: both names may become familiar enough to orient people with different experience of the landing. The eventual outcome can embody a new distribution of meanings rather than a complete substitution. That distinction matters because it tells a council which aspects of the change it can implement directly and which depend on practices it can influence only indirectly."
+    ],
+    "questions": [
+      {
+        "kind": "main",
+        "prompt": "What overall distinction does the author make about restoring a place name?",
+        "options": [
+          "Official display can be changed directly, while routine use develops through varied practices.",
+          "A restored name is usually adopted in conversation before the institutions responsible for printed references catch up.",
+          "A brief period of paired naming is sufficient to ensure that a historical label becomes the ordinary spoken one.",
+          "The success of a restoration depends mainly on consistent spelling across signs and printed guides."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The text separates signs and guides from the gradual or uneven changes in speech.",
+          "distractors": {
+            "1": "Either order can occur, so the broader distinction is about forms of uptake rather than a universal sequence.",
+            "2": "Pairing can aid orientation and visibility, but evidence of routine spoken use still needs to be gathered.",
+            "3": "That can meet the aim of public visibility, while everyday use requires different evidence."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "restoration",
+            "hebrew": "השבה"
+          }
+        ]
+      },
+      {
+        "kind": "inference",
+        "prompt": "Why would a new name appearing in every official guide be insufficient evidence of common spoken use?",
+        "options": [
+          "Guide editors can change wording through decisions that do not establish the habits of individual speakers.",
+          "Official guides probably continue to use the old wording until visitors request an update.",
+          "Regular visitors may use a different name because councils normally install new signs after guides have been printed.",
+          "People who read different editions may not know which name appears on the new sign."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The third paragraph draws precisely this distinction between publication and active vocabulary.",
+          "distractors": {
+            "1": "The question stipulates that the guides already changed, and the passage allows an editor to act before common usage changes.",
+            "2": "The passage identifies no customary order of publication and installation that would account for different use.",
+            "3": "This may affect orientation, but updating printed guides does not show what people actually say in conversation, even when they know the new sign."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "uptake",
+            "hebrew": "אימוץ בפועל"
+          }
+        ]
+      },
+      {
+        "kind": "tone",
+        "prompt": "How does the writer view the council's interim use of both names?",
+        "options": [
+          "As a practical way to preserve orientation while the restored name becomes familiar.",
+          "As a compromise aimed chiefly at deciding which name has the stronger historical claim.",
+          "As an attempt to encourage institutions to keep the familiar name in use indefinitely.",
+          "As a method for tracking how widely the older name is already used in conversation."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "Pairing helped visitors make connections and gave opportunities to encounter the restored form.",
+          "distractors": {
+            "1": "The pairing keeps both references practical during transition rather than adjudicating claims to either name.",
+            "2": "The proposal was temporary and the goal was to expose people to the restored wording while helping them find the site.",
+            "3": "Paired signs are an intervention in orientation; observation of spontaneous directions is a separate measure of spoken uptake."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "interim",
+            "hebrew": "זמני"
+          }
+        ]
+      },
+      {
+        "kind": "vocabulary",
+        "prompt": "What does “substitution” mean in the final paragraph’s description of the possible outcome?",
+        "options": [
+          "Replacement of one label by another.",
+          "Continued use of both names.",
+          "Addition of the restored wording to official signs and materials.",
+          "Gradual spread of the restored name through ordinary conversation."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The author contrasts coexistence in different uses with complete replacement.",
+          "distractors": {
+            "1": "Coexistence is offered as a possible outcome other than wholesale replacement.",
+            "2": "Such an addition alone can leave existing forms intact, whereas substitution involves one label taking another's place.",
+            "3": "Spoken uptake can grow while both forms persist, and does not in itself imply displacement."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "substitution",
+            "hebrew": "החלפה"
+          }
+        ]
+      },
+      {
+        "kind": "detail",
+        "prompt": "What specific mismatch arose after the first replacement sign was installed?",
+        "options": [
+          "Visitors with directions using the familiar name could not match them to the new sign.",
+          "Visitors recognized the restored wording from guides but were met with signs using only the familiar name.",
+          "The paired wording confused visitors who had learned only one name for the landing.",
+          "Local institutions had published directions using both forms while the council gave preference to the familiar one."
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "correct": "The first sign displayed only the restored wording.",
+          "distractors": {
+            "1": "The signs changed first in this example, while some printed directions still used the familiar name.",
+            "2": "The confusion came from the first single-name sign, and displaying both names was the response.",
+            "3": "The council's first sign used the restored wording; institutions were asked to pair the names only afterward."
+          }
+        },
+        "keyVocabulary": [
+          {
+            "term": "mismatch",
+            "hebrew": "חוסר התאמה"
+          }
+        ]
+      }
+    ]
+  }
+]

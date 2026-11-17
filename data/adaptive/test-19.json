@@ -1,0 +1,456 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "To ____ the bridge repairs, residents raised enough money to cover the cost of materials and labor.",
+      "options": [
+        "fund",
+        "estimate",
+        "negotiate",
+        "commission"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Providing money to cover the work is funding it.",
+        "distractors": {
+          "1": "An estimate calculates the likely costs but does not pay them.",
+          "2": "The money pays for the repairs; the sentence does not describe bargaining over them.",
+          "3": "Commissioning means authorizing someone to do the work, which is distinct from raising the money to pay for it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "fund",
+          "hebrew": "לממן"
+        }
+      ],
+      "id": "test-19-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The architect removed the tall hedges because their branches would ____ the lower windows from anyone standing on the path.",
+      "options": [
+        "outline",
+        "obscure",
+        "surround",
+        "imitate"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The branches would hide the windows from view.",
+        "distractors": {
+          "0": "Bringing out the edges of the windows would not explain the obstruction.",
+          "2": "The branches interfere with a line of sight; a hedge need not enclose a window to do that.",
+          "3": "The branches would not reproduce the shape or appearance of the windows."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "obscure",
+          "hebrew": "להסתיר; לטשטש"
+        }
+      ],
+      "id": "test-19-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The claim was declared ____ because the rule it relied on had expired before the contract was signed.",
+      "options": [
+        "premature",
+        "ambiguous",
+        "incomplete",
+        "invalid"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The expired rule could no longer provide a valid basis for the claim.",
+        "distractors": {
+          "0": "The problem is that the contract came after expiration, not that the claim was made too early.",
+          "1": "The problem is the loss of a legal basis rather than the meaning of the claim being unclear.",
+          "2": "The issue is the timing of the rule's expiration rather than a missing part of the claim."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "invalid",
+          "hebrew": "לא תקף"
+        }
+      ],
+      "id": "test-19-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The researcher described the link between the two events as ____: it rested on a single unverified report and disappeared when that report was excluded.",
+      "options": [
+        "coincidental",
+        "inconsistent",
+        "tenuous",
+        "negligible"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "A connection based on such limited and uncertain evidence is weak.",
+        "distractors": {
+          "0": "A coincidence would explain why events appeared connected; the evidence only shows that the claimed link is poorly supported.",
+          "1": "The sentence does not give a series of conflicting reports; it gives one weak basis for a conclusion.",
+          "3": "Negligible suggests the effect is empirically tiny, but the evidence here does not establish the size of any real effect."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "tenuous",
+          "hebrew": "רעוע; חלש"
+        }
+      ],
+      "id": "test-19-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "Nadia used a sharp ____ to slice the loaf while it was still warm.",
+      "options": [
+        "fork",
+        "plate",
+        "spoon",
+        "knife"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "A knife has a blade that can divide bread into slices.",
+        "distractors": {
+          "0": "A fork can hold food in place but does not slice a loaf cleanly.",
+          "1": "A plate holds food rather than cuts it.",
+          "2": "A spoon can scoop food but is not suited to making slices."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "knife",
+          "hebrew": "סכין"
+        }
+      ],
+      "id": "test-19-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The observer used a notebook to ____ the exact time of each bird sighting so the information would be available later.",
+      "options": [
+        "record",
+        "predict",
+        "recall",
+        "arrange"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The observer wrote the times down to preserve the information.",
+        "distractors": {
+          "1": "The observer noted times when the sightings occurred rather than forecasting future sightings.",
+          "2": "Recollection is remembering times; the notebook preserves a written record.",
+          "3": "The times are noted as they occur rather than scheduled by the observer."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "record",
+          "hebrew": "לתעד"
+        }
+      ],
+      "id": "test-19-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "The instruments at both ends of the tunnel ____ checked every morning before the first train.",
+      "options": [
+        "are",
+        "being",
+        "has been",
+        "is"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The plural subject instruments takes are to complete the regular passive are checked.",
+        "distractors": {
+          "1": "Being alone is nonfinite and leaves the sentence without a main verb.",
+          "2": "Has is singular and cannot agree with instruments.",
+          "3": "Is does not agree with instruments."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "instrument",
+          "hebrew": "מכשיר"
+        }
+      ],
+      "id": "test-19-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Two members of the team denied ____ the results before the deadline.",
+      "options": [
+        "that seeing",
+        "having seen",
+        "to have seen",
+        "have saw"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Deny takes a gerund phrase, with having seen placing the seeing before the denial.",
+        "distractors": {
+          "0": "That requires a full clause with a subject and finite verb.",
+          "2": "Deny does not take a to-infinitive in this construction.",
+          "3": "Have has the wrong complement after denied, and the participle is seen."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "deny",
+          "hebrew": "להכחיש"
+        }
+      ],
+      "id": "test-19-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The soil here contains so much clay ____ the surface remains slippery for days after rain.",
+      "options": [
+        "which",
+        "so as",
+        "that",
+        "in case of"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "So much is followed by a that clause expressing its result.",
+        "distractors": {
+          "0": "Which would need an appropriate noun referent and does not complete so much.",
+          "1": "So as requires a to-infinitive, not a following finite clause.",
+          "3": "In case of cannot take this finite clause or express the stated consequence."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "slippery",
+          "hebrew": "חלקלק"
+        }
+      ],
+      "id": "test-19-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The paintings are believed ____ in the same workshop, even though they bear different signatures.",
+      "options": [
+        "to have making",
+        "to have been made",
+        "having been made",
+        "that they made"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The passive reporting construction are believed can take a perfect passive infinitive.",
+        "distractors": {
+          "0": "After have, a participle is required; the paintings also receive the action.",
+          "2": "The construction needs an infinitive after are believed, not a gerund.",
+          "3": "A that clause would need an impersonal expression such as it is believed, and they made is active."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "bear",
+          "hebrew": "לשאת"
+        }
+      ],
+      "id": "test-19-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "All measurements were ____ at the same hour each day to limit the effect of changing temperatures.",
+      "base": "take",
+      "answers": [
+        "taken"
+      ],
+      "explanation": "Taken is the past participle of take and completes the passive.",
+      "id": "test-19-word-1"
+    },
+    {
+      "prompt": "The proposed change would be ____ because the original material would have to be destroyed.",
+      "base": "reverse",
+      "answers": [
+        "irreversible"
+      ],
+      "explanation": "Irreversible means that the change could not later be undone.",
+      "id": "test-19-word-2"
+    },
+    {
+      "prompt": "The width was measured ____ to the nearest tenth of a millimeter.",
+      "base": "precise",
+      "answers": [
+        "precisely"
+      ],
+      "explanation": "Precisely is the adverb referring to the degree of exactness in the measurement.",
+      "id": "test-19-word-3"
+    },
+    {
+      "prompt": "The engineers measured the ____ of the new heating system by comparing its output with its electricity use.",
+      "base": "efficient",
+      "answers": [
+        "efficiency"
+      ],
+      "explanation": "Efficiency names the relationship between useful output and the energy consumed.",
+      "id": "test-19-word-4"
+    }
+  ],
+  "writing": "Should local news organizations devote more space to solutions to community problems? Explain your position.",
+  "listening": {
+    "type": "continuation",
+    "clips": [
+      {
+        "context": "Listen to part of a lecture on planning a footbridge.",
+        "transcript": "A steel footbridge was inexpensive to build but required frequent repainting in damp weather. An alternative design cost more initially and needed less upkeep. A planner looking for the cheaper option over twenty years needs to compare",
+        "audio": "/listening/continuation-8-1.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about bridge costs.",
+            "options": [
+              "construction and maintenance costs together",
+              "only the two original construction prices",
+              "the amount of steel left after building",
+              "the number of visitors in the first month"
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "Initial and recurring expenses both contribute to a long-term comparison.",
+              "distractors": {
+                "1": "Upfront prices would ignore repainting and other maintenance.",
+                "2": "Unused material does not answer the total cost question.",
+                "3": "Visitor counts are not the costs being weighed."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "upkeep",
+                "hebrew": "תחזוקה"
+              }
+            ],
+            "id": "test-19-audio-1-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on reading a graph.",
+        "transcript": "A report showed that the number of journeys by bicycle had increased. It also reported a much larger increase in journeys by all forms of transport. It is possible, therefore, that the proportion made by bicycle actually",
+        "audio": "/listening/continuation-8-2.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about transport.",
+            "options": [
+              "matched the total number of journeys",
+              "proved that travel was generally declining",
+              "decreased",
+              "excluded other modes from the study"
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "If the total grew faster than the bicycle count, bicycles may account for a smaller share.",
+              "distractors": {
+                "0": "A proportion is a share of the total rather than the entire count.",
+                "1": "The report says total journeys increased.",
+                "3": "The wider total includes other forms of transport."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "proportion",
+                "hebrew": "שיעור יחסי"
+              }
+            ],
+            "id": "test-19-audio-2-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on using letters as evidence.",
+        "transcript": "Three letters from the same week describe empty shops in the town center. All three were addressed to one supplier and asked for more deliveries. A historian should consider whether the writers emphasized shortages because they wanted to",
+        "audio": "/listening/continuation-8-3.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the letters.",
+            "options": [
+              "keep suppliers out of the town center",
+              "persuade the supplier to send goods",
+              "explain why demand had already collapsed",
+              "prevent the supplier from learning about shortages"
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "Requests for more deliveries give the authors a motive to stress the shortage.",
+              "distractors": {
+                "0": "The letters invite more supply rather than asking the recipient to stay away.",
+                "2": "A shortage does not establish collapsing demand.",
+                "3": "The authors explicitly discussed empty shops and did not try to conceal them."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "emphasize",
+                "hebrew": "להדגיש"
+              }
+            ],
+            "id": "test-19-audio-3-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on comparing microscope images.",
+        "transcript": "The first microscope image showed several grains with sharp edges. In the second image, taken at a lower magnification, the edges looked smooth. Before concluding that the grains themselves had changed, a researcher should photograph them",
+        "audio": "/listening/continuation-8-4.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the images.",
+            "options": [
+              "at an even lower magnification",
+              "with their edges removed",
+              "only after changing their composition",
+              "under comparable viewing conditions"
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "A comparison should control the imaging conditions before attributing an appearance change to the object.",
+              "distractors": {
+                "0": "Further lowering magnification preserves rather than resolves the mismatch.",
+                "1": "Removing edges would change what the researcher wants to compare.",
+                "2": "Changing the composition would create exactly the physical difference under investigation."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "magnification",
+                "hebrew": "הגדלה"
+              }
+            ],
+            "id": "test-19-audio-4-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      }
+    ]
+  }
+}

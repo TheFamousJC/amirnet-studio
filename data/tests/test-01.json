@@ -1,0 +1,996 @@
+{
+  "id": "test-01",
+  "number": 1,
+  "bankVersion": 2,
+  "title": "The Ledger Beneath the Street / The Sideways View of Rain",
+  "sections": [
+    {
+      "id": "test-01-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "The museum recorded a sharp ____ in weekday attendance after the direct bus service was withdrawn.",
+          "options": [
+            "delay",
+            "rise",
+            "gap",
+            "decline"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“decline” means decrease in amount or level. Fewer people visited after the transport change.",
+            "distractors": {
+              "0": "“delay” means additional waiting time before an event. The clue is that fewer people visited after the transport change.",
+              "1": "“rise” means increase in amount or level. The clue is that fewer people visited after the transport change.",
+              "2": "“gap” means difference or separation between two things. The clue is that fewer people visited after the transport change."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "decline",
+              "hebrew": "ירידה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-01-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "The river model uses this morning's rainfall to ____ how high the water will rise tomorrow.",
+          "options": [
+            "record",
+            "estimate",
+            "observe",
+            "predict"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“predict” means state what is expected to happen. Tomorrow's river level is a future outcome.",
+            "distractors": {
+              "0": "“record” means store information for later use. The clue is that tomorrow's river level is a future outcome.",
+              "1": "“estimate” means calculate an approximate value. The clue is that tomorrow's river level is a future outcome.",
+              "2": "“observe” means watch or examine directly. The clue is that tomorrow's river level is a future outcome."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "predict",
+              "hebrew": "לחזות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-01-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "A technician had to ____ the trial data from a restricted drive to the secure server before reviewers could access them.",
+          "options": [
+            "preserve",
+            "transfer",
+            "discard",
+            "alter"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“transfer” means move something from one place or system to another. The data must move between two storage systems.",
+            "distractors": {
+              "0": "“preserve” means protect something from loss or damage. The clue is that the data must move between two storage systems.",
+              "2": "“discard” means throw something away because it is no longer useful. The clue is that the data must move between two storage systems.",
+              "3": "“alter” means change the form, nature, or appearance of something. The clue is that the data must move between two storage systems."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "transfer",
+              "hebrew": "להעביר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-01-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "Independent publishers often ____ for a limited number of spaces on bookshop shelves during the autumn season.",
+          "options": [
+            "differ",
+            "cooperate",
+            "compete",
+            "correspond"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“compete” means seek the same goal or resource as others. Multiple publishers seek the same scarce shelving space.",
+            "distractors": {
+              "0": "“differ” means be unlike or distinct in some respect. The clue is that multiple publishers seek the same scarce shelving space.",
+              "1": "“cooperate” means work together to reach a shared goal. The clue is that multiple publishers seek the same scarce shelving space.",
+              "3": "“correspond” means match or be equivalent. The clue is that multiple publishers seek the same scarce shelving space."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "compete",
+              "hebrew": "להתחרות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-01-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The gradual ____ from small workshops to factory production changed when and where artisans could sell their wares.",
+          "options": [
+            "consensus",
+            "restriction",
+            "incentive",
+            "transition"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“transition” means process of changing from one state to another. The sentence describes a shift from one economic system to another.",
+            "distractors": {
+              "0": "“consensus” means general agreement among members of a group. The clue is that the sentence describes a shift from one economic system to another.",
+              "1": "“restriction” means rule or condition that limits behaviour. The clue is that the sentence describes a shift from one economic system to another.",
+              "2": "“incentive” means anything that encourages someone to take an action. The clue is that the sentence describes a shift from one economic system to another."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "transition",
+              "hebrew": "מעבר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-01-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "A shortage of storage space was already delaying the excavation, and a two-week transport strike could only ____ the problem.",
+          "options": [
+            "compound",
+            "curtail",
+            "foster",
+            "offset"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“compound” means make an existing problem worse by adding to it. The added disruption worsens an existing delay.",
+            "distractors": {
+              "1": "“curtail” means reduce the extent or duration of something. The clue is that the added disruption worsens an existing delay.",
+              "2": "“foster” means encourage the development of something. The clue is that the added disruption worsens an existing delay.",
+              "3": "“offset” means balance or counteract an effect. The clue is that the added disruption worsens an existing delay."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "compound",
+              "hebrew": "להחריף"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-01-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-01-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "The budget committee had enough money for both projects, but it still had to decide how much to ____ to each one.",
+          "options": [
+            "attribute",
+            "allocate",
+            "refund",
+            "disclose"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The decision concerns how to divide an available amount between projects.",
+            "distractors": {
+              "0": "This would identify the source of an amount, whereas the committee is dividing funds.",
+              "2": "This implies returning money already paid, which the sentence never mentions.",
+              "3": "This would mean revealing an amount, rather than deciding how much each project receives."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "allocate",
+              "hebrew": "להקצות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-01-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The second survey used different respondents but produced almost identical results, helping to ____ the researchers' earlier conclusion.",
+          "options": [
+            "revise",
+            "qualify",
+            "reinforce",
+            "illustrate"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Independent agreement gives the earlier conclusion additional support.",
+            "distractors": {
+              "0": "A revision would change the conclusion, although the new results agree with it.",
+              "1": "Qualifying a conclusion adds a limitation or condition, and no new limitation appears here.",
+              "3": "Illustration would supply an example of the conclusion, whereas the second survey independently supports it."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "reinforce",
+              "hebrew": "לחזק"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-01-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The library saved money by cutting its printing budget, but those savings were insufficient to ____ the rise in its electricity bill.",
+          "options": [
+            "trigger",
+            "sustain",
+            "offset",
+            "defer"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The savings were too small to balance the increase in another expense.",
+            "distractors": {
+              "0": "This makes the savings the cause of the rise, although the costs are being compared.",
+              "1": "This would maintain or support the rise, which is the opposite of the proposed financial effect.",
+              "3": "This would postpone the increase in the bill rather than balance it."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "offset",
+              "hebrew": "לקזז"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-01-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The editors were enthusiastic about the manuscript but gave it a ____ acceptance, subject to confirmation that the author could obtain permission for the images.",
+          "options": [
+            "reluctant",
+            "belated",
+            "tentative",
+            "unqualified"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Acceptance is provisional because a condition remains outstanding.",
+            "distractors": {
+              "0": "The editors were enthusiastic about the work; their remaining concern was an outstanding condition.",
+              "1": "This describes an acceptance that came late, but the uncertainty concerns permission rather than timing.",
+              "3": "An unqualified acceptance would have no stated condition."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "tentative",
+              "hebrew": "מהוסס, שאינו סופי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-01-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "Although the historian defended her account of the strike, she had to ____ that the surviving records could not establish who called the first meeting.",
+          "options": [
+            "imply",
+            "concede",
+            "deduce",
+            "allege"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The historian acknowledges one point that limits her own account while retaining the broader argument.",
+            "distractors": {
+              "0": "This would communicate the limitation indirectly, whereas the sentence gives the point she had to acknowledge.",
+              "2": "This emphasizes arriving at a conclusion through reasoning, missing the contrast between defending the account and admitting a weakness.",
+              "3": "This presents the limitation as an accusation or unverified claim rather than an acknowledgement."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "concede",
+              "hebrew": "להודות בנקודה, להכיר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-01-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The investigators treated the report as an allegation until independent shipping records could ____ its central claim.",
+          "options": [
+            "articulate",
+            "qualify",
+            "substantiate",
+            "presuppose"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The records would provide evidence supporting the allegation.",
+            "distractors": {
+              "0": "This would express the claim more clearly, without establishing its truth.",
+              "1": "This would put limits on the claim, while independent evidence is needed to support it.",
+              "3": "This would assume the claim in advance, which would leave the allegation unverified."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "substantiate",
+              "hebrew": "לבסס בראיות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-01-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-01-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "The Ledger Beneath the Street",
+        "paragraphs": [
+          "A row of houses is usually dated by looking upward. An architectural historian examines the shapes of windows, the bonding of bricks, or the style of an iron railing. In some industrial towns, however, the most revealing chronology lies underfoot. Engineers laid water pipes at different times, and the paperwork they left behind can show when a seemingly uniform street became habitable. The documents often reveal a considerable interval between the completion of facades and the arrival of basic services. A finished appearance was therefore an unreliable indication that all houses on a street could accommodate residents on equal terms.",
+          "The records are easily misread. A payment for a length of pipe might signify delivery to a depot rather than installation beneath a particular road. Even an entry recording installation might refer to a trial run that was subsequently abandoned. The historian needs to compare the engineer's ledger with inspection reports, household bills and, occasionally, photographs of excavated trenches. If these documents disagree, the discrepancy is a clue. A family billed for water before official connection might have shared a supply with a neighboring business or paid an advance that would later be refunded.",
+          "Reconstructing the network also changes how we understand a town's expansion. Municipal maps give the impression that one district followed another in neat sequence. Pipe records instead show short extensions that bypassed inconvenient terrain or served influential property owners ahead of more populous streets. This irregularity matters because it helps account for differences in rent between houses of similar size and design. For a household paying by the week, a reliable tap could be worth more than an ornamental entryway. Yet that advantage might disappear as soon as the infrastructure reached the next row.",
+          "The method does have limits. People who collected rainwater or arranged informal connections are often invisible in official records. Such omissions make precise comparisons risky, especially when a district was surveyed only after several years of occupation. The point of looking at the pipes is not to replace architectural history with a more exact science. It is to use an independent set of traces to ask how the usefulness of a building changed after its walls had already taken shape. Sometimes the most consequential event in the history of a house occurred without altering its appearance at all."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What argument about housing chronology organizes “The Ledger Beneath the Street”?",
+          "options": [
+            "Building design and water supply contributed equally to differences in weekly rent.",
+            "Tracing the arrival of water mains establishes when households first occupied a street.",
+            "Pipe construction followed a more regular sequence than the appearance of new housing would suggest.",
+            "Service records reveal changes in habitability that the built exterior may conceal."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The argument moves from deceptive facades to changing services and their consequences.",
+            "distractors": {
+              "0": "The rent example contrasts a tap with ornament but does not quantify their relative contribution.",
+              "1": "Occupation could precede the official connection through shared supplies, rainwater or other means.",
+              "2": "The maps seem regular, whereas the pipes reveal irregular extensions."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "underfoot",
+              "hebrew": "מתחת לרגליים"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-01-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why might two physically similar houses command different rents for a limited period?",
+          "options": [
+            "One might receive a dependable water connection before the other.",
+            "One may have had more favorable access because it was surveyed after years of occupation.",
+            "One might attract tenants with a rare ornamental entrance.",
+            "The rent difference may have reflected which row was more recently shown on a municipal map."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The rent premium can reflect a service that later reaches the second row too.",
+            "distractors": {
+              "1": "Late surveying obscures comparisons rather than causing preferential service.",
+              "2": "The passage makes a practical service, rather than a design difference between similar houses, the source of the temporary advantage.",
+              "3": "Maps represent expansion but do not themselves improve a dwelling's usefulness."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "command",
+              "hebrew": "להשיג מחיר"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-01-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the writer approach the evidentiary value of engineers’ ledgers?",
+          "options": [
+            "With qualified appreciation for what comparison can reveal.",
+            "With a preference for the ledger’s account whenever other sources disagree.",
+            "With particular trust in entries reporting installation rather than payment.",
+            "With interest chiefly in what they reveal about gaps in architectural surveys."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The writer values the ledgers while specifying how other evidence and omissions constrain them.",
+            "distractors": {
+              "1": "The disagreement prompts further investigation, with no automatic priority for the ledger.",
+              "2": "Installation entries may also mislead if they describe an abandoned trial.",
+              "3": "The practical history of habitation is the aim; gaps in records are only part of the method."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "evidentiary",
+              "hebrew": "ראייתי"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-01-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “discrepancy” denote when the historian compares water records?",
+          "options": [
+            "An inconsistency between sources.",
+            "An unusual interval between events.",
+            "A departure from the original works plan.",
+            "An omission from a single register."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Disagreement between records produces the clue in this paragraph.",
+            "distractors": {
+              "1": "The interval between development and service may be real, even when records agree.",
+              "2": "A deviation from a proposed route is different from incompatible documentary accounts.",
+              "3": "A missing entry is possible, but the word points to sources that conflict."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "discrepancy",
+              "hebrew": "אי־התאמה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-01-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Which explanation does the passage expressly offer for a household bill dated before official connection?",
+          "options": [
+            "The inspector might have charged the family for excavating a trench.",
+            "The family could have paid in advance and expected a later refund.",
+            "The household could have bought water through the municipality's temporary pipe trial.",
+            "An engineer may have entered the payment after placing a pipe order."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The author names a refundable advance alongside sharing a nearby supply.",
+            "distractors": {
+              "0": "Trench photographs serve as evidence of works, but the text gives no example of excavation being billed to the family.",
+              "2": "An abandoned trial is mentioned separately as a possible reading of an installation entry, not as an explanation for the earlier bill.",
+              "3": "An order or delivery to a depot may account for a ledger entry about pipes, not a household water bill."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "advance",
+              "hebrew": "מקדמה"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-01-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-01-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Although the first survey was small, its findings prompted a larger investigation.",
+          "options": [
+            "Because the first survey was small, its findings prompted a larger investigation.",
+            "Its findings prompted a larger investigation only before it became clear that the first survey was small.",
+            "The first survey was small; nevertheless, its findings prompted a larger investigation.",
+            "Its findings prompted a larger investigation, which prevented anyone from finding out whether the first survey was small."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the first survey was small” and “its findings prompted a larger investigation.”",
+            "distractors": {
+              "0": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast.",
+              "1": "It limits the second fact to an earlier time and adds a discovery that the original never mentions.",
+              "3": "It introduces an obstacle to discovering the first fact, which the original states directly."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-01-restatement-1-1"
+        },
+        {
+          "prompt": "The plot was covered overnight as a result of the fact that the evening temperatures fell below freezing.",
+          "options": [
+            "The evening temperatures fell below freezing; nevertheless, the plot was covered overnight.",
+            "The plot was covered overnight, but it is unknown whether the evening temperatures fell below freezing.",
+            "The plot was covered overnight; consequently, the evening temperatures fell below freezing.",
+            "The evening temperatures fell below freezing; consequently, the plot was covered overnight."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the evening temperatures fell below freezing, leading to the result that the plot was covered overnight.",
+            "distractors": {
+              "0": "It replaces the causal relationship with a concession.",
+              "1": "It casts doubt on the cause, which the original treats as an established fact.",
+              "2": "It reverses the direction of cause and result."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-01-restatement-1-2"
+        },
+        {
+          "prompt": "Once the committee has approved the proposal, the architects will publish their sketches.",
+          "options": [
+            "The architects will publish their sketches, regardless of whether the committee has approved the proposal.",
+            "The architects will publish their sketches after the committee has approved the proposal.",
+            "The architects will not publish their sketches even after the committee has approved the proposal.",
+            "The architects will publish their sketches before the committee has approved the proposal."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled. The first event has to be complete.",
+            "distractors": {
+              "0": "It makes the first event irrelevant to the timing of the second.",
+              "2": "It denies the stated plan to carry out the second action.",
+              "3": "It places the scheduled action before the event that the sentence puts first."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-01-restatement-1-3"
+        },
+        {
+          "prompt": "Their proposals will be considered only if the applicants submit a signed declaration.",
+          "options": [
+            "Their proposals will be considered in every case in which the applicants submit a signed declaration.",
+            "Their proposals will be considered only if it is impossible to establish that the applicants submit a signed declaration.",
+            "Their proposals will be considered whether or not the applicants submit a signed declaration.",
+            "Their proposals will be considered only on condition that the applicants submit a signed declaration."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The condition “the applicants submit a signed declaration” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "0": "It treats the condition as sufficient and promises the outcome whenever it is met.",
+              "1": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met.",
+              "2": "It removes the requirement by making the outcome independent of the condition."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-01-restatement-1-4"
+        },
+        {
+          "prompt": "The reconstructed hall seemed narrow compared with the original hall.",
+          "options": [
+            "The reconstructed hall appeared to exceed the original hall in width.",
+            "The original hall appeared to exceed the reconstructed hall in width.",
+            "The difference in width was established when the original hall was wider than the reconstructed hall in a formal test.",
+            "The reconstructed hall appeared to match the original hall in width."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the original hall, first. The comparison concerns width.",
+            "distractors": {
+              "0": "It reverses the relative ranking of the two items.",
+              "2": "It turns an impression into a demonstrated finding and invents a formal test.",
+              "3": "It describes the two items as equal on the stated measure."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-01-restatement-1-5"
+        },
+        {
+          "prompt": "But for the local guide, the group would have missed the entrance.",
+          "options": [
+            "The group would have missed the entrance in the absence of the local guide.",
+            "Whether the local guide made any difference to the outcome is unknown.",
+            "The group would have missed the entrance regardless of the effect of the local guide.",
+            "The group would have missed the entrance because of the local guide."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the group would have missed the entrance” belongs to the hypothetical situation in which the local guide was absent.",
+            "distractors": {
+              "1": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs.",
+              "2": "It predicts the same result without changing whether the factor was present.",
+              "3": "It attributes the hypothetical result to the presence of the factor rather than its absence."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-01-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-01-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the coastal defenses are strengthened before winter, the lower promenade will remain closed during the survey.",
+          "options": [
+            "The lower promenade may or may not remain closed during the survey, depending on whether the coastal defenses are strengthened before winter.",
+            "The lower promenade will remain closed during the survey, including in the event that the coastal defenses are strengthened before winter.",
+            "The coastal defenses are strengthened before winter; therefore, the lower promenade will remain closed during the survey.",
+            "The lower promenade will remain closed during the survey only in the event that the coastal defenses are strengthened before winter."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the coastal defenses are strengthened before winter. The original leaves that case hypothetical.",
+            "distractors": {
+              "0": "It makes the outcome depend on the hypothetical condition.",
+              "2": "It turns an open possibility into an established fact and presents it as the cause.",
+              "3": "It turns a condition that would make no difference into a requirement."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-01-restatement-2-1"
+        },
+        {
+          "prompt": "The review panel neither endorsed nor expressly rejected the curator's proposed redesign of the gallery.",
+          "options": [
+            "The review panel rejected the curator's proposed redesign of the gallery without giving a reason.",
+            "The review panel withdrew an earlier endorsement of the curator's proposed redesign of the gallery.",
+            "The review panel accepted the curator's proposed redesign of the gallery in principle while withholding public support.",
+            "The review panel offered no endorsement of the curator's proposed redesign of the gallery and issued no explicit rejection either."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It asserts an explicit rejection, which the original rules out.",
+              "1": "It invents a prior endorsement and a reversal of position.",
+              "2": "It invents an acceptance in principle, which cannot be inferred from the original."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-01-restatement-2-2"
+        },
+        {
+          "prompt": "The exhibition's appeal stemmed less from the rarity of its objects than from the unusual relationships drawn between them.",
+          "options": [
+            "The rarity of its objects and the unusual relationships drawn between them played equally important roles in the exhibition's appeal.",
+            "The exhibition's appeal was the principal reason for both the rarity of its objects and the unusual relationships drawn between them.",
+            "The unusual relationships drawn between them contributed more to the exhibition's appeal than the rarity of its objects did.",
+            "The rarity of its objects was the greater contributor to the exhibition's appeal, though the unusual relationships drawn between them also mattered."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “the unusual relationships drawn between them” greater explanatory weight than “the rarity of its objects.”",
+            "distractors": {
+              "0": "It makes the factors equally important despite the stated inequality.",
+              "1": "It makes the outcome cause the factors that are supposed to explain it.",
+              "3": "It reverses the relative importance of the factors."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-01-restatement-2-3"
+        },
+        {
+          "prompt": "The stewards did not unlock the hall until the inspector had cleared the electrical work.",
+          "options": [
+            "The stewards unlocked the hall only after the inspector had cleared the electrical work.",
+            "The stewards unlocked the hall as evidence that the inspector had cleared the electrical work.",
+            "The stewards unlocked the hall before the inspector had cleared the electrical work.",
+            "The stewards did not unlock the hall, although the inspector had cleared the electrical work."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "1": "It turns a timing relationship into an assertion about the actor’s purpose.",
+              "2": "It reverses the sequence by placing the main action first.",
+              "3": "It makes the main action fail to occur, whereas the original reports that it happened later."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-01-restatement-2-4"
+        },
+        {
+          "prompt": "Except for the 1976 coastal survey, none of the reports published before 1980 cite the field diary.",
+          "options": [
+            "The 1976 coastal survey cites the field diary; the others in the same group do not.",
+            "The 1976 coastal survey cites the field diary, and at least one other member of the group shares that distinction.",
+            "It has not been determined whether the 1976 coastal survey cites the field diary.",
+            "All the reports published before 1980 cite the field diary except the 1976 coastal survey."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the 1976 coastal survey is the single item that has the stated property.",
+            "distractors": {
+              "1": "It allows a second exception even though “sole” limits the number to one.",
+              "2": "It changes an explicit exception into an uncertainty.",
+              "3": "It gives the property to the entire group except the one item that actually has it."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-01-restatement-2-5"
+        },
+        {
+          "prompt": "Given that most reports described only completed projects, it is hardly surprising that the audit understated how often proposals were abandoned.",
+          "options": [
+            "Because the audit focused mainly on completed projects, it correctly identified the proportion of proposals that had been dropped.",
+            "The audit showed that incomplete reporting caused more projects to be abandoned than the reports suggested.",
+            "Auditors expected to encounter few abandoned proposals because they believed most of the projects in the reports had been completed.",
+            "The audit's low estimate of how often proposals were dropped is understandable, since the reports it relied on generally covered projects that went ahead."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The lack of coverage for dropped proposals explains why the underestimate is unsurprising",
+            "distractors": {
+              "0": "Correctly estimating the proportion is incompatible with understating it",
+              "1": "It attributes abandonment to incomplete reporting. In the original, incomplete reporting explains the measurement error",
+              "2": "It turns the author's explanation into a claim about the auditors' expectations"
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "hardly surprising",
+              "hebrew": "לא מפתיע כלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-01-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-01-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "The Sideways View of Rain",
+        "paragraphs": [
+          "To a person walking through a rainstorm, the relevant question is whether drops reach the ground. To an atmospheric scientist, it may matter just as much what happens to those drops several kilometres above the pavement. Weather radar answers the second question by sending out short bursts of electromagnetic radiation and recording the portion that returns. An early radar image showed where the returning signal was strong, but a bright patch could signify either a large number of modest drops or a smaller number of much larger objects. A strong echo was therefore an informative but ambiguous observation.",
+          "The ambiguity was partly resolved by taking advantage of a surprising feature of falling drops. They do not usually resemble the teardrops in cartoons. A small drop is nearly spherical, while a larger one tends to flatten as air presses against its underside. A radar that transmits pulses polarized in two perpendicular directions can compare the responses. Rain made up of flattened drops will generally return more energy from the horizontally polarized pulse than from the vertically polarized one. This difference provides information that a single strength measurement cannot reveal. The exact interpretation still depends on the mixture of particles inside the volume being examined.",
+          "Shape is not the only consideration. Wet snowflakes melting on their way down can reflect radar vigorously because their liquid coating interacts strongly with the signal. A thin layer of such particles can consequently produce a conspicuous ring in some radar images. A viewer who treats all strong returns as signs of intense rain will mistake this ring for a real band of heavy precipitation. Meanwhile, far away from a radar station, the main beam may travel above a shallow rain cloud altogether. Radar can therefore invent a storm in one place, in the sense of inviting a misleading interpretation, and miss light rain in another.",
+          "Modern forecasting systems compare multiple radar measurements and consult temperature profiles before estimating what reaches the surface. Ground gauges help evaluate those estimates, but gauges also sample a very small area and may miss the heaviest part of a local shower. The point of comparing instruments is to make their limitations complementary. A strong echo is neither a direct count of raindrops nor a forecast by itself. It becomes useful when interpreted as part of a physical account of the atmosphere between the instrument and the ground."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What is the main point of the passage on rain radar?",
+          "options": [
+            "The main advances in radar forecasting have come from replacing local measurements with broader coverage.",
+            "Rainfall estimates require interpreting radar signals using particle physics and corroborating data.",
+            "Comparing two polarizations resolves the ambiguities that once prevented radar from measuring rainfall at the surface.",
+            "The accuracy of radar depends chiefly on separating melting snow from liquid rain."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The passage develops this from polarization to complementary instruments.",
+            "distractors": {
+              "0": "The passage advocates using local gauges alongside radar, each checking a different limitation.",
+              "2": "Polarization helps distinguish shapes, but melting snow and high beams still cause uncertainty.",
+              "3": "Melting snow is one example within a broader argument about interpreting signals."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "echo",
+              "hebrew": "הד"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-01-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "If the radar beam passes high above a distant village, what might account for an absent echo?",
+          "options": [
+            "A ground gauge might be too localized to sample the rain near the village.",
+            "The cloud could be producing enough small drops for a strong combined return.",
+            "Light rain could be falling from a cloud below the beam.",
+            "A layer of melting snow could have made the station mistake the village’s rain for heavy precipitation."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Radar can overshoot shallow rain clouds.",
+            "distractors": {
+              "0": "A gauge can miss a shower, but its small area does not explain the missing radar echo.",
+              "1": "A strong return would predict an echo; this does not address the beam missing the cloud.",
+              "3": "The ring produces a conspicuous echo rather than accounting for an absent one."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "shallow",
+              "hebrew": "רדוד"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-01-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the writer evaluate the strengths of weather radar?",
+          "options": [
+            "Appreciative but cautious, explaining how useful observations can mislead.",
+            "Mainly critical, using misleading echoes to question the value of radar for forecasts.",
+            "Chiefly historical, tracing improvements in radar without evaluating present limitations.",
+            "Principally admiring, emphasizing that polarization makes other instruments secondary."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The text explains gains from polarization and limitations needing cross-checks.",
+            "distractors": {
+              "1": "The author shows how physical interpretation makes radar useful for forecasts.",
+              "2": "The essay continues beyond the history to assess modern limitations.",
+              "3": "The discussion treats other observations as valuable complements."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "complementary",
+              "hebrew": "משלימים"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-01-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “conspicuous” mean in the discussion of melting snowflakes?",
+          "options": [
+            "Unusually intense.",
+            "Easy to notice.",
+            "Readily attributable to one source.",
+            "Physically extensive."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The stronger echo makes the ring stand out.",
+            "distractors": {
+              "0": "A strong return makes the ring noticeable, but the word describes its visibility rather than its intensity.",
+              "2": "The ring is easy to see, but interpreting its cause requires distinguishing melting snow from heavy rain.",
+              "3": "The ring stands out because of its return strength; size is not the meaning."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "conspicuous",
+              "hebrew": "בולט לעין"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-01-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Why can large raindrops respond differently to two polarizations?",
+          "options": [
+            "A layer of liquid on each drop reflects one pulse more strongly.",
+            "Larger drops return the same energy from both directions because of their increased volume.",
+            "Air pressure on the underside makes them wider horizontally.",
+            "The pulses encounter different numbers of drops."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The pulses interact with different dimensions of the flattened drop.",
+            "distractors": {
+              "0": "The liquid coating explanation concerns melting snow, not the shape contrast of large drops.",
+              "1": "An enlarged spherical object might behave symmetrically, but the passage emphasizes flattening.",
+              "3": "They are compared over the same examined volume; drop shape accounts for the difference."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "flatten",
+              "hebrew": "להשתטח"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-01-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

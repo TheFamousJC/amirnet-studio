@@ -1,0 +1,315 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "A crack that began at the corner continued to ____ across the glass until it reached the opposite edge.",
+      "options": [
+        "gather",
+        "linger",
+        "spread",
+        "reflect"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The crack progressively extended across the pane.",
+        "distractors": {
+          "0": "The crack did not collect several things together; it increased in reach.",
+          "1": "Lingering means staying where one is, whereas the crack reached a different part of the pane.",
+          "3": "The crack did not send light back; the text describes its movement."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "spread",
+          "hebrew": "להתפשט"
+        }
+      ],
+      "id": "test-20-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The fence was an ____ measure: it blocked entry only until the concrete had hardened and was then removed.",
+      "options": [
+        "interim",
+        "customary",
+        "portable",
+        "enduring"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The fence was used for a limited period and was never intended to remain in place.",
+        "distractors": {
+          "1": "The sentence does not establish that fencing is routinely used this way.",
+          "2": "Being removable does not itself identify a device as portable; the period of use is the relevant clue.",
+          "3": "The fence was removed as soon as the concrete hardened rather than continuing to serve afterward."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "interim",
+          "hebrew": "זמני; לשלב הביניים"
+        }
+      ],
+      "id": "test-20-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Only the duty manager could ____ staff to enter the sealed room, and a written approval was needed before they unlocked the door.",
+      "options": [
+        "compel",
+        "certify",
+        "instruct",
+        "authorize"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The duty manager is the person who can give formal permission to enter.",
+        "distractors": {
+          "0": "The approval makes entry possible; it does not force staff to go in.",
+          "1": "A certification attests to a fact or qualification rather than granting this specific permission.",
+          "2": "Giving directions is not enough when written permission is required."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "authorize",
+          "hebrew": "להסמיך; לאשר"
+        }
+      ],
+      "id": "test-20-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The award carries no cash payment, but it does ____ on the winner the right to use the society's emblem.",
+      "options": [
+        "concede",
+        "confer",
+        "impose",
+        "reserve"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The award grants a formally specified right.",
+        "distractors": {
+          "0": "Conceding a right can suggest reluctantly admitting it; the award formally grants a right to the winner.",
+          "2": "Imposition would make the emblem's use a requirement, whereas the award gives the winner a right.",
+          "3": "Reserving a right involves keeping it or setting it aside; the award actively grants it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "confer",
+          "hebrew": "להעניק (זכות או מעמד)"
+        }
+      ],
+      "id": "test-20-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "After washing the plate, Leila put it under running water to ____ away the soap.",
+      "options": [
+        "pour",
+        "scrape",
+        "rinse",
+        "soak"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Running water washes harmless residue off the plate.",
+        "distractors": {
+          "0": "She did not lift and pour the soap off; the running water washed it away.",
+          "1": "The action described uses water without scraping the surface.",
+          "3": "Soaking would keep the plate under water for a period, not wash residue off under a stream."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "rinse",
+          "hebrew": "לשטוף בקצרה"
+        }
+      ],
+      "id": "test-20-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "To make the workshop accessible to younger students, the instructors had to ____ the materials by shortening the readings and adding illustrations.",
+      "options": [
+        "catalog",
+        "copy",
+        "distribute",
+        "adapt"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The changes tailor existing materials to suit a different group.",
+        "distractors": {
+          "0": "Making a list would leave the readings and illustrations as they were.",
+          "1": "Copying would reproduce the old materials without modifying them for a younger audience.",
+          "2": "Handing out the materials is separate from changing their length and presentation."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "adapt",
+          "hebrew": "להתאים; להסתגל"
+        }
+      ],
+      "id": "test-20-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "The instructions warned staff against ____ the folder while the update was running.",
+      "options": [
+        "have deleted",
+        "deleting",
+        "delete",
+        "to delete"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Against takes a gerund when it introduces the action to avoid.",
+        "distractors": {
+          "0": "Have deleted needs a different grammatical construction and cannot follow this preposition directly.",
+          "2": "The bare verb delete cannot directly follow against.",
+          "3": "A to-infinitive does not fit after against."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "folder",
+          "hebrew": "תיקייה"
+        }
+      ],
+      "id": "test-20-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The materials used for the model ____ selected to withstand repeated handling.",
+      "options": [
+        "was",
+        "has",
+        "were",
+        "being"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The plural subject materials takes were to complete the passive.",
+        "distractors": {
+          "0": "Was cannot agree with the plural subject materials.",
+          "1": "Has fails agreement, and the passive requires been between has and selected.",
+          "3": "Being is nonfinite without an auxiliary here."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "withstand",
+          "hebrew": "לעמוד בפני"
+        }
+      ],
+      "id": "test-20-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "At this time next year, the team ____ the water level continuously for a decade.",
+      "options": [
+        "has recorded already",
+        "will have been recording",
+        "is recording previously",
+        "had been recording"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The future perfect continuous links ten years of recording to a specified future point.",
+        "distractors": {
+          "0": "Present perfect relates the activity to now rather than the future reference point.",
+          "2": "Present progressive with previously does not express the period leading up to next year.",
+          "3": "The past perfect must refer to a later point in the past, not next year."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "continuously",
+          "hebrew": "ברציפות"
+        }
+      ],
+      "id": "test-20-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The scholars were unable to determine ____ the second signature belonged to the artist.",
+      "options": [
+        "who",
+        "which",
+        "whether",
+        "whose"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Whether introduces the embedded yes-or-no question about ownership of the signature.",
+        "distractors": {
+          "0": "Who would ask about a person and leaves the clause with the wrong structure.",
+          "1": "Which would need a choice among antecedents and cannot introduce this complete yes-or-no clause.",
+          "3": "Whose would require a following possessed item and does not complete this question."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "belong to",
+          "hebrew": "להיות שייך ל־"
+        }
+      ],
+      "id": "test-20-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "The delivery contains ____ two thousand photographs, although the exact number is still being checked.",
+      "base": "approximate",
+      "answers": [
+        "approximately"
+      ],
+      "explanation": "Approximately modifies the number to indicate that it is an estimate.",
+      "id": "test-20-word-1"
+    },
+    {
+      "prompt": "The island's earliest permanent ____ built their homes near a spring on the northern shore.",
+      "base": "inhabit",
+      "answers": [
+        "inhabitants"
+      ],
+      "explanation": "Inhabitants is the plural noun referring to the people who lived there.",
+      "id": "test-20-word-2"
+    },
+    {
+      "prompt": "Each team was ____ the same set of tools before the experiment began.",
+      "base": "give",
+      "answers": [
+        "given"
+      ],
+      "explanation": "Given is the past participle of give in the passive expression.",
+      "id": "test-20-word-3"
+    },
+    {
+      "prompt": "The repair was ____ because the device operated for years without another fault.",
+      "base": "success",
+      "answers": [
+        "successful"
+      ],
+      "explanation": "Successful is the adjective meaning the repair achieved its intended result.",
+      "id": "test-20-word-4"
+    }
+  ],
+  "writing": "What is one feature that would make an older neighborhood more accessible? Explain who would benefit and how."
+}

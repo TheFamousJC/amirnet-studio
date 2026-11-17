@@ -1,0 +1,315 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "To collect a library key, each visitor had to ____ a passport at reception and get it back when the key was returned.",
+      "options": [
+        "deposit",
+        "rent",
+        "inherit",
+        "renew"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The visitor left an item in another person's care for a limited time.",
+        "distractors": {
+          "1": "Reception did not pay to use the passport.",
+          "2": "The visitor already had the passport and was not acquiring it through inheritance.",
+          "3": "The passport was being held temporarily, not extended beyond its expiry date."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "deposit",
+          "hebrew": "להפקיד; להניח"
+        }
+      ],
+      "id": "test-10-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The first report only raised the possibility of contamination, but the second offered ____ evidence: the same contaminant was identified in every duplicate sample.",
+      "options": [
+        "peripheral",
+        "provisional",
+        "definite",
+        "conditional"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Repeated identification gives conclusive evidence that the contaminant was present.",
+        "distractors": {
+          "0": "The results address the central question directly.",
+          "1": "The sentence contrasts the first report's uncertainty with the second report's confirmation.",
+          "3": "The second report's conclusion is based on observed results, not contingent on an additional event."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "definite",
+          "hebrew": "חד משמעי; ברור"
+        }
+      ],
+      "id": "test-10-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Every branch must ____ to the agreed procedure for handling returns even if staff think a local variation would be faster.",
+      "options": [
+        "refer",
+        "adhere",
+        "defer",
+        "contribute"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The branches must follow the existing rules exactly.",
+        "distractors": {
+          "0": "Consulting the procedure is insufficient if the branch does not actually follow it.",
+          "2": "Putting a decision off does not explain the instruction to use the rule even when a local option seems faster.",
+          "3": "The procedure is already agreed; the branches are being asked to follow it, not help write it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "adhere",
+          "hebrew": "לדבוק; להקפיד על (בביטוי adhere to)"
+        }
+      ],
+      "id": "test-10-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The new casing is designed to ____ vibration before it reaches the sensors. Minor movement may still occur, but it should be much weaker.",
+      "options": [
+        "amplify",
+        "displace",
+        "replicate",
+        "attenuate"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The casing reduces the strength of the vibration without necessarily eliminating it.",
+        "distractors": {
+          "0": "Increasing the strength would conflict with the goal of weaker movement.",
+          "1": "Moving the vibration elsewhere is not what the stated reduction in strength describes.",
+          "2": "Producing another vibration would not be the described reduction."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "attenuate",
+          "hebrew": "להחליש"
+        }
+      ],
+      "id": "test-10-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The package was too heavy for Amir to ____ from the floor to the shelf without help.",
+      "options": [
+        "open",
+        "pack",
+        "drag",
+        "lift"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "He cannot raise the heavy item to the higher position by himself.",
+        "distractors": {
+          "0": "Moving the package upward does not require opening it.",
+          "1": "The package is already prepared; the difficulty is moving it vertically.",
+          "2": "Dragging keeps the item on a surface and would not get it onto the shelf."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "lift",
+          "hebrew": "להרים"
+        }
+      ],
+      "id": "test-10-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The survey found ____ errors in the records: nearly every entry contained at least one mistake.",
+      "options": [
+        "numerous",
+        "isolated",
+        "identical",
+        "minor"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Errors were found throughout the records, so there were many of them.",
+        "distractors": {
+          "1": "The errors were widespread rather than limited to a few entries.",
+          "2": "The sentence says how often mistakes occurred without saying they were all alike.",
+          "3": "Their frequency is specified but their seriousness is not."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "numerous",
+          "hebrew": "רבים"
+        }
+      ],
+      "id": "test-10-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "Everyone ____ the north gate after sunset must show a permit to the attendant.",
+      "options": [
+        "is entering from",
+        "enters through",
+        "entered through of",
+        "entering through"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The participial phrase modifies everyone without adding a second finite verb before must.",
+        "distractors": {
+          "0": "Is entering also adds a second finite verb before must.",
+          "1": "Enters adds a second finite verb without a relative pronoun.",
+          "2": "The added of is ungrammatical and entered does not fit the clause structure."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "attendant",
+          "hebrew": "עובד אחראי"
+        }
+      ],
+      "id": "test-10-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The specialist advised the team ____ on the new estimate until the source figures had been checked.",
+      "options": [
+        "not rely with",
+        "that not relying",
+        "to not relying",
+        "not to rely"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Advised plus object takes a negative to-infinitive.",
+        "distractors": {
+          "0": "The standard form needs to after the object and does not attach rely with to on.",
+          "1": "That would require a full clause with a subject and finite verb.",
+          "2": "After to the verb must be in the base form."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "estimate",
+          "hebrew": "אומדן"
+        }
+      ],
+      "id": "test-10-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "A considerable amount of debris ____ from the entrance after the storm.",
+      "options": [
+        "was cleared",
+        "was clearing",
+        "have clear",
+        "were cleared"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Amount of debris is singular and receives the action.",
+        "distractors": {
+          "1": "Was clearing makes the debris the agent rather than the material removed.",
+          "2": "Have fails agreement and needs a participle.",
+          "3": "Were cannot agree with a singular amount."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "debris",
+          "hebrew": "פסולת"
+        }
+      ],
+      "id": "test-10-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The research group had no access to the original samples, ____ its conclusions were necessarily limited.",
+      "options": [
+        "where it means",
+        "which meant that",
+        "which were meant",
+        "that it meant"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Which meant that links the consequence to the preceding situation.",
+        "distractors": {
+          "0": "Where refers to a place, whereas the consequence concerns lack of access.",
+          "2": "Which were meant leaves the following finite clause with no connector.",
+          "3": "That cannot introduce a supplementary relative clause after a comma in this form."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "necessarily",
+          "hebrew": "בהכרח"
+        }
+      ],
+      "id": "test-10-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "The conductor called his first performance ____ and said he could still recall its smallest details fifty years later.",
+      "base": "forget",
+      "answers": [
+        "unforgettable"
+      ],
+      "explanation": "Unforgettable is the adjective for an experience that cannot be forgotten.",
+      "id": "test-10-word-1"
+    },
+    {
+      "prompt": "The roof beams were ____ with steel braces before the additional weight was placed on them.",
+      "base": "strength",
+      "answers": [
+        "strengthened"
+      ],
+      "explanation": "Strengthened is the past participle of strengthen, formed from strength.",
+      "id": "test-10-word-2"
+    },
+    {
+      "prompt": "Because its original building was full, the archive planned an ____ that would double its storage capacity.",
+      "base": "expand",
+      "answers": [
+        "expansion"
+      ],
+      "explanation": "Expansion is the noun for increasing the size of the archive.",
+      "id": "test-10-word-3"
+    },
+    {
+      "prompt": "The footpath runs ____ from the station to the lake without passing through the village.",
+      "base": "direct",
+      "answers": [
+        "directly"
+      ],
+      "explanation": "Directly modifies runs and identifies the route as having no detour.",
+      "id": "test-10-word-4"
+    }
+  ],
+  "writing": "Describe a public place that people of different ages can enjoy together. Explain what makes it suitable for them."
+}

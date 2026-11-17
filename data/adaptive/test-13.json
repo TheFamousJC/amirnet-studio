@@ -1,0 +1,476 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "When a street closed unexpectedly, the transit agency sent text messages to ____ passengers that their bus would stop a block away.",
+      "options": [
+        "survey",
+        "notify",
+        "direct",
+        "reassure"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The messages informed passengers about the changed stop.",
+        "distractors": {
+          "0": "The messages provided information instead of requesting passengers' views.",
+          "2": "The blank calls for a verb that introduces the information passengers received, not an instruction to carry out an action.",
+          "3": "The stated purpose was to inform passengers of the change; no concern is being addressed."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "notify",
+          "hebrew": "להודיע"
+        }
+      ],
+      "id": "test-13-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Before changing the pickup points, the planners agreed to ____ regular passengers and ask which locations they could reach safely.",
+      "options": [
+        "consult",
+        "brief",
+        "enlist",
+        "appoint"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The planners sought advice from passengers before deciding.",
+        "distractors": {
+          "1": "A briefing mainly gives information, while the planners want information and advice from passengers.",
+          "2": "Passengers are being asked for their views, not recruited to implement the change.",
+          "3": "No role or position is being assigned to passengers."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "consult",
+          "hebrew": "להיוועץ ב־"
+        }
+      ],
+      "id": "test-13-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "An unexpected power cut can ____ the conveyor's normal operation; even after power returns, the queued items must be sorted by hand.",
+      "options": [
+        "sustain",
+        "limit",
+        "disrupt",
+        "modify"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The interruption breaks the ordinary flow of work.",
+        "distractors": {
+          "0": "The power cut prevents the conveyor from operating normally rather than maintaining it.",
+          "1": "The conveyor stops and items are left in disorder; the sentence describes a disruption rather than an imposed limit on output.",
+          "3": "No intentional change to the machinery or operating procedure is made."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "disrupt",
+          "hebrew": "לשבש"
+        }
+      ],
+      "id": "test-13-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The laboratory kept spare lamps because the light source was ____ to the experiment: if it failed, no measurement could be taken.",
+      "options": [
+        "beneficial",
+        "subsidiary",
+        "convenient",
+        "indispensable"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The experiment could not produce measurements without the light source.",
+        "distractors": {
+          "0": "A beneficial tool may improve results but could still be optional.",
+          "1": "A secondary component is less central than the experiment's dependence on this source suggests.",
+          "2": "Convenience would make a task easier, while the source is necessary to perform it at all."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "indispensable",
+          "hebrew": "הכרחי; שאי אפשר בלעדיו"
+        }
+      ],
+      "id": "test-13-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "After the children tracked sand inside, a volunteer used a broom to ____ it off the floor.",
+      "options": [
+        "wipe",
+        "spread",
+        "sweep",
+        "spill"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The broom moves the sand away from the floor by sweeping.",
+        "distractors": {
+          "0": "Wiping generally uses a cloth to remove liquid or dirt rather than a broom to move grains.",
+          "1": "The goal is to move sand off the floor, not distribute it over a larger area.",
+          "3": "The sand was already on the floor; the volunteer removed it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "sweep",
+          "hebrew": "לטאטא"
+        }
+      ],
+      "id": "test-13-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The usual ____ to the station was blocked by construction, so the cyclists followed another path.",
+      "options": [
+        "pace",
+        "direction",
+        "departure",
+        "route"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "A route is the path taken to get somewhere.",
+        "distractors": {
+          "0": "The sentence concerns which path they took rather than how fast they traveled.",
+          "1": "Their destination did not change, and the clue concerns alternative paths to it.",
+          "2": "The blockage affected their path rather than when they set out."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "route",
+          "hebrew": "מסלול"
+        }
+      ],
+      "id": "test-13-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "It took the orchestra several weeks to get used to ____ in the smaller hall.",
+      "options": [
+        "be performed",
+        "performing",
+        "perform",
+        "performed"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Get used to ends in a preposition, so performing is the required gerund.",
+        "distractors": {
+          "0": "Be performed is an infinitive and would make the orchestra the thing performed.",
+          "2": "The bare verb would follow used to for a past habit, not get used to here.",
+          "3": "The past form cannot complement the preposition."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "get used to",
+          "hebrew": "להתרגל ל־"
+        }
+      ],
+      "id": "test-13-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Both of the proposed locations ____ close to existing bus stops.",
+      "options": [
+        "is",
+        "has been",
+        "are",
+        "being"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Both refers to two locations and takes plural are.",
+        "distractors": {
+          "0": "Is does not agree with both.",
+          "1": "Has been is singular and does not agree.",
+          "3": "Being alone provides no finite verb."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "proposed",
+          "hebrew": "מוצע"
+        }
+      ],
+      "id": "test-13-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Were parking spaces cheaper, more visitors ____ to drive rather than take the train.",
+      "options": [
+        "did chose",
+        "might choose",
+        "would choosing",
+        "might have chose"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Might choose gives a possible result of the hypothetical current condition.",
+        "distractors": {
+          "0": "Did requires the bare verb choose, not chose.",
+          "2": "Would requires a bare infinitive, not choosing.",
+          "3": "After have, the participle chosen is required; the past result would also need a past condition."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "rather than",
+          "hebrew": "במקום"
+        }
+      ],
+      "id": "test-13-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The quality of the translation was checked by a colleague ____ language is Icelandic.",
+      "options": [
+        "who first",
+        "that the first",
+        "whose first",
+        "whom the first"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Whose links the colleague to the noun first language.",
+        "distractors": {
+          "0": "Who does not mark the required possessive relationship.",
+          "1": "That cannot connect the colleague to the possessed noun phrase in this construction.",
+          "3": "Whom is an object relative pronoun and cannot link a person to their language here."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "colleague",
+          "hebrew": "עמית"
+        }
+      ],
+      "id": "test-13-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "The small sensor ____ recorded lower readings than the other sensors on every trial.",
+      "base": "consist",
+      "answers": [
+        "consistently"
+      ],
+      "explanation": "Consistently modifies recorded and describes the same result across trials.",
+      "id": "test-13-word-1"
+    },
+    {
+      "prompt": "The final report draws three ____ from the evidence and explains the basis for each.",
+      "base": "conclude",
+      "answers": [
+        "conclusions"
+      ],
+      "explanation": "The plural noun conclusions names the judgments reached after evaluating the evidence.",
+      "id": "test-13-word-2"
+    },
+    {
+      "prompt": "The labels were ____ by hand before the museum had access to a printer.",
+      "base": "write",
+      "answers": [
+        "written"
+      ],
+      "explanation": "Written is the past participle of write in the passive construction.",
+      "id": "test-13-word-3"
+    },
+    {
+      "prompt": "Without a scale, the drawing is ____ for calculating the exact width of the doorway.",
+      "base": "use",
+      "answers": [
+        "useless"
+      ],
+      "explanation": "Useless is an adjective indicating that the drawing has no value for this purpose.",
+      "id": "test-13-word-4"
+    }
+  ],
+  "writing": "What would be the most useful part of a guided tour for someone visiting your area for the first time? Explain your answer.",
+  "listening": {
+    "type": "lecture",
+    "clips": [
+      {
+        "context": "Listen to part of a lecture on displaying typeset books.",
+        "transcript": "Printers once kept metal letters in cases divided into compartments. The most frequently needed letters were stored where the printer could reach them easily. The arrangement therefore differed from alphabetical order. A visitor looking only at rows of compartments might assume that some letters were missing. In fact, the order is evidence of working habits, much as the layout of a modern keyboard is.",
+        "audio": "/listening/lecture-6-1.wav",
+        "questions": [
+          {
+            "prompt": "What does the arrangement of the old letter cases reveal?",
+            "options": [
+              "Why printers stopped using the alphabet.",
+              "Which printers had lost parts of their type.",
+              "What size letters a printer could print.",
+              "How printers made often-used letters easy to reach."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "Placement depended on frequency and convenience rather than the alphabet.",
+              "distractors": {
+                "0": "The order of the cases was different from alphabetical order, but typeset books still used the alphabet.",
+                "1": "A visitor may think letters are missing, yet their seeming absence is attributed to layout.",
+                "2": "Compartment order is presented as evidence about usage and reach."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "compartment",
+                "hebrew": "תא"
+              }
+            ],
+            "id": "test-13-audio-1-1",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on measuring home energy use.",
+        "transcript": "An energy adviser asked residents to read their electricity meters each evening for a month. A household reported one day with extraordinarily low use and attributed it to replacing a kitchen appliance. When staff checked the records, they found that Tuesday's meter reading had been taken shortly after breakfast. Wednesday's was taken at the usual evening hour. The low figure labeled Tuesday therefore covered fewer hours than normal, while the figure labeled Wednesday covered more. Rather than treating one day's number as proof that the appliance saved energy, the adviser combined the two figures and compared electricity use over the full interval. The example shows why the timing of a measurement can matter just as much as the accuracy with which the number is recorded.",
+        "audio": "/listening/lecture-6-2.wav",
+        "questions": [
+          {
+            "prompt": "Why did the adviser combine Tuesday's and Wednesday's figures?",
+            "options": [
+              "The meter gave the same reading on both evenings.",
+              "The old appliance was used only on Wednesday.",
+              "Together they covered the normal span for two days.",
+              "Electricity use was higher than expected on both days."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "Adding the periods offsets the shortened Tuesday interval and lengthened Wednesday interval.",
+              "distractors": {
+                "0": "Tuesday's reading was made in the morning, not at the standard evening time.",
+                "1": "The talk supplies no such comparison between appliances across the two days.",
+                "3": "The two daily figures varied in opposite directions because reading times differed."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "interval",
+                "hebrew": "פרק זמן"
+              }
+            ],
+            "id": "test-13-audio-2-1",
+            "type": "lecture",
+            "difficulty": 3
+          },
+          {
+            "prompt": "What general point is illustrated by the example?",
+            "options": [
+              "An accurate number can mislead when its measurement period is unusual.",
+              "Residents usually misread meters after changing an appliance.",
+              "Two days of figures are enough to establish annual savings.",
+              "New appliances save more electricity early in the day."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "The problem was how much time the number covered, not how accurately it was read.",
+              "distractors": {
+                "1": "There is no reported reading error.",
+                "2": "The example does not justify projecting savings over a year.",
+                "3": "The savings claim was precisely what the timing issue made uncertain."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "measurement period",
+                "hebrew": "תקופת מדידה"
+              }
+            ],
+            "id": "test-13-audio-2-2",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on evaluating public information campaigns.",
+        "transcript": "A city launched a series of posters encouraging readers to bring books back to the library by their due dates. The staff hoped for a simple measure of success: a decline in the number of overdue books. Over the first month that number did fall, but the change coincided with a reduction in the total number of books borrowed. Even if borrowers behaved exactly as before, fewer loans would usually mean fewer returns occurring late. Staff recalculated the figures as the proportion of all loans that became overdue. This time the change was much smaller. There was another complication. Two elementary schools had paused their regular visits, and books borrowed during school trips were usually brought back together by a teacher. The kind of borrower represented in the figures had also changed. The staff compared loan records within borrower groups and checked whether the remaining groups returned books earlier than comparable groups had before the posters went up. The comparisons could not rule out every outside influence, but they helped separate changes in borrowing patterns from a change in return habits.",
+        "audio": "/listening/lecture-6-3.wav",
+        "questions": [
+          {
+            "prompt": "Why might the total number of overdue books fall even if return habits did not change?",
+            "options": [
+              "Teachers returned fewer books together that month.",
+              "The library shortened the borrowing period for each book.",
+              "There were fewer borrowed books that could become overdue.",
+              "The staff changed the definition of an overdue book."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "With fewer total loans, the same rate of late returns yields a lower count.",
+              "distractors": {
+                "0": "That concerns borrower composition, while the question asks why the total could drop with the same behavior.",
+                "1": "The length of the permitted borrowing period is not said to have changed.",
+                "3": "No redefinition of an overdue loan is described."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "proportion",
+                "hebrew": "שיעור יחסי"
+              }
+            ],
+            "id": "test-13-audio-3-1",
+            "type": "lecture",
+            "difficulty": 3
+          },
+          {
+            "prompt": "What was the purpose of comparing records within borrower groups?",
+            "options": [
+              "To account for a change in who was borrowing books.",
+              "To determine how many people had seen the posters.",
+              "To explain why the schools stopped visiting.",
+              "To identify the books most often returned late."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "People in different groups could have different return habits, so a change in the mix might affect the overall figure.",
+              "distractors": {
+                "1": "Loan records did not measure whether a borrower saw an advertisement.",
+                "2": "The pause in school visits is treated as a source of bias rather than a finding to explain.",
+                "3": "The analysis compared groups of borrowers, not titles."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "composition",
+                "hebrew": "הרכב"
+              }
+            ],
+            "id": "test-13-audio-3-2",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      }
+    ]
+  }
+}

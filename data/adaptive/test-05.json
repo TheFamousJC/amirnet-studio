@@ -1,0 +1,315 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "Anyone planning to attend the free lecture must ____ by Thursday so the staff can reserve the right number of seats.",
+      "options": [
+        "register",
+        "renew",
+        "rehearse",
+        "arrive"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Signing up tells the staff how many people plan to come.",
+        "distractors": {
+          "1": "There is no existing subscription or prior reservation to extend.",
+          "2": "The people addressed are audience members rather than performers preparing for the lecture.",
+          "3": "Thursday is the deadline for reporting plans rather than necessarily the day of the event."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "register",
+          "hebrew": "להירשם"
+        }
+      ],
+      "id": "test-05-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Previous departments had followed different rules for naming files, so the office adopted a ____ naming system for the entire organization.",
+      "options": [
+        "customary",
+        "modular",
+        "selective",
+        "uniform"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The new system applies the same rules across departments.",
+        "distractors": {
+          "0": "The system was newly adopted; its chief feature is common application, not longstanding use.",
+          "1": "The sentence does not describe a system made of interchangeable parts.",
+          "2": "A selective system would be limited to certain files or groups, whereas this one applies throughout the office."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "uniform",
+          "hebrew": "אחיד"
+        }
+      ],
+      "id": "test-05-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The grant required the project director to ____ the renovation, review progress each week, and resolve problems raised by contractors.",
+      "options": [
+        "undertake",
+        "survey",
+        "oversee",
+        "outline"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Reviewing progress and dealing with problems are responsibilities of someone supervising the work.",
+        "distractors": {
+          "0": "The contractors perform the renovation; the director is described as supervising it.",
+          "1": "A survey would inspect or measure the site rather than manage the work week by week.",
+          "3": "Drawing up a general plan would not cover ongoing monitoring or problem-solving."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "oversee",
+          "hebrew": "לפקח על"
+        }
+      ],
+      "id": "test-05-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "A vague instruction to keep records for a reasonable period was replaced with a rule that will ____ exactly how many years they must be kept.",
+      "options": [
+        "propose",
+        "specify",
+        "approximate",
+        "question"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The revised wording gives a definite retention period.",
+        "distractors": {
+          "0": "The new duration is a binding requirement rather than a suggestion.",
+          "2": "An approximation would conflict with the precise number called for by the sentence.",
+          "3": "The new rule states the duration instead of expressing doubt about it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "specify",
+          "hebrew": "לציין במפורש"
+        }
+      ],
+      "id": "test-05-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "Before filling the jar with fresh water, Elena had to ____ the cloudy water that was already in it.",
+      "options": [
+        "mix",
+        "heat",
+        "empty",
+        "color"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "She needed to remove what the jar already contained.",
+        "distractors": {
+          "0": "Mixing the cloudy and fresh water would leave the old water in place.",
+          "1": "Heating would not make space for the new water.",
+          "3": "The problem was existing water in the jar rather than its color."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "empty",
+          "hebrew": "לרוקן"
+        }
+      ],
+      "id": "test-05-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "Whether the road through the pass reopens tomorrow will ____ on how quickly crews can clear the snow.",
+      "options": [
+        "dwell",
+        "agree",
+        "comment",
+        "depend"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The time needed to clear the snow determines whether the road can reopen.",
+        "distractors": {
+          "0": "To dwell on a topic is to keep thinking or talking about it; a reopening cannot do that.",
+          "1": "The decision is controlled by road conditions rather than consensus with those conditions.",
+          "2": "Reopening is an event rather than a speaker's response."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "depend",
+          "hebrew": "להיות תלוי (בביטוי depend on)"
+        }
+      ],
+      "id": "test-05-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "The lecture was so well attended that only a few seats ____ empty.",
+      "options": [
+        "remained",
+        "were remain",
+        "have remaining",
+        "remaining"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Remained supplies the finite past-tense verb for the result clause.",
+        "distractors": {
+          "1": "Were cannot be followed directly by the bare verb remain in this clause.",
+          "2": "Have remaining is not a valid perfect form of remain.",
+          "3": "Remaining alone cannot be the finite verb."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "attend",
+          "hebrew": "להשתתף"
+        }
+      ],
+      "id": "test-05-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The website allows subscribers ____ back issues without having to contact the publisher.",
+      "options": [
+        "to downloading",
+        "to download",
+        "download for",
+        "that downloading"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Allow can take an object followed by a to-infinitive.",
+        "distractors": {
+          "0": "Infinitival to requires the base verb download.",
+          "2": "The verb allow requires to before download in this pattern.",
+          "3": "That does not connect the object subscribers to a gerund in this construction."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "subscriber",
+          "hebrew": "מנוי"
+        }
+      ],
+      "id": "test-05-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Very little rain fell in April, and ____ reached the reservoir evaporated within a few days.",
+      "options": [
+        "few water that",
+        "the fewer water",
+        "what little water",
+        "how much water had"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "What little water means all of the small quantity that reached the reservoir.",
+        "distractors": {
+          "0": "Water is noncount in this sense and cannot be modified by few.",
+          "1": "Fewer modifies plural count nouns, and this expression also lacks a relative link.",
+          "3": "This combination does not form a subject for evaporated; had would require a participle and belong to an indirect question."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "evaporate",
+          "hebrew": "להתאדות"
+        }
+      ],
+      "id": "test-05-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Only after several witnesses had been interviewed ____ establish when the power outage began.",
+      "options": [
+        "could the investigation to",
+        "could investigators",
+        "did investigators able to",
+        "investigators could"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Initial only after triggers inversion of could and the subject investigators.",
+        "distractors": {
+          "0": "Could must be followed by a bare infinitive after its subject, with no to.",
+          "2": "Able needs a form of be and cannot be the bare verb after did.",
+          "3": "A declarative subject-first order does not fit after the fronted restrictive expression."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "outage",
+          "hebrew": "הפסקת חשמל"
+        }
+      ],
+      "id": "test-05-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "The technicians traced the radio ____ to a damaged cable near the antenna.",
+      "base": "interfere",
+      "answers": [
+        "interference"
+      ],
+      "explanation": "Interference is the noun for the unwanted disturbance to the radio signal.",
+      "id": "test-05-word-1"
+    },
+    {
+      "prompt": "Applicants who had already received the grant were ____ to receive it a second time.",
+      "base": "eligible",
+      "answers": [
+        "ineligible"
+      ],
+      "explanation": "Ineligible means excluded from consideration under the rule.",
+      "id": "test-05-word-2"
+    },
+    {
+      "prompt": "The device was designed ____ for monitoring pressure in narrow pipes, rather than for laboratory experiments generally.",
+      "base": "specific",
+      "answers": [
+        "specifically"
+      ],
+      "explanation": "Specifically modifies designed and indicates a particular purpose.",
+      "id": "test-05-word-3"
+    },
+    {
+      "prompt": "The custom was largely ____ until a historian found a description of it in a private letter.",
+      "base": "forget",
+      "answers": [
+        "forgotten"
+      ],
+      "explanation": "Forgotten is the past participle required by the passive construction.",
+      "id": "test-05-word-4"
+    }
+  ],
+  "writing": "Your community has an unused building. What public purpose would you give it, and why?"
+}

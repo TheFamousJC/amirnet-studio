@@ -1,0 +1,996 @@
+{
+  "id": "test-10",
+  "number": 10,
+  "bankVersion": 2,
+  "title": "Listening for the Missing Caller / Signals from a Tree Ring",
+  "sections": [
+    {
+      "id": "test-10-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "The conservator supported the ____ glass vessel from below, fearing that even gentle pressure would crack it.",
+          "options": [
+            "stable",
+            "scarce",
+            "fragile",
+            "hidden"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“fragile” means easily broken or damaged. The vessel could easily be damaged by handling.",
+            "distractors": {
+              "0": "“stable” means unlikely to change under existing conditions. The clue is that the vessel could easily be damaged by handling.",
+              "1": "“scarce” means available only in small quantities. The clue is that the vessel could easily be damaged by handling.",
+              "3": "“hidden” means kept out of sight. The clue is that the vessel could easily be damaged by handling."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "fragile",
+              "hebrew": "שביר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-10-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "The investigators reported the ____ of the trial as a modest reduction in travel time among the participants.",
+          "options": [
+            "goal",
+            "schedule",
+            "outcome",
+            "method"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“outcome” means result of an event or process. The reduction in travel time was the result the trial produced.",
+            "distractors": {
+              "0": "“goal” means intended result or target. The clue is that the reduction in travel time was the result the trial produced.",
+              "1": "“schedule” means plan that assigns times to activities. The clue is that the reduction in travel time was the result the trial produced.",
+              "3": "“method” means systematic way of doing something. The clue is that the reduction in travel time was the result the trial produced."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "outcome",
+              "hebrew": "תוצאה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-10-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "After removing a layer of soot, conservators were able to ____ much of the fireplace's earlier appearance.",
+          "options": [
+            "prevent",
+            "detect",
+            "monitor",
+            "restore"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“restore” means bring something back to a former state. The fireplace regained an earlier appearance after cleaning.",
+            "distractors": {
+              "0": "“prevent” means stop something from happening. The clue is that the fireplace regained an earlier appearance after cleaning.",
+              "1": "“detect” means discover the presence of something hard to notice. The clue is that the fireplace regained an earlier appearance after cleaning.",
+              "2": "“monitor” means observe or measure over a period of time. The clue is that the fireplace regained an earlier appearance after cleaning."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "restore",
+              "hebrew": "לשקם"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-10-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The council was ____ to close the branch because many of its patrons lived too far from the central library.",
+          "options": [
+            "reluctant",
+            "flexible",
+            "impartial",
+            "cautious"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“reluctant” means unwilling or hesitant to do something. Concern for patrons made the council unwilling to act.",
+            "distractors": {
+              "1": "“flexible” means able to adapt to changes. The clue is that concern for patrons made the council unwilling to act.",
+              "2": "“impartial” means free from preference for one party or side. The clue is that concern for patrons made the council unwilling to act.",
+              "3": "“cautious” means careful to avoid unwarranted certainty or risk. The clue is that concern for patrons made the council unwilling to act."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "reluctant",
+              "hebrew": "מסויג, מהסס"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-10-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "By combining surviving pages from two damaged volumes, scholars were able to ____ the missing sections of the text.",
+          "options": [
+            "quantify",
+            "attribute",
+            "regulate",
+            "recover"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“recover” means get back something that was lost or inaccessible. The scholars recreated parts that had been lost.",
+            "distractors": {
+              "0": "“quantify” means express the magnitude of something in numbers. The clue is that the scholars recreated parts that had been lost.",
+              "1": "“attribute” means identify something as the cause or origin of an outcome. The clue is that the scholars recreated parts that had been lost.",
+              "2": "“regulate” means control an activity or process through a system or rules. The clue is that the scholars recreated parts that had been lost."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "recover",
+              "hebrew": "לשחזר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-10-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The reviewer argued that the role of a school librarian was ____ to that of an urban guide: each helped newcomers navigate an unfamiliar system.",
+          "options": [
+            "analogous",
+            "anomalous",
+            "arbitrary",
+            "ambiguous"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“analogous” means similar in a relevant respect despite other differences. The comparison rests on a similar function despite different settings.",
+            "distractors": {
+              "1": "“anomalous” means inconsistent with an otherwise regular pattern. The clue is that the comparison rests on a similar function despite different settings.",
+              "2": "“arbitrary” means based on chance or preference rather than a defensible reason. The clue is that the comparison rests on a similar function despite different settings.",
+              "3": "“ambiguous” means capable of being understood in more than one way. The clue is that the comparison rests on a similar function despite different settings."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "analogous",
+              "hebrew": "מקביל, אנלוגי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-10-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-10-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "The advisory group had drawn almost entirely on accountants. Adding nurses, building managers, and translators was intended to make the group's professional experience more ____.",
+          "options": [
+            "diverse",
+            "consistent",
+            "advanced",
+            "cohesive"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The members will bring a wider range of professional backgrounds.",
+            "distractors": {
+              "1": "Adding a wider range of professional experience makes the membership less uniform, not more.",
+              "2": "Nothing suggests the new professions require more senior or specialized experience than accounting.",
+              "3": "Cohesion means unity within a group; the cue concerns variety in who joins."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "diverse",
+              "hebrew": "מגוון"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-10-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "Before printing the new labels, the curator asked two staff members to ____ the dates against the accession records.",
+          "options": [
+            "verify",
+            "update",
+            "estimate",
+            "assign"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Checking the dates against a primary record establishes whether they are correct.",
+            "distractors": {
+              "1": "Checking may result in changes, but the immediate task is to establish whether changes are needed.",
+              "2": "The records provide exact entries against which to check, rather than a basis for approximate guesses.",
+              "3": "Dates should be checked, not assigned by the staff at their discretion."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "verify",
+              "hebrew": "לאמת, לבדוק נכונות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-10-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "Equipment designed for occasional wet weather corroded when exposed to ____ dampness throughout the four-month rainy season.",
+          "options": [
+            "acute",
+            "prolonged",
+            "sporadic",
+            "residual"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The exposure lasted for an extended time.",
+            "distractors": {
+              "0": "This typically describes intensity or a severe episode, while “throughout” gives the duration.",
+              "2": "Sporadic dampness would occur intermittently, whereas the problem was continuing exposure.",
+              "3": "Residual dampness remains after a source is removed; the exposure occurred during the season itself."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "prolonged",
+              "hebrew": "ממושך"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-10-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "There was no disagreement about the scientific merits of the project, but the five-year excavation was hardly ____ with only a single part-time researcher.",
+          "options": [
+            "desirable",
+            "obligatory",
+            "feasible",
+            "original"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The constraint is whether the project could actually be carried out with available staffing.",
+            "distractors": {
+              "0": "The panel agreed on the project's merits; the question concerns resources, not desirability.",
+              "1": "Staff limitations do not establish whether the excavation is required.",
+              "3": "The staffing level does not bear on whether the research idea is new."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "feasible",
+              "hebrew": "בר־ביצוע"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-10-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "Every reviewer had to ____ any consultancy work for the company before the panel could decide whether to accept the review.",
+          "options": [
+            "disclose",
+            "denounce",
+            "relinquish",
+            "substantiate"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The rule requires reviewers to make a potential conflict known.",
+            "distractors": {
+              "1": "It requires disclosure rather than public condemnation of the work.",
+              "2": "The rule calls for informing the panel, not giving up the consultancy.",
+              "3": "This would prove a claim about consultancy work, which cannot substitute for first making the relationship known."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "disclose",
+              "hebrew": "לחשוף, לגלות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-10-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "No single footstep noticeably damaged the stone staircase. The grooves were the ____ effect of decades of traffic.",
+          "options": [
+            "alternating",
+            "cumulative",
+            "incidental",
+            "immediate"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The effect builds as the small contributions of many actions accumulate.",
+            "distractors": {
+              "0": "The sentence describes a single effect building up, not a recurring switch between two effects.",
+              "2": "The footprints may have been unintended, but the mechanism described is accumulation over time.",
+              "3": "The damage developed slowly, rather than appearing straight away."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "cumulative",
+              "hebrew": "מצטבר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-10-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-10-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Listening for the Missing Caller",
+        "paragraphs": [
+          "A community organisation seeking advice on public services may schedule evening calls instead of asking residents to attend a meeting. A telephone consultation saves travel and lets the organisers hear from people living far from the meeting hall. It still demands access to a handset, a reasonable interval of privacy, and confidence that an unfamiliar call should be answered. These conditions help determine whose opinions enter the record. An organiser who knows how many invited residents participated possesses a valuable count, but the count can hide marked inequalities in who was available to take part.",
+          "Consider a consultation about common laundry rooms in apartment buildings. The organisers leave a message with every sampled household and invite a resident to call back between six and eight. People already home when the period begins are more likely to respond. Those who work in the evening may be regular users of the laundry room on quiet afternoons, and their experiences could be particularly relevant to the proposal. If the analysis divides answers by age and district, the lost perspectives might still remain invisible. Age and place are easier to record than daily availability, and matching the population on those dimensions does not correct a selection process driven by a different factor.",
+          "In a revised effort, the organisers call some of the previously unreachable residents at other hours and allow a short written response. They use the same prompts and learn that daytime users are particularly concerned about unpredictable maintenance closures. That observation is sufficient to justify examining the issue. It does not establish how common the concern is across the population because the extra contacts were designed to recover missing perspectives rather than construct a second representative sample. Such evidence can expand the range of known experiences without supporting a precise numerical estimate.",
+          "A defensible report would distinguish between these aims. It can state how many people answered under the original protocol, describe the later attempts, and explain what the new material adds to an understanding of the problem. Understating the limitations of the original call period obscures a choice the organisers made. Treating the later interviews as conclusive risks turning a correction into another source of distortion. A consultation becomes more informative when its account of who spoke includes a serious examination of the opportunities people had to speak. Then a reader can tell whether a distribution of answers reflects a wide range of experiences or a narrow range of routes through which those experiences could be recorded."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "Which principle about public consultation does the author develop?",
+          "options": [
+            "Written follow-up should become the primary source for measuring how widespread neglected concerns are.",
+            "The conditions for responding influence what the result can establish and should be made visible in the report.",
+            "Consultation reports should correct differences in participation by matching respondents to the population on easily measured dimensions.",
+            "The number of replies is the best guide to whether a consultation gathered a wide range of experience."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The call window and revised contact efforts show the need to document opportunities for response.",
+            "distractors": {
+              "0": "Written follow-up can uncover concerns, but its recruitment supplies no prevalence estimate.",
+              "2": "Age and district can match while an unmeasured condition, such as availability, still skews the results.",
+              "3": "A total can be accurate even when one method makes some experiences harder to record."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "protocol",
+              "hebrew": "נוהל"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-10-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why might a sample that matches the population on age still fail to represent an important viewpoint?",
+          "options": [
+            "People of a given age may use a telephone more readily than a written reply.",
+            "Participants of similar ages may live in districts whose laundries face different maintenance budgets.",
+            "Age matching may hide disproportionately high participation by people who frequently use the laundry in the afternoon.",
+            "Participation can still depend on working hours, which affect use of the laundry room."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Matching age does not resolve selection along a separate scheduling dimension.",
+            "distractors": {
+              "0": "Both modes occurred in the program, but the example provides no age-specific effect of response format.",
+              "1": "District is relevant to the reported analysis but the example ties the missing perspective to availability, and introduces no budget variation.",
+              "2": "The scenario makes these daytime users more likely to be working and unreachable in the evening."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "selection",
+              "hebrew": "ברירה"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-10-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the writer assess the later interviews and written responses?",
+          "options": [
+            "As data that correct the distribution of evening responses.",
+            "As valuable mainly because they repeat the same prompts with a second representative sample.",
+            "As useful to document why the first sample was biased, but insufficient to justify any further investigation.",
+            "As useful evidence about a concern whose prevalence remains uncertain."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The author accepts their role in discovering perspectives and limits their inferential scope.",
+            "distractors": {
+              "0": "They recover some viewpoints rather than provide a representative supplement for adjusting the numbers.",
+              "1": "The prompts are the same, but the follow-up deliberately targets missing perspectives rather than another representative sample.",
+              "2": "The newly raised issue is explicitly said to be worth examining even without an estimate of prevalence."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "defensible",
+              "hebrew": "בר־הגנה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-10-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “distortion” refer to when the author considers treating the later interviews as conclusive?",
+          "options": [
+            "An inconsistency in the wording of questions across responses.",
+            "A misleading presentation of what the contact evidence can support.",
+            "A difference in concern between respondents contacted at different hours.",
+            "The concealment of a choice in the original telephone schedule."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Overinterpretation could bias the resulting account despite the corrective intention.",
+            "distractors": {
+              "0": "The same prompts were used, and the problem is overclaiming what the responses establish.",
+              "2": "Such a difference may be real; the distortion is an unsupported conclusion drawn from it.",
+              "3": "That is a separate reporting risk; the term in context points to treating the added interviews as conclusive."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "distortion",
+              "hebrew": "עיוות"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-10-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What specific concern emerged from residents reached through the revised procedure?",
+          "options": [
+            "That maintenance was routinely scheduled during the evening consultation hours.",
+            "Maintenance closures that were hard to anticipate.",
+            "That the room was rarely available at peak hours because demand was high.",
+            "That the evening users could not predict which rooms would be cleaned first."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The additional answers highlighted this among daytime users.",
+            "distractors": {
+              "0": "The call period is specified, but no usual closure hour is identified.",
+              "2": "The problem named concerns unpredictable interruptions for maintenance, rather than crowding.",
+              "3": "The newly reached residents are daytime users concerned with closures, not evening users tracking cleaning order."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "unpredictable",
+              "hebrew": "בלתי צפוי"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-10-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-10-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Although most of the ceramics came from one workshop, their decorations differed considerably.",
+          "options": [
+            "Their decorations differed considerably, which prevented anyone from finding out whether most of the ceramics came from one workshop.",
+            "Their decorations differed considerably only before it became clear that most of the ceramics came from one workshop.",
+            "Because most of the ceramics came from one workshop, their decorations differed considerably.",
+            "Most of the ceramics came from one workshop; nevertheless, their decorations differed considerably."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “most of the ceramics came from one workshop” and “their decorations differed considerably.”",
+            "distractors": {
+              "0": "It introduces an obstacle to discovering the first fact, which the original states directly.",
+              "1": "It limits the second fact to an earlier time and adds a discovery that the original never mentions.",
+              "2": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-10-restatement-1-1"
+        },
+        {
+          "prompt": "The tents were reinforced along their seams as a result of the fact that the lighter fabric tore easily.",
+          "options": [
+            "The lighter fabric tore easily; nevertheless, the tents were reinforced along their seams.",
+            "The tents were reinforced along their seams, but it is unknown whether the lighter fabric tore easily.",
+            "The lighter fabric tore easily; consequently, the tents were reinforced along their seams.",
+            "The tents were reinforced along their seams; consequently, the lighter fabric tore easily."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the lighter fabric tore easily, leading to the result that the tents were reinforced along their seams.",
+            "distractors": {
+              "0": "It replaces the causal relationship with a concession.",
+              "1": "It casts doubt on the cause, which the original treats as an established fact.",
+              "3": "It reverses the direction of cause and result."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-10-restatement-1-2"
+        },
+        {
+          "prompt": "Once the harbor has reopened, the ferry operator will resume the island service.",
+          "options": [
+            "The ferry operator will resume the island service after the harbor has reopened.",
+            "The ferry operator will resume the island service before the harbor has reopened.",
+            "The ferry operator will resume the island service, regardless of whether the harbor has reopened.",
+            "The ferry operator will not resume the island service even after the harbor has reopened."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled. The first event has to be complete.",
+            "distractors": {
+              "1": "It places the scheduled action before the event that the sentence puts first.",
+              "2": "It makes the first event irrelevant to the timing of the second.",
+              "3": "It denies the stated plan to carry out the second action."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-10-restatement-1-3"
+        },
+        {
+          "prompt": "The archive will issue reading cards only if the borrowers provide proof of address.",
+          "options": [
+            "The archive will issue reading cards only on condition that the borrowers provide proof of address.",
+            "The archive will issue reading cards only if it is impossible to establish that the borrowers provide proof of address.",
+            "The archive will issue reading cards whether or not the borrowers provide proof of address.",
+            "The archive will issue reading cards in every case in which the borrowers provide proof of address."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The condition “the borrowers provide proof of address” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "1": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met.",
+              "2": "It removes the requirement by making the outcome independent of the condition.",
+              "3": "It treats the condition as sufficient and promises the outcome whenever it is met."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-10-restatement-1-4"
+        },
+        {
+          "prompt": "The recording from the balcony seemed clear compared with the recording from the stage.",
+          "options": [
+            "The difference in clarity was established when the recording from the stage was clearer than the recording from the balcony in a formal test.",
+            "The recording from the balcony appeared to match the recording from the stage in clarity.",
+            "The recording from the stage appeared to exceed the recording from the balcony in clarity.",
+            "The recording from the balcony appeared to exceed the recording from the stage in clarity."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the recording from the stage, first. The comparison concerns clarity.",
+            "distractors": {
+              "0": "It turns an impression into a demonstrated finding and invents a formal test.",
+              "1": "It describes the two items as equal on the stated measure.",
+              "3": "It reverses the relative ranking of the two items."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-10-restatement-1-5"
+        },
+        {
+          "prompt": "But for a small emergency grant, the college would have canceled the excavation.",
+          "options": [
+            "The college would have canceled the excavation because of a small emergency grant.",
+            "Whether a small emergency grant made any difference to the outcome is unknown.",
+            "The college would have canceled the excavation regardless of the effect of a small emergency grant.",
+            "The college would have canceled the excavation in the absence of a small emergency grant."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the college would have canceled the excavation” belongs to the hypothetical situation in which a small emergency grant was absent.",
+            "distractors": {
+              "0": "It attributes the hypothetical result to the presence of the factor rather than its absence.",
+              "1": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs.",
+              "2": "It predicts the same result without changing whether the factor was present."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-10-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-10-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the rain stops before the race, the organizers will use the alternate route.",
+          "options": [
+            "The organizers will use the alternate route only in the event that the rain stops before the race.",
+            "The organizers may or may not use the alternate route, depending on whether the rain stops before the race.",
+            "The rain stops before the race; therefore, the organizers will use the alternate route.",
+            "The organizers will use the alternate route, including in the event that the rain stops before the race."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the rain stops before the race. The original leaves that case hypothetical.",
+            "distractors": {
+              "0": "It turns a condition that would make no difference into a requirement.",
+              "1": "It makes the outcome depend on the hypothetical condition.",
+              "2": "It turns an open possibility into an established fact and presents it as the cause."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-10-restatement-2-1"
+        },
+        {
+          "prompt": "The first committee neither endorsed nor expressly rejected the idea of charging for admission after dark.",
+          "options": [
+            "The first committee rejected the idea of charging for admission after dark without giving a reason.",
+            "The first committee offered no endorsement of the idea of charging for admission after dark and issued no explicit rejection either.",
+            "The first committee withdrew an earlier endorsement of the idea of charging for admission after dark.",
+            "The first committee accepted the idea of charging for admission after dark in principle while withholding public support."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It asserts an explicit rejection, which the original rules out.",
+              "2": "It invents a prior endorsement and a reversal of position.",
+              "3": "It invents an acceptance in principle, which cannot be inferred from the original."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-10-restatement-2-2"
+        },
+        {
+          "prompt": "The preservation of the houses stemmed less from formal protection by the council than from the continued use of rooms as workshops.",
+          "options": [
+            "Formal protection by the council and the continued use of rooms as workshops played equally important roles in the preservation of the houses.",
+            "The preservation of the houses was the principal reason for both formal protection by the council and the continued use of rooms as workshops.",
+            "The continued use of rooms as workshops contributed more to the preservation of the houses than formal protection by the council did.",
+            "Formal protection by the council was the greater contributor to the preservation of the houses, though the continued use of rooms as workshops also mattered."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “the continued use of rooms as workshops” greater explanatory weight than “formal protection by the council.”",
+            "distractors": {
+              "0": "It makes the factors equally important despite the stated inequality.",
+              "1": "It makes the outcome cause the factors that are supposed to explain it.",
+              "3": "It reverses the relative importance of the factors."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-10-restatement-2-3"
+        },
+        {
+          "prompt": "The climbers did not leave the camp until the wind had dropped.",
+          "options": [
+            "The climbers left the camp before the wind had dropped.",
+            "The climbers did not leave the camp, although the wind had dropped.",
+            "The climbers left the camp only after the wind had dropped.",
+            "The climbers left the camp as evidence that the wind had dropped."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "0": "It reverses the sequence by placing the main action first.",
+              "1": "It makes the main action fail to occur, whereas the original reports that it happened later.",
+              "3": "It turns a timing relationship into an assertion about the actor’s purpose."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-10-restatement-2-4"
+        },
+        {
+          "prompt": "Except for the riverside garden, none of the city's public gardens open before sunrise.",
+          "options": [
+            "The riverside garden opens before sunrise, and at least one other member of the group shares that distinction.",
+            "It has not been determined whether the riverside garden opens before sunrise.",
+            "The riverside garden opens before sunrise; the others in the same group do not.",
+            "All the city's public gardens open before sunrise except the riverside garden."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the riverside garden is the single item that has the stated property.",
+            "distractors": {
+              "0": "It allows a second exception even though “sole” limits the number to one.",
+              "1": "It changes an explicit exception into an uncertainty.",
+              "3": "It gives the property to the entire group except the one item that actually has it."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-10-restatement-2-5"
+        },
+        {
+          "prompt": "Although the foreword is at odds with the editor's claim of neutrality, it would be misleading to read the entire anthology as an argument for one position.",
+          "options": [
+            "The anthology's refusal to take a position explains why the editor describes the foreword as deliberately partial.",
+            "Since the foreword is partial, it is reasonable to assume that every selection supports the same position.",
+            "The editor's foreword presents a neutral account despite the anthology's consistent support for one position.",
+            "The foreword gives grounds for questioning the editor's claim of neutrality, but the collection as a whole should not be understood as advancing a single viewpoint."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The correct option keeps the tension between the foreword and the claimed neutrality while limiting what can be concluded about the collection",
+            "distractors": {
+              "0": "It proposes a motivation and an editorial description absent from the sentence",
+              "1": "It draws precisely the inference the original calls misleading",
+              "2": "It swaps the descriptions of the foreword and the anthology as a whole"
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "at odds with",
+              "hebrew": "סותר / אינו עולה בקנה אחד עם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-10-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-10-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Signals from a Tree Ring",
+        "paragraphs": [
+          "A board cut across the trunk of a tree displays a series of pale and dark bands. In many environments, each cycle of growth produces a distinctive pair of zones. By aligning patterns of particularly wide and narrow rings in pieces of wood, researchers can place a specimen in a longer sequence with dates. This method can even connect timber in a building with the years its source tree grew. The year of the last surviving ring is the earliest the tree could have been cut, however, because a carpenter may have removed the outer wood. Some boards preserve that last stage of growth better than others.",
+          "Using rings to estimate climate introduces a different problem. A tree at the upper limit of a mountain forest may grow more vigorously in a warm summer because cold often constrains its growth. A tree of the same species in a dry lowland valley might produce a narrow ring in a hot year if the warmth increases its demand for water. In the first setting, wide rings can accompany warmth. In the second setting, they can reflect ample moisture. The species name alone is insufficient to identify a ring's climatic meaning. Site conditions, age, competition and disturbance all influence the response.",
+          "Measurement also matters. The width of a ring is closely related to how much wood forms, but density tells something different about its internal structure. A tree can begin to grow early in a season and then produce little dense late-season wood if conditions deteriorate. Conversely, favourable late conditions may support dense tissue even after a poor start. Researchers sometimes use several properties of the same ring to resolve such differences, alongside modern weather records to check how each property behaves in known conditions.",
+          "A resulting reconstruction may be robust across centuries, or it may only be reliable for a particular site and interval. The possibility that the dominant constraint can change is worth particular attention. Trees once limited mainly by cold could become increasingly limited by water as the climate changes. Extrapolating a single modern relationship over centuries would be hazardous in such a setting. Cross-checking with other species, sites and historical evidence helps distinguish a widely shared climate signal from an idiosyncratic local response. The practical strength of tree rings is that their exact sequence allows that comparison to be made year by year."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What is the main aim of “Signals from a Tree Ring”?",
+          "options": [
+            "To explain why ring density should replace ring width in climate estimates.",
+            "To show how one well-dated species can provide a uniform measure of climate over many sites.",
+            "To show how building timbers can be dated more reliably than past temperature changes.",
+            "To explain why well-dated growth patterns require calibration and context to serve as historical evidence."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The passage distinguishes dating ring sequences from interpreting several environmental effects.",
+            "distractors": {
+              "0": "Density and width yield different information and may be combined.",
+              "1": "The same species can respond differently depending on site conditions.",
+              "2": "Timber dating introduces chronological matching, but the main concern is the contextual use of rings."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "reconstruction",
+              "hebrew": "שחזור"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-10-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why could warming be associated with wider rings at a high site and narrower rings in a low valley?",
+          "options": [
+            "Trees at both sites are limited by cold, but rapid growth makes the valley wood less dense.",
+            "A warmer summer can supply more moisture at the high site while delaying growth at the low site.",
+            "Warming can relieve cold stress at one site while aggravating water scarcity at the other.",
+            "Only the high-site pattern reflects climate; lowland width changes reflect site disturbance alone."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Limiting factors differ across settings even for the same species.",
+            "distractors": {
+              "0": "The contrast is between factors limiting width, and density is a distinct characteristic.",
+              "1": "Warmth relieves cold in one location and raises water demand in the drier setting.",
+              "3": "Water constraints can create climatic growth responses in the valley as well."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "constrain",
+              "hebrew": "להגביל"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-10-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "What tone does the writer adopt toward extending modern climate correlations into the distant past?",
+          "options": [
+            "Ready to apply the relationship wherever the same species occurs.",
+            "Cautious, allowing that the relationship to weather may have changed.",
+            "Doubtful that modern records can help interpret tree rings under any historical conditions.",
+            "Confident that the same weather variable remains important if dated rings are sampled at one site."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The text warns that the growth constraint can shift over time.",
+            "distractors": {
+              "0": "The species alone is insufficient to establish which climate factor dominates.",
+              "2": "Modern weather can calibrate the record, even though extrapolation has limits.",
+              "3": "Even within a site, the dominant constraint can change over time."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "extrapolate",
+              "hebrew": "להסיק מעבר לנתונים"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-10-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “idiosyncratic” mean in the final paragraph?",
+          "options": [
+            "Peculiar to a particular site.",
+            "Characteristic of the species as a whole.",
+            "Caused by a flaw in the measurement method.",
+            "Variable from year to year."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The writer contrasts a local peculiarity with a signal shared across many areas.",
+            "distractors": {
+              "1": "The concluding contrast concerns a peculiarity of a specific location.",
+              "2": "The response can be a genuine effect of local conditions.",
+              "3": "A local response may be variable, but the contrast concerns where a response is shared."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "idiosyncratic",
+              "hebrew": "ייחודי ומאפיין מקום מסוים"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-10-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What helps researchers date a piece of timber whose rings are still visible?",
+          "options": [
+            "Selecting a modern tree of the same species with similarly dense wood.",
+            "Matching its sequence of wide and narrow rings to a dated longer sequence.",
+            "Inferring the cutting date from the thickest surviving outer ring.",
+            "Estimating its growth rate from the density of its late-season wood."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "A characteristic pattern can overlap with an established chronology.",
+            "distractors": {
+              "0": "A similarity in density or species does not by itself align the timber to a dated chronology.",
+              "2": "The pattern of multiple rings must be matched; the final outer wood may also be missing.",
+              "3": "Density can inform climate interpretation, but an overlap in the width sequence establishes the date."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "align",
+              "hebrew": "ליישר ולהתאים"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-10-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

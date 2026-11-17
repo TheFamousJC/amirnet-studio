@@ -1,0 +1,476 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "To make sure each booth was covered, the coordinator used a roster to ____ one volunteer to every booth.",
+      "options": [
+        "introduce",
+        "assign",
+        "attach",
+        "train"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The coordinator designated who should work at each booth.",
+        "distractors": {
+          "0": "No one is being presented to someone else; the roster distributes people across posts.",
+          "2": "The roster establishes duties rather than physically fastening volunteers to booths.",
+          "3": "The stated aim is coverage; the roster does not teach the volunteers how to do the job."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "assign",
+          "hebrew": "להקצות; להטיל"
+        }
+      ],
+      "id": "test-03-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The mural was designed to ____ life in the old harbor, with painted scenes of dock workers, rope makers, and fish sellers.",
+      "options": [
+        "depict",
+        "reform",
+        "document",
+        "commemorate"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The painted scenes represent everyday life in the harbor.",
+        "distractors": {
+          "1": "Showing the activities of harbor workers does not change the way they worked.",
+          "2": "The sentence describes visual representation and makes no claim that the mural was assembled as a factual record.",
+          "3": "The focus is on portraying everyday scenes rather than marking a specific person, event, or anniversary."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "depict",
+          "hebrew": "לתאר; להציג"
+        }
+      ],
+      "id": "test-03-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The two workshops covered the same topics and charged the same fee, but the first took three hours and the second six, so they differed in ____ alone.",
+      "options": [
+        "scope",
+        "sequence",
+        "frequency",
+        "duration"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Duration is elapsed time, the one difference the sentence identifies.",
+        "distractors": {
+          "0": "The scope is the set of topics covered, and that was the same.",
+          "1": "No difference in the order of topics is stated.",
+          "2": "Frequency would concern how often workshops take place rather than how long each takes."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "duration",
+          "hebrew": "משך"
+        }
+      ],
+      "id": "test-03-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "To see whether the striking observation was reproducible, a second team tried to ____ the experiment with the same materials and procedure.",
+      "options": [
+        "extend",
+        "summarize",
+        "replicate",
+        "reconstruct"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The team repeated the experiment in order to check whether the observation recurred.",
+        "distractors": {
+          "0": "Extending the experiment would add conditions, steps, or duration; the follow-up kept the procedure the same.",
+          "1": "A summary would describe the earlier experiment rather than conduct it again.",
+          "3": "The procedure was already known; the team reran it rather than trying to infer what the first team had done."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "replicate",
+          "hebrew": "לשחזר; לחזור על ניסוי"
+        }
+      ],
+      "id": "test-03-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The shop sent a driver to ____ a meal to a customer who could not come in person.",
+      "options": [
+        "order",
+        "cook",
+        "store",
+        "deliver"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The driver takes the meal to the customer's location.",
+        "distractors": {
+          "0": "The customer already requested the meal; the driver is taking it to them.",
+          "1": "The driver is sent out after the food is prepared.",
+          "2": "The aim is for the customer to receive the meal rather than have it put away."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "deliver",
+          "hebrew": "למסור; לספק"
+        }
+      ],
+      "id": "test-03-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "Before accepting the shipment, staff needed to ____ the cartons for signs of water damage.",
+      "options": [
+        "inspect",
+        "replace",
+        "seal",
+        "repair"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Checking the cartons closely would reveal whether water had damaged them.",
+        "distractors": {
+          "1": "Replacement would follow a finding of damage, not establish it.",
+          "2": "Closing or wrapping the cartons would not determine their condition.",
+          "3": "Repair work would follow inspection if any damage were found."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "inspect",
+          "hebrew": "לבדוק מקרוב"
+        }
+      ],
+      "id": "test-03-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "No sooner ____ the rehearsal than the building lost power.",
+      "options": [
+        "the orchestra began",
+        "the orchestra had begun",
+        "has the orchestra begin",
+        "had the orchestra begun"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "No sooner at the beginning requires inversion, and past perfect places the first action before the second.",
+        "distractors": {
+          "0": "This simple-past subject-first form also lacks the required inversion.",
+          "1": "The usual subject-first order is not licensed after fronted No sooner.",
+          "2": "Has needs a past participle, and present perfect conflicts with the past narrative."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "rehearsal",
+          "hebrew": "חזרה"
+        }
+      ],
+      "id": "test-03-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The guide recommended ____ the caves in the morning, when the paths are usually less crowded.",
+      "options": [
+        "that visit",
+        "should visiting",
+        "to visit at",
+        "visiting"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Recommend can take a gerund phrase as its complement.",
+        "distractors": {
+          "0": "A that clause needs a subject before visit.",
+          "1": "Should requires a base verb and a clause with a subject.",
+          "2": "Recommend does not directly take to visit here, and visit does not require at before its object."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "recommend",
+          "hebrew": "להמליץ"
+        }
+      ],
+      "id": "test-03-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Each of the participants ____ a separate consent form before the interviews began.",
+      "options": [
+        "was given",
+        "had been giving",
+        "have given",
+        "were given"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Each is singular, and the participants received the form.",
+        "distractors": {
+          "1": "Had been giving makes the participant the giver and does not fit the procedure described.",
+          "2": "Have does not agree with each, and the sentence describes receiving forms.",
+          "3": "Were cannot agree with each in this construction."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "consent",
+          "hebrew": "הסכמה"
+        }
+      ],
+      "id": "test-03-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The roadway was closed ____ a retaining wall had shifted in the rain.",
+      "options": [
+        "in view to",
+        "on the grounds that",
+        "as a result of",
+        "despite of"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "On the grounds that introduces a full clause giving the reason.",
+        "distractors": {
+          "0": "In view to is not a causal conjunction before a finite clause.",
+          "2": "As a result of needs a noun phrase or gerund instead.",
+          "3": "Despite does not take of and would indicate concession."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "retaining wall",
+          "hebrew": "קיר תומך"
+        }
+      ],
+      "id": "test-03-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "The change in color was barely ____ without a magnifying lens and strong lighting.",
+      "base": "perceive",
+      "answers": [
+        "perceptible"
+      ],
+      "explanation": "Perceptible is an adjective meaning able to be detected.",
+      "id": "test-03-word-1"
+    },
+    {
+      "prompt": "Although most of the wooden tools had decayed, one was ____ almost intact in the waterlogged soil.",
+      "base": "preserve",
+      "answers": [
+        "preserved"
+      ],
+      "explanation": "The past participle preserved follows was to form the passive.",
+      "id": "test-03-word-2"
+    },
+    {
+      "prompt": "The printed menu offers several vegetarian ____, including two dishes based on beans.",
+      "base": "choose",
+      "answers": [
+        "choices"
+      ],
+      "explanation": "Choices is the plural noun derived from choose, required after several.",
+      "id": "test-03-word-3"
+    },
+    {
+      "prompt": "____, the survey team measures the shoreline on the first Monday of June.",
+      "base": "annual",
+      "answers": [
+        "Annually"
+      ],
+      "explanation": "Annually means once a year and must be capitalized because it starts the sentence.",
+      "id": "test-03-word-4"
+    }
+  ],
+  "writing": "Should museums make admission free for local residents? Support your answer with reasons or an example.",
+  "listening": {
+    "type": "lecture",
+    "clips": [
+      {
+        "context": "Listen to part of a lecture on furniture conservation.",
+        "transcript": "One antique chair in our collection has a faded rectangular patch on its seat. That looks like damage, but the museum will keep it. The patch shows where a cushion protected the material while the exposed fabric changed color. A new covering would make the seat look more uniform. It would also hide evidence of how the chair was used before it reached the museum.",
+        "audio": "/listening/lecture-2-1.wav",
+        "questions": [
+          {
+            "prompt": "Why do the conservators keep the faded area visible?",
+            "options": [
+              "The contrast provides information about past use.",
+              "Replacing the fabric would make it fade faster.",
+              "The protected area shows where new fabric was added.",
+              "The seat would look less uniform if restored."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "The differing colors indicate where a cushion once protected the seat.",
+              "distractors": {
+                "1": "The talk makes no claim about how quickly replacement material would fade.",
+                "2": "The patch came from uneven exposure of existing fabric.",
+                "3": "The lecturer says replacement would make the surface more uniform."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "uniform",
+                "hebrew": "אחיד"
+              }
+            ],
+            "id": "test-03-audio-1-1",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on teaching with historical maps.",
+        "transcript": "A reproduction enables students to examine a large historical map without exposing fragile paper to repeated handling. But a reproduction can unintentionally change what students notice. In one workshop, we showed half the class an old route map as a high-resolution scan. Other students saw a print in its original dimensions, slightly larger than a notebook. The first group enlarged the settlement names and discussed spelling. The second group commented more often on how several routes surrounded one large blank area. Neither group was mistaken. A scan makes close inspection convenient, while a print of the whole sheet makes the relative positions easier to take in at once. The instructor now supplies both views, with separate questions tailored to the kinds of observation each supports.",
+        "audio": "/listening/lecture-2-2.wav",
+        "questions": [
+          {
+            "prompt": "Why does the instructor now provide both views of the map?",
+            "options": [
+              "Neither view alone shows the complete route map.",
+              "The print is needed to correct errors introduced by scanning.",
+              "Students can use the scan to identify damage to the original.",
+              "Each view makes a different feature easier to study."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "One view facilitates magnifying names, and the other makes overall spatial relationships easier to see.",
+              "distractors": {
+                "0": "The difference is in how students inspect the map, not missing content.",
+                "1": "The discussion concerns attention and scale rather than inaccuracies in digitization.",
+                "2": "Protecting original paper is mentioned, but identifying damage is not the workshop goal."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "relative positions",
+                "hebrew": "מיקומים יחסיים"
+              }
+            ],
+            "id": "test-03-audio-2-1",
+            "type": "lecture",
+            "difficulty": 3
+          },
+          {
+            "prompt": "Which observation was reported more often by students who saw the original-size print?",
+            "options": [
+              "Some names used unusual spellings.",
+              "Several lines enclosed a relatively empty region.",
+              "The page had already been damaged by handling.",
+              "The print reproduced fewer names than the scan."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "The print group more often noticed routes enclosing a blank area.",
+              "distractors": {
+                "0": "The scan group discussed the spelling of names.",
+                "2": "No observation of original damage was reported.",
+                "3": "The two presentation formats emphasize different features, not different sets of names."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "enclose",
+                "hebrew": "להקיף"
+              }
+            ],
+            "id": "test-03-audio-2-2",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on pedestrian wayfinding.",
+        "transcript": "In a railway terminal, signs are often placed where a designer sees a long, uninterrupted line of sight on a plan. Passengers do not look at the plan. They read signs while pulling luggage, checking a ticket, or following a crowd. A station tested two designs for signs directing passengers to its exit. The first put large lettering near the entrance to the main hall. The second repeated a smaller arrow just before each point where someone had to turn. People using the first design took less time to find the sign. However, more of them made a wrong turn afterward. The station might have chosen the larger sign if its only measure had been how quickly test participants first looked up. Instead, the researchers accompanied each participant until that person reached the street. They chose the repeated arrows because the goal was successful navigation. This example does not establish that smaller lettering is generally better. A sign can fail because travelers cannot read it, but it can also fail because the instruction arrives too early to help them make the decision it describes.",
+        "audio": "/listening/lecture-2-3.wav",
+        "questions": [
+          {
+            "prompt": "Why did the station choose the design with repeated arrows?",
+            "options": [
+              "Its first arrow was identified sooner.",
+              "It helped more passengers avoid wrong turns.",
+              "Its lettering could be read from a greater distance.",
+              "It better matched the designers’ terminal plan."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "The station used successful navigation as its criterion, and wrong turns were less common with repeated arrows.",
+              "distractors": {
+                "0": "Passengers found the larger initial sign sooner.",
+                "2": "The arrows had smaller lettering and their range was not the deciding factor.",
+                "3": "The test followed what passengers actually did rather than comparing designs on a plan."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "navigation",
+                "hebrew": "ניווט"
+              }
+            ],
+            "id": "test-03-audio-3-1",
+            "type": "lecture",
+            "difficulty": 3
+          },
+          {
+            "prompt": "What distinction does the example illustrate?",
+            "options": [
+              "Passengers who read tickets move more slowly than those who follow others.",
+              "Terminal exits require clearer designs than railway platforms.",
+              "Reading a station plan is easier than reading a sign.",
+              "Noticing an instruction and acting on it accurately are different outcomes."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The first sign drew attention quickly but did not guide passengers as successfully to the street.",
+              "distractors": {
+                "0": "Those activities are examples of divided attention, with no measured comparison.",
+                "1": "No comparison with signs for platforms is provided.",
+                "2": "Plans describe the designers' point of view; relative reading difficulty was not measured."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "outcome",
+                "hebrew": "תוצאה"
+              }
+            ],
+            "id": "test-03-audio-3-2",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "The tenants began to ____ the new parking fees, organizing a petition and asking the council to cancel the change.",
+      "options": [
+        "levy",
+        "justify",
+        "resist",
+        "accept"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The petition and request for cancellation are active opposition.",
+        "distractors": {
+          "0": "Levying a fee is charging it, which the tenants oppose rather than do themselves.",
+          "1": "The tenants argue for cancellation, not for the fee's legitimacy.",
+          "3": "Acceptance is inconsistent with organizing against the fee."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "resist",
+          "hebrew": "להתנגד"
+        }
+      ],
+      "id": "test-15-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The new exemption is ____ only to purchases made after July 1, so receipts dated in June cannot be used to claim it.",
+      "options": [
+        "available",
+        "sensitive",
+        "comparable",
+        "applicable"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The date determines which purchases fall under the exemption.",
+        "distractors": {
+          "0": "The sentence sets the rule's scope across purchases, rather than describing whether people can obtain an exemption.",
+          "1": "The exemption follows a defined date rule rather than reacting sensitively to changes.",
+          "2": "The category of purchases is being specified, not compared with the exemption."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "applicable",
+          "hebrew": "ישים; חל"
+        }
+      ],
+      "id": "test-15-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The case cracked when it fell, but the instrument inside remained ____: the technician could find no broken or missing parts.",
+      "options": [
+        "unaffected",
+        "intact",
+        "immobile",
+        "assembled"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The instrument stayed whole despite the damage to its case.",
+        "distractors": {
+          "0": "The inspection establishes that the components stayed physically whole; it does not establish that the fall had no effect on calibration or performance.",
+          "2": "Nothing indicates that the instrument stayed motionless during the fall.",
+          "3": "An object can stay assembled and still have damaged or missing parts."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "intact",
+          "hebrew": "שלם; ללא פגע"
+        }
+      ],
+      "id": "test-15-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "A larger batch would be cheaper to produce, but it could have ____ effects on quality because the oven heats unevenly when completely full.",
+      "options": [
+        "adverse",
+        "incidental",
+        "observable",
+        "beneficial"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Uneven heating could harm the quality of the products.",
+        "distractors": {
+          "1": "The sentence identifies the direction of the effect as harmful, regardless of whether it was intended.",
+          "2": "Uneven heating gives reason to expect poorer quality; the fact that an effect can be observed does not express that concern.",
+          "3": "Improved quality would not explain the contrast with the lower production cost."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "adverse",
+          "hebrew": "שלילי; מזיק"
+        }
+      ],
+      "id": "test-15-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "A single glove remained on the bench, but the other glove from the same ____ was missing.",
+      "options": [
+        "set",
+        "pair",
+        "row",
+        "layer"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The two matching gloves make a pair.",
+        "distractors": {
+          "0": "A set can contain any number of objects, whereas two matching gloves are ordinarily treated as one pair.",
+          "2": "The gloves are matching objects rather than items arranged in a line.",
+          "3": "The sentence does not describe gloves worn one over another."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "pair",
+          "hebrew": "זוג"
+        }
+      ],
+      "id": "test-15-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The final question was ____: participants could skip it and still submit a complete questionnaire.",
+      "options": [
+        "compulsory",
+        "introductory",
+        "optional",
+        "irrelevant"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "A question that may be left blank without penalty is optional.",
+        "distractors": {
+          "0": "A compulsory question could not be skipped when completing the questionnaire.",
+          "1": "The question is at the end, and its position does not explain whether it can be skipped.",
+          "3": "A question can be useful even when respondents are free not to answer it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "optional",
+          "hebrew": "רשות; לא חובה"
+        }
+      ],
+      "id": "test-15-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "It is worth ____ whether the incline is too steep before choosing a location for the ramp.",
+      "options": [
+        "check that for",
+        "checking",
+        "to checking",
+        "to check"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Worth takes a gerund for the action that merits doing.",
+        "distractors": {
+          "0": "Worth does not take a bare verb or the connector that for.",
+          "2": "This construction takes the gerund without to.",
+          "3": "Worth cannot take a to-infinitive in this construction."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "incline",
+          "hebrew": "שיפוע"
+        }
+      ],
+      "id": "test-15-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "So little light falls on the valley floor ____ only a few species of grass survive there.",
+      "options": [
+        "which",
+        "as though",
+        "that",
+        "for to"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The result construction links so little to a clause introduced by that.",
+        "distractors": {
+          "0": "Which would need to introduce a relative clause with an appropriate referent.",
+          "1": "As though introduces an apparent comparison rather than the stated consequence.",
+          "3": "For to does not introduce a result clause in standard English."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "survive",
+          "hebrew": "לשרוד"
+        }
+      ],
+      "id": "test-15-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "More than one explanation ____ been proposed for the sudden disappearance of the coins.",
+      "options": [
+        "are",
+        "having",
+        "have been",
+        "has"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "More than one takes singular has in the perfect passive has been proposed.",
+        "distractors": {
+          "0": "Are cannot precede been proposed to make this perfect passive.",
+          "1": "Having does not supply a finite auxiliary.",
+          "2": "This leaves two occurrences of been and fails to agree with the formal singular subject."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "disappearance",
+          "hebrew": "היעלמות"
+        }
+      ],
+      "id": "test-15-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Despite ____ a detailed maintenance log, the investigators were unable to determine why the fault recurred.",
+      "options": [
+        "had consulting",
+        "to have consulted",
+        "they had consulted",
+        "having consulted"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Despite is a preposition and can introduce a gerund phrase such as having consulted.",
+        "distractors": {
+          "0": "Had consulting is not a valid perfect construction and lacks a subject here.",
+          "1": "Despite does not take a to-infinitive.",
+          "2": "A finite clause cannot directly follow despite without the fact that."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "recur",
+          "hebrew": "להישנות"
+        }
+      ],
+      "id": "test-15-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "The clock was ____ by five minutes so its reading would match that of the reference clock.",
+      "base": "adjust",
+      "answers": [
+        "adjusted"
+      ],
+      "explanation": "The passive was adjusted requires the past participle.",
+      "id": "test-15-word-1"
+    },
+    {
+      "prompt": "Some of the field ____ were made at night, when the birds were easier to hear.",
+      "base": "observe",
+      "answers": [
+        "observations"
+      ],
+      "explanation": "Observations is the plural noun for the findings made in the field.",
+      "id": "test-15-word-2"
+    },
+    {
+      "prompt": "The electrician's estimate was ____ because it included the necessary parts and labor at a fair price.",
+      "base": "reason",
+      "answers": [
+        "reasonable"
+      ],
+      "explanation": "Reasonable is the adjective meaning fair or sensible in this setting.",
+      "id": "test-15-word-3"
+    },
+    {
+      "prompt": "The dye faded ____ as the cloth spent more time in direct sunlight.",
+      "base": "gradual",
+      "answers": [
+        "gradually"
+      ],
+      "explanation": "Gradually describes a process that occurs in small stages over time.",
+      "id": "test-15-word-4"
+    }
+  ],
+  "writing": "Is it more important for a university to provide quiet study rooms or spaces for collaborative work? Explain your priority."
+}

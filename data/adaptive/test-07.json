@@ -1,0 +1,456 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "Several retired teachers offered to ____ their personal copies of the textbook to the school, asking nothing in return.",
+      "options": [
+        "rent",
+        "recommend",
+        "lend",
+        "donate"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Giving the books freely to the school is donating them.",
+        "distractors": {
+          "0": "A rental is temporary and usually involves payment.",
+          "1": "A recommendation would advise the school to use the book rather than give it the physical copies.",
+          "2": "A loan implies the books must be returned."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "donate",
+          "hebrew": "לתרום"
+        }
+      ],
+      "id": "test-07-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "Because the two exhibition rooms were directly ____ to each other, visitors could pass from one to the other through a door in the shared wall.",
+      "options": [
+        "equivalent",
+        "adjacent",
+        "opposed",
+        "peripheral"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Adjacent rooms are directly next to each other.",
+        "distractors": {
+          "0": "The fact that they share a wall does not tell us that the rooms are equal in size or function.",
+          "2": "Rooms facing each other across a corridor would not share the wall described here.",
+          "3": "The rooms' position relative to the edge of the building is not given."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "adjacent",
+          "hebrew": "סמוך; צמוד"
+        }
+      ],
+      "id": "test-07-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The surveyors were asked to ____ interviews in person so they could explain any questions that participants found confusing.",
+      "options": [
+        "compile",
+        "screen",
+        "conduct",
+        "quote"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "To conduct interviews is to carry them out.",
+        "distractors": {
+          "0": "Compiling interview material would happen after it was collected.",
+          "1": "Screening would assess existing interviews or potential interviewees rather than carry out the conversations.",
+          "3": "Quoting interviews would reproduce words from completed conversations."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "conduct",
+          "hebrew": "לערוך; לבצע"
+        }
+      ],
+      "id": "test-07-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The new review process was deliberately ____, requiring two independent checks of every calculation and a written account of any disagreement.",
+      "options": [
+        "rigorous",
+        "expedited",
+        "selective",
+        "discretionary"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Independent checks and formal documentation make the process careful and demanding.",
+        "distractors": {
+          "1": "The new requirements make the review more thorough; nothing says it is intended to be faster.",
+          "2": "The policy covers every calculation rather than choosing a subset.",
+          "3": "The checks are required, so reviewers cannot decide freely whether to perform them."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "rigorous",
+          "hebrew": "קפדני; שיטתי"
+        }
+      ],
+      "id": "test-07-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "Instead of throwing the envelopes away, the staff decided to ____ them for internal mail.",
+      "options": [
+        "address",
+        "reuse",
+        "print",
+        "shred"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The envelopes will be used again for another purpose.",
+        "distractors": {
+          "0": "Writing addresses would be one step in mailing them but would not express the decision to keep using them.",
+          "2": "The decision concerns using existing envelopes rather than printing new ones.",
+          "3": "Shredding would destroy the envelopes instead of keeping them usable."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "reuse",
+          "hebrew": "להשתמש שוב"
+        }
+      ],
+      "id": "test-07-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The journal will ____ any submission it has already published, since the rules require all work to be new.",
+      "options": [
+        "revise",
+        "reserve",
+        "reject",
+        "register"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The journal will refuse to accept work that breaks the stated rule.",
+        "distractors": {
+          "0": "Making edits would not satisfy the requirement for new work.",
+          "1": "Setting the submission aside would leave open the possibility of publication.",
+          "3": "Recording receipt of a submission does not decide whether it is acceptable."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "reject",
+          "hebrew": "לדחות; לא לקבל"
+        }
+      ],
+      "id": "test-07-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "Although the first inventory was incomplete, the researchers discovered ____ of the items listed then are still in the collection.",
+      "options": [
+        "most that",
+        "that mostly",
+        "that most",
+        "of most"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "That introduces the reported discovery, with most of the items as the subject.",
+        "distractors": {
+          "0": "The connector that must come before the subject phrase.",
+          "1": "Mostly is an adverb and cannot quantify of the items.",
+          "3": "Of most of the items does not give discovered a grammatical clause."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "inventory",
+          "hebrew": "מצאי"
+        }
+      ],
+      "id": "test-07-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The list of approved suppliers ____ companies from three different regions.",
+      "options": [
+        "including",
+        "includes",
+        "are including",
+        "have included"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Singular list is the subject and takes includes.",
+        "distractors": {
+          "0": "Including is not a finite main verb.",
+          "2": "Are incorrectly agrees with suppliers rather than list.",
+          "3": "Have does not agree with list."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "supplier",
+          "hebrew": "ספק"
+        }
+      ],
+      "id": "test-07-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The committee objected to ____ on information collected almost a decade earlier.",
+      "options": [
+        "rely for",
+        "be relying",
+        "relying",
+        "have relied"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "To is a preposition in objected to and needs a gerund here.",
+        "distractors": {
+          "0": "The preposition to cannot take the bare verb rely in this expression.",
+          "1": "Be relying would be part of an infinitive, not the needed gerund.",
+          "3": "Have relied is the wrong complement after the preposition."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "rely on",
+          "hebrew": "להסתמך על"
+        }
+      ],
+      "id": "test-07-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The operator would rather ____ the machine before the next shift than risk another fault.",
+      "options": [
+        "inspected by",
+        "to inspect",
+        "inspecting",
+        "inspect"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Would rather takes a bare infinitive when the subject is unchanged.",
+        "distractors": {
+          "0": "Inspected by would require a different passive structure and would not fit the machine.",
+          "1": "The following infinitive does not take to in this construction.",
+          "2": "A gerund does not complete would rather here."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "fault",
+          "hebrew": "תקלה"
+        }
+      ],
+      "id": "test-07-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "Replacing the valve is more ____ than buying a new pump because it costs less and has the same effect.",
+      "base": "economy",
+      "answers": [
+        "economical"
+      ],
+      "explanation": "Economical describes the option that saves money.",
+      "id": "test-07-word-1"
+    },
+    {
+      "prompt": "The labels were printed large so visitors could read them ____ from the far side of the room.",
+      "base": "clear",
+      "answers": [
+        "clearly"
+      ],
+      "explanation": "Clearly is the adverb showing how easily the labels could be read.",
+      "id": "test-07-word-2"
+    },
+    {
+      "prompt": "The authors proposed two competing ____ for the loss of color, one involving sunlight and the other heat.",
+      "base": "explain",
+      "answers": [
+        "explanations"
+      ],
+      "explanation": "Two competing calls for the plural noun explanations.",
+      "id": "test-07-word-3"
+    },
+    {
+      "prompt": "A corner had been ____ from the sheet before it was placed in the envelope.",
+      "base": "tear",
+      "answers": [
+        "torn"
+      ],
+      "explanation": "Torn is the past participle of tear, describing what had happened to the sheet.",
+      "id": "test-07-word-4"
+    }
+  ],
+  "writing": "Is it better for a city to improve bus service or to build more bicycle lanes? Choose one priority and explain your reasoning.",
+  "listening": {
+    "type": "continuation",
+    "clips": [
+      {
+        "context": "Listen to part of a lecture on estimating foot traffic.",
+        "transcript": "A counter at the library entrance recorded two thousand passages on Saturday. Staff learned that a side room was closed, so workshop participants repeatedly passed the entrance on their way to another room. The total therefore should not be interpreted as",
+        "audio": "/listening/continuation-3-1.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the entrance count.",
+            "options": [
+              "a record of movement through the entrance",
+              "evidence that participants moved between rooms",
+              "an approximate count of trips past the sensor",
+              "the number of different people who visited"
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "Repeated crossings prevent the count from identifying the number of distinct visitors.",
+              "distractors": {
+                "0": "The device did measure movements through its doorway.",
+                "1": "Repeated movement is the explanation, not an interpretation the example rules out.",
+                "2": "Trips past the device are exactly the kind of activity recorded."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "distinct",
+                "hebrew": "נבדל"
+              }
+            ],
+            "id": "test-07-audio-1-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on learning a musical phrase.",
+        "transcript": "A piano student could play an entire passage quickly but stumbled at the same transition each time. Playing the whole piece again provided little time to examine the hand movement at that point. Her teacher suggested concentrating on",
+        "audio": "/listening/continuation-3-2.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about practice.",
+            "options": [
+              "the few notes surrounding the difficult change",
+              "playing the whole piece at a faster pace",
+              "finding another edition with different page numbers",
+              "keeping the first notes louder than the last"
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "Practicing around the transition gives focused attention to the recurring difficulty.",
+              "distractors": {
+                "1": "Repeating the full piece is the approach that failed to isolate the issue.",
+                "2": "Pagination does not address a hand movement.",
+                "3": "The problem concerns changing positions, not dynamics."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "transition",
+                "hebrew": "מעבר"
+              }
+            ],
+            "id": "test-07-audio-2-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on comparing water samples.",
+        "transcript": "Field staff take water samples upstream and downstream of a reserve. After a storm, the downstream sample held more sediment, but heavy rain fell only in the hills just above that site. The result might therefore reflect",
+        "audio": "/listening/continuation-3-3.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the samples.",
+            "options": [
+              "a uniform change throughout the river",
+              "a difference in the labels used on bottles",
+              "a difference in local rainfall",
+              "a permanent decline in precipitation"
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "The storm affected one sampling area especially, so it could explain the higher sediment there.",
+              "distractors": {
+                "0": "The description points to a local rather than basin-wide event.",
+                "1": "No labeling problem is suggested.",
+                "3": "The example describes a recent storm, not a permanent rainfall trend."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "sediment",
+                "hebrew": "משקע"
+              }
+            ],
+            "id": "test-07-audio-3-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on a restored footpath.",
+        "transcript": "A village restored a stone footpath after winter runoff carried soil away on the slope. The new surface survived the first storm, but water began cutting a channel immediately beside it. The next repair must address not only the path itself but also",
+        "audio": "/listening/continuation-3-4.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the footpath.",
+            "options": [
+              "the length of the path on a printed map",
+              "the route taken by water around it",
+              "the age of stones left in storage",
+              "the distance to the nearest village"
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "The erosion moved to the path's edge, so the flow around the surface needs attention.",
+              "distractors": {
+                "0": "Fixing the length shown on a map does not solve erosion.",
+                "2": "The source of the replacement material is incidental.",
+                "3": "The effect is local runoff, not access from another village."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "runoff",
+                "hebrew": "נגר עילי"
+              }
+            ],
+            "id": "test-07-audio-4-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,995 @@
+{
+  "id": "test-16",
+  "number": 16,
+  "title": "The Work Done by a Refrain / Where a River Gains Water",
+  "sections": [
+    {
+      "id": "test-16-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "After noticing a fault in the equipment, the technicians chose to ____ the entire test with a working instrument.",
+          "options": [
+            "compare",
+            "combine",
+            "repeat",
+            "exclude"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“repeat” means carry out the same action again. The test is performed once more after the fault is discovered.",
+            "distractors": {
+              "0": "“compare” means examine similarities and differences. The clue is that the test is performed once more after the fault is discovered.",
+              "1": "“combine” means bring separate things together. The clue is that the test is performed once more after the fault is discovered.",
+              "3": "“exclude” means leave out of a group or calculation. The clue is that the test is performed once more after the fault is discovered."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "repeat",
+              "hebrew": "לחזור על"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-16-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "The ____ coordinates, given to the nearest metre, allowed the crew to find the buried marker within minutes.",
+          "options": [
+            "precise",
+            "formal",
+            "ordinary",
+            "original"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“precise” means exact and free of unnecessary ambiguity. The coordinates identify the location with exactness.",
+            "distractors": {
+              "1": "“formal” means following recognised official conventions. The clue is that the coordinates identify the location with exactness.",
+              "2": "“ordinary” means common and unremarkable. The clue is that the coordinates identify the location with exactness.",
+              "3": "“original” means first version from which later versions are derived. The clue is that the coordinates identify the location with exactness."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "precise",
+              "hebrew": "מדויק"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-16-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "One ____ of the lighter equipment was that researchers could carry it to sites inaccessible by road.",
+          "options": [
+            "obstacle",
+            "purpose",
+            "condition",
+            "advantage"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“advantage” means feature that offers a benefit. The low weight makes otherwise inaccessible sites reachable.",
+            "distractors": {
+              "0": "“obstacle” means thing that blocks progress. The clue is that the low weight makes otherwise inaccessible sites reachable.",
+              "1": "“purpose” means reason for which something is done. The clue is that the low weight makes otherwise inaccessible sites reachable.",
+              "2": "“condition” means requirement that must be met. The clue is that the low weight makes otherwise inaccessible sites reachable."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "advantage",
+              "hebrew": "יתרון"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-16-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "A ____ leak continued for three months despite repeated repairs to the seal.",
+          "options": [
+            "abrupt",
+            "persistent",
+            "gradual",
+            "sporadic"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“persistent” means continuing over time despite attempts to stop it. The leak continued even after repeated attempts to stop it.",
+            "distractors": {
+              "0": "“abrupt” means happening suddenly and without warning. The clue is that the leak continued even after repeated attempts to stop it.",
+              "2": "“gradual” means happening slowly in stages. The clue is that the leak continued even after repeated attempts to stop it.",
+              "3": "“sporadic” means occurring at irregular and infrequent intervals. The clue is that the leak continued even after repeated attempts to stop it."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "persistent",
+              "hebrew": "מתמשך, עיקש"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-16-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The researchers sampled towns of ____ size so that a tenfold difference in population would not distort the comparison of local services.",
+          "options": [
+            "random",
+            "dominant",
+            "comparable",
+            "marginal"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“comparable” means similar enough to allow meaningful comparison. Matching population scale makes comparison meaningful.",
+            "distractors": {
+              "0": "“random” means not following a deliberate pattern or selection rule. The clue is that matching population scale makes comparison meaningful.",
+              "1": "“dominant” means more influential or widespread than others. The clue is that matching population scale makes comparison meaningful.",
+              "3": "“marginal” means small enough to be of limited significance. The clue is that matching population scale makes comparison meaningful."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "comparable",
+              "hebrew": "בר השוואה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-16-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "Limited shelf depth was the main ____ on the new storage system, ruling out any drawer longer than forty centimetres.",
+          "options": [
+            "discrepancy",
+            "precedent",
+            "correlation",
+            "constraint"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“constraint” means limit that restricts available choices. A physical limit excludes certain storage options.",
+            "distractors": {
+              "0": "“discrepancy” means lack of agreement between accounts or values expected to match. The clue is that a physical limit excludes certain storage options.",
+              "1": "“precedent” means earlier instance used as a guide in later similar cases. The clue is that a physical limit excludes certain storage options.",
+              "2": "“correlation” means statistical association between variables. The clue is that a physical limit excludes certain storage options."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "constraint",
+              "hebrew": "מגבלה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-16-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-16-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "The recovered index provided a ____ list of contributors, covering just two of the publication's five years.",
+          "options": [
+            "partial",
+            "provisional",
+            "definitive",
+            "empirical"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“partial” means incomplete or covering only part of something. Only part of the publication's history is covered by the list.",
+            "distractors": {
+              "1": "“provisional” means accepted or arranged for the time being pending a final decision. The clue is that only part of the publication's history is covered by the list.",
+              "2": "“definitive” means settling a question in a final and authoritative way. The clue is that only part of the publication's history is covered by the list.",
+              "3": "“empirical” means based on systematic observation or experience. The clue is that only part of the publication's history is covered by the list."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "partial",
+              "hebrew": "חלקי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-16-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The introduction of low-cost projectors led to a ____ of independent cinemas, with a dozen opening in a few months.",
+          "options": [
+            "redistribution",
+            "proliferation",
+            "depletion",
+            "consolidation"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“proliferation” means rapid multiplication or increase in number. Independent cinemas multiplied quickly.",
+            "distractors": {
+              "0": "“redistribution” means change in the allocation of an existing quantity. The clue is that independent cinemas multiplied quickly.",
+              "2": "“depletion” means reduction of a reserve or stock through use or loss. The clue is that independent cinemas multiplied quickly.",
+              "3": "“consolidation” means combining separate units into a single or stronger whole. The clue is that independent cinemas multiplied quickly."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "proliferation",
+              "hebrew": "התרבות מהירה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-16-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The study's methodological ____ rested on its explicit sampling rules, error checks, and independently replicated calculations.",
+          "options": [
+            "versatility",
+            "rigour",
+            "redundancy",
+            "parsimony"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“rigour” means thoroughness and strict adherence to analytical standards. The study closely adheres to strict methodological standards.",
+            "distractors": {
+              "0": "“versatility” means ability to perform a range of functions or adapt to different uses. The clue is that the study closely adheres to strict methodological standards.",
+              "2": "“redundancy” means unnecessary repetition or duplication. The clue is that the study closely adheres to strict methodological standards.",
+              "3": "“parsimony” means preference for simplicity or economy of assumptions. The clue is that the study closely adheres to strict methodological standards."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "rigour",
+              "hebrew": "קפדנות, דיוק שיטתי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-16-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The technician had to ____ the shutters so that the two cameras would photograph the same brief event at exactly the same instant.",
+          "options": [
+            "amplify",
+            "attenuate",
+            "synchronise",
+            "modulate"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“Synchronise” means to cause actions to take place at the same time. The shutters must open simultaneously to capture the same instant.",
+            "distractors": {
+              "0": "“amplify” means increase the strength, volume, or effect of something. The shutters must open simultaneously to capture the same instant.",
+              "1": "“attenuate” means reduce the strength or intensity of a signal or effect. The shutters must open simultaneously to capture the same instant.",
+              "3": "“modulate” means vary a property in a controlled way. The shutters must open simultaneously to capture the same instant."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "synchronise",
+              "hebrew": "לתאם זמנים, לסנכרן"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-16-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The geological site was considered ____ during the survey because the vents showed no current activity, although earlier records documented periodic emissions.",
+          "options": [
+            "quiescent",
+            "inchoate",
+            "moribund",
+            "nascent"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“quiescent” means temporarily inactive or dormant. The site currently shows no activity after being active in the past.",
+            "distractors": {
+              "1": "“inchoate” means only partly formed or developed. The clue is that the site currently shows no activity after being active in the past.",
+              "2": "“moribund” means near the end of its life or usefulness. The clue is that the site currently shows no activity after being active in the past.",
+              "3": "“nascent” means just beginning to exist, often with room for growth. The clue is that the site currently shows no activity after being active in the past."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "quiescent",
+              "hebrew": "רדום, שקט באופן זמני"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-16-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The port's decline followed a sudden ____ shock: a new international shipping route bypassed the region for reasons unrelated to port management.",
+          "options": [
+            "endogenous",
+            "intractable",
+            "transitory",
+            "exogenous"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“exogenous” means originating outside the system being considered. The cause originated outside the port's own operations.",
+            "distractors": {
+              "0": "“endogenous” means originating within the system being considered. The clue is that the cause originated outside the port's own operations.",
+              "1": "“intractable” means extremely difficult to solve, manage, or deal with. The clue is that the cause originated outside the port's own operations.",
+              "2": "“transitory” means lasting briefly and passing away. The clue is that the cause originated outside the port's own operations."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "exogenous",
+              "hebrew": "חיצוני למערכת, אקסוגני"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-16-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-16-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "The Work Done by a Refrain",
+        "paragraphs": [
+          "A recurring line in a poem can give a reader the impression that the poem regularly returns to a fixed point. The line may occupy the same position in each stanza and have exactly the same words on each appearance. Yet recurrence need not produce a repeated meaning. The clause may refer to a different person after a new speaker has entered the poem, or a word that sounded literal on first reading may acquire a figurative force. A refrain can therefore show how far the reader has travelled while appearing to repeat where the poem began.",
+          "Consider an invented poem in which the line “The gate is still open” ends three stanzas. The first describes a porter arriving to begin work and seeing a gate someone has neglected to shut. The second concerns a traveller who has almost given up hope of reaching the town before night. The same words now report a welcome opportunity. The final stanza is spoken years later by a person remembering an invitation they never accepted. There is little reason to suppose a physical gate remains open indefinitely. The line has become a way of voicing a wish about a lost opportunity. Its force depends on the physical gate the reader has already encountered without requiring that gate to exist in the final scene.",
+          "This example also explains why a refrain can be difficult to translate. A translator might find different target-language expressions for a careless opening, a fortunate opening and an imagined opportunity. Choosing those expressions could give each stanza an idiomatic line but weaken the comparison produced by repeating it. Using one line throughout may preserve the formal device only if the new phrasing is flexible enough to acquire several functions. Translators sometimes adapt a nearby phrase to create the necessary context rather than making each occurrence of the refrain independently exact.",
+          "The difficulty is not confined to translations. Critics who treat a line as a compact statement of the poem's theme can overlook its changes in function. By following the pronouns, scenes, and expectations around each appearance, they can recover part of the movement the repetition was designed to make audible. An adequate account of the device must therefore describe both what persists and what changes. Without a stable element to compare, the shifts might pass unnoticed; without the shifting frames, the stability would have much less to show."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What central idea about refrains does the author develop?",
+          "options": [
+            "Each recurrence primarily reminds readers of one settled theme.",
+            "Refrains work only if their words have the same literal referent each time.",
+            "Poets usually invent recurring lines to defeat translation.",
+            "Repeated wording can reveal changing significance as its context develops."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The gate example shows one line acquiring different functions through the surrounding scenes.",
+            "distractors": {
+              "0": "This approach is criticised for overlooking contextual changes.",
+              "1": "The last stanza plausibly uses the line without requiring its literal gate.",
+              "2": "Translation poses a challenge but the passage does not assign that motive."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "refrain",
+              "hebrew": "פזמון חוזר"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-16-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "What might be lost if a translator replaces the refrain with three independently idiomatic lines?",
+          "options": [
+            "Readers would be unable to understand a single stanza on its own.",
+            "The poem’s original script would necessarily disappear from every edition.",
+            "The reader may no longer perceive the meaningful shifts through comparison of identical language.",
+            "The last stanza would automatically move back in time to the porter’s arrival."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Choosing local expressions could weaken the formal linkage of the scenes.",
+            "distractors": {
+              "0": "Independent fluency might actually improve while the larger relationship weakens.",
+              "1": "The argument concerns effects in translation, not disappearance of editions.",
+              "3": "The choice of wording does not dictate that change in chronology."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "idiomatic",
+              "hebrew": "טבעי בשפה"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-16-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author portray the translator’s task?",
+          "options": [
+            "As impossible unless the original poet approves every expression.",
+            "As a negotiation between local naturalness and the effect of recurrence.",
+            "As one where repeating the same target line always succeeds.",
+            "As the mechanical replacement of each original word with a dictionary equivalent."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The example compares several fluent wordings with a flexible shared one and allows contextual adjustment.",
+            "distractors": {
+              "0": "No author approval requirement is mentioned.",
+              "2": "Repetition succeeds only if the wording can function in the different frames.",
+              "3": "The task calls for evaluating context and formal effect."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "acquire",
+              "hebrew": "לקבל או לרכוש"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-16-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “force” mean in the description of the last stanza’s line?",
+          "options": [
+            "Its expressive effect in the context of the poem.",
+            "The rhythmic length of the last word of the utterance.",
+            "The pressure physically required to move the gate.",
+            "The number of speakers that repeat the words aloud."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The word concerns what the repeated statement does for the reader.",
+            "distractors": {
+              "1": "The passage is not measuring syllables or stress.",
+              "2": "No physical opening is required in that scene.",
+              "3": "Speakers affect context, but the term describes significance and effect."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "force",
+              "hebrew": "עוצמה או תוקף"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-16-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Who benefits immediately from the open gate in the poem’s second stanza?",
+          "options": [
+            "A translator searching for a term used in all three stanzas.",
+            "The porter who discovers a lapse before work.",
+            "A traveller who doubts they will reach the town in time.",
+            "A former guest remembering a declined invitation."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "For the traveller the open gate means a welcome opportunity.",
+            "distractors": {
+              "0": "The translator is outside the invented poem.",
+              "1": "That situation occurs in the first stanza.",
+              "3": "That is the situation in the third stanza."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "traveller",
+              "hebrew": "נוסע"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-16-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-16-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Although the manuscripts contained little narrative, they helped identify changes in spelling.",
+          "options": [
+            "They helped identify changes in spelling only before it became clear that the manuscripts contained little narrative.",
+            "Because the manuscripts contained little narrative, they helped identify changes in spelling.",
+            "They helped identify changes in spelling, which prevented anyone from finding out whether the manuscripts contained little narrative.",
+            "The manuscripts contained little narrative; nevertheless, they helped identify changes in spelling."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the manuscripts contained little narrative” and “they helped identify changes in spelling.”",
+            "distractors": {
+              "0": "It limits the second fact to an earlier time and adds a discovery that the original never mentions.",
+              "1": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast.",
+              "2": "It introduces an obstacle to discovering the first fact, which the original states directly."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-16-restatement-1-1"
+        },
+        {
+          "prompt": "It was omitted from the published transcription as a result of the fact that the ruler's signature added little to the document's meaning.",
+          "options": [
+            "The ruler's signature added little to the document's meaning; consequently, it was omitted from the published transcription.",
+            "It was omitted from the published transcription, but it is unknown whether the ruler's signature added little to the document's meaning.",
+            "It was omitted from the published transcription; consequently, the ruler's signature added little to the document's meaning.",
+            "The ruler's signature added little to the document's meaning; nevertheless, it was omitted from the published transcription."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the ruler's signature added little to the document's meaning, leading to the result that it was omitted from the published transcription.",
+            "distractors": {
+              "1": "It casts doubt on the cause, which the original treats as an established fact.",
+              "2": "It reverses the direction of cause and result.",
+              "3": "It replaces the causal relationship with a concession."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-16-restatement-1-2"
+        },
+        {
+          "prompt": "Once the software has verified the files, the archive will release the collection.",
+          "options": [
+            "The archive will release the collection before the software has verified the files.",
+            "The archive will release the collection after the software has verified the files.",
+            "The archive will release the collection, regardless of whether the software has verified the files.",
+            "The archive will not release the collection even after the software has verified the files."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled.",
+            "distractors": {
+              "0": "It places the scheduled action before the event that the sentence puts first.",
+              "2": "It makes the first event irrelevant to the timing of the second.",
+              "3": "It denies the stated plan to carry out the second action."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-16-restatement-1-3"
+        },
+        {
+          "prompt": "The publisher will circulate the draft only if the translator obtains the author's consent.",
+          "options": [
+            "The publisher will circulate the draft in every case in which the translator obtains the author's consent.",
+            "The publisher will circulate the draft whether or not the translator obtains the author's consent.",
+            "The publisher will circulate the draft only on condition that the translator obtains the author's consent.",
+            "The publisher will circulate the draft only if it is impossible to establish that the translator obtains the author's consent."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The condition “the translator obtains the author's consent” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "0": "It treats the condition as sufficient and promises the outcome whenever it is met.",
+              "1": "It removes the requirement by making the outcome independent of the condition.",
+              "3": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-16-restatement-1-4"
+        },
+        {
+          "prompt": "The old foundation seemed stable compared with the restored foundation.",
+          "options": [
+            "The difference in stability was established when the restored foundation was more stable than the old foundation in a formal test.",
+            "The old foundation appeared to exceed the restored foundation in stability.",
+            "The old foundation appeared to match the restored foundation in stability.",
+            "The restored foundation appeared to exceed the old foundation in stability."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the restored foundation, first. The comparison concerns stability.",
+            "distractors": {
+              "0": "It turns an impression into a demonstrated finding and invents a formal test.",
+              "1": "It reverses the relative ranking of the two items.",
+              "2": "It describes the two items as equal on the stated measure."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-16-restatement-1-5"
+        },
+        {
+          "prompt": "But for the unusually clear skies, the team would have postponed the observation.",
+          "options": [
+            "Whether the unusually clear skies made any difference to the outcome is unknown.",
+            "The team would have postponed the observation in the absence of the unusually clear skies.",
+            "The team would have postponed the observation because of the unusually clear skies.",
+            "The team would have postponed the observation even if the unusually clear skies had still been a factor."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the team would have postponed the observation” belongs to the hypothetical situation in which the unusually clear skies was absent.",
+            "distractors": {
+              "0": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs.",
+              "2": "It attributes the hypothetical result to the presence of the factor rather than its absence.",
+              "3": "It predicts the same result without changing whether the factor was present."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-16-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-16-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the manuscript proves to be a copy, its marginal annotations will have historical value.",
+          "options": [
+            "Its marginal annotations will have historical value, including in the event that the manuscript proves to be a copy.",
+            "The manuscript proves to be a copy; therefore, its marginal annotations will have historical value.",
+            "Its marginal annotations will have historical value only in the event that the manuscript proves to be a copy.",
+            "Its marginal annotations may or may not have historical value, depending on whether the manuscript proves to be a copy."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the manuscript proves to be a copy. The original leaves that case hypothetical.",
+            "distractors": {
+              "1": "It turns an open possibility into an established fact and presents it as the cause.",
+              "2": "It turns a condition that would make no difference into a requirement.",
+              "3": "It makes the outcome depend on the hypothetical condition."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-16-restatement-2-1"
+        },
+        {
+          "prompt": "The heritage council neither endorsed nor expressly rejected the suggestion that the square once held a covered market.",
+          "options": [
+            "The heritage council accepted the suggestion that the square once held a covered market in principle while withholding public support.",
+            "The heritage council initially backed the suggestion that the square once held a covered market but later withdrew its endorsement.",
+            "The heritage council expressly rejected the suggestion that the square once held a covered market, although it stopped short of explaining why.",
+            "The heritage council offered no endorsement of the suggestion that the square once held a covered market and issued no explicit rejection either."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It invents an acceptance in principle, which cannot be inferred from the original.",
+              "1": "It invents a prior endorsement and a reversal of position.",
+              "2": "It asserts an explicit rejection, which the original rules out."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-16-restatement-2-2"
+        },
+        {
+          "prompt": "The book's continuing relevance stemmed less from its original predictions than from its account of how the evidence was assembled.",
+          "options": [
+            "Its original predictions and its account of how the evidence was assembled played equally important roles in the book's continuing relevance.",
+            "Its account of how the evidence was assembled contributed more to the book's continuing relevance than its original predictions did.",
+            "Its original predictions was the greater contributor to the book's continuing relevance, though its account of how the evidence was assembled also mattered.",
+            "The book's continuing relevance was the principal reason for both its original predictions and its account of how the evidence was assembled."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “its account of how the evidence was assembled” greater explanatory weight than “its original predictions.”",
+            "distractors": {
+              "0": "It makes the factors equally important despite the stated inequality.",
+              "2": "It reverses the relative importance of the factors.",
+              "3": "It makes the outcome cause the factors that are supposed to explain it."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-16-restatement-2-3"
+        },
+        {
+          "prompt": "The workshop did not make the replacement keys until the lock had been examined.",
+          "options": [
+            "The workshop did not make the replacement keys, although the lock had been examined.",
+            "The workshop made the replacement keys before the lock had been examined.",
+            "The workshop made the replacement keys only after the lock had been examined.",
+            "The workshop made the replacement keys as evidence that the lock had been examined."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "0": "It makes the main action fail to occur, whereas the original reports that it happened later.",
+              "1": "It reverses the sequence by placing the main action first.",
+              "3": "It turns a timing relationship into an assertion about the actor’s purpose."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-16-restatement-2-4"
+        },
+        {
+          "prompt": "Except for the train leaving at noon, none of the day trains carry bicycles.",
+          "options": [
+            "The train leaving at noon carries bicycles; the others in the same group do not.",
+            "The train leaving at noon carries bicycles, and at least one other member of the group shares that distinction.",
+            "All the day trains carry bicycles except the train leaving at noon.",
+            "It has not been determined whether the train leaving at noon carries bicycles."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the train leaving at noon is the single item that has the stated property.",
+            "distractors": {
+              "1": "It allows a second exception even though “sole” limits the number to one.",
+              "2": "It gives the property to the entire group except the one item that actually has it.",
+              "3": "It changes an explicit exception into an uncertainty."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-16-restatement-2-5"
+        },
+        {
+          "prompt": "Had the students consulted the timetable earlier, they might have caught the last bus.",
+          "options": [
+            "They might have caught the last bus if the students had consulted the timetable earlier.",
+            "Because the students had consulted the timetable earlier, they must have caught the last bus.",
+            "They might have caught the last bus only if the students had consulted the timetable earlier.",
+            "They would certainly have caught the last bus if the students had consulted the timetable earlier."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "This is a past counterfactual. The opening clause introduces an unrealized condition and “might have” presents the result as possible under that condition.",
+            "distractors": {
+              "1": "It asserts an actual outcome and treats the unrealized condition as fact.",
+              "2": "It adds a requirement that no other scenario could have produced the outcome.",
+              "3": "It turns a possible outcome into a guaranteed one."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "might have",
+              "hebrew": "ייתכן שהיה / הייתה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-16-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-16-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Where a River Gains Water",
+        "paragraphs": [
+          "A map usually draws a river as a continuous blue line. The water crossing a particular point, however, may have arrived through several routes. Recent rain can run down slopes and enter the channel in minutes. Water that seeped into the soil weeks or years before may arrive slowly through sediment beneath the surrounding land. During a long dry spell, a stream that still flows may depend considerably on this less visible source. A river can also lose water to the ground in places where the water surface lies above the nearby groundwater level. The direction of exchange can vary along a single river.",
+          "Measuring the flow at two bridges may seem to offer a simple way to test what happens between them. If flow increases downstream despite the absence of large visible tributaries, the reach might be gaining groundwater. But small drainage pipes, unrecorded withdrawals and evaporation also change the balance. Measurements taken at slightly different times can miss changes moving through the river as well. A release from an upstream gate, for example, may pass the first bridge before it passes the second. An observer who ignores that delay could infer a gain or loss that is unrelated to groundwater.",
+          "Temperature supplies an independent clue. Groundwater reaching the stream can be warmer than the river in winter and cooler in summer. A thermometer moved along a stream bed may detect localized signals where water seeps up. Those signals are easiest to interpret when the two sources have appreciably different temperatures. Shade, depth and mixing also affect the pattern. Researchers may therefore combine temperature with chemical measurements or observations of the height of water in wells. Agreement among the methods allows them to interpret temperature anomalies with more confidence.",
+          "The exchange matters for both people and aquatic organisms. A cold inflow during a hot month can create a small area where fish find relief. Pumping groundwater can affect those refuges if it lowers the nearby water table enough to interrupt seepage. The consequences may appear later or farther from the pump than observers expect, since the ground transmits changes gradually. Knowledge of the hidden connections changes the meaning of a drought management plan. Preserving flow at the nearest measuring station may be one useful goal, but it cannot tell planners whether every ecologically important stretch is still receiving the groundwater on which it depends."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What is the central argument of the river–groundwater passage?",
+          "options": [
+            "All water in flowing rivers originated in the most recent rain.",
+            "Groundwater contributes only where a river stops flowing.",
+            "Hidden exchanges vary across a river and require multiple observations to understand and manage.",
+            "Two bridges alone reveal every exchange between a river and the ground."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The text gives diverse exchange routes, measurement checks and ecological implications.",
+            "distractors": {
+              "0": "The article describes delayed groundwater inputs.",
+              "1": "It can sustain an otherwise flowing river during dry periods.",
+              "3": "The bridge comparison is confounded by other inputs and timing."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "seepage",
+              "hebrew": "חלחול"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-16-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "How might a nearby well affect fish even if the river appears to flow normally at a monitoring station?",
+          "options": [
+            "A distant station always measures the thermal experience of every fish.",
+            "Pumping could reduce a local flow of cool groundwater that fish use as a refuge.",
+            "Pumped water immediately returns downstream at identical temperature.",
+            "The lowered groundwater table makes all river water winter-cold."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "An important inflow can decline without an obvious change in total flow at another location.",
+            "distractors": {
+              "0": "Flow at one site does not measure water temperature at every location.",
+              "2": "The passage describes a potential reduction in seepage rather than an automatic return.",
+              "3": "Reduced cold inflow can warm a particular area instead of cooling the whole river."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "water table",
+              "hebrew": "מפלס מי תהום"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-16-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author approach the use of temperature measurements in rivers?",
+          "options": [
+            "As the sole evidence needed to decide where fish shelter.",
+            "As an exact way of calculating every source of flow regardless of the season.",
+            "As useless because river and groundwater temperatures always match.",
+            "As valuable evidence that needs checks for other influences."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The article recommends chemical and well-level observations alongside temperature.",
+            "distractors": {
+              "0": "Both local conditions and temperature influence the interpretation.",
+              "1": "Shade, depth and mixing can affect thermal measurements independently of groundwater.",
+              "2": "The two temperatures can diverge sufficiently in some seasons."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "anomaly",
+              "hebrew": "חריגה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-16-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "To say that the temperature difference is “appreciable” is to say it is what?",
+          "options": [
+            "Exactly equal to the average river temperature.",
+            "Large enough to notice or measure usefully.",
+            "Consistent in direction during every season.",
+            "Liked by the investigators."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The sources must differ sufficiently for temperature to help distinguish them.",
+            "distractors": {
+              "0": "A difference by definition is not an equality.",
+              "2": "The size of a temperature difference is separate from its direction over the year.",
+              "3": "The adjective describes magnitude in this context."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "appreciable",
+              "hebrew": "משמעותי וניכר"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-16-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Why can simultaneous or nearly simultaneous bridge readings be deceptive after an upstream gate opens?",
+          "options": [
+            "The release can take time to travel from the upstream bridge to the downstream one.",
+            "Opening a gate stops all groundwater from entering everywhere.",
+            "The earlier bridge can only record evaporation.",
+            "Water crossing a bridge changes from fresh to salty."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Readings before and after the pulse arrives are not directly comparable.",
+            "distractors": {
+              "1": "Opening the upstream gate introduces a travelling pulse rather than halting seepage.",
+              "2": "A bridge measures flow past its location.",
+              "3": "The text discusses propagation and measurement rather than salinity."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "downstream",
+              "hebrew": "במורד הזרם"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-16-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

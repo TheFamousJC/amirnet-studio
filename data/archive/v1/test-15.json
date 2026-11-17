@@ -1,0 +1,995 @@
+{
+  "id": "test-15",
+  "number": 15,
+  "title": "A Wall That Moved on Paper / Glass That Stays Visible to Birds",
+  "sections": [
+    {
+      "id": "test-15-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "The assignment asks students to ____ two translations of the poem and explain where their interpretations differ.",
+          "options": [
+            "combine",
+            "exclude",
+            "compare",
+            "repeat"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“compare” means examine similarities and differences. The assignment calls for spotting differences between the translations.",
+            "distractors": {
+              "0": "“combine” means bring separate things together. The clue is that the assignment calls for spotting differences between the translations.",
+              "1": "“exclude” means leave out of a group or calculation. The clue is that the assignment calls for spotting differences between the translations.",
+              "3": "“repeat” means carry out the same action again. The clue is that the assignment calls for spotting differences between the translations."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "compare",
+              "hebrew": "להשוות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-15-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "A casual conversation in the corridor could not replace the ____ written approval required by the university.",
+          "options": [
+            "ordinary",
+            "original",
+            "precise",
+            "formal"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“formal” means following recognised official conventions. University rules require official written approval.",
+            "distractors": {
+              "0": "“ordinary” means common and unremarkable. The clue is that university rules require official written approval.",
+              "1": "“original” means first version from which later versions are derived. The clue is that university rules require official written approval.",
+              "2": "“precise” means exact and free of unnecessary ambiguity. The clue is that university rules require official written approval."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "formal",
+              "hebrew": "רשמי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-15-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The narrow door acted as the principal ____ to moving the telescope indoors, since the instrument was several centimetres too wide to fit.",
+          "options": [
+            "advantage",
+            "obstacle",
+            "condition",
+            "purpose"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“obstacle” means thing that blocks progress. The opening physically prevents the instrument from passing through.",
+            "distractors": {
+              "0": "“advantage” means feature that offers a benefit. The clue is that the opening physically prevents the instrument from passing through.",
+              "2": "“condition” means requirement that must be met. The clue is that the opening physically prevents the instrument from passing through.",
+              "3": "“purpose” means reason for which something is done. The clue is that the opening physically prevents the instrument from passing through."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "obstacle",
+              "hebrew": "מכשול"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-15-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "Although the translation preserved the plot, it failed to ____ the original narrator's quiet amusement.",
+          "options": [
+            "convey",
+            "justify",
+            "assess",
+            "challenge"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“convey” means communicate an idea or feeling. The translation needed to communicate a feeling present in the original.",
+            "distractors": {
+              "1": "“justify” means give sufficient reasons supporting a choice or claim. The clue is that the translation needed to communicate a feeling present in the original.",
+              "2": "“assess” means judge the quality or significance of something. The clue is that the translation needed to communicate a feeling present in the original.",
+              "3": "“challenge” means dispute the validity or authority of something. The clue is that the translation needed to communicate a feeling present in the original."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "convey",
+              "hebrew": "להעביר, לבטא"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-15-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "To avoid choosing the healthiest plants, the team used a ____ draw generated by a computer to select which specimens to examine.",
+          "options": [
+            "random",
+            "comparable",
+            "marginal",
+            "dominant"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“random” means not following a deliberate pattern or selection rule. A computerised draw avoids choosing specimens according to their health.",
+            "distractors": {
+              "1": "“comparable” means similar enough to allow meaningful comparison. The clue is that a computerised draw avoids choosing specimens according to their health.",
+              "2": "“marginal” means small enough to be of limited significance. The clue is that a computerised draw avoids choosing specimens according to their health.",
+              "3": "“dominant” means more influential or widespread than others. The clue is that a computerised draw avoids choosing specimens according to their health."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "random",
+              "hebrew": "אקראי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-15-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The board warned that an exemption for one publisher could set a ____ that other applicants would cite in seeking the same treatment.",
+          "options": [
+            "discrepancy",
+            "constraint",
+            "correlation",
+            "precedent"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“precedent” means earlier instance used as a guide in later similar cases. An earlier decision would guide later similar requests.",
+            "distractors": {
+              "0": "“discrepancy” means lack of agreement between accounts or values expected to match. The clue is that an earlier decision would guide later similar requests.",
+              "1": "“constraint” means limit that restricts available choices. The clue is that an earlier decision would guide later similar requests.",
+              "2": "“correlation” means statistical association between variables. The clue is that an earlier decision would guide later similar requests."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "precedent",
+              "hebrew": "תקדים"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-15-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-15-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "The standard adopted in March was ____; it would be replaced once the working group had assessed the new instruments.",
+          "options": [
+            "empirical",
+            "partial",
+            "provisional",
+            "definitive"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“provisional” means accepted or arranged for the time being pending a final decision. The interim standard remains in force only until a later assessment.",
+            "distractors": {
+              "0": "“empirical” means based on systematic observation or experience. The clue is that the interim standard remains in force only until a later assessment.",
+              "1": "“partial” means incomplete or covering only part of something. The clue is that the interim standard remains in force only until a later assessment.",
+              "3": "“definitive” means settling a question in a final and authoritative way. The clue is that the interim standard remains in force only until a later assessment."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "provisional",
+              "hebrew": "זמני, ארעי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-15-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The gas used in the display case was chosen because it remains ____ in contact with the pigment and leaves it chemically unchanged.",
+          "options": [
+            "resilient",
+            "inert",
+            "adaptive",
+            "susceptible"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“inert” means showing little or no tendency to react. The gas does not react with the pigment.",
+            "distractors": {
+              "0": "“resilient” means able to recover after disruption or damage. The clue is that the gas does not react with the pigment.",
+              "2": "“adaptive” means able to change in response to new conditions. The clue is that the gas does not react with the pigment.",
+              "3": "“susceptible” means particularly vulnerable or prone to being affected. The clue is that the gas does not react with the pigment."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "inert",
+              "hebrew": "אדיש כימית, בלתי פעיל"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-15-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The instrument's ____ was evident when the same device measured angle, distance, and elevation without changing attachments.",
+          "options": [
+            "redundancy",
+            "versatility",
+            "parsimony",
+            "rigour"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“versatility” means ability to perform a range of functions or adapt to different uses. One device performs several different functions.",
+            "distractors": {
+              "0": "“redundancy” means unnecessary repetition or duplication. The clue is that one device performs several different functions.",
+              "2": "“parsimony” means preference for simplicity or economy of assumptions. The clue is that one device performs several different functions.",
+              "3": "“rigour” means thoroughness and strict adherence to analytical standards. The clue is that one device performs several different functions."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "versatility",
+              "hebrew": "רב-שימושיות, רבגוניות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-15-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The vaulted ceiling can ____ even a whisper, making conversations in one corner audible across the hall.",
+          "options": [
+            "synchronise",
+            "attenuate",
+            "amplify",
+            "modulate"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“amplify” means increase the strength, volume, or effect of something. A faint sound becomes more audible as its effect increases.",
+            "distractors": {
+              "0": "“synchronise” means cause actions to take place at the same time. The clue is that a faint sound becomes more audible as its effect increases.",
+              "1": "“attenuate” means reduce the strength or intensity of a signal or effect. The clue is that a faint sound becomes more audible as its effect increases.",
+              "3": "“modulate” means vary a property in a controlled way. The clue is that a faint sound becomes more audible as its effect increases."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "amplify",
+              "hebrew": "להגביר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-15-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The artist's early proposal remained ____: it offered disconnected sketches and no developed concept for the final installation.",
+          "options": [
+            "nascent",
+            "quiescent",
+            "moribund",
+            "inchoate"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“inchoate” means only partly formed or developed. The proposal had not progressed to a developed whole.",
+            "distractors": {
+              "0": "“nascent” means just beginning to exist, often with room for growth. The clue is that the proposal had not progressed to a developed whole.",
+              "1": "“quiescent” means temporarily inactive or dormant. The clue is that the proposal had not progressed to a developed whole.",
+              "2": "“moribund” means near the end of its life or usefulness. The clue is that the proposal had not progressed to a developed whole."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "inchoate",
+              "hebrew": "בלתי מגובש, בראשית התהוות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-15-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The modest rise in attendance was ____ with the vast expense of the campaign, which had cost more than the centre's annual operating budget.",
+          "options": [
+            "incommensurate",
+            "unassailable",
+            "unprecedented",
+            "unwarranted"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“incommensurate” means out of proportion or lacking a suitable correspondence in magnitude. The small benefit and enormous cost are out of proportion.",
+            "distractors": {
+              "1": "“unassailable” means so strong that it cannot reasonably be challenged. The clue is that the small benefit and enormous cost are out of proportion.",
+              "2": "“unprecedented” means having no previous example of its kind. The clue is that the small benefit and enormous cost are out of proportion.",
+              "3": "“unwarranted” means not sufficiently justified by the facts or circumstances. The clue is that the small benefit and enormous cost are out of proportion."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "incommensurate",
+              "hebrew": "בלתי מידתי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-15-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-15-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "A Wall That Moved on Paper",
+        "paragraphs": [
+          "The edge of an archaeological site is often drawn as a line around the area from which objects or structural remains have been recovered. That line may have a legal or administrative use, but it cannot always be read as a boundary that mattered to the inhabitants of the place. Artefacts can move through the action of flooding, animal burrows or later ploughing. A survey can also stop at the edge of a property, even though the structures it was detecting probably continue on the other side. The map records both previous activity and conditions under which modern work could proceed.",
+          "Imagine investigators examining a low wall beside an old track. In the first season they map six visible stones and suggest the wall marked the outer side of a yard. In the next season a landowner grants access beyond a fence. Newly surveyed stones make it possible to trace the wall farther than expected and show that it turns through an opening. The wall has not moved, but the tentative line around the yard now encloses a different space. The original plan is useful because it shows the evidence on which the earlier proposal rested and where the researchers had ceased looking.",
+          "The newer plan also needs an account of why the extension is interpreted as part of the same structure. Similar stone alone could be insufficient if the material is common across the area. Alignment, a related foundation depth and continuities in tool marks might jointly make a stronger case. Even then, the places where stones are absent need not be former entrances: they may reflect removal for later reuse. The difference between an observed stretch of masonry and a line inferred across a gap should be visible in the published drawing.",
+          "This approach does not prevent an agency from assigning a boundary for protection. It does make it possible to explain that the boundary refers to the scope of current knowledge or administration and could change as access improves. A more transparent plan can use different markings for survey limits, observed features, and lines that connect them provisionally. Such a map describes evidence at more than one level of certainty. A reader may then ask whether a discovery extends the known site, modifies the interpretation of a structure within it, or exposes limits of earlier fieldwork. Those are distinct changes, even if each one involves redrawing a line."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What main distinction does the author make about site maps?",
+          "options": [
+            "The line around a site always reproduces a boundary created by its former residents.",
+            "Boundaries for protection should be assigned only once every feature is known.",
+            "Physical archaeological structures move whenever a survey expands.",
+            "Survey limits and inferred features require separate treatment from directly observed remains."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The passage concludes with a proposal to mark these three sources of lines distinctly.",
+            "distractors": {
+              "0": "The author explicitly says present administrative lines need not match historical ones.",
+              "1": "The author allows protective boundaries based on current knowledge and administration.",
+              "2": "The example shows a mapped interpretation changing while the wall stays in place."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "scope",
+              "hebrew": "היקף"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-15-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why would similarity of stone be weak evidence by itself that the newly surveyed section belonged to the wall?",
+          "options": [
+            "Separate structures in the area could have been made from the same commonly available material.",
+            "The original wall was described as containing no stone.",
+            "Similar stones cannot be present in two places at once.",
+            "Every opening in a wall must lack observable material."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Common stone alone does not establish a shared construction; other features can corroborate it.",
+            "distractors": {
+              "1": "Six visible stones motivated the first proposal.",
+              "2": "The passage specifically imagines their availability across the area.",
+              "3": "An opening is one interpretation of some gaps and does not settle the continuity of the whole."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "alignment",
+              "hebrew": "יישור באותו קו"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-15-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author regard the first plan after the additional stones are found?",
+          "options": [
+            "As worthless because it fails to show the full structure.",
+            "As a record valuable for showing the earlier evidence and its limits.",
+            "As indisputable because it was drawn before the team knew about the fence.",
+            "As evidence that the wall itself was moved by the owners between seasons."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "It remains useful even when the proposed extent of the yard changes.",
+            "distractors": {
+              "0": "An incomplete plan can be historically informative about the investigation.",
+              "2": "The team did know where it had ceased investigating, and the interpretation was provisional.",
+              "3": "No physical movement is proposed."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "tentative",
+              "hebrew": "ראשוני ולא ודאי"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-15-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What is meant by connecting features “provisionally” in a published plan?",
+          "options": [
+            "Joining the stones with mortar so they remain standing.",
+            "Showing them at a scale that omits all uncertainty.",
+            "Showing a plausible connection subject to revision when more evidence appears.",
+            "Connecting them in accordance with a legally binding property transfer."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Inference across a gap is useful when its status remains clear.",
+            "distractors": {
+              "0": "The connection here is made in the drawing.",
+              "1": "Uncertainty should be visible in the markings.",
+              "3": "A tentative interpretation is distinct from an administrative determination."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "provisionally",
+              "hebrew": "באופן זמני הנתון לשינוי"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-15-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What changed between the two seasons in the hypothetical investigation?",
+          "options": [
+            "The mapmakers discovered that the original six stones were not beside a track.",
+            "Researchers obtained permission to survey past a fence.",
+            "The present owners demolished the building at the centre of the yard.",
+            "The surveyors replaced the original stones with concrete blocks."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Access beyond the former limit made an extension visible.",
+            "distractors": {
+              "0": "The passage revises the layout of the wall, not the location of those six stones.",
+              "2": "There is no demolition in the example.",
+              "3": "The stones did not move and no reconstruction is described."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "landowner",
+              "hebrew": "בעל קרקע"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-15-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-15-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "It supported an active trade in wool, even though the island lacked year-round roads.",
+          "options": [
+            "The island lacked year-round roads; nevertheless, it supported an active trade in wool.",
+            "It supported an active trade in wool, which prevented anyone from finding out whether the island lacked year-round roads.",
+            "It supported an active trade in wool only before it became clear that the island lacked year-round roads.",
+            "Because the island lacked year-round roads, it supported an active trade in wool."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the island lacked year-round roads” and “it supported an active trade in wool.”",
+            "distractors": {
+              "1": "It introduces an obstacle to discovering the first fact, which the original states directly.",
+              "2": "It limits the second fact to an earlier time and adds a discovery that the original never mentions.",
+              "3": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-15-restatement-1-1"
+        },
+        {
+          "prompt": "The analysts converted all figures before comparing them because the records used different units of measurement.",
+          "options": [
+            "The records used different units of measurement; nevertheless, the analysts converted all figures before comparing them.",
+            "The analysts converted all figures before comparing them, but it is unknown whether the records used different units of measurement.",
+            "The records used different units of measurement; consequently, the analysts converted all figures before comparing them.",
+            "The analysts converted all figures before comparing them; consequently, the records used different units of measurement."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the records used different units of measurement, leading to the result that the analysts converted all figures before comparing them.",
+            "distractors": {
+              "0": "It replaces the causal relationship with a concession.",
+              "1": "It casts doubt on the cause, which the original treats as an established fact.",
+              "3": "It reverses the direction of cause and result."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-15-restatement-1-2"
+        },
+        {
+          "prompt": "Once the student has chosen a topic, the librarian will suggest relevant sources.",
+          "options": [
+            "The librarian will suggest relevant sources before the student has chosen a topic.",
+            "The librarian will not suggest relevant sources even after the student has chosen a topic.",
+            "The librarian will suggest relevant sources, regardless of whether the student has chosen a topic.",
+            "The librarian will suggest relevant sources after the student has chosen a topic."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled.",
+            "distractors": {
+              "0": "It places the scheduled action before the event that the sentence puts first.",
+              "1": "It denies the stated plan to carry out the second action.",
+              "2": "It makes the first event irrelevant to the timing of the second."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-15-restatement-1-3"
+        },
+        {
+          "prompt": "The university will install it only if the new version works with older files.",
+          "options": [
+            "The university will install it only on condition that the new version works with older files.",
+            "The university will install it only if it is impossible to establish that the new version works with older files.",
+            "The university will install it in every case in which the new version works with older files.",
+            "The university will install it whether or not the new version works with older files."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The condition “the new version works with older files” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "1": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met.",
+              "2": "It treats the condition as sufficient and promises the outcome whenever it is met.",
+              "3": "It removes the requirement by making the outcome independent of the condition."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-15-restatement-1-4"
+        },
+        {
+          "prompt": "The local newspaper seemed detailed compared with the regional newspaper.",
+          "options": [
+            "The difference in detail was established when the regional newspaper provided more detail than the local newspaper in a formal test.",
+            "The regional newspaper appeared to exceed the local newspaper in detail.",
+            "The local newspaper appeared to match the regional newspaper in detail.",
+            "The local newspaper appeared to exceed the regional newspaper in detail."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the regional newspaper, first. The comparison concerns detail.",
+            "distractors": {
+              "0": "It turns an impression into a demonstrated finding and invents a formal test.",
+              "2": "It describes the two items as equal on the stated measure.",
+              "3": "It reverses the relative ranking of the two items."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-15-restatement-1-5"
+        },
+        {
+          "prompt": "But for the independent witness, the committee could not have verified the date.",
+          "options": [
+            "The committee could not have verified the date even if the independent witness had still been a factor.",
+            "The committee could not have verified the date because of the independent witness.",
+            "Whether the independent witness made any difference to the outcome is unknown.",
+            "The committee could not have verified the date in the absence of the independent witness."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the committee could not have verified the date” belongs to the hypothetical situation in which the independent witness was absent.",
+            "distractors": {
+              "0": "It predicts the same result without changing whether the factor was present.",
+              "1": "It attributes the hypothetical result to the presence of the factor rather than its absence.",
+              "2": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-15-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-15-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the official map omits the stream, the surveyors will record its course.",
+          "options": [
+            "The surveyors will record its course only in the event that the official map omits the stream.",
+            "The surveyors may or may not record its course, depending on whether the official map omits the stream.",
+            "The surveyors will record its course, including in the event that the official map omits the stream.",
+            "The official map omits the stream; therefore, the surveyors will record its course."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the official map omits the stream. The original leaves that case hypothetical.",
+            "distractors": {
+              "0": "It turns a condition that would make no difference into a requirement.",
+              "1": "It makes the outcome depend on the hypothetical condition.",
+              "3": "It turns an open possibility into an established fact and presents it as the cause."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-15-restatement-2-1"
+        },
+        {
+          "prompt": "The auditor neither endorsed nor expressly rejected the claim that the deficit resulted from faulty bookkeeping.",
+          "options": [
+            "The auditor initially backed the claim that the deficit resulted from faulty bookkeeping but later withdrew its endorsement.",
+            "The auditor expressly rejected the claim that the deficit resulted from faulty bookkeeping, although it stopped short of explaining why.",
+            "The auditor offered no endorsement of the claim that the deficit resulted from faulty bookkeeping and issued no explicit rejection either.",
+            "The auditor accepted the claim that the deficit resulted from faulty bookkeeping in principle while withholding public support."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It invents a prior endorsement and a reversal of position.",
+              "1": "It asserts an explicit rejection, which the original rules out.",
+              "3": "It invents an acceptance in principle, which cannot be inferred from the original."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-15-restatement-2-2"
+        },
+        {
+          "prompt": "The essays' uneven reception stemmed less from the unfamiliar subject matter than from differences in how the translators handled irony.",
+          "options": [
+            "The essays' uneven reception was the principal reason for both the unfamiliar subject matter and differences in how the translators handled irony.",
+            "The unfamiliar subject matter was the greater contributor to the essays' uneven reception, though differences in how the translators handled irony also mattered.",
+            "The unfamiliar subject matter and differences in how the translators handled irony played equally important roles in the essays' uneven reception.",
+            "Differences in how the translators handled irony contributed more to the essays' uneven reception than the unfamiliar subject matter did."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “differences in how the translators handled irony” greater explanatory weight than “the unfamiliar subject matter.”",
+            "distractors": {
+              "0": "It makes the outcome cause the factors that are supposed to explain it.",
+              "1": "It reverses the relative importance of the factors.",
+              "2": "It makes the factors equally important despite the stated inequality."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-15-restatement-2-3"
+        },
+        {
+          "prompt": "The volunteers did not remove the temporary fence until the gardeners had marked the young plants.",
+          "options": [
+            "The volunteers removed the temporary fence only after the gardeners had marked the young plants.",
+            "The volunteers removed the temporary fence as evidence that the gardeners had marked the young plants.",
+            "The volunteers removed the temporary fence before the gardeners had marked the young plants.",
+            "The volunteers did not remove the temporary fence, although the gardeners had marked the young plants."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "1": "It turns a timing relationship into an assertion about the actor’s purpose.",
+              "2": "It reverses the sequence by placing the main action first.",
+              "3": "It makes the main action fail to occur, whereas the original reports that it happened later."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-15-restatement-2-4"
+        },
+        {
+          "prompt": "Of the copies sold at the launch, none include the corrected figure with the sole exception of the bookstore's display copy.",
+          "options": [
+            "It has not been determined whether the bookstore's display copy includes the corrected figure.",
+            "The bookstore's display copy includes the corrected figure; the others in the same group do not.",
+            "All the copies sold at the launch include the corrected figure except the bookstore's display copy.",
+            "The bookstore's display copy includes the corrected figure, and at least one other member of the group shares that distinction."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the bookstore's display copy is the single item that has the stated property.",
+            "distractors": {
+              "0": "It changes an explicit exception into an uncertainty.",
+              "2": "It gives the property to the entire group except the one item that actually has it.",
+              "3": "It allows a second exception even though “sole” limits the number to one."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-15-restatement-2-5"
+        },
+        {
+          "prompt": "Had the archive acquired the translator's notes, it might have resolved the uncertainty about the inscription.",
+          "options": [
+            "It would certainly have resolved the uncertainty about the inscription if the archive had acquired the translator's notes.",
+            "Because the archive had acquired the translator's notes, it must have resolved the uncertainty about the inscription.",
+            "It might have resolved the uncertainty about the inscription if the archive had acquired the translator's notes.",
+            "It might have resolved the uncertainty about the inscription only if the archive had acquired the translator's notes."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "This is a past counterfactual. The opening clause introduces an unrealized condition and “might have” presents the result as possible under that condition.",
+            "distractors": {
+              "0": "It turns a possible outcome into a guaranteed one.",
+              "1": "It asserts an actual outcome and treats the unrealized condition as fact.",
+              "3": "It adds a requirement that no other scenario could have produced the outcome."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "might have",
+              "hebrew": "ייתכן שהיה / הייתה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-15-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-15-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Glass That Stays Visible to Birds",
+        "paragraphs": [
+          "A window is generally judged from the viewpoint of someone inside a room. The glass should admit light and allow a view without drawing attention to itself. From the standpoint of a bird approaching the same window, invisibility can be a serious defect. A reflective façade can display a convincing image of a tree; clear panes on opposite walls may appear to offer an unobstructed route. Bird collisions therefore occur under at least two different visual conditions. In one case the pane reproduces an apparent destination, and in the other it conceals a barrier between the animal and something genuinely visible.",
+          "A common response is to place markings on the glass. The broad idea is to interrupt the appearance of open space, but the details matter. A few large silhouettes may attract a person's attention while leaving wide blank areas that still appear passable to a small bird. More closely spaced marks can minimize the apparent gaps. Position also matters. If the pane reflects strongly on its outer surface, a mark fixed to the inside may be less visible from outside than a similar mark placed on the outer surface. Appearance must be assessed from the direction and in the lighting in which birds approach.",
+          "Other designs rely on patterns that are more conspicuous to some birds than to human occupants. This is an appealing goal because it could preserve the human view. But sensitivity to particular wavelengths differs among species, and the light reaching a façade changes during a day. A pattern that works in direct sunlight may be harder to recognize when the same window lies in shade. The usefulness of a pattern therefore has to be established across a plausible range of conditions rather than inferred from a single photograph or from the sensitivity of one species.",
+          "Evaluating interventions introduces a practical complication. Fewer discovered birds after a change could signify reduced collisions, but it could also reflect changes in how often an area is searched or how long evidence remains. A building regularly patrolled before treatment and seldom visited afterward would offer an unreliable comparison. Repeated searches by consistent methods, and comparisons with untreated windows when feasible, strengthen the evidence. The design objective is easy to state: make the barrier visible. Tests of visibility and careful field observations determine how reliably a particular installation accomplishes it."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What central claim governs the discussion of bird-safe windows?",
+          "options": [
+            "Markings and other treatments must make barriers detectable under real viewing conditions and should be validated by reliable comparisons.",
+            "Every pane causes collisions for the same visual reason.",
+            "Since people can see patterns, species sensitivity is irrelevant.",
+            "Several large silhouettes always make the entire window recognizable."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The passage connects collision mechanisms to design choices and field evaluation.",
+            "distractors": {
+              "1": "Reflections and apparently open routes are distinguished.",
+              "2": "The same pattern can look different to different observers.",
+              "3": "Blank areas between isolated marks can still appear passable."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "façade",
+              "hebrew": "חזית"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-15-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why might a closely spaced external pattern work better than a sparse internal one on reflective glass?",
+          "options": [
+            "The inside of the pane never receives any light.",
+            "Close spacing reflects a picture of a tree onto the exterior.",
+            "External marks prevent light from entering every part of a room.",
+            "The exterior pattern is less likely to be obscured by reflection and leaves fewer apparent openings."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The text identifies both location and spacing effects.",
+            "distractors": {
+              "0": "The comparison depends on glare and visibility from outdoors.",
+              "1": "Markings reduce rather than create the illusion of open space.",
+              "2": "They can interrupt apparent openings without blocking all light."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "passable",
+              "hebrew": "ניתן למעבר"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-15-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author regard treatments intended to be more visible to birds than humans?",
+          "options": [
+            "Certain that success with one species guarantees success with every other.",
+            "Interested but cautious about variation across species and lighting.",
+            "Confident that a promotional photograph is decisive evidence.",
+            "Dismissive of their aim because indoor views have no value."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The aim is called appealing while conditions for effectiveness are specified.",
+            "distractors": {
+              "0": "Spectral sensitivity differs across species.",
+              "2": "The article demands tests across plausible conditions.",
+              "3": "The passage treats the human view as a design priority."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "conspicuous",
+              "hebrew": "בולט"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-15-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “conceals” mean in the description of clear panes on opposite walls?",
+          "options": [
+            "Throws an exact reflection of an object.",
+            "Strengthens the pane from outside.",
+            "Keeps something from being recognized or seen.",
+            "Makes the route physically available."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "A transparent pane can hide the fact that a barrier interrupts an apparent route.",
+            "distractors": {
+              "0": "Transparency creating a seeming route is distinguished from reflection.",
+              "1": "No change in physical strength is implied.",
+              "3": "The apparent route is actually obstructed."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "conceals",
+              "hebrew": "מסתיר"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-15-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What could weaken evidence that a treatment reduced collisions?",
+          "options": [
+            "Searching for evidence much less frequently after installing the treatment.",
+            "Testing visibility in direct sun and shade.",
+            "Checking windows repeatedly using identical methods.",
+            "Comparing similarly monitored treated and untreated windows."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Fewer discoveries could result from reduced observation effort.",
+            "distractors": {
+              "1": "The lighting comparison improves design evaluation.",
+              "2": "Consistency makes before-and-after comparisons stronger.",
+              "3": "That comparison helps isolate treatment effects."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "patrolled",
+              "hebrew": "השטח נסרק"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-15-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

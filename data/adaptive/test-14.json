@@ -1,0 +1,456 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "Before the renovation, visitors could see the courtyard only through a window. A new gate will ____ them to enter it directly.",
+      "options": [
+        "require",
+        "encourage",
+        "persuade",
+        "permit"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The gate makes direct entry possible.",
+        "distractors": {
+          "0": "The gate creates an option and does not force visitors to enter.",
+          "1": "A gate can make entry inviting, but the contrast concerns whether physical access is possible.",
+          "2": "The change concerns a route into the courtyard, not an argument aimed at changing anyone's mind."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "permit",
+          "hebrew": "להתיר; לאפשר"
+        }
+      ],
+      "id": "test-14-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The footpaths follow the same ridge for a kilometre before they ____: one turns toward the river and the other continues uphill.",
+      "options": [
+        "converge",
+        "diverge",
+        "intersect",
+        "terminate"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "After sharing a route, the two paths separate in different directions.",
+        "distractors": {
+          "0": "Convergence would bring two separate routes together.",
+          "2": "The paths do not merely cross at one point; they split after following the ridge together.",
+          "3": "Both paths continue beyond the point at which they separate."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "diverge",
+          "hebrew": "להתפצל; להתרחק זה מזה"
+        }
+      ],
+      "id": "test-14-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The new apple variety can ____ a short freeze without lasting damage to its buds.",
+      "options": [
+        "tolerate",
+        "anticipate",
+        "prevent",
+        "offset"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Remaining healthy after the freeze shows that the variety can withstand it.",
+        "distractors": {
+          "1": "The issue is survival through freezing conditions rather than predicting their onset.",
+          "2": "The variety survives the freeze; it does not stop one from happening.",
+          "3": "The sentence describes enduring cold, not counterbalancing something with an opposing effect."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "tolerate",
+          "hebrew": "לסבול; לעמוד בתנאים"
+        }
+      ],
+      "id": "test-14-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "Several years of design revisions and small trial installations will ____ in a public demonstration of the completed system.",
+      "options": [
+        "originate",
+        "persist",
+        "culminate",
+        "participate"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The public demonstration is the final event toward which the earlier work leads.",
+        "distractors": {
+          "0": "The completed demonstration comes after the revisions and trials, so it is not their origin.",
+          "1": "Persistence is continuing despite difficulties, whereas the sentence identifies the outcome that concludes the work.",
+          "3": "The revisions and installations are earlier stages of work rather than participants in the event."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "culminate",
+          "hebrew": "להגיע לשיא או לנקודת סיום (בביטוי culminate in)"
+        }
+      ],
+      "id": "test-14-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The photographer hung the wet prints up to ____ before putting them in a box.",
+      "options": [
+        "frame",
+        "dry",
+        "sort",
+        "trim"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Hanging the prints allows moisture to leave them.",
+        "distractors": {
+          "0": "Framing would require other materials and would not remove the moisture.",
+          "2": "Sorting would put the prints in order rather than remove moisture.",
+          "3": "Cutting the edges does not make a wet print dry."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "dry",
+          "hebrew": "לייבש"
+        }
+      ],
+      "id": "test-14-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "With the bill for labor still unknown, the builders could only ____ the total cost rather than give a final figure.",
+      "options": [
+        "limit",
+        "reduce",
+        "estimate",
+        "verify"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The builders could give an approximate amount using incomplete information.",
+        "distractors": {
+          "0": "Putting a ceiling on cost is different from working out an approximate amount.",
+          "1": "They are trying to determine a possible total rather than make the work cheaper.",
+          "3": "There is not yet enough confirmed information to check an exact total."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "estimate",
+          "hebrew": "לאמוד"
+        }
+      ],
+      "id": "test-14-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "The historian examined the invoices ____ whether the pigment had been bought locally.",
+      "options": [
+        "for establish",
+        "establishing of",
+        "to establish",
+        "to be establish"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The to-infinitive expresses the purpose of examining the invoices.",
+        "distractors": {
+          "0": "For cannot take the bare verb establish.",
+          "1": "Establish takes an indirect question directly, without of.",
+          "3": "After to be, establish would need a different form, and a passive construction would not express the historian's purpose."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "invoice",
+          "hebrew": "חשבונית"
+        }
+      ],
+      "id": "test-14-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Neither of the two devices ____ capable of measuring very low temperatures.",
+      "options": [
+        "were be",
+        "is",
+        "are being",
+        "have"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Neither takes singular is in this formal construction, and capable follows be.",
+        "distractors": {
+          "0": "Were cannot be followed by the bare verb be here.",
+          "2": "Are being capable treats capability as a temporary action and fails formal singular agreement.",
+          "3": "Have has the wrong construction with the adjective capable."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "capable",
+          "hebrew": "מסוגל"
+        }
+      ],
+      "id": "test-14-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The report suggests ____ the two sites before commissioning another survey.",
+      "options": [
+        "to revisit",
+        "that revisit",
+        "revisiting",
+        "to revisiting"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Suggest can take a gerund naming the proposed action.",
+        "distractors": {
+          "0": "Suggest does not directly take to revisit to express this recommendation.",
+          "1": "A that clause requires an explicit subject before the verb.",
+          "3": "An infinitive cannot take revisiting, and suggest does not license this complement."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "commission",
+          "hebrew": "להזמין ביצוע"
+        }
+      ],
+      "id": "test-14-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Three of the readings agreed closely, but the fourth would have been within the same range if the instrument ____ before the experiment.",
+      "options": [
+        "would have calibrating",
+        "had properly calibrating",
+        "has properly calibrated",
+        "had been properly calibrated"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The modal perfect result takes an unreal past condition, expressed here with had been plus a passive participle.",
+        "distractors": {
+          "0": "Would have requires a past participle and would not form the necessary condition here.",
+          "1": "Had must be followed by a participle, and the instrument receives the calibration.",
+          "2": "Has puts the reference at the present and makes the instrument the agent."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "calibrate",
+          "hebrew": "לכייל"
+        }
+      ],
+      "id": "test-14-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "The route is ____ in winter because heavy snow can close it with little warning.",
+      "base": "predict",
+      "answers": [
+        "unpredictable"
+      ],
+      "explanation": "Unpredictable describes a route whose availability cannot be known in advance.",
+      "id": "test-14-word-1"
+    },
+    {
+      "prompt": "The two samples were ____ similar, given that they had been collected hundreds of kilometers apart.",
+      "base": "surprise",
+      "answers": [
+        "surprisingly"
+      ],
+      "explanation": "Surprisingly modifies similar and indicates that the resemblance was not expected.",
+      "id": "test-14-word-2"
+    },
+    {
+      "prompt": "The trees were ____ in a sheltered nursery before being planted beside the exposed road.",
+      "base": "grow",
+      "answers": [
+        "grown"
+      ],
+      "explanation": "Grown is the irregular past participle of grow.",
+      "id": "test-14-word-3"
+    },
+    {
+      "prompt": "The organizers made separate travel ____ for the six guests coming from abroad.",
+      "base": "arrange",
+      "answers": [
+        "arrangements"
+      ],
+      "explanation": "Arrangements is the plural noun for travel plans made in advance.",
+      "id": "test-14-word-4"
+    }
+  ],
+  "writing": "Should public parks have designated areas where phones are put away? Explain the advantages or disadvantages of this idea.",
+  "listening": {
+    "type": "continuation",
+    "clips": [
+      {
+        "context": "Listen to part of a lecture on finding an unfamiliar word.",
+        "transcript": "A dictionary survey asked readers whether a definition helped them understand a rare term. Several could repeat the definition immediately but still chose the wrong meaning in a real paragraph. The researcher realized that recalling a definition is different from",
+        "audio": "/listening/continuation-6-1.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about word meanings.",
+            "options": [
+              "recognizing how a word is used in context",
+              "saying a memorized sentence aloud",
+              "finding a term on the correct dictionary page",
+              "asking a researcher to repeat a question"
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "The scenario contrasts repetition of a definition and application of that knowledge in a paragraph.",
+              "distractors": {
+                "1": "Repeating a memorized sentence is similar to recalling the definition.",
+                "2": "Finding a page is not the skill compared with recall.",
+                "3": "The result concerns the reader's interpretation of a word."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "in context",
+                "hebrew": "בהקשר"
+              }
+            ],
+            "id": "test-14-audio-1-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on a pottery exhibition.",
+        "transcript": "A museum displayed bowls ordered from smallest to largest. Visitors quickly noticed differences in size but overlooked patterns in the decoration. Reordering the display might draw more attention to those patterns if the museum puts together bowls that",
+        "audio": "/listening/continuation-6-2.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the bowls.",
+            "options": [
+              "are exactly the same size",
+              "come from storage shelves of equal height",
+              "share similar decorative features",
+              "are made from the most fragile material"
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "Grouping decoration types makes the intended visual patterns easier to compare.",
+              "distractors": {
+                "0": "The display already emphasized size and failed to draw enough attention to patterns.",
+                "1": "Shelf height is incidental to the objects' appearance.",
+                "3": "Fragility might affect display cases, but it is not the learning goal."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "decoration",
+                "hebrew": "עיטור"
+              }
+            ],
+            "id": "test-14-audio-2-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on reading temperature records.",
+        "transcript": "A town's hottest days appear more frequent in recent records. Before drawing a conclusion, a researcher discovers that the old thermometer was shaded by a wall, while its replacement stood in direct sunlight. A reliable comparison must account for",
+        "audio": "/listening/continuation-6-3.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about temperature records.",
+            "options": [
+              "the age of the wall near the new thermometer",
+              "the different conditions at the measuring sites",
+              "the number of inhabitants on the hottest days",
+              "the order in which the records were filed"
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "The instrument's placement can influence the comparison regardless of an underlying trend.",
+              "distractors": {
+                "0": "The wall shaded the old thermometer, and wall age is immaterial to the described difference.",
+                "2": "Population was not identified as a measurement issue.",
+                "3": "File order does not explain a difference between shade and sunlight."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "account for",
+                "hebrew": "להביא בחשבון"
+              }
+            ],
+            "id": "test-14-audio-3-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on recovering scraps of an old map.",
+        "transcript": "The printed map survived in two damaged copies. A route missing from one copy appears clearly in the other, but parts of the coastline are missing from both. Comparing the copies allows the researcher to reconstruct some features while leaving",
+        "audio": "/listening/continuation-6-4.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the damaged map.",
+            "options": [
+              "every island clearly identified",
+              "only the paper color unchanged",
+              "both copies readable in full",
+              "other features uncertain"
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The two copies complement each other for some features, but shared gaps remain.",
+              "distractors": {
+                "0": "Shared damage leaves some features unknown.",
+                "1": "The issue is recoverable information, not paper color.",
+                "2": "Comparison does not repair the damage or supply the missing parts of both copies."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "reconstruct",
+                "hebrew": "לשחזר"
+              }
+            ],
+            "id": "test-14-audio-4-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      }
+    ]
+  }
+}

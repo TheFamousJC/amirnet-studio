@@ -1,0 +1,996 @@
+{
+  "id": "test-12",
+  "number": 12,
+  "bankVersion": 2,
+  "title": "What a Repair Preserves / Waste Heat Under the Footpath",
+  "sections": [
+    {
+      "id": "test-12-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "Despite fluctuations in the outside air, the temperature inside the sealed chamber remained ____ throughout the trial.",
+          "options": [
+            "stable",
+            "scarce",
+            "hidden",
+            "fragile"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“stable” means unlikely to change under existing conditions. The interior temperature did not fluctuate during the trial.",
+            "distractors": {
+              "1": "“scarce” means available only in small quantities. The clue is that the interior temperature did not fluctuate during the trial.",
+              "2": "“hidden” means kept out of sight. The clue is that the interior temperature did not fluctuate during the trial.",
+              "3": "“fragile” means easily broken or damaged. The clue is that the interior temperature did not fluctuate during the trial."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "stable",
+              "hebrew": "יציב"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-12-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "The project's stated ____ was to cut paper use in half by 2030, although purchases had barely fallen by the midpoint.",
+          "options": [
+            "schedule",
+            "method",
+            "goal",
+            "outcome"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“goal” means intended result or target. Halving paper use was the aim rather than an accomplished result.",
+            "distractors": {
+              "0": "“schedule” means plan that assigns times to activities. The clue is that halving paper use was the aim rather than an accomplished result.",
+              "1": "“method” means systematic way of doing something. The clue is that halving paper use was the aim rather than an accomplished result.",
+              "3": "“outcome” means result of an event or process. The clue is that halving paper use was the aim rather than an accomplished result."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "goal",
+              "hebrew": "יעד, מטרה"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-12-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "A shade-tolerant grass proved ____ for the courtyard, where surrounding buildings block direct sunlight for most of the day.",
+          "options": [
+            "distinct",
+            "consistent",
+            "available",
+            "suitable"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“suitable” means appropriate for a specific purpose. Tolerance of shade makes the grass appropriate for a dark courtyard.",
+            "distractors": {
+              "0": "“distinct” means clearly separate or different. The clue is that tolerance of shade makes the grass appropriate for a dark courtyard.",
+              "1": "“consistent” means uniform across occasions or cases. The clue is that tolerance of shade makes the grass appropriate for a dark courtyard.",
+              "2": "“available” means obtainable or ready for use. The clue is that tolerance of shade makes the grass appropriate for a dark courtyard."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "suitable",
+              "hebrew": "מתאים"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-12-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The panel used the same rubric to ____ the quality of all proposals before deciding which projects to fund.",
+          "options": [
+            "justify",
+            "assess",
+            "convey",
+            "challenge"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“assess” means judge the quality or significance of something. The rubric supports a judgment about proposal quality.",
+            "distractors": {
+              "0": "“justify” means give sufficient reasons supporting a choice or claim. The clue is that the rubric supports a judgment about proposal quality.",
+              "2": "“convey” means communicate an idea or feeling. The clue is that the rubric supports a judgment about proposal quality.",
+              "3": "“challenge” means dispute the validity or authority of something. The clue is that the rubric supports a judgment about proposal quality."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "assess",
+              "hebrew": "להעריך"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-12-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The city introduced licensing and inspection rules to ____ the commercial use of its narrow waterways.",
+          "options": [
+            "quantify",
+            "attribute",
+            "regulate",
+            "recover"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“regulate” means control an activity or process through a system or rules. The city aims to control the activity through enforceable rules.",
+            "distractors": {
+              "0": "“quantify” means express the magnitude of something in numbers. The clue is that the city aims to control the activity through enforceable rules.",
+              "1": "“attribute” means identify something as the cause or origin of an outcome. The clue is that the city aims to control the activity through enforceable rules.",
+              "3": "“recover” means get back something that was lost or inaccessible. The clue is that the city aims to control the activity through enforceable rules."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "regulate",
+              "hebrew": "לווסת, להסדיר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-12-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The threshold seemed ____ since the committee supplied no reason for choosing seventeen instead of a nearby value.",
+          "options": [
+            "anomalous",
+            "arbitrary",
+            "ambiguous",
+            "analogous"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“arbitrary” means based on chance or preference rather than a defensible reason. The exact cutoff lacks a reasoned justification.",
+            "distractors": {
+              "0": "“anomalous” means inconsistent with an otherwise regular pattern. The clue is that the exact cutoff lacks a reasoned justification.",
+              "2": "“ambiguous” means capable of being understood in more than one way. The clue is that the exact cutoff lacks a reasoned justification.",
+              "3": "“analogous” means similar in a relevant respect despite other differences. The clue is that the exact cutoff lacks a reasoned justification."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "arbitrary",
+              "hebrew": "שרירותי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-12-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-12-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "The sensor worked at room temperature but failed in cold weather, so the engineers decided to ____ its protective casing.",
+          "options": [
+            "maintain",
+            "modify",
+            "install",
+            "measure"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "They intend to change a component that did not work under certain conditions.",
+            "distractors": {
+              "0": "Routine maintenance would preserve the existing casing, while a design change is needed.",
+              "2": "The casing already exists and needs to be adapted.",
+              "3": "Measurement might help diagnose the problem but would not alter the casing."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "modify",
+              "hebrew": "לשנות, להתאים"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-12-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The library could expand into the ____ property because the two buildings already shared a wall.",
+          "options": [
+            "detached",
+            "vacant",
+            "adjacent",
+            "parallel"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "A shared wall establishes that the two properties are next to each other.",
+            "distractors": {
+              "0": "The buildings are joined by a wall rather than freestanding.",
+              "1": "A property can share a wall while occupied; vacancy is not established.",
+              "3": "The relevant relation is contact at the shared boundary, not just a similar alignment."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "adjacent",
+              "hebrew": "צמוד, סמוך"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-12-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "Despite being inexpensive, the sensor proved ____: repeated checks against a laboratory instrument revealed almost no difference in its readings.",
+          "options": [
+            "reliable",
+            "durable",
+            "portable",
+            "sensitive"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Its readings can be trusted because they closely and repeatedly match a trusted reference.",
+            "distractors": {
+              "1": "No evidence establishes how well the sensor withstands wear.",
+              "2": "The ability to move the device is unrelated to the reading comparisons.",
+              "3": "Sensitivity concerns detecting small changes, whereas the stated tests compare agreement with a reference."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "reliable",
+              "hebrew": "אמין"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-12-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "Water pressure was already dangerously low. Engineers warned that opening a second outlet would ____ the problem by reducing the pressure still further.",
+          "options": [
+            "reflect",
+            "perpetuate",
+            "exacerbate",
+            "contain"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The second outlet is expected to make an existing problem worse.",
+            "distractors": {
+              "0": "The outlet would cause a change in pressure, rather than merely indicate the current problem.",
+              "1": "Perpetuating the problem would mean keeping it going, while the stated effect is a further reduction in pressure.",
+              "3": "The opening would intensify the pressure problem rather than control it."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "exacerbate",
+              "hebrew": "להחמיר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-12-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The inspectors applied the same written rule to two identical applications and approved only one. The review board found their treatment of the cases ____.",
+          "options": [
+            "inconsistent",
+            "systematic",
+            "discretionary",
+            "conclusive"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The same rule and facts produced incompatible decisions.",
+            "distractors": {
+              "1": "Systematic application would normally yield comparable treatment for identical applications.",
+              "2": "The sentence does not say the rule leaves room for differing decisions on identical facts.",
+              "3": "A final decision can be reached consistently or inconsistently; finality does not address the contrast."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "inconsistent",
+              "hebrew": "לא עקבי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-12-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The second test found traces of the newer dye, but the results were ____ on the question of whether the older dye had been used in the same cloth.",
+          "options": [
+            "inconclusive",
+            "irrelevant",
+            "conflicting",
+            "definitive"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The evidence gives no decisive answer about the older dye.",
+            "distractors": {
+              "1": "The test's findings concern the cloth's dye and are relevant even though they are insufficient.",
+              "2": "No finding cited contradicts another finding; the difficulty is a lack of decisive evidence.",
+              "3": "The findings leave the question of the old dye open rather than settling it."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "inconclusive",
+              "hebrew": "שאינו חד־משמעי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-12-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-12-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "What a Repair Preserves",
+        "paragraphs": [
+          "At a textile workshop attached to a small museum, a worn ceremonial banner presents a familiar conservation problem. One section has lost enough thread to make the picture difficult to read, and earlier repairs have introduced cloth of several different colours. An observer might expect the goal to be simply to make the picture whole again. But “whole” could refer to the banner as it left the workshop that first made it, as it appeared at the last procession, or as it bears visible traces of many years of use. Depending on the answer, an intervention that preserves one identity could damage another.",
+          "One conservator proposes supporting the weakened area from behind with a finely woven cloth. The support makes the surviving threads easier to handle without supplying an invented part of the picture. A colleague suggests printing a reconstruction on the support so visitors can follow the design across the gaps. This would make the image more legible but could make conjecture appear continuous with surviving work. The team considers a display that places a separate drawing nearby instead. The drawing can explain how the motifs might once have connected while the banner remains available for a different kind of scrutiny.",
+          "Even the policy of retaining visible repairs needs discrimination. Some patches were carefully added by people who carried the banner during ceremonies; their different fabric records practical decisions made in use. Another patch was added as temporary backing during a photographic session and was never intended to remain attached. If it is actively damaging the older material, removing it could preserve more evidence than keeping it. The age of an addition may be one consideration, but the role it played and the effects it now has need independent attention.",
+          "A good conservation record acknowledges these conflicts. It describes how materials were handled and why a particular balance was chosen among physical support, legibility and historical evidence. It can also make a future revision easier, particularly if a treatment is reversible and its materials are known. The conservator's expertise therefore lies partly in deciding where to act and partly in making the implications of that act available to others. By recording the alternatives that were considered, the museum can preserve evidence about its own intervention alongside the evidence it hopes to carry into the next exhibition."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What dilemma about restoring the banner is central to the passage?",
+          "options": [
+            "Stabilizing fragile objects should take precedence over recovering their ceremonial use.",
+            "Recording a treatment preserves more evidence than keeping any later additions.",
+            "Different treatments preserve different aspects of the object’s appearance and history.",
+            "A separate reconstruction makes a damaged object intelligible without the need to intervene physically."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The competing proposals balance support, legibility and evidence of use.",
+            "distractors": {
+              "0": "Physical stability is one consideration, but no universal priority is set above a competing interpretation.",
+              "1": "Documentation and physical preservation can both contribute; later patches may themselves be evidence.",
+              "3": "The drawing addresses legibility, while support can still be necessary to handle weakened material."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "intervention",
+              "hebrew": "התערבות"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-12-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why might a drawing beside the banner be preferable to printing a reconstructed motif on its backing?",
+          "options": [
+            "It would make the original colors easier to distinguish from fabric added during past ceremonies.",
+            "It would give later visitors more detailed access to the original motif than a reconstruction printed on cloth.",
+            "It would allow conservators to test reconstruction theories independently of the supporting cloth.",
+            "It makes an interpretation available while keeping it visibly separate from surviving material."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "An adjacent drawing reduces the risk of confusing speculation with the original textile.",
+            "distractors": {
+              "0": "The problem cited is the separation of conjectural design from genuine surviving work, including any genuine historic repairs.",
+              "1": "The proposal is about showing uncertainty clearly, not demonstrating that a separate drawing is more detailed.",
+              "2": "A drawing presents a hypothesis clearly but is not described as a method for testing which design is correct."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "conjecture",
+              "hebrew": "השערה"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-12-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the writer regard the tendency to preserve every earlier repair?",
+          "options": [
+            "As a choice best settled by dating the pieces of fabric individually.",
+            "As a sound policy when the earliest version is the primary conservation target.",
+            "As understandable but requiring judgment about the repair's role and present effects.",
+            "As beneficial provided that previous repairs were intended to last."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The author distinguishes ceremonial patches from damaging temporary backing.",
+            "distractors": {
+              "0": "Age alone is insufficient to establish which intervention best preserves evidence.",
+              "1": "Keeping all later repairs may interfere with the aim of showing an earliest appearance.",
+              "3": "Intended duration is relevant, but role and current effects still need to be evaluated."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "retain",
+              "hebrew": "לשמר"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-12-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “legibility” refer to in the decisions about display?",
+          "options": [
+            "The ease with which the reconstructed section can be distinguished from surviving threads.",
+            "The ease with which a viewer can make sense of the design.",
+            "The clarity with which earlier repairs can be dated.",
+            "The extent to which a future treatment can be undone."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The printed reconstruction would let visitors follow the motifs across gaps.",
+            "distractors": {
+              "0": "Distinguishing conjecture is a related display concern but differs from understanding the image itself.",
+              "2": "Dating historical additions concerns their origins, whereas legibility concerns the viewer's ability to follow the design.",
+              "3": "That is reversibility, a different goal in the treatment record."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "legibility",
+              "hebrew": "קריאות"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-12-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Which earlier addition does the passage say was attached during a photography session?",
+          "options": [
+            "The printed reconstruction proposed for display across missing threads.",
+            "One of the pieces added by the people who used the banner in ceremonies.",
+            "A new support proposed for weak fabric.",
+            "A patch intended to provide temporary backing."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The author distinguishes it from repairs added by banner bearers.",
+            "distractors": {
+              "0": "Printing an image on the backing is another present proposal and is not part of the past photographic work.",
+              "1": "Those patches record practical choices made by banner carriers, whereas the photographic addition served as temporary backing.",
+              "2": "That new support is a present conservation proposal, not an earlier addition already attached for photography."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "backing",
+              "hebrew": "שכבת תמיכה אחורית"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-12-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-12-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "They produced new shoots the following spring, even though the trees lost their leaves early.",
+          "options": [
+            "They produced new shoots the following spring only before it became clear that the trees lost their leaves early.",
+            "They produced new shoots the following spring, which prevented anyone from finding out whether the trees lost their leaves early.",
+            "The trees lost their leaves early; nevertheless, they produced new shoots the following spring.",
+            "Because the trees lost their leaves early, they produced new shoots the following spring."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the trees lost their leaves early” and “they produced new shoots the following spring.”",
+            "distractors": {
+              "0": "It limits the second fact to an earlier time and adds a discovery that the original never mentions.",
+              "1": "It introduces an obstacle to discovering the first fact, which the original states directly.",
+              "3": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-12-restatement-1-1"
+        },
+        {
+          "prompt": "The last train was rescheduled because the original timetable left too little time for transfers.",
+          "options": [
+            "The last train was rescheduled; consequently, the original timetable left too little time for transfers.",
+            "The last train was rescheduled, but it is unknown whether the original timetable left too little time for transfers.",
+            "The original timetable left too little time for transfers; nevertheless, the last train was rescheduled.",
+            "The original timetable left too little time for transfers; consequently, the last train was rescheduled."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the original timetable left too little time for transfers, leading to the result that the last train was rescheduled.",
+            "distractors": {
+              "0": "It reverses the direction of cause and result.",
+              "1": "It casts doubt on the cause, which the original treats as an established fact.",
+              "2": "It replaces the causal relationship with a concession."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-12-restatement-1-2"
+        },
+        {
+          "prompt": "Once the dust has cleared, the photographer will make a new record of the carving.",
+          "options": [
+            "The photographer will make a new record of the carving after the dust has cleared.",
+            "The photographer will not make a new record of the carving even after the dust has cleared.",
+            "The photographer will make a new record of the carving, regardless of whether the dust has cleared.",
+            "The photographer will make a new record of the carving before the dust has cleared."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled. The first event has to be complete.",
+            "distractors": {
+              "1": "It denies the stated plan to carry out the second action.",
+              "2": "It makes the first event irrelevant to the timing of the second.",
+              "3": "It places the scheduled action before the event that the sentence puts first."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-12-restatement-1-3"
+        },
+        {
+          "prompt": "The hall will reserve a room only if the musicians agree on rehearsal dates.",
+          "options": [
+            "The hall will reserve a room only if it is impossible to establish that the musicians agree on rehearsal dates.",
+            "The hall will reserve a room only on condition that the musicians agree on rehearsal dates.",
+            "The hall will reserve a room in every case in which the musicians agree on rehearsal dates.",
+            "The hall will reserve a room whether or not the musicians agree on rehearsal dates."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The condition “the musicians agree on rehearsal dates” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "0": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met.",
+              "2": "It treats the condition as sufficient and promises the outcome whenever it is met.",
+              "3": "It removes the requirement by making the outcome independent of the condition."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-12-restatement-1-4"
+        },
+        {
+          "prompt": "The smaller archive seemed complete compared with the city archive.",
+          "options": [
+            "The city archive appeared to exceed the smaller archive in completeness.",
+            "The smaller archive appeared to exceed the city archive in completeness.",
+            "The smaller archive appeared to match the city archive in completeness.",
+            "The difference in completeness was established when the city archive contained more of the expected items than the smaller archive in a formal test."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the city archive, first. The comparison concerns completeness.",
+            "distractors": {
+              "1": "It reverses the relative ranking of the two items.",
+              "2": "It describes the two items as equal on the stated measure.",
+              "3": "It turns an impression into a demonstrated finding and invents a formal test."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-12-restatement-1-5"
+        },
+        {
+          "prompt": "But for the early frost, the orchard would have yielded more fruit.",
+          "options": [
+            "The orchard would have yielded more fruit in the absence of the early frost.",
+            "Whether the early frost made any difference to the outcome is unknown.",
+            "The orchard would have yielded more fruit regardless of the effect of the early frost.",
+            "The orchard would have yielded more fruit because of the early frost."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “the orchard would have yielded more fruit” belongs to the hypothetical situation in which the early frost was absent.",
+            "distractors": {
+              "1": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs.",
+              "2": "It predicts the same result without changing whether the factor was present.",
+              "3": "It attributes the hypothetical result to the presence of the factor rather than its absence."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-12-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-12-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the building is declared structurally sound, the western stairs will remain closed.",
+          "options": [
+            "The western stairs will remain closed, including in the event that the building is declared structurally sound.",
+            "The western stairs may or may not remain closed, depending on whether the building is declared structurally sound.",
+            "The western stairs will remain closed only in the event that the building is declared structurally sound.",
+            "The building is declared structurally sound; therefore, the western stairs will remain closed."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the building is declared structurally sound. The original leaves that case hypothetical.",
+            "distractors": {
+              "1": "It makes the outcome depend on the hypothetical condition.",
+              "2": "It turns a condition that would make no difference into a requirement.",
+              "3": "It turns an open possibility into an established fact and presents it as the cause."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-12-restatement-2-1"
+        },
+        {
+          "prompt": "The industry group neither endorsed nor expressly rejected the recommendation to introduce a common reporting format.",
+          "options": [
+            "The industry group accepted the recommendation to introduce a common reporting format in principle while withholding public support.",
+            "The industry group rejected the recommendation to introduce a common reporting format without giving a reason.",
+            "The industry group offered no endorsement of the recommendation to introduce a common reporting format and issued no explicit rejection either.",
+            "The industry group withdrew an earlier endorsement of the recommendation to introduce a common reporting format."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It invents an acceptance in principle, which cannot be inferred from the original.",
+              "1": "It asserts an explicit rejection, which the original rules out.",
+              "3": "It invents a prior endorsement and a reversal of position."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-12-restatement-2-2"
+        },
+        {
+          "prompt": "The method's attraction stemmed less from its theoretical elegance than from its usefulness with incomplete records.",
+          "options": [
+            "Its theoretical elegance and its usefulness with incomplete records played equally important roles in the method's attraction.",
+            "Its theoretical elegance was the greater contributor to the method's attraction, though its usefulness with incomplete records also mattered.",
+            "The method's attraction was the principal reason for both its theoretical elegance and its usefulness with incomplete records.",
+            "Its usefulness with incomplete records contributed more to the method's attraction than its theoretical elegance did."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “its usefulness with incomplete records” greater explanatory weight than “its theoretical elegance.”",
+            "distractors": {
+              "0": "It makes the factors equally important despite the stated inequality.",
+              "1": "It reverses the relative importance of the factors.",
+              "2": "It makes the outcome cause the factors that are supposed to explain it."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-12-restatement-2-3"
+        },
+        {
+          "prompt": "The conservators did not treat the damaged panels until they had tested the solvent on a small sample.",
+          "options": [
+            "The conservators did not treat the damaged panels, although they had tested the solvent on a small sample.",
+            "The conservators treated the damaged panels only after they had tested the solvent on a small sample.",
+            "The conservators treated the damaged panels as evidence that they had tested the solvent on a small sample.",
+            "The conservators treated the damaged panels before they had tested the solvent on a small sample."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "0": "It makes the main action fail to occur, whereas the original reports that it happened later.",
+              "2": "It turns a timing relationship into an assertion about the actor’s purpose.",
+              "3": "It reverses the sequence by placing the main action first."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-12-restatement-2-4"
+        },
+        {
+          "prompt": "Of the trial batches, none met both quality targets with the sole exception of the January batch.",
+          "options": [
+            "The January batch met both quality targets, and at least one other member of the group shares that distinction.",
+            "The January batch met both quality targets; the others in the same group did not.",
+            "It has not been determined whether the January batch met both quality targets.",
+            "All the trial batches met both quality targets except the January batch."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the January batch is the single item that has the stated property.",
+            "distractors": {
+              "0": "It allows a second exception even though “sole” limits the number to one.",
+              "2": "It changes an explicit exception into an uncertainty.",
+              "3": "It gives the property to the entire group except the one item that actually has it."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-12-restatement-2-5"
+        },
+        {
+          "prompt": "The new catalog improved access to the collection to the extent that it let readers search by subject, but it did little to clarify which editions were available.",
+          "options": [
+            "The catalog indicates which editions the library holds, but readers still cannot search for works on a particular topic.",
+            "The catalog improved access chiefly by identifying editions that had previously been difficult to locate.",
+            "Readers acquired better access to individual editions because the catalog presented each version as a separate subject.",
+            "The catalog made the collection easier to search by topic, while offering little help in determining which versions of the works the library held."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The change was useful for finding works by subject. Its benefit for identifying editions was limited",
+            "distractors": {
+              "0": "It reverses what the catalog did and what it did poorly",
+              "1": "It assigns the benefit to edition identification instead of topical search",
+              "2": "It invents both a cataloging technique and an improvement in edition identification"
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "to the extent that",
+              "hebrew": "ככל ש־ / במידה ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-12-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-12-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "Waste Heat Under the Footpath",
+        "paragraphs": [
+          "On a winter morning in a dense neighbourhood, warm air leaves buildings through vents even as boilers nearby work to heat water. It is tempting to regard the coexistence of discarded warmth and fuel consumption as a problem with an obvious solution: send the waste heat to someone who needs it. The proposal is sound in principle, but it obscures an important distinction. The amount of thermal energy released by one process is only one property of a useful heat source. Its temperature, consistency and location also influence whether another process can use it economically.",
+          "A supermarket's refrigeration equipment, for instance, rejects heat as it keeps cabinets cold. Some warmth could be used on the premises for space heating. A nearby building demanding much hotter water could require a device that raises the temperature of the recovered heat. A heat pump transfers heat from a cooler source to a warmer destination by consuming electricity. A relatively warm source can make that work easier compared with extracting heat from outdoor air in cold weather. The recovered heat supplies part of the resulting output; electrical work is still needed to lift it to the desired temperature.",
+          "District systems face a further question about timing. A source can be most productive precisely when a customer has little need for heat. A building that emits heat steadily throughout the year may be easier to plan around, but even steady sources need pipes, maintenance and arrangements for interruptions. Planners can combine different sources or store some heat, though storage occupies space and loses energy. Obtaining heat from a source should therefore be costed alongside the infrastructure needed to get it to the right place at the right time.",
+          "The distribution network itself offers options. If it carries relatively cool water, it may lose less heat to the surrounding soil and may accept heat from more low-temperature sources. Customers then need local equipment to reach higher temperatures for particular uses. Alternatively, a hotter network can supply some loads directly while demanding higher-temperature inputs and careful insulation. Neither choice solves every problem. The attraction of recovered heat lies in the possibility of reusing a local resource that already exists. Its practical worth is established by comparing the source, the network and the actual pattern of demand, including the coldest days when reliability matters most."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What is the main purpose of “Waste Heat Under the Footpath”?",
+          "options": [
+            "To advocate giving priority to heat sources that release the most energy over a year.",
+            "To show that cooler distribution networks are the most efficient choice when recovered heat is available.",
+            "To compare the costs of local heating and of running refrigeration.",
+            "To explain the conditions that determine whether discarded warmth is useful elsewhere."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The passage considers temperature, timing, infrastructure and service requirements.",
+            "distractors": {
+              "0": "The total quantity cannot substitute for considering temperature, schedule and distribution.",
+              "1": "Cooler networks have potential advantages but may require local reheating.",
+              "2": "Refrigeration supplies an example of heat recovery, not the principal cost comparison."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "thermal energy",
+              "hebrew": "אנרגיה תרמית"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-12-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why might a heat pump using refrigeration waste heat use less electricity than one drawing heat from freezing outdoor air?",
+          "options": [
+            "Heat from refrigeration can always be delivered without raising its temperature.",
+            "The electricity used for refrigeration is recovered along with the heat it produces.",
+            "A warmer source lets the pump supply more energy by lowering the destination temperature.",
+            "Starting with a warmer source can reduce the work needed to achieve the destination temperature."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The passage says a relatively warm source makes the transfer easier.",
+            "distractors": {
+              "0": "Heat for hotter water requires a device to lift the temperature.",
+              "1": "Recovering waste heat does not recover the electricity originally used; the transfer draws power.",
+              "2": "The contrast concerns reaching the same desired temperature from different starting temperatures."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "temperature lift",
+              "hebrew": "העלאת טמפרטורה"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-12-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the writer address the possibility of reusing heat?",
+          "options": [
+            "Interested primarily in finding the design that minimizes heat loss from pipes.",
+            "Optimistic about the opportunity while weighing engineering and demand conditions.",
+            "Supportive mainly because recovered heat stays available whenever the demand is highest.",
+            "Skeptical because the infrastructure cost usually rules out a useful heat transfer."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Temperature, network, timing and costs are considered explicitly.",
+            "distractors": {
+              "0": "Pipe losses are one issue within a wider judgment about source and customer requirements.",
+              "2": "The author highlights that supply and demand can peak at different times.",
+              "3": "Infrastructure is a condition to assess, not a reason to dismiss most proposals."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "economically",
+              "hebrew": "באופן כלכלי"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-12-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "In the refrigeration example, what does “rejects” mean?",
+          "options": [
+            "Releases heat out of the cooling equipment.",
+            "Recovers heat for a second use.",
+            "Raises heat to a temperature suitable for warm water.",
+            "Prevents warmth from reaching the cold cabinets."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The cabinets are kept cold while the equipment sends heat elsewhere.",
+            "distractors": {
+              "1": "Heat can be captured afterward; rejection is the process that makes it available.",
+              "2": "That requires separate equipment; the refrigerator's equipment gives off heat.",
+              "3": "The word identifies the outward release rather than describing insulation from incoming heat."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "rejects heat",
+              "hebrew": "פולט חום"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-12-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What extra equipment may customers need with a cooler distribution network?",
+          "options": [
+            "A tank to collect all heat produced when customer demand is highest.",
+            "A local device that raises the delivered temperature for some uses.",
+            "A system for lowering the temperature of water delivered to the building.",
+            "Extra insulation for the district network to allow it to carry water at a higher temperature."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The passage says the cooler water may need additional heating on site.",
+            "distractors": {
+              "0": "Storage is one way of dealing with timing mismatches, not the temperature equipment asked about.",
+              "2": "The cooler network already delivers at a lower temperature; some uses need the reverse adjustment.",
+              "3": "This pertains to the hotter network option and would not by itself raise temperatures at the customer."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "distribution network",
+              "hebrew": "רשת חלוקה"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-12-reading-2-5"
+        }
+      ]
+    }
+  ]
+}

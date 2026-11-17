@@ -1,0 +1,456 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "Before drawing a conclusion about the park's busiest entrance, staff spent a week counting visitors at every gate to ____ comparable information.",
+      "options": [
+        "exchange",
+        "gather",
+        "broadcast",
+        "summarize"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The staff collected information by taking counts at all the gates.",
+        "distractors": {
+          "0": "The sentence describes obtaining new counts rather than swapping information already held.",
+          "2": "The counts are being made for an analysis; no public transmission is described.",
+          "3": "Summarizing would compress information after the counts had already been collected."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "gather",
+          "hebrew": "לאסוף"
+        }
+      ],
+      "id": "test-12-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "An official who requested an exception had to ____ it by explaining why following the normal rule would cause avoidable harm.",
+      "options": [
+        "publish",
+        "reverse",
+        "anticipate",
+        "justify"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The official had to give a reason showing that the exception was warranted.",
+        "distractors": {
+          "0": "The requirement concerns providing reasons rather than making a decision public.",
+          "1": "The exception is being requested, not withdrawn after approval.",
+          "2": "The official must explain the request rather than predict it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "justify",
+          "hebrew": "להצדיק; לנמק"
+        }
+      ],
+      "id": "test-12-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The note defined a negative balance explicitly so that readers would not ____ the minus signs in the table as printing errors.",
+      "options": [
+        "misinterpret",
+        "reclassify",
+        "dismiss",
+        "transpose"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "Readers might otherwise assign the wrong meaning to the minus signs.",
+        "distractors": {
+          "1": "The warning concerns understanding notation, not formally moving numbers between categories.",
+          "2": "The risk is that readers will identify the signs as errors, not simply ignore them.",
+          "3": "Transposing would move characters to different positions; their location is not the problem."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "misinterpret",
+          "hebrew": "לפרש באופן שגוי"
+        }
+      ],
+      "id": "test-12-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "A leak was a ____ explanation for the falling water level, since the tank had an old seam, but the crew still needed to rule out a faulty gauge.",
+      "options": [
+        "definitive",
+        "negligible",
+        "plausible",
+        "conventional"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The old seam makes a leak possible and credible without proving that it occurred.",
+        "distractors": {
+          "0": "The need to rule out another explanation shows that the cause was not settled.",
+          "1": "A small effect could be negligible, but the adjective here describes whether an explanation is credible.",
+          "3": "The sentence supplies a reason to consider a leak possible rather than identifying it as the explanation customarily given."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "plausible",
+          "hebrew": "מתקבל על הדעת"
+        }
+      ],
+      "id": "test-12-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "The map was too large for the pocket, so Maya had to ____ it along the marked lines before putting it away.",
+      "options": [
+        "tear",
+        "copy",
+        "fold",
+        "erase"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Bending the map along the lines makes it small enough to fit.",
+        "distractors": {
+          "0": "The lines guide how the map should be reduced in size without damage.",
+          "1": "Making a copy would leave the original map too large for the pocket.",
+          "3": "Erasing the lines would not make the map smaller."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "fold",
+          "hebrew": "לקפל"
+        }
+      ],
+      "id": "test-12-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "The professor chose to ____ the invitation because she had already agreed to speak at another conference that day.",
+      "options": [
+        "extend",
+        "repeat",
+        "announce",
+        "decline"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "She turned the invitation down because she was unavailable.",
+        "distractors": {
+          "0": "Extending an invitation means sending it to someone; she is the recipient.",
+          "1": "The professor needs to respond to the invitation rather than issue it again.",
+          "2": "The scheduling conflict explains why she cannot accept rather than why she would publicize it."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "decline",
+          "hebrew": "לסרב"
+        }
+      ],
+      "id": "test-12-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "The absence of written records ____ it difficult to determine when the road was built.",
+      "options": [
+        "makes",
+        "have made",
+        "are making",
+        "make"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The subject is singular absence, so it takes makes.",
+        "distractors": {
+          "1": "Have made requires a plural subject here.",
+          "2": "Are making incorrectly agrees with records inside the prepositional phrase.",
+          "3": "Make does not agree with the singular subject."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "absence",
+          "hebrew": "היעדר"
+        }
+      ],
+      "id": "test-12-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Most visitors were unaware that they were expected ____ their bags at the entrance.",
+      "options": [
+        "to leaving",
+        "to leave",
+        "leaving",
+        "that they leave"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Be expected is followed by a to-infinitive in this pattern.",
+        "distractors": {
+          "0": "Infinitival to must precede the base verb leave.",
+          "2": "Leaving cannot directly complete were expected here.",
+          "3": "A that clause is possible after an impersonal it was expected, not after the passive personal subject they."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "entrance",
+          "hebrew": "כניסה"
+        }
+      ],
+      "id": "test-12-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The island is home to a bird ____ nowhere else in the world.",
+      "options": [
+        "finding",
+        "has found",
+        "found",
+        "which finding"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Found is a reduced passive relative clause equivalent to which is found.",
+        "distractors": {
+          "0": "Finding is active and leaves the bird doing the finding with no object.",
+          "1": "Has found adds a finite verb without a relative connector.",
+          "3": "Which needs a finite verb here; finding alone is not one."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "be home to",
+          "hebrew": "לשמש בית ל־"
+        }
+      ],
+      "id": "test-12-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "Only by examining both versions of the map ____ identify the missing route.",
+      "options": [
+        "did the researchers able to",
+        "were the researchers able to",
+        "were able the researchers to",
+        "the researchers were able to"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Fronted Only by prompts inversion of were and the subject, followed by able to.",
+        "distractors": {
+          "0": "Did requires a bare verb, but able is an adjective.",
+          "2": "Able cannot intervene between were and the subject in the inversion.",
+          "3": "Subject-first order is not licensed after this fronted restrictive expression."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "examine",
+          "hebrew": "לבחון"
+        }
+      ],
+      "id": "test-12-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "Permission had been ____ from the landowner before work began on the survey.",
+      "base": "seek",
+      "answers": [
+        "sought"
+      ],
+      "explanation": "Sought is the irregular past participle of seek and fits had been.",
+      "id": "test-12-word-1"
+    },
+    {
+      "prompt": "The manuscript is ____ because no copy exists and the author's drafts were destroyed.",
+      "base": "replace",
+      "answers": [
+        "irreplaceable"
+      ],
+      "explanation": "Irreplaceable describes something for which no substitute exists.",
+      "id": "test-12-word-2"
+    },
+    {
+      "prompt": "Attendance rose ____ over the semester, with a small increase recorded every week.",
+      "base": "steady",
+      "answers": [
+        "steadily"
+      ],
+      "explanation": "Steadily is the adverb for the continuous pattern without sudden changes.",
+      "id": "test-12-word-3"
+    },
+    {
+      "prompt": "The editor questioned the ____ of a humorous title for a report on a serious accident.",
+      "base": "appropriate",
+      "answers": [
+        "appropriateness"
+      ],
+      "explanation": "Appropriateness names how suitable the title would be in this setting.",
+      "id": "test-12-word-4"
+    }
+  ],
+  "writing": "Should shops in busy city centers reserve some areas for customers who arrive without cars? Explain your position.",
+  "listening": {
+    "type": "continuation",
+    "clips": [
+      {
+        "context": "Listen to part of a lecture on estimating room occupancy.",
+        "transcript": "A sensor in a lecture hall recorded movement whenever someone walked past it. Its signal stayed quiet for much of a presentation, even though every seat was occupied. This sort of device can indicate activity, but it cannot reliably",
+        "audio": "/listening/continuation-5-1.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the sensor.",
+            "options": [
+              "register people entering the hall",
+              "detect movement near the doorway",
+              "record changes in the level of activity",
+              "count people who remain still"
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "People can be present without generating movement for the sensor to register.",
+              "distractors": {
+                "0": "Walking past the sensor is what makes it respond.",
+                "1": "Movement is the signal the device detects.",
+                "2": "Changes in recorded activity are measurable, unlike stationary attendance."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "occupancy",
+                "hebrew": "תפוסה"
+              }
+            ],
+            "id": "test-12-audio-1-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on classroom experiments.",
+        "transcript": "Two groups watered identical plants at different times of day. One group also kept its plants closer to a window. If those plants grew taller, the teacher explained, the class could not tell whether the difference was caused by",
+        "audio": "/listening/continuation-5-2.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the experiment.",
+            "options": [
+              "watering time or exposure to light",
+              "the variety of plant selected for the class",
+              "differences in the height of the windows",
+              "weather conditions outside both classrooms"
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "The groups differed in both timing and position relative to the light, so either could matter.",
+              "distractors": {
+                "1": "The plants were identical in the experimental setup.",
+                "2": "Window height is not a described difference, unlike distance from the window.",
+                "3": "The groups were compared on two specified factors, not weather."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "exposure",
+                "hebrew": "חשיפה"
+              }
+            ],
+            "id": "test-12-audio-2-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on historical recipes.",
+        "transcript": "A handwritten recipe describes adding enough flour to stiffen the mixture. Modern readers wanted a number in grams, but the amount depends on how wet the other ingredients are. The original instruction is useful because it tells the cook",
+        "audio": "/listening/continuation-5-3.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about the recipe.",
+            "options": [
+              "how to calculate the exact weight in advance",
+              "where the flour was bought",
+              "which consistency to aim for",
+              "why this manuscript lacks punctuation"
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "The instruction describes the desired texture, which is useful when the required quantity varies.",
+              "distractors": {
+                "0": "The description gives no exact weight.",
+                "1": "The source of the flour is not given or needed.",
+                "3": "Punctuation is unrelated to the value of the instruction."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "consistency",
+                "hebrew": "מרקם"
+              }
+            ],
+            "id": "test-12-audio-3-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on comparing two walking routes.",
+        "transcript": "The northern route to the station is shorter on paper. During a trial, pedestrians using it often waited several minutes at a busy crossing. A city planner deciding which route is faster needs to measure not just distance but also",
+        "audio": "/listening/continuation-5-4.wav",
+        "questions": [
+          {
+            "prompt": "Choose the words that best complete the recording about walking time.",
+            "options": [
+              "the direction each street is named after",
+              "the delays experienced along the way",
+              "the height of buildings near the station",
+              "the length of the route a second time"
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "The shorter path can take longer if people must wait to cross.",
+              "distractors": {
+                "0": "Street name origins do not affect waiting time.",
+                "2": "Building height was not relevant to the difference.",
+                "3": "Distance alone is precisely what the trial shows to be insufficient."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "delay",
+                "hebrew": "עיכוב"
+              }
+            ],
+            "id": "test-12-audio-4-1",
+            "type": "continuation",
+            "difficulty": 3
+          }
+        ]
+      }
+    ]
+  }
+}

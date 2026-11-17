@@ -1,0 +1,476 @@
+{
+  "sentences": [
+    {
+      "difficulty": 2,
+      "prompt": "Hikers waited under a rock ledge that offered ____ from the sudden hailstorm.",
+      "options": [
+        "insight",
+        "permission",
+        "shelter",
+        "evidence"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "The ledge gave them a protected place to wait.",
+        "distractors": {
+          "0": "The ledge provided physical protection, not improved understanding.",
+          "1": "The ledge did not authorize anyone to do anything.",
+          "3": "The ledge is described as useful for protection rather than as proof of a claim."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "shelter",
+          "hebrew": "מחסה"
+        }
+      ],
+      "id": "test-08-adaptive-sentence-1",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The researcher invited other scientists to suggest factors that might ____ for the unexplained differences between the two sets of results.",
+      "options": [
+        "account",
+        "compensate",
+        "substitute",
+        "qualify"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "To account for a difference is to explain what caused it.",
+        "distractors": {
+          "1": "Compensating for differences would counterbalance their effects rather than explain their origin.",
+          "2": "Substituting for something means taking its place, while the observed differences remain the subject of inquiry.",
+          "3": "The scientists are being asked to explain the discrepancy rather than meet requirements."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "account",
+          "hebrew": "להסביר (בביטוי account for)"
+        }
+      ],
+      "id": "test-08-adaptive-sentence-2",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 3,
+      "prompt": "The team issued a ____ conclusion, warning that it might change once measurements from the final site became available.",
+      "options": [
+        "collective",
+        "tentative",
+        "categorical",
+        "retrospective"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "A tentative conclusion is open to revision when more evidence arrives.",
+        "distractors": {
+          "0": "Nothing indicates how many people agreed to the conclusion; the warning concerns its certainty.",
+          "2": "A categorical conclusion is stated firmly without qualifications, unlike the conclusion here.",
+          "3": "The key feature is that more evidence is pending, not that the statement looks back on past events."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "tentative",
+          "hebrew": "ראשוני; לא סופי"
+        }
+      ],
+      "id": "test-08-adaptive-sentence-3",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 4,
+      "prompt": "The reviewers decided to ____ their inquiry to records written before the boundary changed, excluding documents from every later year.",
+      "options": [
+        "extend",
+        "align",
+        "adapt",
+        "confine"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "The reviewers limited the inquiry to a particular time range.",
+        "distractors": {
+          "0": "The decision excludes later records rather than adding them.",
+          "1": "Bringing the inquiry into agreement with other work is separate from restricting which records it includes.",
+          "2": "Adjusting the inquiry is a broad description; the sentence specifically says the reviewers set an exclusive limit."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "confine",
+          "hebrew": "להגביל לתחום"
+        }
+      ],
+      "id": "test-08-adaptive-sentence-4",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 1,
+      "prompt": "At dusk the park staff ____ the gates and lock them so that no one enters overnight.",
+      "options": [
+        "close",
+        "paint",
+        "remove",
+        "inspect"
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "correct": "The gates must be shut before they can block entry for the night.",
+        "distractors": {
+          "1": "Painting would not secure an entrance.",
+          "2": "Without the gates, there would be nothing to lock across the entrance.",
+          "3": "Looking at the gates does not make them a barrier to entry."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "close",
+          "hebrew": "לסגור"
+        }
+      ],
+      "id": "test-08-adaptive-sentence-5",
+      "type": "sentence"
+    },
+    {
+      "difficulty": 2,
+      "prompt": "After the laptop failed, the technician managed to ____ most of the files from an external backup.",
+      "options": [
+        "erase",
+        "recover",
+        "translate",
+        "upload"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "The backup allowed the technician to get the lost files back.",
+        "distractors": {
+          "0": "The goal was to retrieve copies rather than delete them.",
+          "2": "There is no change of language involved in taking files from a backup.",
+          "3": "The backup is the source from which the technician obtains the files, not a destination for uploading them."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "recover",
+          "hebrew": "להשיב; לחלץ"
+        }
+      ],
+      "id": "test-08-adaptive-sentence-6",
+      "type": "sentence"
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "The organizers postponed ____ tickets until the safety inspection was complete.",
+      "options": [
+        "that they sell",
+        "selling",
+        "sold the",
+        "to sell"
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "correct": "Postpone generally takes a gerund for the activity delayed.",
+        "distractors": {
+          "0": "Postpone does not take a that clause to express the delayed activity here.",
+          "2": "Sold the leaves tickets without a grammatical connection to postponed.",
+          "3": "An infinitive does not complement postpone in this construction."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "postpone",
+          "hebrew": "לדחות"
+        }
+      ],
+      "id": "test-08-grammar-1",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The new road runs farther from the village ____ the route on the original map.",
+      "options": [
+        "as does",
+        "compared is",
+        "than does",
+        "than is"
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "correct": "Farther takes than, and does stands for runs.",
+        "distractors": {
+          "0": "As does requires a different comparison frame such as as far as.",
+          "1": "Compared is does not form a comparative clause here.",
+          "3": "The comparison needs do to replace runs, not the unrelated be verb."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "route",
+          "hebrew": "מסלול"
+        }
+      ],
+      "id": "test-08-grammar-2",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The family donated several paintings, one of which ____ in the entrance hall today.",
+      "options": [
+        "being displayed",
+        "are displaying",
+        "have displayed",
+        "is displayed"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "One is singular, and the passive is displayed describes the painting's present location.",
+        "distractors": {
+          "0": "Being alone does not supply the finite verb of the relative clause.",
+          "1": "Are fails agreement, and the painting does not display an object.",
+          "2": "Have cannot agree with one, and the construction needs the passive."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "display",
+          "hebrew": "להציג"
+        }
+      ],
+      "id": "test-08-grammar-3",
+      "type": "grammar",
+      "difficulty": 3
+    },
+    {
+      "prompt": "The missing register ____ the dispute if it had not been destroyed in the fire.",
+      "options": [
+        "has been resolved",
+        "should have resolve",
+        "could be resolving",
+        "could have resolved"
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "correct": "Could have resolved expresses a possible outcome in an unreal past.",
+        "distractors": {
+          "0": "Has been resolved reverses the role of the register and describes an actual event.",
+          "1": "After should have, the participle resolved is required.",
+          "2": "The context requires a past counterfactual, not a present progressive."
+        }
+      },
+      "keyVocabulary": [
+        {
+          "term": "resolve",
+          "hebrew": "ליישב"
+        }
+      ],
+      "id": "test-08-grammar-4",
+      "type": "grammar",
+      "difficulty": 3
+    }
+  ],
+  "wordFormation": [
+    {
+      "prompt": "The footbridge was ____ during the summer, when the river was low enough to work in safely.",
+      "base": "construct",
+      "answers": [
+        "constructed"
+      ],
+      "explanation": "Constructed is the past participle used after was in this passive sentence.",
+      "id": "test-08-word-1"
+    },
+    {
+      "prompt": "The school received written confirmation of her ____ of its offer to teach there.",
+      "base": "accept",
+      "answers": [
+        "acceptance"
+      ],
+      "explanation": "Acceptance names the act of agreeing to an offer.",
+      "id": "test-08-word-2"
+    },
+    {
+      "prompt": "The origin of the bright marks remained ____ until analysis showed they were made of powdered glass.",
+      "base": "mystery",
+      "answers": [
+        "mysterious"
+      ],
+      "explanation": "The adjective mysterious describes their unexplained origin.",
+      "id": "test-08-word-3"
+    },
+    {
+      "prompt": "Older maintenance records show that the western gate was repaired more ____ than any other entrance.",
+      "base": "frequent",
+      "answers": [
+        "frequently"
+      ],
+      "explanation": "Frequently modifies repaired and expresses how often repairs occurred.",
+      "id": "test-08-word-4"
+    }
+  ],
+  "writing": "What change would make online classes easier for students to follow? Explain how your proposal would help.",
+  "listening": {
+    "type": "lecture",
+    "clips": [
+      {
+        "context": "Listen to part of a lecture on evaluating old photographs.",
+        "transcript": "The first photographs in an archive seem to show a city with nearly empty streets. This does not mean the streets were actually quiet. The earliest camera equipment needed time to record enough light. People passing by often moved out of the frame too quickly to leave a clear image. Buildings and parked vehicles remained in place, so those objects are easier to identify.",
+        "audio": "/listening/lecture-4-1.wav",
+        "questions": [
+          {
+            "prompt": "What is the lecturer explaining about the early photographs?",
+            "options": [
+              "The photographers deliberately chose streets without traffic.",
+              "The equipment made moving people less likely to appear clearly.",
+              "The buildings are more visible because they were painted in lighter colors.",
+              "Most people stayed indoors while photographs were taken."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "Moving people did not stay visible long enough for the early equipment.",
+              "distractors": {
+                "0": "The pictures that look empty may actually have been taken in busy places.",
+                "2": "The explanation given is that buildings remained still.",
+                "3": "The lecturer questions that inference from a nearly empty image."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "frame",
+                "hebrew": "מסגרת התמונה"
+              }
+            ],
+            "id": "test-08-audio-1-1",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on supermarket packaging.",
+        "transcript": "A retailer introduced a clear window into the packaging of a dry food after customers said they disliked buying products they could not see. In a small pilot, customers picked up the packages with the window much more often. Sales, however, barely changed. Researchers then looked at what shoppers did after picking up a package. Many put it down and chose the same brand in a larger size, which was sold in the old packaging. The window appeared to attract attention to the brand, but it did not necessarily persuade people to buy the package they had inspected. Before judging the redesign, the retailer should check whether it increased sales of the brand across all sizes rather than counting only purchases of the one redesigned package.",
+        "audio": "/listening/lecture-4-2.wav",
+        "questions": [
+          {
+            "prompt": "Why does the lecturer suggest analyzing sales across package sizes?",
+            "options": [
+              "The two package sizes were available in different stores.",
+              "Interest in one package may have led to purchases of a different size.",
+              "The window was introduced on both package sizes at the same time.",
+              "The researchers were unable to observe what shoppers picked up."
+            ],
+            "correctIndex": 1,
+            "explanation": {
+              "correct": "People sometimes inspected the window package and bought the larger version of the same brand.",
+              "distractors": {
+                "0": "Both versions were available to the observed shoppers.",
+                "2": "The larger size still used the old packaging.",
+                "3": "The researchers observed inspection as well as subsequent purchases."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "redesign",
+                "hebrew": "עיצוב מחדש"
+              }
+            ],
+            "id": "test-08-audio-2-1",
+            "type": "lecture",
+            "difficulty": 3
+          },
+          {
+            "prompt": "What did the pilot show about the packages with windows?",
+            "options": [
+              "Their sales rose sharply.",
+              "They were bought mainly by customers seeking a large size.",
+              "Shoppers complained that the windows obscured the food.",
+              "Shoppers handled them more often than before."
+            ],
+            "correctIndex": 3,
+            "explanation": {
+              "correct": "The window drew people to inspect the package more often.",
+              "distractors": {
+                "0": "Sales barely changed.",
+                "1": "Shoppers who wanted the larger size often selected a different package.",
+                "2": "The initial concern was that the original package concealed the product."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "inspect",
+                "hebrew": "לבחון"
+              }
+            ],
+            "id": "test-08-audio-2-2",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      },
+      {
+        "context": "Listen to part of a lecture on an experiment with bus schedules.",
+        "transcript": "A regional bus operator wanted to improve service along a route where passengers frequently waited longer than expected. Its first proposal was to add another bus. Before committing to that expense, planners compared the gaps between vehicles arriving at the busiest stops. The timetable promised a bus every twelve minutes, but actual gaps varied widely. A driver arriving a few minutes late found more people waiting and needed longer to board them. The next bus, arriving not long afterward, picked up fewer people and moved faster. Under those conditions two buses sometimes reached the same stop almost together, leaving a much longer gap behind them. The planners tried a holding rule. A bus that was too close to the one ahead waited briefly at a designated point before continuing. This delayed some people already on board, so the operator measured door-to-door journey times as well as waiting times. On average the reduction in long waits outweighed the small delays during the journey. The service became more reliable without another vehicle, though the operator kept the possibility of adding capacity if total demand later rose.",
+        "audio": "/listening/lecture-4-3.wav",
+        "questions": [
+          {
+            "prompt": "What caused a following bus to gain on a bus that was already late?",
+            "options": [
+              "It skipped stops where nobody had requested a ride.",
+              "It traveled on a shorter route during the experiment.",
+              "It collected fewer passengers, so boarding took less time.",
+              "It was given priority at all major intersections."
+            ],
+            "correctIndex": 2,
+            "explanation": {
+              "correct": "The late bus accumulated more boarders while the next bus had fewer to pick up.",
+              "distractors": {
+                "0": "The buses followed the same stops; skipping is not part of the explanation.",
+                "1": "The problem happened between buses on one route.",
+                "3": "The lecture discusses boarding time, not signals or priority."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "accumulate",
+                "hebrew": "להצטבר"
+              }
+            ],
+            "id": "test-08-audio-3-1",
+            "type": "lecture",
+            "difficulty": 3
+          },
+          {
+            "prompt": "Why did the operator measure entire journeys as well as time at the stop?",
+            "options": [
+              "The new rule could lengthen the time that some passengers spent on board.",
+              "Waiting times were impossible to record accurately.",
+              "A change in ticket prices might affect passengers’ choices.",
+              "The experiment required some passengers to change vehicles."
+            ],
+            "correctIndex": 0,
+            "explanation": {
+              "correct": "A holding stop could delay people already on the bus, so both effects had to be considered.",
+              "distractors": {
+                "1": "The operator had already measured the gaps at the stops.",
+                "2": "Ticket prices were not changed or measured in the example.",
+                "3": "There was no new change-of-bus requirement."
+              }
+            },
+            "keyVocabulary": [
+              {
+                "term": "outweigh",
+                "hebrew": "לגבור על"
+              }
+            ],
+            "id": "test-08-audio-3-2",
+            "type": "lecture",
+            "difficulty": 3
+          }
+        ]
+      }
+    ]
+  }
+}

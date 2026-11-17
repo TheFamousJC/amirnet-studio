@@ -1,0 +1,995 @@
+{
+  "id": "test-18",
+  "number": 18,
+  "title": "The Sound of Another Occupant / The Snow That Measures a Mountain",
+  "sections": [
+    {
+      "id": "test-18-sentence-1",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 1,
+          "prompt": "An old stone wall marks the ____ between the two plots, which now belong to different owners.",
+          "options": [
+            "boundary",
+            "surface",
+            "centre",
+            "source"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“boundary” means line separating two areas. The wall separates the two properties.",
+            "distractors": {
+              "1": "“surface” means outermost layer of something. The clue is that the wall separates the two properties.",
+              "2": "“centre” means middle point or part of an area. The clue is that the wall separates the two properties.",
+              "3": "“source” means place or thing from which something comes. The clue is that the wall separates the two properties."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "boundary",
+              "hebrew": "גבול"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-18-sentence-1-1"
+        },
+        {
+          "difficulty": 1,
+          "prompt": "From a raised platform, the ecologists could ____ the nesting birds without approaching them.",
+          "options": [
+            "predict",
+            "observe",
+            "record",
+            "estimate"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“observe” means watch or examine directly. The platform makes it possible to watch the birds at a distance.",
+            "distractors": {
+              "0": "“predict” means state what is expected to happen. The clue is that the platform makes it possible to watch the birds at a distance.",
+              "2": "“record” means store information for later use. The clue is that the platform makes it possible to watch the birds at a distance.",
+              "3": "“estimate” means calculate an approximate value. The clue is that the platform makes it possible to watch the birds at a distance."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "observe",
+              "hebrew": "לצפות, להתבונן"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-18-sentence-1-2"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The landlord allowed the laboratory to remain open in the evenings on the ____ that staff lock all entrances before leaving.",
+          "options": [
+            "obstacle",
+            "advantage",
+            "condition",
+            "purpose"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“condition” means requirement that must be met. Permission depends on the staff meeting the locking requirement.",
+            "distractors": {
+              "0": "“obstacle” means thing that blocks progress. The clue is that permission depends on the staff meeting the locking requirement.",
+              "1": "“advantage” means feature that offers a benefit. The clue is that permission depends on the staff meeting the locking requirement.",
+              "3": "“purpose” means reason for which something is done. The clue is that permission depends on the staff meeting the locking requirement."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "condition",
+              "hebrew": "תנאי"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-18-sentence-1-3"
+        },
+        {
+          "difficulty": 2,
+          "prompt": "The lighthouse was observed on ____ occasions during the war, with several weeks of silence between irregular reports.",
+          "options": [
+            "gradual",
+            "persistent",
+            "abrupt",
+            "sporadic"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“sporadic” means occurring at irregular and infrequent intervals. The reports occurred occasionally and without a regular interval.",
+            "distractors": {
+              "0": "“gradual” means happening slowly in stages. The clue is that the reports occurred occasionally and without a regular interval.",
+              "1": "“persistent” means continuing over time despite attempts to stop it. The clue is that the reports occurred occasionally and without a regular interval.",
+              "2": "“abrupt” means happening suddenly and without warning. The clue is that the reports occurred occasionally and without a regular interval."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "sporadic",
+              "hebrew": "מזדמן, לא סדיר"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-18-sentence-1-4"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "Before repeating the date in the exhibition catalogue, the editor used the original registration book to ____ the newspaper's account.",
+          "options": [
+            "imply",
+            "anticipate",
+            "verify",
+            "modify"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“verify” means check whether something is true or accurate. An independent source is consulted to check the newspaper's accuracy.",
+            "distractors": {
+              "0": "“imply” means suggest something without stating it explicitly. The clue is that an independent source is consulted to check the newspaper's accuracy.",
+              "1": "“anticipate” means expect something and prepare for it. The clue is that an independent source is consulted to check the newspaper's accuracy.",
+              "3": "“modify” means make a partial change to something. The clue is that an independent source is consulted to check the newspaper's accuracy."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "verify",
+              "hebrew": "לאמת"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-18-sentence-1-5"
+        },
+        {
+          "difficulty": 3,
+          "prompt": "The organisers hoped that shared studio space would ____ informal collaboration among artists who had rarely met before.",
+          "options": [
+            "compound",
+            "offset",
+            "curtail",
+            "foster"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“foster” means encourage the development of something. The shared space is intended to help collaboration develop.",
+            "distractors": {
+              "0": "“compound” means make an existing problem worse by adding to it. The clue is that the shared space is intended to help collaboration develop.",
+              "1": "“offset” means balance or counteract an effect. The clue is that the shared space is intended to help collaboration develop.",
+              "2": "“curtail” means reduce the extent or duration of something. The clue is that the shared space is intended to help collaboration develop."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "foster",
+              "hebrew": "לטפח"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-18-sentence-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-18-sentence-2",
+      "type": "sentence",
+      "seconds": 240,
+      "questions": [
+        {
+          "difficulty": 3,
+          "prompt": "The discovery of the signed receipt provided ____ evidence of the painter's identity, ending a dispute that had lasted a century.",
+          "options": [
+            "partial",
+            "definitive",
+            "provisional",
+            "empirical"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“definitive” means settling a question in a final and authoritative way. The authenticated receipt settles the lingering question conclusively.",
+            "distractors": {
+              "0": "“partial” means incomplete or covering only part of something. The clue is that the authenticated receipt settles the lingering question conclusively.",
+              "2": "“provisional” means accepted or arranged for the time being pending a final decision. The clue is that the authenticated receipt settles the lingering question conclusively.",
+              "3": "“empirical” means based on systematic observation or experience. The clue is that the authenticated receipt settles the lingering question conclusively."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "definitive",
+              "hebrew": "סופי ומכריע"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-18-sentence-2-1"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "The new grant formula produced a ____ of public funds, with the same total now divided in favour of smaller institutions.",
+          "options": [
+            "redistribution",
+            "proliferation",
+            "consolidation",
+            "depletion"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“redistribution” means change in the allocation of an existing quantity. The total stays constant while its allocation changes.",
+            "distractors": {
+              "1": "“proliferation” means rapid multiplication or increase in number. The clue is that the total stays constant while its allocation changes.",
+              "2": "“consolidation” means combining separate units into a single or stronger whole. The clue is that the total stays constant while its allocation changes.",
+              "3": "“depletion” means reduction of a reserve or stock through use or loss. The clue is that the total stays constant while its allocation changes."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "redistribution",
+              "hebrew": "חלוקה מחדש"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-18-sentence-2-2"
+        },
+        {
+          "difficulty": 4,
+          "prompt": "To ____ the travellers' recollections of the storm, the historian examined separate weather logs that documented it on the same dates.",
+          "options": [
+            "refute",
+            "qualify",
+            "corroborate",
+            "elucidate"
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "“corroborate” means strengthen a claim with independent supporting evidence. Independent weather records support the travellers' account.",
+            "distractors": {
+              "0": "“refute” means show an assertion to be false with evidence or reasoning. The clue is that independent weather records support the travellers' account.",
+              "1": "“qualify” means introduce a limiting condition or reservation into a claim. The clue is that independent weather records support the travellers' account.",
+              "3": "“elucidate” means make a difficult subject clearer by explanation. The clue is that independent weather records support the travellers' account."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "corroborate",
+              "hebrew": "לאמת באמצעות ראיות נוספות"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-18-sentence-2-3"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The link between the two writers remains ____: the argument rests entirely on an unsigned note that mentions neither of them by name.",
+          "options": [
+            "tenuous",
+            "provisional",
+            "spurious",
+            "robust"
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“tenuous” means weak and lacking solid support. The suggested connection rests on very weak evidence.",
+            "distractors": {
+              "1": "“provisional” means accepted temporarily while a final answer is pending. The clue is that the suggested connection rests on very weak evidence.",
+              "2": "“spurious” means appearing genuine or valid while actually false. The clue is that the suggested connection rests on very weak evidence.",
+              "3": "“robust” means remaining reliable despite changes in conditions or assumptions. The clue is that the suggested connection rests on very weak evidence."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "tenuous",
+              "hebrew": "קלוש, רופף"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-18-sentence-2-4"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The association was ____ by the time the report appeared: almost all branches had closed, and nobody remained to organise its final meeting.",
+          "options": [
+            "nascent",
+            "quiescent",
+            "inchoate",
+            "moribund"
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“moribund” means near the end of its life or usefulness. The association was on the verge of ceasing to function.",
+            "distractors": {
+              "0": "“nascent” means just beginning to exist, often with room for growth. The clue is that the association was on the verge of ceasing to function.",
+              "1": "“quiescent” means temporarily inactive or dormant. The clue is that the association was on the verge of ceasing to function.",
+              "2": "“inchoate” means only partly formed or developed. The clue is that the association was on the verge of ceasing to function."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "moribund",
+              "hebrew": "גווע, דועך"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-18-sentence-2-5"
+        },
+        {
+          "difficulty": 5,
+          "prompt": "The sharp retail increase proved ____; less than a week after the festival ended, sales returned to normal levels.",
+          "options": [
+            "intractable",
+            "transitory",
+            "endogenous",
+            "exogenous"
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“transitory” means lasting briefly and passing away. The increase lasted only briefly.",
+            "distractors": {
+              "0": "“intractable” means extremely difficult to solve, manage, or deal with. The clue is that the increase lasted only briefly.",
+              "2": "“endogenous” means originating within the system being considered. The clue is that the increase lasted only briefly.",
+              "3": "“exogenous” means originating outside the system being considered. The clue is that the increase lasted only briefly."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "transitory",
+              "hebrew": "חולף, זמני"
+            }
+          ],
+          "type": "sentence",
+          "id": "test-18-sentence-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-18-reading-1",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "The Sound of Another Occupant",
+        "paragraphs": [
+          "An acoustic survey of a housing block might begin by measuring levels in corridors, kitchens, and bedrooms. Numerical readings reveal where the sound of conversation travels or where a lift motor interrupts sleep. By themselves, however, they are an incomplete record of what residents experience. Sound can announce the presence of another person before it causes substantial discomfort as measured by volume. A set of keys at the end of a corridor may be insignificant to an engineer taking a short reading and quite useful to someone who recognises the arrival of a neighbour.",
+          "The interpretation of such sounds changes with routine. A resident who can identify a familiar set of footsteps might regard those footsteps as evidence that someone is available to help. The same resident could hear a different sequence at an unusual hour and go to the door to investigate. This distinction does not require either sound to have changed in intensity. Its significance depends on the sequence, the hour, and whether the listener has reason to expect the person it seems to announce. An inquiry that combines meters with residents' descriptions can identify situations where a device registers little change while social experience changes markedly.",
+          "A designer might be tempted to preserve all the minor sounds that residents reportedly value. The interviews need to be read more closely than that. Some residents regard hearing the corridor as reassuring because it is the only way to tell whether anyone is nearby. Others find the same transmissions intrusive because they make it hard to speak privately. Improving one feature, such as the clarity of a doorbell or the availability of a shared room, may supply reassurance without requiring a wall to transmit ordinary conversation. The relevant trade-off concerns ways of obtaining useful information rather than a choice between total silence and total exposure.",
+          "An adequate survey can therefore ask residents to distinguish sounds they need, sounds they tolerate, and sounds whose effect depends on when they occur. It can compare these descriptions with measurements and investigate where they diverge. The resulting plan will still need reliable acoustic standards, particularly where sustained noise poses a measurable burden. But it will also describe conditions under which a faint sound does work that the numerical record cannot reveal. What matters in such cases is not merely the energy reaching an ear; it is the listener's ability to make sense of the event that produced it."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What is the passage’s principal claim about housing acoustics?",
+          "options": [
+            "Perceived intensity is determined solely by expectations about the listener’s neighbours.",
+            "A residential survey should include reports only from people disturbed at night.",
+            "A useful account of residential sound considers what listeners learn from it as well as its measured intensity.",
+            "Engineers should remove every sound inside corridors regardless of its function."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The examples link faint cues to interpretation, while acoustic standards remain relevant.",
+            "distractors": {
+              "0": "The author discusses meaning alongside, and separately from, measured intensity.",
+              "1": "The proposed survey distinguishes several types of experience.",
+              "3": "The text describes useful information given by some sounds."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "acoustics",
+              "hebrew": "אקוסטיקה"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-18-reading-1-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "Why might the author favour improving a doorbell before accepting transmission of ordinary conversation?",
+          "options": [
+            "It would make conversation louder in the shared corridor.",
+            "It would make residents unable to distinguish arrivals from other events.",
+            "It is guaranteed to solve every source of sustained noise.",
+            "It can make presence perceptible while reducing the privacy cost of hearing neighbours’ speech."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The doorbell is offered as another way to provide reassuring information.",
+            "distractors": {
+              "0": "The example aims to avoid depending on conversations passing through walls.",
+              "1": "A clear signal can help the listener detect a particular arrival.",
+              "2": "No such guarantee follows and standards remain necessary."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "transmission",
+              "hebrew": "העברה"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-18-reading-1-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the writer regard subjective reports about corridor sounds?",
+          "options": [
+            "As context-sensitive evidence whose differences can suggest better design questions.",
+            "As misleading whenever two residents describe the same sound differently.",
+            "As complaints best addressed by increasing recorded sound levels.",
+            "As substitutes for all measurement once enough interviews are conducted."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The author distinguishes reassurance from intrusion and asks how useful cues might be preserved.",
+            "distractors": {
+              "1": "Different meanings of the same sound are directly relevant.",
+              "2": "The proposals concern the function and selectivity of cues.",
+              "3": "The conclusion retains acoustic measurements and standards."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "intrusive",
+              "hebrew": "פולשני"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-18-reading-1-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “sustained” imply about noise in the conclusion?",
+          "options": [
+            "Confined to a shared laundry room.",
+            "Continuing for a substantial period.",
+            "Produced exclusively by neighbours' spoken warnings.",
+            "Perceived as welcome by most occupants."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "Duration can contribute to a measurable burden.",
+            "distractors": {
+              "0": "No location is specified by the term.",
+              "2": "The word specifies persistence rather than a particular source.",
+              "3": "The evaluation is separate from duration."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "sustained",
+              "hebrew": "ממושך"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-18-reading-1-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "Which two cues are used in examples of recognising someone’s presence?",
+          "options": [
+            "Windows closing and traffic passing.",
+            "Locks breaking and clocks chiming.",
+            "Keys and footsteps.",
+            "Water pipes and building alarms."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The first two paragraphs contrast the social meaning of those cues with meter readings.",
+            "distractors": {
+              "0": "The examples do not rely on street traffic.",
+              "1": "A set of keys is mentioned, but the passage does not describe a breaking lock or chime.",
+              "3": "Neither pair is used to identify a person."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "footsteps",
+              "hebrew": "צעדים"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-18-reading-1-5"
+        }
+      ]
+    },
+    {
+      "id": "test-18-restatement-1",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "The building's total energy use increased, even though the new lamps used less electricity.",
+          "options": [
+            "The new lamps used less electricity; nevertheless, the building's total energy use increased.",
+            "Because the new lamps used less electricity, the building's total energy use increased.",
+            "The building's total energy use increased, which prevented anyone from finding out whether the new lamps used less electricity.",
+            "The building's total energy use increased only before it became clear that the new lamps used less electricity."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Both facts hold. “Nevertheless” preserves the contrast between “the new lamps used less electricity” and “the building's total energy use increased.”",
+            "distractors": {
+              "1": "It presents the first fact as the reason for the second, whereas the sentence expresses a contrast.",
+              "2": "It introduces an obstacle to discovering the first fact, which the original states directly.",
+              "3": "It limits the second fact to an earlier time and adds a discovery that the original never mentions."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "although",
+              "hebrew": "אף על פי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-18-restatement-1-1"
+        },
+        {
+          "prompt": "The organizers opened a second parking area because the festival attracted more cyclists than expected.",
+          "options": [
+            "The organizers opened a second parking area; consequently, the festival attracted more cyclists than expected.",
+            "The festival attracted more cyclists than expected; consequently, the organizers opened a second parking area.",
+            "The festival attracted more cyclists than expected; nevertheless, the organizers opened a second parking area.",
+            "The organizers opened a second parking area, but it is unknown whether the festival attracted more cyclists than expected."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Consequently” preserves the direction of the explanation: the festival attracted more cyclists than expected, leading to the result that the organizers opened a second parking area.",
+            "distractors": {
+              "0": "It reverses the direction of cause and result.",
+              "2": "It replaces the causal relationship with a concession.",
+              "3": "It casts doubt on the cause, which the original treats as an established fact."
+            }
+          },
+          "difficulty": 1,
+          "keyVocabulary": [
+            {
+              "term": "owing to",
+              "hebrew": "בגלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-18-restatement-1-2"
+        },
+        {
+          "prompt": "Once the mist has lifted, the crew will survey the coastline.",
+          "options": [
+            "The crew will not survey the coastline even after the mist has lifted.",
+            "The crew will survey the coastline, regardless of whether the mist has lifted.",
+            "The crew will survey the coastline before the mist has lifted.",
+            "The crew will survey the coastline after the mist has lifted."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "“Once” places the completed event first. Only afterward is the second action scheduled.",
+            "distractors": {
+              "0": "It denies the stated plan to carry out the second action.",
+              "1": "It makes the first event irrelevant to the timing of the second.",
+              "2": "It places the scheduled action before the event that the sentence puts first."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "once",
+              "hebrew": "ברגע ש־ / לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-18-restatement-1-3"
+        },
+        {
+          "prompt": "The festival will offer evening tours only if the organizers secure enough volunteers.",
+          "options": [
+            "The festival will offer evening tours in every case in which the organizers secure enough volunteers.",
+            "The festival will offer evening tours whether or not the organizers secure enough volunteers.",
+            "The festival will offer evening tours only on condition that the organizers secure enough volunteers.",
+            "The festival will offer evening tours only if it is impossible to establish that the organizers secure enough volunteers."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The condition “the organizers secure enough volunteers” is necessary for the stated outcome. The sentence leaves open whether meeting it is sufficient.",
+            "distractors": {
+              "0": "It treats the condition as sufficient and promises the outcome whenever it is met.",
+              "1": "It removes the requirement by making the outcome independent of the condition.",
+              "3": "It makes inability to verify the condition a reason for the outcome. The original requires that the condition itself be met."
+            }
+          },
+          "difficulty": 2,
+          "keyVocabulary": [
+            {
+              "term": "on condition that",
+              "hebrew": "בתנאי ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-18-restatement-1-4"
+        },
+        {
+          "prompt": "The spring sample seemed diverse compared with the autumn sample.",
+          "options": [
+            "The spring sample appeared to match the autumn sample in diversity.",
+            "The spring sample appeared to exceed the autumn sample in diversity.",
+            "The difference in diversity was established when the autumn sample contained a wider variety of specimens than the spring sample in a formal test.",
+            "The autumn sample appeared to exceed the spring sample in diversity."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "It states the same apparent ordering by putting the higher-ranked item, the autumn sample, first. The comparison concerns diversity.",
+            "distractors": {
+              "0": "It describes the two items as equal on the stated measure.",
+              "1": "It reverses the relative ranking of the two items.",
+              "2": "It turns an impression into a demonstrated finding and invents a formal test."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "by comparison",
+              "hebrew": "בהשוואה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-18-restatement-1-5"
+        },
+        {
+          "prompt": "But for the revised syllabus, many students would have repeated material they already knew.",
+          "options": [
+            "Many students would have repeated material they already knew in the absence of the revised syllabus.",
+            "Whether the revised syllabus made any difference to the outcome is unknown.",
+            "Many students would have repeated material they already knew even if the revised syllabus had still been a factor.",
+            "Many students would have repeated material they already knew because of the revised syllabus."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "“But for” means “without.” The outcome “many students would have repeated material they already knew” belongs to the hypothetical situation in which the revised syllabus was absent.",
+            "distractors": {
+              "1": "It treats the effect as uncertain, whereas the original specifies how the hypothetical outcome differs.",
+              "2": "It predicts the same result without changing whether the factor was present.",
+              "3": "It attributes the hypothetical result to the presence of the factor rather than its absence."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "but for",
+              "hebrew": "אלמלא / לולא"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-18-restatement-1-6"
+        }
+      ]
+    },
+    {
+      "id": "test-18-restatement-2",
+      "type": "restatement",
+      "seconds": 240,
+      "questions": [
+        {
+          "prompt": "Even if the outer walls show no cracks, the engineer will examine their foundations.",
+          "options": [
+            "The engineer may or may not examine their foundations, depending on whether the outer walls show no cracks.",
+            "The engineer will examine their foundations, including in the event that the outer walls show no cracks.",
+            "The outer walls show no cracks; therefore, the engineer will examine their foundations.",
+            "The engineer will examine their foundations only in the event that the outer walls show no cracks."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The second outcome holds even in the special case that the outer walls show no cracks. The original leaves that case hypothetical.",
+            "distractors": {
+              "0": "It makes the outcome depend on the hypothetical condition.",
+              "2": "It turns an open possibility into an established fact and presents it as the cause.",
+              "3": "It turns a condition that would make no difference into a requirement."
+            }
+          },
+          "difficulty": 3,
+          "keyVocabulary": [
+            {
+              "term": "even if",
+              "hebrew": "גם אם"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-18-restatement-2-1"
+        },
+        {
+          "prompt": "The investigators neither endorsed nor expressly rejected the claim that the specimens came from a single deposit.",
+          "options": [
+            "The investigators accepted the claim that the specimens came from a single deposit in principle while withholding public support.",
+            "The investigators offered no endorsement of the claim that the specimens came from a single deposit and issued no explicit rejection either.",
+            "The investigators initially backed the claim that the specimens came from a single deposit but later withdrew its endorsement.",
+            "The investigators expressly rejected the claim that the specimens came from a single deposit, although it stopped short of explaining why."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "“Neither … nor” rules out both endorsement and explicit rejection. It leaves any private reservations or tacit views unspecified.",
+            "distractors": {
+              "0": "It invents an acceptance in principle, which cannot be inferred from the original.",
+              "2": "It invents a prior endorsement and a reversal of position.",
+              "3": "It asserts an explicit rejection, which the original rules out."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "endorse",
+              "hebrew": "לתמוך רשמית"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-18-restatement-2-2"
+        },
+        {
+          "prompt": "The program's early gains stemmed less from increased spending than from a better match between services and local needs.",
+          "options": [
+            "A better match between services and local needs contributed more to the program's early gains than increased spending did.",
+            "The program's early gains was the principal reason for both increased spending and a better match between services and local needs.",
+            "Increased spending was the greater contributor to the program's early gains, though a better match between services and local needs also mattered.",
+            "Increased spending and a better match between services and local needs played equally important roles in the program's early gains."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The original ranks two contributing factors. It gives “a better match between services and local needs” greater explanatory weight than “increased spending.”",
+            "distractors": {
+              "1": "It makes the outcome cause the factors that are supposed to explain it.",
+              "2": "It reverses the relative importance of the factors.",
+              "3": "It makes the factors equally important despite the stated inequality."
+            }
+          },
+          "difficulty": 4,
+          "keyVocabulary": [
+            {
+              "term": "stem from",
+              "hebrew": "לנבוע מ־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-18-restatement-2-3"
+        },
+        {
+          "prompt": "The author did not accept the revised title until the publisher had agreed to retain the subtitle.",
+          "options": [
+            "The author accepted the revised title before the publisher had agreed to retain the subtitle.",
+            "The author did not accept the revised title, although the publisher had agreed to retain the subtitle.",
+            "The author accepted the revised title only after the publisher had agreed to retain the subtitle.",
+            "The author accepted the revised title as evidence that the publisher had agreed to retain the subtitle."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "The event in the “until” clause preceded the main action. The version with “only after” preserves both the sequence and the occurrence of the action.",
+            "distractors": {
+              "0": "It reverses the sequence by placing the main action first.",
+              "1": "It makes the main action fail to occur, whereas the original reports that it happened later.",
+              "3": "It turns a timing relationship into an assertion about the actor’s purpose."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "not until",
+              "hebrew": "רק לאחר ש־"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-18-restatement-2-4"
+        },
+        {
+          "prompt": "Of the candidates, none submitted a proposal before June with the sole exception of the candidate from the chemistry department.",
+          "options": [
+            "The candidate from the chemistry department submitted a proposal before June, and at least one other member of the group shares that distinction.",
+            "All the candidates submitted a proposal before June except the candidate from the chemistry department.",
+            "It has not been determined whether the candidate from the chemistry department submitted a proposal before June.",
+            "The candidate from the chemistry department submitted a proposal before June; the others in the same group did not."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The restriction applies only to the group named. Within that group, the candidate from the chemistry department is the single item that has the stated property.",
+            "distractors": {
+              "0": "It allows a second exception even though “sole” limits the number to one.",
+              "1": "It gives the property to the entire group except the one item that actually has it.",
+              "2": "It changes an explicit exception into an uncertainty."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "exception",
+              "hebrew": "חריג / יוצא מן הכלל"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-18-restatement-2-5"
+        },
+        {
+          "prompt": "Had the valley received more rain in April, the ponds might have remained full into summer.",
+          "options": [
+            "The ponds would certainly have remained full into summer if the valley had received more rain in April.",
+            "The ponds might have remained full into summer if the valley had received more rain in April.",
+            "Because the valley had received more rain in April, the ponds must have remained full into summer.",
+            "The ponds might have remained full into summer only if the valley had received more rain in April."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "This is a past counterfactual. The opening clause introduces an unrealized condition and “might have” presents the result as possible under that condition.",
+            "distractors": {
+              "0": "It turns a possible outcome into a guaranteed one.",
+              "2": "It asserts an actual outcome and treats the unrealized condition as fact.",
+              "3": "It adds a requirement that no other scenario could have produced the outcome."
+            }
+          },
+          "difficulty": 5,
+          "keyVocabulary": [
+            {
+              "term": "might have",
+              "hebrew": "ייתכן שהיה / הייתה"
+            }
+          ],
+          "type": "restatement",
+          "id": "test-18-restatement-2-6"
+        }
+      ]
+    },
+    {
+      "id": "test-18-reading-2",
+      "type": "reading",
+      "seconds": 900,
+      "passage": {
+        "title": "The Snow That Measures a Mountain",
+        "paragraphs": [
+          "A snowy mountain often looks uniformly white in a satellite image. Water managers, who depend on snowmelt months later, need information more detailed than a map of white areas. A shallow crust may produce the same mapped coverage as a thick snowpack. The quantity of interest is commonly described as the depth of water that would remain if a column of snow melted without any loss. Dense wet snow holds more water at a given depth than fresh powder. A depth measurement is useful, but it needs information about density before it can be translated into stored water.",
+          "Measuring depth itself is a substantial sampling problem. Wind can scrape a ridge almost bare and deposit deep drifts a short distance away. Shaded areas may retain snow much longer than exposed slopes. The site of a measuring station is often chosen in part because it can be reached and serviced. A convenient site may supply a long, reliable record while remaining unrepresentative of neighbouring terrain. If an unusual storm shifts the direction from which snow accumulates, differences between the station and the rest of its catchment can become especially large.",
+          "One method uses an aircraft carrying an instrument that measures distance to the surface with pulses of light. Comparing measurements made with snow present and absent can estimate the thickness over a large area. Dense branches can hide the ground from the sensor, and repeated flights are resource intensive. The result also needs models or measurements of density to estimate water storage. Such a flight provides a different sampling pattern from visits to fixed stations, which makes the two types of information especially valuable when used together.",
+          "An accurate estimate of stored water still leaves the question of how much reaches a reservoir. Some snow can turn directly into vapour. Meltwater can collect in the soil, feed plants or travel slowly underground. A warm storm can make accumulated snow release water quickly and can also add rain of its own. The route and timing matter as much to flood planning as the seasonal total. A forecast that starts with a good water inventory therefore combines it with observations about weather and the landscape. Snow is an important form of temporary storage, and measuring it is one stage in the larger problem of accounting for water moving through a mountain basin."
+        ]
+      },
+      "questions": [
+        {
+          "kind": "main",
+          "prompt": "What connects the different measurements in the snowpack passage?",
+          "options": [
+            "Depth is identical to the amount of stored water.",
+            "One station always represents the entire basin if its record is long.",
+            "Rain has no effect on the delivery of mountain water.",
+            "They progressively inform a forecast, from coverage through depth and density to the timing and routes of water release."
+          ],
+          "correctIndex": 3,
+          "explanation": {
+            "correct": "The text distinguishes area, water inventory and actual delivery.",
+            "distractors": {
+              "0": "Density is also needed to convert depth into an amount of water.",
+              "1": "A long record does not overcome biases caused by local wind, shade and practical station placement.",
+              "2": "Warm rain can add water and accelerate the release of old snow."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "snowpack",
+              "hebrew": "שכבת שלג מצטברת"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-18-reading-2-1"
+        },
+        {
+          "kind": "inference",
+          "prompt": "If two mountain basins have the same mapped snow coverage, why could their snow storage differ substantially?",
+          "options": [
+            "Their covered areas could hold snow of different depths or densities.",
+            "Water storage is determined entirely by the shape of the nearest reservoir.",
+            "Satellite images make it impossible for different depths to share the same mapped area.",
+            "All snow in equally white areas has the same density."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "Coverage indicates where snow exists, not the amount of water it contains.",
+            "distractors": {
+              "1": "Shape of the reservoir does not determine the amount of water in snow.",
+              "2": "The passage specifically allows a shallow layer and deep snow to map to equal coverage.",
+              "3": "Colour or coverage alone cannot establish how dense the snow is."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "density",
+              "hebrew": "צפיפות"
+            }
+          ],
+          "difficulty": 5,
+          "type": "reading",
+          "id": "test-18-reading-2-2"
+        },
+        {
+          "kind": "tone",
+          "prompt": "How does the author treat mountain flight surveys in relation to fixed stations?",
+          "options": [
+            "As irrelevant because long fixed-station records always describe every slope.",
+            "As a convenience with no scientific advantages.",
+            "As useful complements with distinct sampling strengths and limitations.",
+            "As a fully sufficient replacement that measures density perfectly."
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "correct": "Flights cover wide areas, while stations provide local ongoing measurements.",
+            "distractors": {
+              "0": "The coverage of aircraft surveys helps address the limits of point samples.",
+              "1": "Broad sampling is a clear advantage.",
+              "3": "The aircraft measures distance and still needs density information."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "sampling",
+              "hebrew": "דגימה"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-18-reading-2-3"
+        },
+        {
+          "kind": "vocabulary",
+          "prompt": "What does “catchment” mean in the account of isolated measuring stations?",
+          "options": [
+            "A dense branch that blocks an aircraft sensor.",
+            "The area from which water drains into the same system.",
+            "A fixed period between surveys.",
+            "A small device that intercepts every snowflake."
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "correct": "The station represents a local point within the mountain drainage area.",
+            "distractors": {
+              "0": "The word refers to geographic drainage, not vegetation.",
+              "2": "It denotes an area rather than the timing of visits.",
+              "3": "The catchment is the drainage area represented by the particular sample points."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "catchment",
+              "hebrew": "אגן ניקוז"
+            }
+          ],
+          "difficulty": 4,
+          "type": "reading",
+          "id": "test-18-reading-2-4"
+        },
+        {
+          "kind": "detail",
+          "prompt": "What does the aircraft-based method compare to estimate snow thickness?",
+          "options": [
+            "Surface distances measured with and without snow cover.",
+            "Rain gauges upstream and downstream after a storm.",
+            "The colour of fresh snow and the colour of melting snow.",
+            "The air temperature at midday and at midnight."
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "correct": "The difference in surface level provides an estimate of thickness.",
+            "distractors": {
+              "1": "The two surveys concern surface heights before and after snow cover.",
+              "2": "The instrument measures distance with light pulses, not surface colour.",
+              "3": "The method compares distances and does not require a day–night temperature comparison."
+            }
+          },
+          "keyVocabulary": [
+            {
+              "term": "thickness",
+              "hebrew": "עובי"
+            }
+          ],
+          "difficulty": 3,
+          "type": "reading",
+          "id": "test-18-reading-2-5"
+        }
+      ]
+    }
+  ]
+}
