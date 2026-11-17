@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "EliNitz · English practice",
+  title: "EliNitz Studio · English practice",
   description: "Twenty full-length English practice tests with timed simulation and guided review.",
 };
 

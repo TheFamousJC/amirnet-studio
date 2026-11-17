@@ -1,4 +1,4 @@
-# EliNitz
+# EliNitz Studio
 
 Local AMIRNET / AMIRAM academic English practice, with 20 timed tests and an untimed study mode. No accounts or API keys are required. The Next.js server reads the test bank from JSON, and the browser stores attempt history and language preferences.
 
